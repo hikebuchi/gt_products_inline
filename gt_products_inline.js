@@ -1,5 +1,5 @@
 // gt_products_inline.js (generated)
-// generated_at: 2025-11-17T15:56:56
+// generated_at: 2025-11-17T16:09:45
 // This file concatenates per-item JSON-LD injectors.
 // Each block is an IIFE that checks location.pathname and injects <script type='application/ld+json'>.
 'use strict';
