@@ -1,0 +1,10050 @@
+<script>
+window.__GT_JSONLD_MAP__ = {
+  "/items/122328223": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/122328223#product",
+    "name": "サイドテーブル ナイトテーブル 透明感と光沢が美しい ポリカーボネート製 アートな幾何学デザイン スリムなクリアテーブル",
+    "description": "商品名：サイドテーブル 透明感と光沢が美しい ポリカーボネート製 アートな幾何学デザイン スリムなクリアテーブル  商品サイズ：W47.5×D42×H38  透明感と造形美を楽しむインテリア シャープな造形と、光を透かす素材が魅力のサイドテーブル。角度によって陰影が変化し、置くだけで空間にアクセントを添えます。軽やかな透明感と、深みのある 落ち着いたトーン、それぞれ異なる雰囲気を楽しめます。洗練されたデザインで、インテリアを引き立てる存在感のあるアイテムです。  【材質】ポリカーボネート 【静的耐荷重】5kg 【組立】完成品 【原産地】中国 【商品重量】3.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  ◆ テーブル一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/4966318  ◆ 家具・インテリア 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/4966313  *-*-*-*-*-*-*-*-*- 透け感と光沢が美しいサイドテーブル 。ポリカーボネート製で、まるでアート作品のような幾何学デザインが魅力です。光を透過し、お部屋にモダンな抜け感を演出。ソファ横やベッドサイドに最適なクリアテーブルです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PT-686CL pt002014 PT-686OR pt002015 goodtime  10192025 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/11557e09cceb75d0698ecd17e2b5f983.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/46c5857df89757149be6b2c0589ba1ed.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/122328223",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "クリア"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/122328223",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "オレンジ"
+      }
+    ]
+  },
+  "/items/121999639": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/121999639#product",
+    "name": "フォールディングバスケット S | 折りたたみ式 収納ボックス おしゃれな仕切り付きかご ランドリー・小物入れに",
+    "description": "サイズ：W36.5×D40×H37.5  シンプルでおしゃれなフォールディングバスケットSサイズ。 使わない時は折りたたみ式で超コンパクトに収納できます。 小物整理に便利な仕切り付きデザインで、ごちゃつく小物をすっきり。ランドリーボックスや脱衣かご、リビング収納、車内の整理、お買い物用のレジかごとしても活躍する多用途な収納かごです。 持ち運びに便利な籠で、キャンプなどのアウトドアシーンにもおすすめ。スタイリッシュなデザインがインテリアに馴染みます。  ●両端を内側に押し込むだけで折り畳めます。 ●隙間収納が可能です。 ●底板がついており収納をサポート。 ●脚先キャップ付き。 ●整理しやすい仕切り付き。  【材質】スチール(粉体塗装) ポリエステル 【機能】折りたたみ式 【静的耐荷重】5kg 【組立】完成品 【原産地】中国 【商品重量】1.5kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  ◆ 生活雑貨・キッチン一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/4990894  ◆ 家具・インテリア 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/4966313  *-*-*-*-*-*-*-*-*- おしゃれな折りたたみ式のフォールディングバスケットS。仕切り付きで小物の整理に最適です。コンパクトにたためる収納かごで、ランドリー、リビング、車内収納、レジかご、キャンプなど多用途に使えます。シンプルでスタイリッシュな籠が、お部屋をすっきり見せます。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   MIP-76BE basket-fs003015 MIP-76BK basket-fs003016 MIP-76GR basket-fs003017 goodtime  10162025 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3ada9b027a09dc3342e1af3b18c1bce0.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1f9fb0e5083ce64429c21e36ed42156b.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/121999639",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/121999639",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/121999639",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/121978680": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/121978680#product",
+    "name": "【折りたたみ収納ボックス】フタ付き おしゃれなフォールディングバスケット | スタッキング可能でサイドテーブルにもなるシンプルかご",
+    "description": "サイズ：W42×D34×H35  フタ付きでホコリを防ぐ、おしゃれな折りたたみ収納ボックス！使わない時は畳んでスリムに収納できるフォールディングバスケットです。  頑丈なつくりで積み重ね（スタッキング）が可能。リビングや寝室でサイドテーブルとしても活躍します。シンプルでどんなお部屋にも馴染むデザイン。おもちゃ、衣類、アウトドア用品などマルチに使える大容量かごです。  【材質】スチール(粉体塗装) ポリエステル 【機能】折りたたみ式 スタッキング可 【静的耐荷重】5kg 【組立】完成品 【原産地】中国 【商品重量】1.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  ◆ 生活雑貨・キッチン一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/4990894  ◆ 家具・インテリア 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/4966313  *-*-*-*-*-*-*-*-*- おしゃれなフタ付き折りたたみ収納ボックス（フォールディングバスケット）。スタッキング（積み重ね）可能で、サイドテーブルとしても使えるシンプルデザイン。リビングやアウトドアでの小物収納に最適なかごです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   MIP-75BE basket-fs003012 MIP-75BK basket-fs003013 MIP-75GR basket-fs003014 goodtime  10162025 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/738e9918ea20977e25f4ce2c45d107e1.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7006d034ac38fce2d46fc3ae7b1430b0.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/121978680",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/121978680",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/121978680",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/121070167": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/121070167#product",
+    "name": "【2026年 丙午】 開運干支お守り 根付け ストラップ 「きらめき彩午」 五色カラー 飛躍 成長 縁起物 馬 新年 ご挨拶 ギフト プチギフト",
+    "description": "商品名：【2026年 令和8年 丙午】 開運干支お守り 根付け ストラップ 「きらめき彩午」 五色カラー 飛躍 成長 縁起物 馬 新年 ご挨拶 ギフト プチギフト   丸くて愛らしい仔馬をモチーフにしたアクリルキャストタイプのお守りです。  ・きらめく五色展開： 透明感のあるアクリル素材を使用。選べる5色のカラーが、バッグやポーチを可愛らしく彩ります。 ・縁起の良い彩り組紐： カラフルな五色編みの根付け紐は縁起が良く、華やかさを添えます 。 ・魔除けの音色： 邪気を祓うとされる小さな宝来鈴（ほうらいすず）が、歩くたびに可愛い音色を奏で、幸運を呼び込みます。  ★そのままプレゼントにお使いいただけますよう、開運、干支シールを貼付し１体ずつ簡易ラッピングしてお届けいたします。   ・本体材質：アクリル製 ・重さ：4ｇ ・午の大きさ：幅30mm×高さ30mm×厚さ8mm ・根付け紐の長さ：7ｃｍ ・全体の長さ：9.5cm ・パッケージの大きさ：幅5cm×高さ13cm×厚さ1cm  ・宝来鈴付き。　金色 ・根付け紐は縁起のいい5色紐  ※端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※キャスト合金（２タイプ）はこちら https://www.goodtimeschool.jp/items/121069129  ◆送料全国一律200円 ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-  2026年の干支　 丙午（ひのえうま）  2026年の干支は「丙午（ひのえうま）」です。これは、十干（じっかん）の「丙」と十二支の「午」が組み合わさったもので、60年に一度巡ってくる干支の一つです。 「丙」は十干の中で3番目に位置し、五行説では「陽の火」にあたり、太陽を象徴します。一方、「午」は十二支の一つで、同じく五行では「火」に属しています。午は夏の真っ盛りである5月（午月）を指し、「勢い」「強さ」「執着」などの性質を持つとされます。また、「午」は火の他に土の要素も持ち合わせているとされることがあります。  このように、「丙」も「午」も「陽の火」に分類されるため、陰陽五行では「比和（同じ性質を持つ組み合わせ）」となります。これにより、古来から「火災が多くなる年」といった迷信も生まれました。  ★ 丙午を詳しく見る ⇒　https://www.goodtimeschool.jp/blog/2025/10/10/000000   ★ 開運・干支のお守りはこちら ⇒　https://www.goodtimeschool.jp/categories/3027243",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/0bfb604389d6b8df8c574bef2fe7ae73.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7e4a3845a988194d6923c1288008d033.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "440",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/121070167",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "レッド"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "440",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/121070167",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "440",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/121070167",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "440",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/121070167",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "440",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/121070167",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "クリア（透明）"
+      }
+    ]
+  },
+  "/items/121069129": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/121069129#product",
+    "name": "【2026年 丙午】 開運干支お守り 根付け ストラップ 「黄金のサラブレッド」「ころりんポニー」 2種から選べる 馬 飛躍 縁起物 新年の贈り物 粗品",
+    "description": "商品名：【2026年 丙午】 干支お守り 根付け ストラップ 黄金のサラブレッド ころりんポニー 2種から選べる 馬 開運 飛躍 縁起物 新年の贈り物 粗品  合金キャスト製の金メッキ仕上げで、豪華な輝きを持つお守りです。お好みや贈る相手に合わせて、2つのデザインからお選びいただけます。  ・黄金のサラブレッド： 　リアルな駿馬をモチーフにした、力強く出世運・勝負運を願う方に最適なデザインです。  ・ころりんポニー： 　可愛らしい仔馬をモチーフにした、親しみやすく厄除け・健康運を願う方に最適なデザインです。  ご自身のお守り、大切な方への贈り物、商売繁盛のお配り物としてもぜひご利用ください 。   ・本体材質：合金キャスト（金メッキ仕上げ） ・重さ：6ｇ ・午の大きさ：幅30mm×高さ20mm×厚さ3mm（カン部分含まず） ・根付け紐の長さ：7ｃｍ ・全体の長さ：9.5cm ・パッケージの大きさ：幅5cm×高さ13cm×厚さ1cm ・宝来鈴付き。　金色 ・根付け紐は縁起のいい5色紐  ※端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。   ※アクリルバージョン（5カラー）はこちら https://www.goodtimeschool.jp/items/121070167  ◆送料全国一律200円 ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-  2026年の干支　 丙午（ひのえうま）  2026年の干支は「丙午（ひのえうま）」です。これは、十干（じっかん）の「丙」と十二支の「午」が組み合わさったもので、60年に一度巡ってくる干支の一つです。 「丙」は十干の中で3番目に位置し、五行説では「陽の火」にあたり、太陽を象徴します。一方、「午」は十二支の一つで、同じく五行では「火」に属しています。午は夏の真っ盛りである5月（午月）を指し、「勢い」「強さ」「執着」などの性質を持つとされます。また、「午」は火の他に土の要素も持ち合わせているとされることがあります。  このように、「丙」も「午」も「陽の火」に分類されるため、陰陽五行では「比和（同じ性質を持つ組み合わせ）」となります。これにより、古来から「火災が多くなる年」といった迷信も生まれました。  ★ 丙午を詳しく見る ⇒　https://www.goodtimeschool.jp/blog/2025/10/10/000000   ★ 開運・干支のお守りはこちら ⇒　https://www.goodtimeschool.jp/categories/3027243",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/137b80c0c1bbd4fc7c6512ea581562ac.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/941dc6f690ac8339529de1825b8952b4.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "410",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/121069129",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "黄金のサラブレッド"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "410",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/121069129",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ころりんポニー"
+      }
+    ]
+  },
+  "/items/118674133": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/118674133#product",
+    "name": "宝石質 ブルーサファイア AAA ルース オーバルファセットカット 8×6mm （2粒セット） パワーストーン 9 月誕生石",
+    "description": "宝石質ブルーサファイアAAA- ルース オーバルファセットカット8×6mm 2粒  【2粒セット】  1粒あたり・・・平均約1.65カラット程度 1粒サイズ・・・約7.6〜8×5.6〜6×2.5〜4mm程度が中心です。 穴なし（ルース・裸石） 色合い・・・ブルー　  アフリカ産、宝石質ブルーサファイヤの穴なしファセットカットです。 光沢向上のための鉛ガラスの浸透処理（グラスフィルド加工）が行われています。 そのため透明感も豊かに美しい色合いがご堪能いただけます。 穴があいていないタイプですので、石留め等にご使用ください。 色合いを混ぜてお送りします。  ★端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-  サファイア  サファイアはコランダムという鉱物に属する天然石で、主に青色の宝石として知られています。 クロムや鉄、チタンなどの微量元素を含むことで、ブルーのほかにもピンク、イエロー、グリーン、パープルなど、さまざまな色合いの「ファンシーカラーサファイア」としても流通しています。 非常に硬度が高く、ダイヤモンドに次ぐモース硬度9を誇ります。9月の誕生石としても知られています。   ブルーサファイア  「ブルーサファイア（Blue Sapphire）」はサファイアの中でも最も代表的な青色を持つタイプで、鉄とチタンの含有によって発色します。 色の濃淡はさまざまで、ロイヤルブルーや落ち着いたネイビーブルーなどが存在します。多くは加熱処理によって色や透明度を調整されていますが、非加熱の高品質なものは特に希少です。硬度が高く傷がつきにくいため、ジュエリーとしても長く愛されている天然石です。   サファイアは9月の誕生石  サファイアは人の意思や組織、経営の礎などをしっかり固め、基盤を作るのに有効な石とされています。 目標を貫徹する意志を持ち、惰性に流されない自分になれるように、手助けをしてくれると言われています。  また、集中力や直感力を高め、自分にとってその時必要なチャンスなどを掴む助けにもなってくれます。  カリスマ性、勝利運、金運などを高め、仕事に対して積極的な気持ちを持つのに有効な石でしょう。 まさに経営者、組織のリーダーにぴったりなストーンです。   ◆素敵な天然石ルースストーンはこちらから 　→　https://www.goodtimeschool.jp/categories/2509475   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   ls001061 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1288781e7b15a96243c767fda5076a1d.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c98f3d994a64f0dfca92228e299543c8.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4340",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/118674133",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/118578262": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/118578262#product",
+    "name": "壁掛け時計 ウォールクロック アルミタイプ アメリカンテイスト ミッドセンチュリー インダストリアル シンプル 静音 壁時計 かけ時計 寝室 リビング オフィス",
+    "description": "商品名：壁掛け時計 ウォールクロック アルミタイプ アメリカンテイスト ミッドセンチュリー インダストリアル シンプル 静音 壁時計 かけ時計 寝室 リビング オフィス  商品サイズ：W30.5×D4×H30.5  暮らしになじむ、素材の個性と調和、それぞれの素材が持つ美しさを活かしたウォールクロック。 洗練されたメタルで、空間になじみながらも、しっかりとした存在感でインテリアを引き立ててくれます。 針の音が気にならない静音タイプなので、書斎や寝室にもおすすめです。  【材質】アルミ ポリプロピレン ガラス 【機能】静音タイプ 単三電池1本使用(別売) 【注意事項】電波時計ではございません 【組立】完成品 【原産地】中国 【商品重量】0.5kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。   ★ ウォールクロック かごめ編みタイプはこちら ⇒　https://www.goodtimeschool.jp/items/118577662  ★ ウォールクロック スクエアタイプはこちら ⇒　https://www.goodtimeschool.jp/items/118577956  ★ ウォールクロック アルミタイプはこちら ⇒　https://www.goodtimeschool.jp/items/118578262   ★ 他のインテリア・雑貨 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/4966320  ● 生活雑貨・キッチン雑貨 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/4990894  ◆ 家具・インテリア 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/4966313  *-*-*-*-*-*-*-*-*- シャープに時を刻む、洗練の一秒。クールで上品、空間が締まる一台。  ・チクタク音がしない静音仕様なので、リビングや寝室、在宅ワークの空間にもおすすめ。 ・無駄を省いた洗練されたデザインで、モノトーンのカラーリングがどんなインテリアにも自然に溶け込みます。様々なテイストのお部屋に合わせやすく、長く使っても飽きがこないのが魅力です。 ・針がスムーズに動きカチカチ音がしない「スウィープ式」を採用しており、寝室や書斎、作業部屋など音が気になる場所でも安心。 集中したい時間やリラックスタイムを邪魔しません。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   CLK-203BK clk002005 CLK-203SV clk002006 goodtime  09142025 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/4451d651d3c5372f06ea4639baf65cec.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c37cce48eec6153f57b950099ab4d344.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/118578262",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/118578262",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "シルバー"
+      }
+    ]
+  },
+  "/items/118577956": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/118577956#product",
+    "name": "壁掛け時計 ウォールクロック スクエア型 北欧 静音 かけ時計 寝室 リビング オフィス シンプル レトロ パイン材",
+    "description": "商品名：壁掛け時計 ウォールクロック スクエア型 北欧 静音 かけ時計 寝室 リビング オフィス シンプル レトロ パイン材  商品サイズ：W30×D4×H30  暮らしになじむ、素材の個性と調和、それぞれの素材が持つ美しさを活かしたウォールクロック。 親しみある天然木フレームで、空間になじみながらも、しっかりとした存在感でインテリアを引き立ててくれます。 針の音が気にならない静音タイプなので、書斎や寝室にもおすすめです。  【材質】天然木(パイン) ラッカー塗装 繊維板 ガラス 【機能】静音タイプ 単三電池1本使用(別売) 【注意事項】電波時計ではございません 【組立】完成品 【原産地】中国 【商品重量】0.6kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  ★ ウォールクロック かごめ編みタイプはこちら ⇒　https://www.goodtimeschool.jp/items/118577662  ★ ウォールクロック スクエアタイプはこちら ⇒　https://www.goodtimeschool.jp/items/118577956  ★ ウォールクロック アルミタイプはこちら ⇒　https://www.goodtimeschool.jp/items/118578262   ★ 他のインテリア・雑貨 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/4966320  ● 生活雑貨・キッチン雑貨 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/4990894  ◆ 家具・インテリア 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/4966313  *-*-*-*-*-*-*-*-*- “シンプル”を飾る、スクエアの時計。  ・静かで心地いい、毎日の時を。チクタク音がしない静音仕様なので、リビングや寝室、在宅ワークの空間にもおすすめ。 ・パイン材を使用した外枠のフレームが、天然木のやさしさと豊かな表情を演出。 ・木目の個体差やあたたかな色合いが、空間に自然な心地よさをプラスします。 ・針がスムーズに動きカチカチ音がしない「スウィープ式」を採用しており、寝室や書斎、子供部屋など音が気になる場所でも安心。集中したい時間やリラックスタイムを邪魔しません。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   CLK-202BR clk002003 CLK-202NA clk002004 goodtime  09142025 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2aa778c33dff9843f30f2f947d32f281.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c62c22d8bf717b0395c208864a78d3b7.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3900",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/118577956",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3900",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/118577956",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ナチュラル"
+      }
+    ]
+  },
+  "/items/118577662": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/118577662#product",
+    "name": "壁掛け時計 ラタン かごめ編みタイプ ウォールクロック おしゃれ 北欧 静音 壁時計 寝室 リビング オフィス シンプル",
+    "description": "商品名：壁掛け時計 ラタン かごめ編みタイプ ウォールクロック おしゃれ 北欧 静音 壁時計 寝室 リビング オフィス シンプル  商品サイズ：W30×D3×H30  暮らしになじむ、素材の個性と調和、それぞれの素材が持つ美しさを活かしたウォールクロック。 やさしい風合いのラタン調デザイン。空間になじみながらも、しっかりとした存在感でインテリアを引き立ててくれます。 針の音が気にならない静音タイプなので、書斎や寝室にもおすすめです。  【材質】天然木積層合板(バーチ) ラッカー塗装 繊維板 ポリ塩化ビニル 【機能】静音タイプ 単三電池1本使用(別売) 【注意事項】電波時計ではございません 【組立】完成品 【原産地】中国 【商品重量】0.4kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。   ★ ウォールクロック かごめ編みタイプはこちら ⇒　https://www.goodtimeschool.jp/items/118577662  ★ ウォールクロック スクエアタイプはこちら ⇒　https://www.goodtimeschool.jp/items/118577956  ★ ウォールクロック アルミタイプはこちら ⇒　https://www.goodtimeschool.jp/items/118578262   ★ 他のインテリア・雑貨 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/4966320  ● 生活雑貨・キッチン雑貨 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/4990894  ◆ 家具・インテリア 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/4966313  *-*-*-*-*-*-*-*-*- 編み目が魅せる、ラタン調のやさしさ。チクタクしない、ラタン調時計。 チクタク音がしない静音仕様なので、リビングや寝室、在宅ワークの空間にもおすすめ。 まるで天然ラタンのような風合いを持つ、ラタン調の編み込みデザイン。 柔らかく繊細な編み目模様が、壁面にナチュラルな奥行きを与え、どんな空間にも温かみをプラスします。 静音タイプで快適な空間に時計特有の「チクタク音」が出ない静音タイプ。 音が気にならず、寝室や書斎、ワークスペースなど、静けさを求める場所にもおすすめです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。    CLK-201NA clk002001 CLK-201BK clk002002 goodtime  09142025 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ac95fac12320ffc31abfc5ad940f6bae.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/8897c7c5f0bbe43afb5d5b12708cccaa.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3900",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/118577662",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ナチュラル"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3900",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/118577662",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック"
+      }
+    ]
+  },
+  "/items/118298447": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/118298447#product",
+    "name": "2段サイドテーブル コーヒーテーブル ソファ ベッドサイド 机 円形 リビング 寝室 玄関 石目調 木目調 シンプル プランター フラワースタンド スリム 省スペース",
+    "description": "商品名：商品名：2段サイドテーブル コーヒーテーブル ソファ ベッドサイド 机 円形 リビング 寝室 玄関 石目調 木目調 シンプル プランター フラワースタンド  商品サイズ：W40×D42×H36/55.5cm  【材質】スチール(粉体塗装) 合成樹脂化粧繊維板 【静的耐荷重】5kg 【組立】組立式 【原産地】中国 【商品重量】2.5kg  アクセントになる特徴的なデザイン、2段形状の天板が特徴的なサイドテーブル。 木目調や石目調の天板と、シャープなスチール脚を組み合わせ、モダンな印象に仕上げました。ソファサイドやベッドサイドにはもちろん、ディスプレイ用としても活躍します。  【4つの個性から選べるカラー展開】  ・ダークグレー（石目調）：重厚感と高級感が漂うシックなカラー。モノトーンインテリアと好相性。 ・ライトグレー（石目調）：やわらかで明るいトーン。ナチュラルや北欧スタイルに。 ・ブラウン（木目調）：木の温もりを感じられる、クラシカルで落ち着いた印象。 ・ナチュラル（木目調）：軽やかで清潔感のあるカラー。自然体な空間演出にぴったり。   正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。   ★他のテーブルはこちらから ⇒　https://www.goodtimeschool.jp/categories/4966318  *-*-*-*-*-*-*-*-*-  空間にアートのようなアクセントを。 モダンな2段天板が印象的なサイドテーブル シンプルでありながら目を引くデザイン。 異素材の組み合わせがスタイリッシュな存在感を放つ、2段天板のサイドテーブルです。 リビングのソファ横や寝室のベッドサイドに置くだけで、空間に奥行きとリズムが生まれます。  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PT-205BRD pt004010 PT-205DGB pt004011 PT-205LGG pt004012 PT-205NAW pt004013 goodtime  09112025 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/fccdb59adb60a8f2fe10d3f72fd42bf3.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1778914f1b5bc2dfda6f956e1e20817b.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/118298447",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン（木目調）"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/118298447",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ナチュラル（木目調）"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/118298447",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ダークグレー（石目調）"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/118298447",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ライトグレー（石目調）"
+      }
+    ]
+  },
+  "/items/117628403": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/117628403#product",
+    "name": "トラッシュカン ダストボックス ごみ箱 5L 人口大理石柄 二重構造 ゴミ袋が見えない 生活感を抑える 分別 石目調 テラゾー柄 一人暮らし リビング オフィス",
+    "description": "商品名：トラッシュカン ダストボックス ごみ箱 5L 人口大理石柄 二重構造 ゴミ袋が見えない 生活感を抑える 分別 石目調 テラゾー柄  商品サイズ：W20.5xD20.5xH30  生活感を抑えたインテリアになじむトラッシュカン ・ざらりとした凹凸が特徴的な、美しいテラゾー柄のトラッシュカン。 ・二重構造のため、中のゴミ袋をしっかりと隠し生活感を抑えます。 ・軽量でコンパクトなサイズ感のため、デスクまわりなどの限られたスペースにも置きやすく、部屋の移動や掃除の際も手間がかかりません。 ・テラゾー柄と呼ばれる人工大理石の様な模様とシンプルな形状は、様々なテイストのインテリアに合わせることができます。  【材質】積層合板 繊維板 ラッカー塗装 【組立】完成品 【原産地】中国 【商品重量】2.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  ★他のインテリア・雑貨はこちらから →　https://www.goodtimeschool.jp/categories/4966320  *-*-*-*-*-*-*-*-*- こちらのダストボックスは、ゴミ袋を本体にセットしたあと上からカバーをかぶせる二重構造で生活感を隠せるデザインです。円柱型のすっきりしたフォルムと優しい配色が魅力的で、リビングやダイニングのちょっとしたスキマにも収まるスリム設計。フタなしのオープンタイプでゴミを素早く捨てられ、軽量・持ち運びもラク。清潔感あるお部屋作りにぴったりの快適ゴミ箱です。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   MAR-15LGY mar002001 MAR-15WH mar002002 goodtime  09032025 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7de2cd09dbc8ddd5fd5fe1464db29895.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6418eb806f48542ec46313acdb9699da.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/117628403",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ライトグレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/117628403",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/117616345": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/117616345#product",
+    "name": "フレームハンガー スリム スタンドハンガー パーテーションタイプ 収納 可動式 折り畳み 洋服掛け 部屋干し 鞄 帽子 コート掛け 一人暮らし 新生活 省スペース",
+    "description": "商品名：フレームハンガー スリム スタンドハンガー パーテーションタイプ 収納 可動式 折り畳み 洋服掛け 部屋干し 鞄 帽子 コート掛け  商品サイズ：W58×D30×H161  ミニマルデザインのスタイリッシュハンガー。 圧迫感を感じさせない、スリムな形状で空間をすっきりと見せてくれるハンガーです。 フレームは可動式なので、掛けるものや空間に合わせて調整することができます。 使わない時は畳んで、省スペースに収納できます。  【材質】スチール(粉体塗装) 【静的耐荷重】10kg 【組立】組立式 【原産地】中国 【商品重量】4.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  ★他のインテリア・雑貨はこちらから →　https://www.goodtimeschool.jp/categories/4966320  *-*-*-*-*-*-*-*-*- ◆折りたたみ×可動フレームスマートハンガーラック。 衣類やバッグを“魅せて収納”できるインテリア性の高さに加え、パタンと折りたためる便利な構造で、使わないときはスリムにしまえる設計です。 ◆フレーム可動式でレイアウト自在 フレームを可動させて、空間や使用目的に合わせて広げかたを変えることができます。 お部屋のコーナーにぴったり収めたり、洋服を見せるディスプレイ風にしたりと、使い方は自由自在です。 ◆使わないときはスリムに収納 パタンと折りたたむだけで、厚み約6cmとスペースを取らずにすっきりコンパクトに！ 使わない時は壁際や家具のすき間にすっきり収まり、必要に応じて出し入れできる柔軟さが魅力です。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。    MIP-26DGY mip002026 MIP-26WH mip002027 goodtime  09032025 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/602cea1e8cfd2b560c0c73a96547ac06.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ade526dc9e5fcf38b853cb2f3f54e574.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/117616345",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ダークグレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/117616345",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/117527876": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/117527876#product",
+    "name": "バスケット付きハンガー 立てかけ ポールハンガー ウォール スタンド 壁面収納 洋服掛け 部屋干し かばん 帽子 コート掛け 一人暮らし スリム",
+    "description": "商品名：バスケット付きハンガー 立てかけ ポールハンガー ウォール スタンド 壁面収納 洋服掛け 部屋干し かばん 帽子 コート掛け 一人暮らし スリム  商品サイズ：W49.5×D29×H163  掛ける・入れるの2スタイル収納 壁に立てかけ様々なシーンで使うことができるハンガー。 バスケットが付いているので、吊り下げ収納が難しいアイテムも収納できます。 無駄のないシンプルなデザインのため、空間に溶け込み、空間をすっきりと魅せてくれます。  【材質】スチール(粉体塗装) コットン 【静的耐荷重】10kg 【組立】組立式 【原産地】中国 【商品重量】3.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  ★他のインテリア・雑貨はこちらから →　https://www.goodtimeschool.jp/categories/4966320  *-*-*-*-*-*-*-*-*-  バスケット付きのスリムなポールハンガーです。壁面に立てかけるだけで、バッグや帽子、コート、小物の収納をすっきり実現。幅49．5×奥行29×高さ163 pの省スペース設計で、一人暮らしのお部屋や玄関にぴったりなスタイル。耐荷重約10kgのスチール製で安定感も抜群。粉体塗装された仕上げがインテリアに調和し、手軽に導入できる実用家具です。  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。    MIP-25DGY mip002024 MIP-25WH mip002025 goodtime  09022025 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2d0a895beae30ce7738863a72aebe47c.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f5e27ecb0550ad3611eafcd7c40815ab.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/117527876",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ダークグレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/117527876",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/116482593": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/116482593#product",
+    "name": "ポールハンガー スリム コート かばん 帽子 掛け 一人暮らし 新生活 子供 玄関 隙間 ハンガーラック 回転式 省スペース",
+    "description": "商品名：ポールハンガー スリム 場所 取らない コート かばん 帽子 掛け 一人暮らし 新生活 子供 玄関 隙間 ハンガーラック 回転式 省スペース  商品サイズ：W59×D30×H159.5  スリムな形状で様々なシーンで使うことができるハンガー。中段と下段のアームは左右に回転式で、掛けるものに合わせて調整ができます。 ブランケットやお気に入りのアイテムを、ディスプレイのように魅せながら美しく収納できます。シンプルな構造が空間にすっきりとなじみます。  【材質】スチール(粉体塗装) 【機能】中段下段のアームは回転式 【静的耐荷重】10kg 【組立】組立式 【原産地】中国 【商品重量】6.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  ★他のインテリア・雑貨はこちらから →　https://www.goodtimeschool.jp/categories/4966320  *-*-*-*-*-*-*-*-*-  スリム設計の回転式ポールハンガー。省スペースでも、コート・かばん・帽子をしっかり掛けられ、一人暮らしや新生活の玄関、子供部屋にぴったり。狭いすき間に収まるスリムな高さタイプで、機能性とおしゃれを両立。お手軽に整理整頓が叶い、掛ける場所を増やせる便利なハンガーラックです。回転機能付きで出し入れスムーズ、使い勝手も抜群です。  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。    MIP-27DGY mip002022 MIP-27WH mip002023 goodtime  08202025 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/91b671c937e84407b1d46735955f29ec.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/88f667f8428544684f8b8ad9d46d6caa.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/116482593",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ダークグレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/116482593",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/114819616": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/114819616#product",
+    "name": "フェイクグリーン 光触媒 パキラ 高さ90cm | 消臭・抗菌・空気清浄効果の人工観葉植物 ホルムアルデヒド分解",
+    "description": "【水やり不要！置くだけで空気をキレイに】   日常空間に心地よいグリーンを手軽に取り入れられる、高機能な**光触媒人工観葉植物 パキラ（高さ90cm）**です。  ★4つの高機能：光触媒加工の力 照明の光（可視光）が当たることで化学反応を起こし、以下の効果を発揮。お部屋の空気を快適に保ちます。  空気清浄・消臭：タバコやペットのニオイ、有害物質（ホルムアルデヒドなど）を分解。 抗菌：雑菌の増殖を抑制し、空間を清潔に。 防汚：ホコリや汚れが付きにくく、お手入れが簡単です。  ★お手入れいらずのリアルな質感 まるで本物のような美しい葉と幹の質感にこだわったフェイクグリーン。水やりや剪定の手間は一切かからず、枯れる心配もありません。虫が寄ってこないので、ダイニングやベッドサイドにも最適です。  【おすすめの利用シーン】  ・リビングや玄関のインテリアに ・オフィスの緑化やワークスペースに ・開店祝いや新築祝いなどのギフトに  【商品詳細】  商品名：光触媒人工観葉植物 パキラ  【商品サイズ】【全体】(約)幅50cm×奥行40cm×高さ90cm 【鉢】(約)幅14cm×奥行14cm×高さ13cm 【梱包サイズ】17cm×17cm×95cm 【梱包重量】4.5kg 【商品重量】3.5kg 【注意】※鉢カバーは付属しません。  ※個体差がある商品のため、実測サイズは葉や枝の広がり方により誤差が生じることがあります。 ※ワイヤーが内蔵された枝は若干の角度調節が可能ですが、無理な力を加えると破損する恐れがありますのでご注意ください。 ※屋内用のため、屋外や直射日光が当たる場所でのご使用は変色や劣化が早まる原因となるのでおやめください。 ※移動の際は樹木部分を持たずに鉢をもって移動させてください。 ※写真の鉢カバー、グリーンベース等の入物は別売りとなります。  ・生産地：中国 ・素材・成分：葉:ポリエチレン、エチレン酢酸ビニル 　　　幹:ポリエチレン 　　　鉢:ポリプロピレン   ※本製品はメーカー工場より直送いたします。 　ご注文後、3〜4営業日後の発送となります。  ※出荷後の返品は初期不良を除き不可となります。ご了承ください。  [送料無料] ※北海道と沖縄、離島は別途送料を頂戴いたします。金額は都度お見積りとなりますので、ご注文前に送料確認のため、事前にご連絡をお願いします。 ※その他地域は送料無料です。  ※本製品はメーカー工場より直送いたします。 　ご注文後、5営業日以内の発送となります。（土日祝日は発送お休みとなります）  ※出荷後の返品は初期不良を除き不可となります。ご了承ください。  ※ 画面上のカラーはご使用ブラウザやモニターの設定により、実物とは若干異なる場合がございます。あらかじめご了承ください。   光触媒人工観葉植物は、照明光が当たることで消臭・抗菌・防汚・ホルムアルデヒド分解の効果を発揮します。 人工物でメンテナンスも簡単な観葉植物は、手軽に取り入れやすいのが魅力。面倒な水やりや剪定が不要なので、忙しくてなかなか植物のお世話ができない方にもおすすめです。 また、ディテールにこだわり、葉や実の色付きから枝付きまで自然な風合いを再現。  お部屋のインテリアに馴染むように細部まで丁寧に作り上げています。  *-*-*-*-*-*-*-*-  ★　インテリア・雑貨はこちらから 　⇒　https://www.goodtimeschool.jp/categories/4966320   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   in162001　goodtime 20251017 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9a5777f5167abcb319ba67f1856a73d3.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/cda61ea88a60166c6de8f025c7b26205.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "イーナ"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7950",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/114819616",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/116573295": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/116573295#product",
+    "name": "フェイクグリーン ベンジャミン 高さ120cm 光触媒 人工観葉植物 空気清浄 消臭 抗菌 防汚 ホルムアルデヒド分解 おしゃれ",
+    "description": "商品名：フェイクグリーン ベンジャミン 光触媒 人工観葉植物 空気清浄 消臭 抗菌 防汚  サイズ： 全体：幅70cm×奥行60cm×高さ120cm 鉢：φ16cm×高さ14.8cm  ・素材・成分： 　葉:ポリエチレン、エチレン酢酸ビニル 　幹:ポリエチレン 　鉢:ポリプロピレン ・パッケージ：個別箱　完成品 ・生産地：中国  【梱包サイズ】19cm×19cm×130cm 【梱包重量】約5.6kg 【商品重量】約4.7kg  【注意事項】 ※写真の鉢カバー、グリーンベース等の入物は別売りです。 ※ワイヤーが内蔵された枝は若干の角度調節が可能ですが、無理な力を加えると破損する恐れがありますのでご注意ください。 ※屋内用のため、屋外や直射日光が当たる場所でのご使用は変色や劣化が早まる原因となるのでおやめください。  [送料無料] ※北海道と沖縄、離島は別途送料を頂戴いたします。金額は都度お見積りとなりますので、ご注文前に送料確認のため、事前にご連絡をお願いします。 ※その他地域は送料無料です。  ※本製品はメーカー工場より直送いたします。 　ご注文後、5営業日以内の発送となります。（土日祝日は発送お休みとなります）  ※出荷後の返品は初期不良を除き不可となります。ご了承ください。  ※ 画面上のカラーはご使用ブラウザやモニターの設定により、実物とは若干異なる場合がございます。あらかじめご了承ください。  日常空間にグリーンを気軽に取り入れられる、光触媒人工観葉植物『Nature(ナチュレ)』シリーズのベンジャミン。 光触媒人工観葉植物は、照明光が当たることで消臭・抗菌・防汚・ホルムアルデヒド分解の効果を発揮します。 人工物でメンテナンスも簡単な観葉植物は、手軽に取り入れやすいのが魅力。面倒な水やりや剪定が不要なので、忙しくてなかなか植物のお世話ができない方にもおすすめです。また、ディテールにこだわり、葉や実の色付きから枝付きまで自然な風合いを再現。 お部屋のインテリアに馴染むように細部まで丁寧に作り上げています。  *-*-*-*-*-*-*-*-  ★ 観葉植物関連はこちら ⇒ https://www.goodtimeschool.jp/?q=観葉植物  ★　インテリア・雑貨はこちらから ⇒ https://www.goodtimeschool.jp/categories/4966320   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。    goodtime 20250821 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/346358533d65b268dc59bf62684bc200.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1c9036e8aef5e0584a620b1d144dee06.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "イーナ"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "12450",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/116573295",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/116486178": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/116486178#product",
+    "name": "ラウンドテーブル （Lサイズ） 高さ38cm 大理石調 石目調 天然木 コーヒー ソファー センター サイドテーブル 北欧 ナチュラル",
+    "description": "商品名：ラウンドテーブル 『Lサイズ 高さ38cm』 大理石調 石目調 天然木 シンプル コーヒーテーブル ソファテーブル センターテーブル サイドテーブル 北欧 ナチュラル 韓国 おしゃれ  商品サイズ：W83×D83×H38  大理石調天板と天然木を組み合わせたラウンドテーブル  優しい色味と角の丸いフォルムが特徴的な、シンプルで落ち着いたラウンドテーブル。 大理石調の天板と、天然木の脚部は異素材がMIXされたデザイン。  【材質】合成樹脂化粧繊維板 天然木(ラバーウッド) ラッカー塗装 【静的耐荷重】20kg 【組立】組立式 【原産地】中国 【商品重量】12.2kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が2750円加算されます。 ※沖縄県は別途送料が7 700円加算されます。 ※離島地域は9 900円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  ◆ Sサイズ（高さ50cm）はこちら ⇒ https://www.goodtimeschool.jp/items/116484952  ★他のテーブルはこちらから →　https://www.goodtimeschool.jp/categories/4966318  *-*-*-*-*-*-*-*-*-  シンプルで上品な「大理石調×天然木」のラウンドテーブル Lサイズ（高さ38cm）。直径83cm、角のない丸フォルムで、北欧ナチュラルなリビングやソファ周りに最適。天板は大理石調、脚部は天然木ラバーウッドで異素材MIXが魅力。静的耐荷重20kg、組立も簡単。メーカー直送でお届けします。コーヒーテーブルやサイドテーブルとしておしゃれに活躍  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。    TAP-312BE tap002004 TAP-312WH tap002005 goodtime  08202025 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9e0423faa4824e9838389e7c2e8c245f.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/48af15d2674203c1dcfe2b47b74b8e94.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "17400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/116486178",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "17400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/116486178",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/116484952": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/116484952#product",
+    "name": "ラウンドテーブル （Sサイズ） 高さ50cm 大理石調 石目調 天然木 コーヒー ソファ センター サイドテーブル 北欧 ナチュラル",
+    "description": "商品名：ラウンドテーブル 『Sサイズ 高さ50cm』 大理石調 石目調 天然木 シンプル コーヒーテーブル ソファテーブル センターテーブル サイドテーブル 北欧 ナチュラル 韓国 おしゃれ  商品サイズ：W53×D53×H50  大理石調天板と天然木を組み合わせたラウンドテーブル  優しい色味と角の丸いフォルムが特徴的な、シンプルで落ち着いたラウンドテーブル。 大理石調の天板と、天然木の脚部は異素材がMIXされたデザイン。  【材質】合成樹脂化粧繊維板 天然木(ラバーウッド) ラッカー塗装 【静的耐荷重】15kg 【組立】組立式 【原産地】中国 【商品重量】7.6kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  ◆ Lサイズ（高さ38cm）はこちら ⇒ https://www.goodtimeschool.jp/items/116486178  ★他のテーブルはこちらから →　https://www.goodtimeschool.jp/categories/4966318  *-*-*-*-*-*-*-*-*-  シンプルで上品な「大理石調×天然木」のラウンドテーブル Sサイズ（高さ50cm）。直径53cm、角のない丸フォルムで、北欧ナチュラルなリビングやソファ周りに最適。天板は大理石調、脚部は天然木ラバーウッドで異素材MIXが魅力。静的耐荷重15kg、組立も簡単。送料無料・メーカー直送でお届けします。コーヒーテーブルやサイドテーブルとしておしゃれに活躍  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。    TAP-311BE tap002002 TAP-311WH tap002003 goodtime  08202025 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/821e0538ee8abeac1053960ab1e8db78.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2db55ec41c038bb0750b28ed235b3d1f.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "11000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/116484952",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "11000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/116484952",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/116482086": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/116482086#product",
+    "name": "スタッキングスツール 合皮 丸椅子 高さ49cm キッチン 背もたれなし おしゃれ 来客 簡易椅子 一人掛け いす",
+    "description": "商品名：スツール スタッキングスツール 合皮 丸椅子 高さ49cm キッチン 背もたれなし スタッキング おしゃれ 来客 簡易椅子 一人掛け  商品サイズ：W31×D31×H49  ●シンプルなデザイン 優しい色味と合皮の組み合わせが魅力的なスツール。 様々なインテリアと相性が良い絶妙なカラーと、シンプルなデザインは場所を選ばずに使用できます。  ●丈夫なプラスチック使用 フレーム部分は丈夫なポリプロピレンを使用。 汚れても簡単に拭き取れるので、お部屋のどんな場所でも活躍します。 また、割れや欠けにも強く、毎日の使用でも安心してお使いいただけます。  ●上品な合皮座面 座面にはお手入れがしやすい合成皮革を使用しており、飲み物をこぼしても拭き取るだけで清潔に保てます。 見た目も上品で、インテリアにほどよくなじむ質感です。  ●スタッキング 複数台あっても重ねてしまえるスタッキング式だから、収納時も場所を取らず省スペース。 普段使いとしてはもちろん、来客用や複数使いでも活躍します。  【材質】ポリプロピレン 合皮 【機能】スタッキング可 【静的耐荷重】80kg 【組立】完成品 【商品重量】2.0kg 【原産地】中国  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  ★他のチェア・スツールはこちらから →　https://www.goodtimeschool.jp/categories/4998684  *-*-*-*-*-*-*-*-*-  スタイリッシュで実用的な合皮製の丸型スツール。高さ49cmで座り心地がよく、キッチンや玄関、リビングなど様々な場所にマッチします。スタッキング可能で、省スペース収納にも便利。背もたれがなく、スッキリとしたデザインは来客用や簡易チェアとしてもおすすめ。汚れてもサッと拭ける合成皮革素材で、お手入れ簡単。おしゃれな一人掛けチェアとして、モダンなインテリアにもぴったりの丸椅子です。  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PC-734BK pc004053 PC-734BR pc004054 PC-734GY pc004055 PC-734LGY pc004056 goodtime  08202025 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/0996631af20fcf1e6837008f17f9b187.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/529f8e49d04d34c6757859c85a89b5d4.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3480",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/116482086",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3480",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/116482086",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3480",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/116482086",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3480",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/116482086",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ライトグレー"
+      }
+    ]
+  },
+  "/items/45412122": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/45412122#product",
+    "name": "ちりめん製 お守り袋 願意が選べる 縁結び 厄除け 健康 開運 金運 学業成就 交通安全 幸運 カラフル かわいい 小さな御守り 根付タイプ",
+    "description": "ちりめん製の小さめなかわいい御守り袋です。  お守り袋の色は5種類からお選び、お好きな願意を組み合わせください。 願意には宝来鈴がついています。（鈴の色はランダムとなり、指定はできません） お守り袋には御神璽が入っています。 お守り袋はおしゃれなちりめん製です。  ※願意を付けてオーガンジー袋に入れて簡易ラッピングいたします。  ■ 商品の特徴 　ちりめん製の柔らかな風合い、小さめでかわいい御守袋です。  ■ 選べる願意 　縁結・厄除・交通安全・健康・金運・開運・学業成就・幸運　8種。  ■ おすすめポイント 　・根付け付きでカバンや財布にも◎ 　・贈り物にも選ばれる人気のお守りです。  ■ サイズ・素材 　・お守りのサイズ：縦5.5×横4×厚さ1 cm 　・ゴム製のメガネ房を入れた長さ：約12cm 　・素材：ちりめん布、ゴム紐、中にご神璽が入っています。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-  お守りって？  普段から身に着けることで神様のご加護が得られ、災難を防いで守ってくれるお守り。所謂「神頼み」を常に持ち歩くことができることで、皆さん何かしらのお守りをお持ちではないでしょうか？  おまもりの中には必ず御神璽（ごしんじ）が入っています。神社のご神体に相当するものです。 御神璽を持ち歩くということは、携帯電話と同じ「神社を携帯すること」と同じです。  神社は神様と人間と親密に触れ合う場でもあります。つまり、お守りを持つことで、いつでもどこでも神様を意識し、より近くに感ずることができるようになります。  皆さん大事にしているスマホと同じようにお守りも大事にして持ち歩いてください。   [お守りの起源]  縄文時代に魔除けとして勾玉を身につけていたのが始まりとされ、奈良時代に仏教伝来とともに寺院で呪符が配られるようになりました。大阪府の四天王寺が所蔵する、平安時代後期の懸守（かけまもり）には、如来像が彫られた木製の円柱が納められていたことがわかっています。また、神社の石や砂に霊力が備わっているという考え方から、旅に出る時、神社の境内にある石や砂を懐中に入れていくという風習の記載が残っています。   [お守りの数え方]  お守りやお札は、ご神像と同じように「1体（たい）、2体」と数えます。 また、お守りは、「販売する」「購入する」ではなく「授ける、お分けする」「受ける」といいます。神社に参拝するとお守りを置いてある場所を、授与所といいます。 神様の御霊(みたま)を「お分け」し、お受けするのです。   [お守りの種類] 　 交通安全、安産、縁結び、学業成就、その他「お守り」にはいろいろな種類があります。   ・恋愛お守り  恋愛成就：片想いが実るなど恋愛がうまくいくよう願います。 縁結び：良縁があるように、また現在のパートナーとの信頼関係が深まるよう願います。  恋愛に関するお守りを持ち歩く場合、目立つ場所は恥ずかしいと感じる方は、カバンの内ポケットや、スケジュール帳であれば、普段人目に触れることがないのでおすすめです。  ・学業お守り  合格祈願：受験生や資格試験に合格することを願います。 学業成就：勉強がはかどり、目標に到達することを願います。    学業に関するお守りは、普段から使用しているペンケースや教材、ノートを入れるカバンに入れるのが良いでしょう。勉強机など、普段学習する環境に置くだけでもご利益があるといわれています。  ・金運お守り  金運上昇：金運が上がるよう願います。 商売繁盛：商売の繁盛と繁栄を願います。  やはり金運ですのでお財布の中、またはお財布周りがベストです。ただし、常に神様にとって居心地の良い状態にし、お尻のポケットは避けましょう。  ・安全お守り  交通安全：乗り物による事故がないよう安全運転を祈願します。 家内安全：家族全員が幸せで安全に暮らせるよう願います。 旅行安全：旅行中の無事を願います。  交通安全のお守りは、自身の持ち物の他、車を運転する方はルームミラーのところにぶら下げたり、カギに着けたりします。小学生のランドセルに着けるのも良いでしょう。  ・厄除けお守り  厄除け：厄を取り払い、開運を願います。 方位除け：凶方位から身を守ります。 開運除災：運勢があまり良くない年に、一年の無事を願います。  全世界がパンデミックに陥っている今は、厄除けお守りを身に着けるかたは多いかと思います。もちろん、万全な感染症対策を行ったうえで身に着けましょう。  ・その他のお守り  その他のお守りについては、普段使用しているバッグや携帯、財布など毎日持ち歩くものに身につけるようにしましょう。  健康祈願：病気にかかることなく、毎日健康で過ごせることを願います。 病気平癒：現在かかっている病気の治癒、回復を願います。 長寿祈願：健康で長生きができるように願います。  お守りを身に着けるということは神様がいつも近くで見ていただいているということです。 どんな小さなことでも神様は見ています。毎日何か小さなことでも善いことを積み重ねていけば、いつかは神様が願いを叶えてくれるのではないでしょうか。  お守りを身に着けて、日々善行を重ね、願い事が叶いますように心より願っています。   ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-*-*- ちりめん素材の小さくてかわいい御守り袋です。縁結び・厄除け・健康・開運・交通安全・金運・学業成就・幸運の8つから願意を選べます。カラフルな5色展開で、根付ストラップとしてバッグや財布、スマホにも取り付け可能。和風でやさしい印象のデザインは、ギフトやプチプレゼントにもおすすめです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a6e489f8b0a2ae7aa8eb43e4dba33d9a.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/516282643e54b27cc1dfc892a6afc543.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "980",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/45412122",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "お守り袋の色　ピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "980",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/45412122",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "お守り袋の色　赤"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "980",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/45412122",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "お守り袋の色　緑"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "980",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/45412122",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "お守り袋の色　青"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "980",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/45412122",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "お守り袋の色　藤色"
+      }
+    ]
+  },
+  "/items/74962421": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/74962421#product",
+    "name": "開運お守り 梅結び 水引飾り付き 加賀紐ストラップ 健康 財運 仕事運 縁結び 厄除け かわいい根付 和風 縁起物 ギフトにもおすすめ ",
+    "description": "ご祝儀袋によく使われる「あわじ結び」を変形させた結び方が「梅結び」で結んだ開運御守 根付け紐は石川県加賀の加賀紐を使用しています。  開運御守の色はピンクとブルーから。 紐の色：ピンク麻の葉柄 　　　　ブルー青波柄 　　　　 サイズ(約)：梅型水引のついたお守り本体の大きさ 35×25×6（mm） 重さ：3.5g  6mmアクリルカット玉付き  全体の長さ：11cm 根付け紐ストラップの長さ：7cm ※紐は国内産加賀紐を使用  お守り袋の中にご神璽が入っています。（開封できません）  ★1体ずつ簡易ラッピングをしお届けいたします。そのままプレゼントにお使いいただけます。  ※blogもご覧ください。 https://www.goodtimeschool.jp/blog/2023/08/21/140926  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-  [御守って？]  開運御守 梅結び 普段から身に着けることで神様のご加護が得られ、災難を防いで守ってくれるお守り。所謂「神頼み」を常に持ち歩くことができることで、皆さん何かしらのお守りをお持ちではないでしょうか？  おまもりの中には必ず御神璽（ごしんじ）が入っています。神社のご神体に相当するものです。  御神璽を持ち歩くということは、携帯電話と同じ「神社を携帯すること」と同じです。  神社は神様と人間と親密に触れ合う場でもあります。つまり、お守りを持つことで、いつでもどこでも神様を意識し、より近くに感ずることができるようになります。  皆さん大事にしているスマホと同じようにお守りも大事にして持ち歩いてください。   ◇梅結びとは◇  [開運御守 梅結び]   ご祝儀袋によく使われる「あわじ結び」を変形させた結び方が「梅結び」です。 結び目が梅の花に見えることから、その名が付いています。梅の花は、厳しい冬の寒さを越え、春に先んじて咲く花であることから、「運命向上」の意味を持っています。  また、梅は古くから「松竹梅」と呼ばれる縁起物の定番でもあることから、梅結びの水引は、さまざまなお祝いごとに使われます。   ◇梅が縁起物である所以◇  【豊かな生活】  梅は豊かな生活を意味すると言われます。それは、梅の花が咲く時期（初春）に関係しているからです。 梅は「百の花に先駆けて咲く」と言われています。つまり、どの花よりも一番早く咲くという意味です。寒い冬が過ぎ去ったと同時に一番初めに美しい花を咲かせるのが梅の花です。  古来より四季のあるに日本においては、寒い冬が去って春が訪れると嬉しい気持ちになります。また、春は様々な始まりの季節でもあります。そんな人を嬉しい気持ちにさせたり、始まりを知らせたりする梅の花は、とても縁起がいいとされています。  【お金に困らない生活】  梅には、お金に困らない生活ができるようになる、という縁起のいい効果があります。 梅の花は、  豊かさを象徴するお花 春一番に花を咲かせ、多くの人たちを喜ばせてくれます たくさんの人たちを幸せに感じます 巡り巡って自分自身に戻ってくる  よって、お金に困らない生活ができるようになると言われています。  【仕事運に恵まれる】  良い仕事に恵まれるという効果も、梅はもたらしてくれます。 梅には人と人とをつなぐご縁の力があるとされています。梅の花が咲くころは新しい生活の始まりの時期でもあり、新しい出会いの時期でもあります。 仕事は人脈が大事。たくさんの出会いをもたらしてくれる梅は、仕事運も引き上げて良い仕事に導いてくれるとされています。 そして、よいご縁にも巡り逢えます。  【良いご縁を結ぶ】  梅には良いご縁を結ぶという縁起の良い力を持っています。 梅自体に人と人とをつなぐ効果があるので、良縁に恵まれるというのももっともです。 特に恋愛面での良縁に恵まれたい願いがある方は、梅の花のお守りがよいとされます。梅が素敵なご縁をつないでくれるはすです。 開運御守 梅結び   【いつまでも健康で】  梅の花には魔除けや厄払いの効果があることから、健康にも効果があると言われています。 梅の花は大変香りが強く、鬼はその花の香りを大変嫌います。昔から病の原因は鬼とされ、鬼を退ける香りを持つ梅の花は縁起がいいとされています。 持病をお持ちの方や、少し疲れた時などは、梅の花をあしらったお守りをお勧めいたします。   ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-*-*- 縁起の良い梅結びをモチーフにした開運お守り。水引飾りと加賀紐ストラップが上品で、健康・財運・仕事運・縁結び・厄除けなど多彩な願いを込めてお使いいただけます。和風でかわいらしいデザインはバッグやスマホにも映え、ギフトやお礼の品としてもおすすめ。日本の伝統美を感じる縁起物です。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/fa412c32abae7444bf436fd27f3bc001.png",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a529d11a8bc5918cd2fccc8a82c844d5.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/74962421",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/74962421",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/50307593": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/50307593#product",
+    "name": "四つ葉のクローバー守 スワロフスキー キャッツアイ 恋愛運 健康運 財運 希望成就 ストラップ 根付け お守り かわいい ギフトに最適 ",
+    "description": "恋愛・健康・財運・希望が4枚の葉に込められています。 四葉のクローバーは四つの幸運をもたらします。  ※色はピンクとグリーンの2色からお選びください。  ■クローバーのサイズ：縦23mm　横16mm　厚さ4mm ■全体の長さ：約10cm ■重さ：6.5g ■クローバーの材質：キャッツアイストーン（合成石） 　※中央はスワロフスキー  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*  　[四つ葉のクローバーについて]  四つ葉のクローバーは幸運のシンボルと言われていますが、日本だけではなく西洋でも古くから言い伝えられています。  クローバー(シロツメクサ)は主に三つ葉のクローバーを指し、南アメリカやアフリカにたくさんの種類が生息していています。地球全体では260種類あると言われ、日本でも身近に存在する植物です。四つ葉のクローバーは通常みられる3枚の小葉の変異体に相当するものです。発生率は1万分の1と言われています。 実はこのクローバー、一つ葉から十葉まであるようです。ちなみに七つ葉のクローバーの発生率は2憶5000万分の1と言われています。  クローバーは、別名をシロツメクサ(白詰草)と言います。 名前の由来は、江戸時代オランダとの貿易で、硝子器をオランダから運ぶ際に、破損を防ぐために枯れたクローバーを詰め物として用いたという由来からツメクサ(詰草)の名前が付きました。 またシロツメクサは明治以降に牧畜用にムラサキツメクサと共に持ち込まれ、野生化したという由来があります。  　[四つ葉のクローバーの意味]  ヨーロッパでは、「三つ葉のクローバー」は３枚の葉が１本の柄についている事からキリストの三位一体を、また「四つ葉のクローバー」はキリストの十字架を象徴し、どちらも幸運や幸福をもたらすと言われています。  また三つ葉のクローバーが幸運の象徴なら、希少価値のある四つ葉のクローバーには、さらに強い力があると信じられています。  英語では「wealth（財産）」、「fame（名声）」、「faithful lover（満ち足りた愛）」、「glorious health（この上ない健康）」の意味があり、この4つが揃って「true Love（真実の愛）」という意味になります。  真実の愛が最高の幸運って素敵ですね。  *-*-*-*-*-*-*-*-*-  四つ葉のクローバーは、古くから幸運をもたらすと信じられてきました。このクローバーのお守りストラップは、恋愛、健康、財運、希望など、さまざまな願いを叶えるお守りとして人気です。  四つ葉のクローバーは自然界で見つけることが非常に難しいため、希少価値も高く、特別な存在感を持っています。このお守りストラップは、そのパワーをしっかりと感じることができます。  さらに、お守りストラップとしてはもちろん、バッグのチャームやキーホルダーとしてもお使いいただけます。どんな場面でも、あなたの幸運を引き寄せることでしょう。  このお守りストラップを持つことで、毎日ポジティブな気持ちで過ごすことができます。大切な人への贈り物としても最適です。ぜひ、あなたの大切な方に幸運のお守りをプレゼントしてみてください。  ※お守りの持つ意味や効果は個人差があります。大切にお使いいただくことをおすすめします。   → 超軽量クリアタイプ　幸運のクローバー守　はこちら https://www.goodtimeschool.jp/items/63862938  → 他の御守りを見る https://www.goodtimeschool.jp/categories/3027242   *-*-*-*-*-*-*-*-*- 四つ葉のクローバーをモチーフに、スワロフスキーとキャッツアイを組み合わせた華やかなお守りストラップ。恋愛運・健康運・財運・希望などの願いをサポートする縁起物として人気です。根付けとしてバッグやスマホに取り付けられ、かわいくおしゃれなデザインでギフトにも最適な開運アイテムです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a0077fe305bc47acc49f3d0b08dc045f.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/25c2dc0f87416ab6c9166b6d1e41f931.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1030",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/50307593",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1030",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/50307593",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/63862938": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/63862938#product",
+    "name": "幸運のクローバー守 四つ葉のクローバー お守りストラップ 恋愛運 健康運 財運 希望 開運 根付 クリアタイプ ギフトに最適 プレゼントにも ",
+    "description": "幸運のクローバー守（超軽量クリアタイプ）  ※色はピンクとグリーンの2色からお選びください。  クローバーのサイズ：縦24mm　横12mm　厚さ3mm 全体の長さ：約10.5cm 重さ：3g クローバーの材質：硬化プラスチック製 ※宝来鈴付き  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆クローバー守（スワロフスキータイプ）はこちら↓ https://www.goodtimeschool.jp/items/50307593  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  -*-*-*-*-*-*-*-*-*-*-*-*  このクローバー守は、四つ葉のクローバーをモチーフにしたお守りストラップです。 幸運の象徴である四つ葉のクローバーが、あなたの身に守りと幸運をもたらします。 恋愛、健康、財運、希望など、人生で大切なテーマについて、あなたの気持ちを手助けしてくれる存在として身に着けてみませんか？  このクローバー守の特徴は「超軽量」。重さを気にせずにお財布や携帯電話、バッグなど、身近な場所に付けることができます。 そして、毎日の生活の中で、あなたの幸福を見守ってくれます。  大切な方へのプレゼントにもおすすめです。きっと、贈られた方にも幸運をもたらすことでしょう。  この幸運のクローバー守を手にしたあなたに、幸運と喜びがたくさん訪れますように。 商品の取り扱いについては、優しくお手入れいただけるように注意してください。   ◆クローバー守（スワロフスキータイプ）はこちら↓ https://www.goodtimeschool.jp/items/50307593  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242   *-*-*-*-*-*-*-*-*- 四つ葉のクローバーをかたどった、透明感のあるクリアタイプの幸運お守りストラップ。恋愛運・健康運・財運・希望・開運などの願いを込めた縁起物で、根付としてスマホやバッグに取り付けやすく、毎日持ち歩けます。かわいらしく上品なデザインで、大切な人へのギフトやプレゼントにもおすすめです。 *-*-*-*-*-*-*-*-*-   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/41bf5d0fc303e345457f1db263cde896.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/80925c8a498dd973b2d8f67ee0029705.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "960",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/63862938",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "960",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/63862938",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/74962146": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/74962146#product",
+    "name": "健康お守り 健脚わらじ守 鈴付き 根付 ストラップ 足腰守り 草鞋型 草履型 開運 縁起物 手作り 祭り 着物 浴衣に合う プレゼントに最適 ",
+    "description": "思わぬ足の怪我や病気に見舞われた方の一日も早い治癒、手術の成功、日々の健脚を祈願したわらじのお守りです。 スポーツやリハビリに励まれる皆さまにもお勧めの足のお守りです。  大きさ3〜4cm程の小さな草鞋（わらじ）にストラップ用のひもが付いたお守りです。 こだわりの金糸で作った根付け紐に縁起の良い宝来鈴、そして、御守小判が付いています。  工業製品とは違い、職人の手で編み込んでいるため、一つひとつに個性があります。 暖かい心のこもった「わらじ守」は足腰の健康と心も癒してくれます。  いつまでも強い足腰でいられるよう、また足腰のどこか悪い方は早い完治を祈願いたします。  わらじは職人の手で一つずつ丁寧に作りました。 宝来鈴付き、緑と赤からお選びください。  わらじの大きさ：3.5cm　幅：4cm　厚さ：0.5cm 重さ3ｇ 全体の長さ：11cm  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*  [草鞋（わらじ）って？]  現代では日常生活においては殆ど使用されなくなった草鞋（わらじ）。  夏になると、祭り等の伝統行事における装束の一部として履かれ、見かけることがあります。  また、沢登りなど登山において、一部用途においては柔軟で水中の苔の付着した岩でもグリップが利くことなどから標準的装備とされており、多くの登山用品店で実用品として販売されています。  この草鞋ですが、稲藁で作られる藁草履（わらぞうり）とよく混同されますが、形状が若干異なります。  草履が現在のサンダルに近い形状であるのに対し、草鞋は前部から長い「緒（お）」が出ています。これを側面の「乳（ち）」と呼ばれる小さな輪、そして、かかとから出る「かえし」と呼ばれる長い輪に通して足首に巻きます。つまり、足の後部（アキレス腱）若しくは外側で縛るものが草鞋になります。  鼻緒だけの草履に比べ足に密着するため、山歩きや長距離の歩行の際に非常に歩きやすく、昔は旅行や登山の必需品であったそうな。 また蹄鉄のない江戸時代には、馬にも馬用のわらじを履かせて蹄を保護していたようです。   [二足の草鞋＝二刀流]  格言として「二足の草鞋を履く」という言葉があります。  一人の人間が趣の異なる二つの仕事を兼業すること、とされますが、正に現代版大谷翔平選手ですね！本来は「二足の草鞋は履けぬ」という否定的な意味合いであったそうです。大谷選手もメジャー挑戦当初は否定的な意見も多かったので、頷けます。 このお守りを身に付けていると大谷選手のように成功するかもしれませんね！！   ★ 健脚草履御守り（ちりめん手作り）はこちら https://www.goodtimeschool.jp/items/49021751  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242   *-*-*-*-*-*-*-*-*- 健脚祈願にぴったりな、わらじ型の健康お守り「健脚わらじ守」。鈴付きで音もかわいらしく、足腰の健康を願う方への贈り物に最適です。ストラップタイプの根付で、浴衣や着物姿にもよく似合うデザイン。草鞋をモチーフにした縁起物として、開運や健康祈願、旅行のお守りとしてもおすすめです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/20b4cd50c0253608fdcefb6839f087b2.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/4843ad374d84ece5ba1f14ca8c212c69.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1180",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/74962146",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "鈴の色：緑"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1180",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/74962146",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "鈴の色：赤"
+      }
+    ]
+  },
+  "/items/49021751": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/49021751#product",
+    "name": "健康お守り 健脚草履御守 ちりめん製 鈴付き 根付け 足腰守り 草履モチーフ 手作り 縁起物 開運 浴衣 着物に合う 和風かわいいお守り ",
+    "description": "健脚草履御守は、足腰の健康を願って作られた草履のお守りです。 職人が一つ一つ手作りしたちりめん素材に、健康を守る根付けがついています。 さらに、鈴付きなので歩きながらすがすがしい音が鳴り響き、気分も爽快に。お守りとしてだけでなく、草履としてもご使用いただけます。  この商品は、長年にわたって草履作りをしてきた職人が、健康や幸せを願って作り上げた商品です。足元から元気になりたい方や、健康に気を遣う方には是非おすすめしたいアイテムです。  健康に気を遣う方々のお守りに、「健脚草履御守」をどうぞ。   草履の色は　赤、ピンク、ブルー、グリーン、イエロー　の5色からお選びください。 ※草履の裏の色もそれぞれ違う色で施されています。  草履の長さ：2cm　幅：1.3cm　厚さ：0.7cm 重さ1.7ｇ 全体の長さ：10cm  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-  草履（ぞうり）は、鼻緒がついた日本の伝統的な履物です。明治以降に洋靴が普及するまで日本で広く使用されました。  現代では、大量生産されたビニール素材の軽装草履や軽装履（「雪駄」と呼ばれることも多い）が普及しており、夏場の履物としてカジュアルな洋装と組み合わせてよく履かれています。  本式の草履は、現代日本においては主に和装時に履きます。下駄よりも格式があり、改まった履物とされています。    [草履と健康]  最近では鼻緒付きの履物が足の鍛練に効果があるという意見から、子供に下駄や草履を履かせることが注目されています。鼻緒を挟み、台を踏ん張るため足の筋肉が鍛えられ足裏の土踏まずの形成や外反母趾の予防にもよいとされています。  はだし教育として幼稚園・保育園・小学校などの施設で指定の履物にするところも。学校納入用では奈良県の三郷町で生産される製品、健康草履「ミサトっ子」や高知県で生産される竹皮草履が有名です。  基本的に素足で履くことが多く、足が蒸れないという効用もあります。はだし教育で取り入れる場合は必ず素足で履くよう取り組んでいます。  また、靴底の厚い高いスニーカーなどは草履に比べ履いた時の安定性が悪く、更に底が不均一に磨耗した場合、より傾きX脚やO脚 「ハの字」や「Vの字（逆ハの字）」歩きを誘発したり悪循環を助長すると考えられています。その点、草履はスニーカーなど靴の変形進化した履物と比較して足腰の安定、強化や美脚に良いとされます。また、転び易い、長時間起立出来ない、歩行で疲れるといった子供が昔と比べ増えていますが、草履などは靴・スニーカーなどと違い足を包み込まず開放的で足そのものが幅広く成長し、広い足の裏の面積でより安定した支えをするため、この点でも健康に良い履物と言えるでしょう。  草履は靴と違い、足を包み込まないため、足のかく汗が乾燥しやすいです。それで足白癬になりにくく、足のにおいも少なくなります。実際日本人が草履をはいていた時代には、足白癬の報告はほとんどありません。  一方、まったくの裸足で生活する人が多く、産業や医療が未発達なケニアでは、足の傷からの感染症を予防するために、日本人栄養学者の岸田袈裟が現地の材料で手作りできる草履の製法を導入し、好評を呼んでいます。  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-*-*- ちりめん素材の草履型健康お守り「健脚草履御守」は、足腰の健康を祈願する縁起物。鈴付きで音もかわいらしく、根付ストラップとしてスマホやバッグに取り付けられます。浴衣や着物との相性も良く、夏祭りや旅行時のお守りにもおすすめ。手作りの温かみあるデザインで、ギフトにも最適です。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6f908c0ef45407caeed7fd43a57883f2.png",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/654eefa5c37a955fe79b863a9941b53f.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "930",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/49021751",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "赤"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "930",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/49021751",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "930",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/49021751",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "930",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/49021751",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "930",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/49021751",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "イエロー"
+      }
+    ]
+  },
+  "/items/47372666": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/47372666#product",
+    "name": "健康お守り ぼけ封じ成す 茄子モチーフ 根付 ストラップ ちりめん製 手作り 縁起物 敬老の日ギフト おじいちゃん おばあちゃんにおすすめ ",
+    "description": "茄子　発泡スチロールにちりめんを巻いています。（手づくり） 根付け紐：レーヨン製　｜ 宝来鈴付き 重さ：1.7g 全体の長さ：11ｃｍ　｜　根付け紐の長さ：8cm 茄子の長さ：3cm　幅1.8cm  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-  ぼけ封じになす？？ 　茄子、為す？？ どういうことでしょうか  ぼけとなすでぼけなすという悪い言葉がありますが、どういう意味か調べてみると、  ぼけ‐なす【惚け茄子】 １ 外皮の色つやのあせたナス。 ２ ぼんやりした人をののしっていう語。  1 はわかるのですが、 2 のほうが皆さんが想像している言葉かと思います。  つまり「ぼけなす」はぼけーとしている人をバカにする意味があります。 その野菜の茄子ですが、環境の良すぎるところで育てると実を付けなくなる性質があります。  植物にとって実は子孫です。 環境が良すぎると長生きできますが、子孫を残すことができない。  実を付けない茄子は野菜としては価値はありません。  これを人間にあてはめて、何不自由なく環境の良すぎるところで育つと自分では何もできない人間になる。そんな何もできない人を「ぼけなす」と呼ぶようになったようです。 もちろん、諸説ありますが、興味深い語源由来です。  そんな「茄子」ですが、「茄子」の語源は、「為す」という説があるそうです。 茄子は瓜科の植物です。ウリの花は咲いても実のならない花があるが、茄子の花にはそれがありません。（実がなる前に落ちることはありますが・・・・）つまり茄子の花は実をなすということです。  「親の小言と茄子の花は千にひとつの無駄もない」とうい諺があることでもわかります。  一度、家庭菜園で茄子を栽培したことがありますが、かなり大変でした。でも、つやつやとして実ができたときは嬉しく、収穫するときは寂しい気持ちになりました。本当に農家さんは大変な思いをして家庭にとどけているのだなと改めて思いました。  初夢に「一富士、ニ鷹、三なすび」を見るとその年は良いことが起きる、という迷信もあります。  「茄子」は縁起がいい野菜なのです。  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-*-*- 茄子をモチーフにした、ぼけ封じ祈願の健康お守り「成す（なす）」。ちりめん素材で丁寧に仕上げた手作りの根付ストラップです。ユニークでかわいらしいデザインは、年配の方への贈り物にもぴったり。おじいちゃん・おばあちゃんへのプレゼントや、敬老の日ギフトとしてもおすすめの縁起物です。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/417a40ddb5aa854d12409349368729f9.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a8973c4150a7f40236b42ead6f251c87.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "880",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/47372666",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "紺"
+      }
+    ]
+  },
+  "/items/47641396": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/47641396#product",
+    "name": "子供の健康お守り 無事成長祈願 手作り安産守 七五三 赤ちゃん マタニティに 根付タイプ かわいい御守 ギフトに最適 プレゼントにも ",
+    "description": "子供の無事成長 健康守  本体人形：ちりめん 紐：レイヨン  着物の柄　赤柄、赤襟（女の子） 着物の柄　青柄、紺襟（男の子） ⇒どちらかお選びください。  宝来鈴付き  全体の長さ：12cm 根付け紐の長さ：７ｃｍ 重さ：2ｇ  ・全てちりめんで手作りでできています。 ・台紙に印刷してある麻柄には丈夫でどんどん伸びる事から子供が健やかに成長すると言う意味を込めて作っています。 ・これから生まれてくる子供、益々成長して行く子供を「見守る」お守りです。  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-  麻の模様について（台紙にデザインされています）  　麻の葉柄の由来 六角形の幾何学文様で平安時代から仏像の装飾などに使われてきた柄です。 後にこの模様が麻の葉に似ている事から、麻の葉（あさのは）柄として親しまれるようになりました。   　麻の葉柄の意味 麻の葉は４ヶ月で４mにもなるほど成長が早く、真っ直ぐにグングン成長して行くため、麻の葉柄には子供の健やかな成長の願いが込められています。 またこの柄には魔除けの意味があり、昔から産着の柄として広く親しまれてきました。  お子様、お孫様の健やかな成長を願いを込めています。  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-*-*- 子供の健康と無事な成長を願う、手作りのお守り「健康守」。赤ちゃんの誕生祝いや七五三、安産祈願など幅広く使える縁起物です。ちりめん素材の優しい風合いと、根付タイプの使いやすさが特徴。マタニティ期のプレゼントや、出産祝いにもおすすめ。かわいい見た目で、ギフトにもぴったりな御守りです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/4b3d28070335d156cef43a37ce063fbe.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/838fd9125d61502c8d57c9215573b0ee.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "980",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/47641396",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "赤（女の子）"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "980",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/47641396",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "青（男の子）"
+      }
+    ]
+  },
+  "/items/63864493": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/63864493#product",
+    "name": "厄除金運龍神守 黄金竜お守り 水晶玉付き 魔除け 開運 根付 ストラップ 金運上昇 願掛け 縁起物 龍神様のお守り ギフトにもおすすめ ",
+    "description": "龍は天高く昇る生き物で、古くから物事が上昇することの象徴として考えられています。その龍が、浄化のパワーストーンとして知られる「水晶」に絡み合う、とても縁起の良いお守りです。  龍と水晶のサイズ：　長さ24mm　幅20mm　厚さ10mm 根付け紐の長さ：8cm 全体の長さ：10.5cm 重さ：9ｇ  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*  水晶は、災いや魔（つまり厄）を払い、様々な危険から守ってくれる「邪気払石」「開運石」として世界のいろいろな国で愛されています。そして、龍は運気上昇・立身出世・身体健全・仕事順調・学業成就・家庭円満・商売繁盛・家運隆昌などを司る神様です。 授かった方に多くの運を招き入れるよう奉製、祈願されております。大切にお持ちください。  ※当商品はお守りとして幅広くお持ちいただきたいという願いから水晶玉はガラス製（練水晶）を使用しています。  *-*-*-**-*-*-*-  [龍]  龍は架空の動物ですが、中国ではすべての運気やエネルギーを司る霊獣とされ、日本では古くから龍神様として崇拝されてきました。 そして、大地のすべてのエネルギーの源とされ、水の神様とされています。  その龍が高く昇る昇龍は、立身出世・身体健全・仕事順調・学業成就・家運隆昌を司る神さまとされています。  [水晶]  浄化作用があると知られる水晶（クオーツ）は、パワーストーンの中でもこれ抜きでは語れないほどの基本の石として知られています。  水晶は古来より霊が宿る石として崇められ、色々な儀式に用いられたと伝えられています。災いや魔のような厄を払い、常の起こりうる身の危険から守る「邪気払石」「幸運の石」として世界のいろいろな国や地域で愛されています。  古くは、水晶によって土地を清め、厄を祓い、運気を良い方向にと信じられたことから、建物やお寺などの地面に水晶を埋められる事がありました。今でも、地鎮祭の時などに、地面に水晶を撒いたり埋める風習が残っている地方もあります。水があらゆるものを洗い流すように、水晶は地・人・場など、すべての「気」を浄化し、清めると伝えられています。   ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-*-*- 黄金の龍神がモチーフの「厄除金運龍神守」は、水晶玉をあしらった強力な開運・金運のお守り。魔除け・厄除けの意味を持ち、根付ストラップとしてスマホやカバンに取り付けられます。龍神信仰やスピリチュアル系がお好きな方にもおすすめ。高級感のある仕上がりで、ギフトにも喜ばれる縁起物です。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2d8c299d0e0fa83e907e6c543b6223cf.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1280",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/63864493",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "金"
+      }
+    ]
+  },
+  "/items/50343616": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/50343616#product",
+    "name": "運気上昇 龍神守 勾玉付き昇龍お守り 黄金竜 魔除け 厄除け 開運 根付 ストラップ 辰年 縁起物 ギフト プレゼントにおすすめ 御守り ",
+    "description": "勾玉には魔除、厄除けの意味があると言われています。 昇龍を身につける事でその力を授かれる様に願いが込められています。  龍と勾玉のサイズ：　長さ30mm　幅16mm　厚さ13mm 根付け紐の長さ（結んでいない状態）：20cm 根付け紐は2色編みで、先は結んでいません。ご自由にお結びください。  授かった方に多くの運を招き入れるよう奉製、祈願されております。大切にお持ちください。  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-**-*-*-*--*-  　龍は天高く昇る生き物で、古くから物事が上昇することの象徴として考えられています。その龍が、魔除けや厄除けといった呪的な意味で身につけられてきたとされる「勾玉」に絡み合う、とても縁起の良いお守りです。    勾玉は身に襲い掛かる厄災を除ける強力な魔除けのお守り、昇り龍は運気上昇・立身出世・身体健全・仕事順調・学業成就・家庭円満・商売繁盛・家運隆昌などを司る神様です。 　 　授かった方に多くの運を招き入れるよう奉製、祈願されております。大切にお持ちください。  　[龍]  　龍は架空の動物ですが、中国ではすべての運気やエネルギーを司る霊獣とされ、日本では古くから龍神様として崇拝されてきました。 　そして、大地のすべてのエネルギーの源とされ、水の神様とされています。  　その龍が高く昇る昇龍は、立身出世・身体健全・仕事順調・学業成就・家運隆昌を司る神さまとされています。   　[勾玉]  　古来より勾玉には不思議な力が宿るとされ、魔除けや厄除けといった呪的な意味で身につけられてきました。曲がった形をしているので「勾玉(まがたま)」と呼ばれる説が有力です。 　世界的に見ても日本や朝鮮の一部地域でしか発掘されず、それらは縄文時代にすでに作られていました。  　神話の時代にスサノオノミコトがヤマタノオロチを退治した後、「勾玉」をアマテラスオオミカミに献上されました。これが三種の神器の一つ「八尺瓊勾玉(やさかにのまがたま)」になったと伝えられています。  　勾玉の不思議な形は頭の部分が日(太陽)を表し、尾の部分が月を表しています。この太陽と月が重なりあった形は大いなる宇宙を崇拝していたと思われます。そして穴には祖先とのつながりを持つことにより、我が身に降りかかる邪気・邪霊から身を守り、その恩恵を受けたとされています。     ※いずもまがたまの里伝承館より引用  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-*- 昇り龍と勾玉がモチーフの「龍神守」は、運気上昇や厄除け・魔除けを願う縁起の良いお守り。黄金の昇龍と勾玉の組み合わせが力強いエネルギーを表し、辰年の開運アイテムとしても人気。根付ストラップタイプでスマホやカバンに取り付けやすく、スピリチュアルな贈り物としてもおすすめの御守りです。 *-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9d29d1df66b82636f63458b6b699d1fd.png",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1a6bfb1f770e27b37ec2bdb7423d5942.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "960",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/50343616",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "紫"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "960",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/50343616",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ピンク"
+      }
+    ]
+  },
+  "/items/74962963": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/74962963#product",
+    "name": "開運 昇龍守 八角水晶付き黄金龍お守り 魔除け 厄除け 金運上昇 運気アップ 根付 ストラップ スピリチュアル 縁起物 ギフトに最適 ",
+    "description": "龍は天高く昇る生き物で、古くから物事が上昇することの象徴として考えられています。 その龍が、縁起のよい「八角水晶」に絡み合い昇っていく、とても縁起の良いお守りです。  龍と水晶のサイズ：　長さ40mm　幅10mm　厚さ10mm 根付け紐の長さ：9cm 全体の長さ：13.5cm 重さ：8ｇ  ※ミニ角小判付き ※根付け紐ストラップは国内産加賀紐を使用 ※水晶は練り水晶（人工ガラス）製  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*  [縁起の良い八角水晶]  古来より、日本の寺院には八角形の建築物が有る様に、8は幸運の数とされ、全ての方位や広がりを表す数として好まれてきました。  八角形は風水で「八方位」を表し、全ての方角から幸せを引き寄せ、邪気を払ってくれると言われています。また「8」と言う数字は中国や日本において末広がりの数字で縁起が良いとも伝えられています。  八角形のアイテムは、四方八方からエネルギーを引き寄せ悪い邪気を払うとされ、縁起の良いものとされてきました。  そして、水晶は全体的に運勢を上昇させる効果があると言われています。悪運や負の力を持ったものを浄化、清める力を持ち、お持ちになった方の本来の潜在能力を引き出すとされています。   [八角水晶と昇る龍]  全てのエネルギーの源と言われている龍が上昇する、つまり、昇龍は全ての運気上昇に良いとされ、運気上昇のお守りとされてきました。  縁起の良い八角形の水晶を龍が上昇することで、家族運や健康運、恋愛運や金運などなど様々なご利益がある縁起物だといえます。  その龍には様々な意味が込められており、次のことから縁起がよいと言われています。 ・昇り龍はすべての運気が上昇する ・天から地上に降りる降龍（くだりりゅう）は幸福を届ける ・願いを叶える如意宝珠という玉を持つ ・中国では「運気上昇、富と幸福をもたらす」とされ、干支（辰）の中で最も縁起がよいとされている  どんなことにもご利益があり、また、それを得られた方が多いことから最強の幸運を呼ぶと言われています。  [こちらもご覧ください] →　https://www.goodtimeschool.jp/blog/2023/05/29/000853  ★　御守り一覧はこちら →　https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-*-*- 八角水晶と黄金の昇龍を組み合わせた「昇龍守」は、運気上昇・金運上昇を願う開運お守り。魔除けや厄除けにも効果があるとされ、八角形の水晶はエネルギーを調整し、良い気を引き寄せます。根付タイプで身に着けやすく、スピリチュアルなギフトや辰年の贈り物にもおすすめの縁起物御守りです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/12b7a818804355dae40f06e895d3dc5a.png",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9fc13957ad884683881859e57a6a1c9c.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2480",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/74962963",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：金"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2480",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/74962963",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：赤と黒"
+      }
+    ]
+  },
+  "/items/44649196": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/44649196#product",
+    "name": "水琴鈴のお守り 雫型ストラップ 厄除け 幸運 魔除け 根付 開運音色の鈴 すいきんれい 御守り 癒しの音 ギフトやプレゼントにもおすすめ ",
+    "description": "厄除・幸運　雫（しずく）鈴守　水琴鈴（すいきんれい）  水琴窟（すいきんくつ）が鈴になりました！ 日本古来の美しい仕掛けを、魔除けや厄除けの力があるとされ鈴にて再現しました。  水琴窟の鈴ですので、「水琴鈴（すいきんれい）」 綺麗で優しい音色は、お守りにぴったりです。  【 水琴鈴のサイズ 】 全長3×1.8cm 【根付け紐】約15cm　※結んでいない状態 【 入り数 】 1個 【 重さ 】 約8g  ・色はブルー、ピンク、ホワイトの3色からお選びください。 ・3色の綺麗な根付け紐の色は、ブルー、ピンク、紺を合わせてあります。  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*  水琴窟（すいきんくつ）は、日本庭園の装飾の一つで、手水鉢の近くの地中に作りだした空洞の中に水滴を落下させ、その際に発せられる音を反響させる仕掛けです。  水滴が滴り落ちる時の音が琴のような音色から、その名がついたのかもしれませんが、由来は不明とのことです。  そして、鈴には日本古来より魔除けの霊力があると信仰されています。 神事や祈願で鈴を鳴らすことで、神様をお招きし、祓い清める役割を果たします。  鈴の力には開運、魔除け、厄除けがあると言われているのです！だからお守りには鈴付きが多いのです。 財布やカバン、鍵などに着けて、厄除け、幸運を引き寄せるお守りとして、身に着けてみてはいかがでしょうか。  ★　厄除けのお守り一覧 →　https://www.goodtimeschool.jp/categories/4454434  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-*-*- 癒しの音色が響く「水琴鈴（すいきんれい）」をあしらった雫型のお守り。魔除け・厄除け・幸運を願う根付ストラップで、バッグやスマホに付けてお使いいただけます。澄んだ音色が心を落ち着かせ、開運をサポート。和風で上品なデザインは、プレゼントやギフトとしても喜ばれる縁起物です。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f276d3f268d6750bd4386aa4d865382d.png",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/de64c7cbc91f83c507a09bcf2c67f325.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1280",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/44649196",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1280",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/44649196",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1280",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/44649196",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/44597498": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/44597498#product",
+    "name": "アマビエ厄除けお守り 宝来鈴付き 疫病退散 開運 魔除け 除災 根付 ストラップ かわいい御守り 健康祈願 プレゼント ギフトにも最適 ",
+    "description": "アマビエのサイズ：　横16　高さ26　厚さ3（mm）　　 合金　24金メッキ  根付け紐：　長さ　約8cm　2色編み　 宝来鈴付き 　　重さ：8.2ｇ  ◆1体ずつ「疫病退散」シール貼付し、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-  一度見たら忘れられない、アマビエお守りをご紹介します。  アマビエは、海の中から現れるという伝説上の生き物で、疫病を予知して人々に知らせ、災難から守ってくれるとされています。  今回は、そんなアマビエが描かれたお守り根付けストラップをご用意いたしました。 宝来鈴が付いているため、さらに厄除けのパワーがアップ！24金メッキで高級感もあり、お守りとしての役割はもちろん、アクセサリーとしてもおしゃれに使えます。 大切な人へのプレゼントにもぴったりですよ。  このアマビエお守りと共に、疫病や災難からあなたを守り、幸せをもたらしますように。 商品のお取り扱いは、お守りとして大切に扱ってくださいね。  ※実際の商品の色味は、写真と多少異なる場合がございますので、予めご了承ください。  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-*-*- 疫病退散の象徴として注目された「アマビエ」の厄除けお守り。鈴の音が心地よい宝来鈴付きで、除災・開運・健康祈願にぴったり。根付タイプでスマホやカバンにも取り付け可能。かわいらしい和風デザインは贈り物にもおすすめで、お守りとしてだけでなく、癒しのアクセサリーとしても人気です。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/12bfc54df56c1346dfa77ea26934d085.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/8c1fe8307d0e3ee9ebfbe7269689d131.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "780",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/44597498",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色　赤"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "780",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/44597498",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色　青"
+      }
+    ]
+  },
+  "/items/55057000": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/55057000#product",
+    "name": "厄除けひょうたん御守 宝来鈴付き 手作り根付 瓢箪お守り 魔除け 開運 ちりめん素材 縁起物 可愛い和風御守 ギフトやプレゼントにも最適 ",
+    "description": "除災招福のお守りや魔除けとされ、縁起の良いものとされてきたひょうたんを、ちりめんで作り、これまた縁起のいい宝来鈴を付け根付けにしました。 全て職人さんの手作りです。  色は赤、ピンク、ブルー、グリーンの4色からお選びください。  根付け紐の長さ：11cm 宝来鈴付 全体の長さ：15cm ひょうたんの大きさ：長さ 3cm、直径 1.7cm、重さ 3ｇ  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-  厄除けや除災のお守りとして、ひょうたん御守を販売しています。 ひょうたんは、古くから縁起物として愛されており、瓢箪に神霊を宿しているとされています。 手触りの良いちりめんの布が掛けられ、宝来鈴が付いているため、身につけていると気分もよくなります。また、カラフルな織り成す模様が、癒しの効果も期待できます。  このお守りを身につけることで、良いことが起こるよう御利益をお祈りしています。  ※お守りとして扱い、保管・手入れの際は注意してください。   ひょうたんとは？  ヒョウタンは、ウリ科の植物。和語ではひさご、ふくべといいます。 この植物の果実を加工して作られる「ひょうたん」は、「瓢」の「箪（容器）」という意味となります。  最古の栽培植物の一つで、原産地のアフリカから食用や加工材料として世界各地に広まったと考えられています。乾燥した種子は耐久性が強く、海水にさらされても発芽します。  一般的には、上下が丸く真ん中がくびれた形の品種を呼ぶますが、球状から楕円形、棒状や下端の膨らんだ形など品種によって様々な実の形があります。  観賞用のヒョウタンの中にはククルビタシンという苦味成分のある植物毒を含有しているものがあり、嘔吐と下痢を伴う重篤な胃および腸不全を引き起こし、稀に死亡することもあるため、注意が必要です。  【種類】  ヒョウタンと同一種のユウガオは、ククルビタシンの少ない品種を選別した変種で、食用となる干瓢の原料として利用されます。 また、ヒョウタン型をした品種の中にも、ククルビタシンの少ない食用品種が存在します。  【歴史】  日本では、縄文時代草創期から前期にかけての遺跡である鳥浜貝塚から種子が出土しています。文献史学上では『日本書紀』（720年成立）の中で瓢（ひさご）として初めて公式文書に登場しています。その記述によると仁徳天皇11年（323年）、茨田堤を築く際、水神へ人身御供として捧げられそうになった茨田連衫子という男が、ヒョウタンを使った頓智で難を逃れたといいます。  古代のヒョウタンは現在のような括れた形態ではなく通常の植物の実のような筒のような形をしていたことが分かっており、突然変異で今日知られているような特徴的な形が発現し、それが人伝に栽培されて世界中に広まった、とされています。  【神具】  日本の神道では中に神が宿る縁起物とされ、神社で破魔矢や絵馬、お守りに付けられます。大分県宇佐市には専門の加工業者があり、契約農家が収穫したヒョウタンを水に2カ月漬け、腐った中身と外皮を取り除いて天日で乾燥させ、塗料と磨きで表面を加工します。  出雲大社の爪剥祭では、生のヒョウタンを胴切にし、麻茎製の柄を付けたものをヒシャクとして、御神水を供える時に使用する伝統があります。これはヒョウタンに宿る霊力を用いるという意味を含むといいます。  【風水】  風水では、ヒョウタンには邪気を払う力が宿るとされ、また中国語の「葫芦」（ヒョウタン）は「語録」「福禄」と同じ発音の「フールー」であるため古代より幸運を招くお守りとして玄関に掛けたり、携帯することで邪霊を払うといわれ、縁起物として土産物店でよく見かけます。中国の伝説には、ヒョウタンを携える人物がしばしば登場します。道教の八仙人の一人、李鉄拐も金のヒョウタンを常に肩から下げていたとされます。済公和尚、魯智深なども常にヒョウタンを携行していたようです。  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-*-*- 厄除けや魔除けの象徴とされる「ひょうたん」をモチーフにした、ちりめん素材のかわいい手作りお守り。宝来鈴が付いた根付タイプで、スマホやバッグにも取り付けやすく、持ち歩きに便利です。縁起の良いモチーフとして、開運や除災を願うギフトにもぴったり。和風デザインでプレゼントにも喜ばれます。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/78c11b19d58946d2224d1a3c73f6aae4.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ee801178d823b94fddcf44e4d0618f53.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "960",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/55057000",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "赤"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "960",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/55057000",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "960",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/55057000",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "960",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/55057000",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "緑"
+      }
+    ]
+  },
+  "/items/56964142": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/56964142#product",
+    "name": "寿守 淡路結びのお守り 魔除け・厄除け・招福に 水引デザインの開運御守り ストラップ型 根付タイプ 結婚式の引出物にも最適 和風ギフト ",
+    "description": "水引で魔・厄を除け、重ねて結ぶことで寿（良いこと）が重なるように願いが込められています。  【水引の色：金、銀、ピンク、ブルー　の4色からお選びください】  ・サイズ：長さ約12.5cm　　※水引の部分　直径約2cm ・根付け紐の長さ9cm（ゴム製）、全体の長さ12cm ・根付け紐：白と金のゴム房 ・重さ：9ｇ ・タッセル付き(長さ約5cm） ・水引は淡路結びを繋げています。 ・水引の中はφ20mmのオーロラガラスが入っています。  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*  【水引結びの最高位「あわじ結び」】  あわじ結び （あわび結び） は、最高位の水引結び。神事・佛事をはじめ、吉凶全ての基本結びとなっています。水引細工の多くはこの結びを応用しているそう。  あわじ結びは“結びきり”と言われる結びの一つで、一度結んでしまうとほどくのが難しいことから結婚祝いなどの一度きりのお祝いの時に使われます。  また両端を引っ張るとさらに固く結ばれることから、「末永く途切れないお付き合いをよろしくお願いします」という願いも込められているそうです。  日本古くからある慣用なので、和婚花嫁さんにとってもおすすめ。  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-*-*- 縁起の良い「淡路結び」を水引デザインにあしらった寿守は、厄除け・魔除け・招福を願う和風のお守り。根付タイプでストラップとして使え、バッグやスマホにも取り付けられます。結婚式の引出物や大切な方へのギフトにもぴったりな開運アイテム。和雑貨としても美しく、幸運を呼ぶ縁起物です。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/82deb4a69f672863b53d62d564b27dfd.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/34c289cde3c1e625b46844fcb0dd2a04.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1580",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56964142",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "水引の色：金"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1580",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56964142",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "水引の色：銀"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1580",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56964142",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "水引の色：ピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1580",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56964142",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "水引の色：ブルー"
+      }
+    ]
+  },
+  "/items/56963893": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/56963893#product",
+    "name": "卓上ミニ木札御守り 4寸サイズ スタンド付き 開運厄除け 招福 除災 小さな木札お守り デスクや玄関に 和風インテリアにも最適 ",
+    "description": "開運・厄除けに祈念しました。ご祈祷のお神札（ふだ）を縦4寸（12cm）とコンパクトにした風格のあるお守りです。  スタンド付きですので机の上やタンス、下駄箱の上など、どこでもおけるミニサイズです。 木彫りではなく、和紙柄で包み、叶う紐で留めてあり、綺麗なデザインも楽しめます。  ◆開運厄除の和紙柄は3種類からお選びください◆  ご祈祷のお神札（ふだ）を縦4寸（12cm）とコンパクトにした風格のあるお守りです。 スタンド付きですので、お好きな場所に置けます。  ・木札のサイズ：横40mm × 縦120mm × 厚さ4mm ・重さ約20ｇ ・スタンドサイズ：横約70mm × 高さ約90mm ・木札をスタンドに立てたときの高さ：約13cm  ★開運厄除の和紙柄は3種類　（他にも学業向上が2種類あります） https://www.goodtimeschool.jp/items/56963951  ★紐留は「叶う結」になっています。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-  開運・厄除けに祈念された、卓上型ミニ木札御守りが登場しました。 コンパクトな4寸サイズに、風格のあるお守りがぎゅっと詰まっています。 木札の表面にはお札そのままの紋様が繊細かつ美しく表現されており、お部屋に飾ってもかわいらしいチャームポイントになります。又、スタンドに立てていると、木目が美しく気品が感じられます。  ご祈祷のお神札（ふだ）をミニチュアサイズにした、小さな木札スタンドをスッキリと飾っておくことで、開運招福・除災厄除けのパワーを邪気から守ってくれます。  大切な人へのプレゼントや、自分へのご褒美にも是非どうぞ。開運・厄除けのパワーを招き入れ、日々の生活にヒーリングストーリーを感じてみませんか。   ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-*-*- 開運・厄除け・招福を願う「卓上型ミニ木札御守り」は、スタンド付きでそのまま飾れる4寸サイズのお守りです。デスクや玄関、リビングにも置けるインテリア性の高いデザイン。小さくても存在感があり、除災・家内安全・心の安らぎをもたらす縁起物として人気。贈り物や自宅用にもおすすめの御守りです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d9b5c2b1033b556aab0eb0f71b264ded.png",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/88b9a6ea84b93a57024abfbbba8b3599.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1480",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56963893",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "和紙柄：黒と金の麻柄"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1480",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56963893",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "和紙柄：赤と黒の桔梗柄"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1480",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56963893",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "和紙柄：金と花発砲柄"
+      }
+    ]
+  },
+  "/items/56963951": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/56963951#product",
+    "name": "卓上ミニ木札御守り 学業成就・合格祈願に スタンド付き 4寸サイズ 小さな学業御守り 受験生の応援に デスクに置ける開運インテリア ",
+    "description": "◆学力向上の和紙柄は2種類からお選びください◆  ご祈祷のお神札（ふだ）を縦4寸（12cm）とコンパクトにした風格のあるお守りです。 スタンド付きですので、お好きな場所に置けます。  ・木札のサイズ：横40mm × 縦120mm × 厚さ4mm ・重さ約20ｇ ・スタンドサイズ：横約70mm × 高さ約90mm ・木札をスタンドに立てたときの高さ：約13cm  ★学力向上の和紙柄は2種類　（他にも開運厄除が3種類あります） https://www.goodtimeschool.jp/items/56963893 ★紐留は縁起のよい「梅の花」になっています。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*- 学業に磨きをかけるための卓上型ミニ木札御守りが登場しました。 4寸サイズの小さな木札には、「合格祈願」や「学業向上」の文字が描かれています。 スタンド付きなので、お部屋の机やワークスペースに置かれても場所をとらず、手軽に使用できます。  木札には、日本古来からの神聖な森林浄化技術「森林浄化法」が用いられており、その力をお守りにも込めています。この御守りがあなたの学業に力を与え、合格を勝ち取るお手伝いをしてくれることでしょう。  小さな木札スタンドはデスクトップに最適なサイズです。一緒にデスク周りを整えて、落ち着いた空間で勉強に励んでみませんか？  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-*-*- 学業向上・合格祈願にぴったりの卓上型ミニ木札御守り。スタンド付きで自立し、机や本棚に飾れるコンパクトな4寸サイズ。受験生や学生へのプレゼントに最適で、勉強中の集中力を高めるお守りとしても人気です。小さいながらも存在感があり、学業成就を祈るインテリアアイテムとしておすすめです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/070797bdc61695f9e5c2a1a3a61ee57f.png",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/00bee53e702eb74292cd7f8b81622c06.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1660",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56963951",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "和紙柄：桜柄 ブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1660",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56963951",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "和紙柄：桜柄 ピンク"
+      }
+    ]
+  },
+  "/items/64031290": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/64031290#product",
+    "name": "学業成就・交通安全のお守り ランドセル鈴守 合格祈願・学力向上に 小学生向け開運根付 ストラップ型御守り プレゼントに最適 ",
+    "description": "学力向上、交通安全の願いが込められています。 ランドセルやバッグに付けてお持ちください  サイズ：縦 20 × 幅 15 × 厚さ 20 mm 根付け紐の長さ：8cm 全体の長さ：10.5cm 重さ：8ｇ  ランドセルは鉄製です。中に鈴が入っています。  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-  [ランドセルの始まり]  江戸時代後期、幕末のころ、日本の軍人さんは装備品として「背嚢（はいのう）」という布製のカバンを使っていました。背嚢はオランダ語で「ランセル」と呼ばれ、それがなまって「ランドセル」となりました。 明治維新を経て、当時の子どもが学校に通う通学カバンとして背嚢を使うようになりました。これがランドセルの始まりと言われています。  当時、ランドセルは高級品でした。しばらくは一部の富裕層の間でしか使われなかったのですが、その後時代も変わり昭和30年代以降の高度経済成長を迎えた頃から、一般的に普及するようになりました。  軍人さんが使っていたことからもわかるように、ランドセルは丈夫で両手が使えるため、よく動き、走り回るような小学生にピッタリなカバンです。  ・鞄の中身を守ってくれる ・交通事故や転倒時のクッション代わりになる ・体に負担がかかりにくい   [学力向上の願い]  ランドセルは丈夫で体に負担がかかりにくいことから、中に重量のある教科書やノートをたくさん入れることができます。中には10kg前後に重さのランドセルを毎日背負って学校と自宅を往復しています。 毎日の学習で使った教科書やノートをその日にうちに自宅で復習をする、または予習をする、学力を上げるためには欠かさない、当たり前の学習法です。 日々の学習の努力がこのランドセルに詰まっています。    [安全への願い]  前述したように、ランドセルは転倒時や不遇な交通事故などに怪我を軽減させる働きもあります。 また、背中が重いので全力で走れないことから、無理な横断や信号無視も少なくなります。防犯ブザーをランドセルの横に付ければ、何かあってもすぐに作動させることもできます。 よく、防犯ブザーと一緒にお守りを付けてらっしゃるお子様も見受けられますね。  【詳細はこちらから】 https://www.goodtimeschool.jp/blog/2024/02/16/134147  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242   *-*-*-*-*-*-*-*-*- ランドセル型のかわいい鈴守は、学業成就や交通安全、合格祈願を願う小学生向けのお守り。ストラップとして使える根付タイプで、ランドセルやバッグに取り付けやすく、毎日のお守りとして最適です。学力向上や安全を願うプレゼントとしても人気。おしゃれで実用的な開運グッズとしておすすめです。 *-*-*-*-*-*-*-*-*-   ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/bf2b78f41878c07a9ba679de8d318a80.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/80791c4fd7bba212c102455cbab13126.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1450",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/64031290",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "赤"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1450",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/64031290",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "黒（根付け紐の色：白）"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1450",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/64031290",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "イエロー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1450",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/64031290",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1450",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/64031290",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/87130809": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/87130809#product",
+    "name": "合格祈願 学業成就のお守り クリップ式 しおりタイプ 志望校合格・試験合格に 中学受験・高校受験・大学受験 応援御守り 成功祈願・資格取得におすすめ ",
+    "description": "【合格祈願・学業成就御守】  クリップ式の御守りです。（紐は飾りとなりますので、留めることはできませんのでご注意ください。） 桜のチャームと宝来鈴付き。  教科書や参考書のブックマークとして、または、手帳などに付けてお持ちください。 飾り紐と宝来鈴の色はピンクとブルーの２種類です。  ・重さ：4.0ｇ ・本体のサイズ：縦70　横18　厚さ8ｍｍ ・紙クリップ式 ・宝来鈴付き ・紐の長さ4ｃｍ ・パッケージサイズ：縦10 横8、厚さ1cm　重さ6ｇ  *-*-*-*-*-*-*-*-*-*-*- ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-  「学業成就」>「合格祈願」  学業成就とは、勉学がはかどり目標を達成したり成績が向上したりすることを祈願することです。学業成就のお守りは、勉強全般においての目標が叶うと言われており、合格祈願のお守りに似ていますが、受験や試験などの合格だけでなく、学校のテストや成績などのアップを目指す人にも効果があるとされています。  同じ意味合いで使われるこの言葉ですが、学業成就のほうが幅広く、より具体的に「試験合格」のような願意が合格祈願となります。   ★学業成就★  勉強達成: 学習を完了することです。学び取るべき事柄がすべて理解・習熟された状態を指します。 成績向上: 採点や評価の結果が前回より上がった状態。学業における技能や知識の増加を示します。 学力充実: 学業を円滑に進めるための知識や技能が十分に備わっていることを指します。 卒業達成: 学校教育を完了し、卒業証書を獲得すること。または最終的な学業目標の達成を指します。 資格取得: 特定の学科等を修了し、公的な認証資格を獲得すること。英検1級、日商簿記２級など。  ★合格祈願★  成功祈願: 幅広い範囲の成功、より一般的な祈りや願いを表します。 良績祈願: 学校のテストや、競技会で良い成績を取ることを祈るなど、優れた結果や成績を祈願します。 試験突破祈願: 特定の試験をクリアすること、試験に関連したステージや過程を突破することを祈願します。 志願達成祈願: 志望する学校や職場への入学・入職をし、目標達成により生活の次の段階に進むことの願いを示します。 目標達成祈願: 合格祈願の範囲を超え、広範な達成を含むようにと、一般的な目標達成されることを祈ることを指します。  どんなお願いをするのか、きちんと考慮し、適切な種類の御守りを授かりましょう。  ◇学業成就御守（ゴム製根付け紐タイプ）はこちら https://www.goodtimeschool.jp/items/87130500  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242   *-*-*-*-*-*-*-*-*- 志望校合格・学業成就・資格取得を願う「合格祈願のお守り」は、受験生や挑戦を続ける人に寄り添う御守です。中学・高校・大学受験や各種試験の成功祈願に。机やバッグに入れて持ち歩けるコンパクトサイズで、勉強のお守りとして最適。応援ギフトとしても人気の、想いを込めた合格祈願アイテムです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7a57a33549f93fa55d84045b8303c241.png",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/579d7c593444bf1183a43288794dbd2b.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1380",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87130809",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：ピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1380",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87130809",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：ブルー"
+      }
+    ]
+  },
+  "/items/87130500": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/87130500#product",
+    "name": "学業成就 目標達成のお守り 木札タイプ 志望校合格・資格取得・学力向上に 学び直しやリスキリングにも最適な御守 成功祈願の応援お守り ",
+    "description": "【学業成就御守】  御守りは木札で作られ、ビニールケースに入っていますので、雨の日も安心。根付け紐は伸び縮みできるゴム製を使用しました。福達磨と宝来鈴のチャーム付きです。  御守りはカバン等に、チャームは取り外して筆箱やポーチなどに付けることができます。  ゴム製根付け紐と宝来鈴の色はピンクとブルーの２種類です。  ・重さ：7.0ｇ ・本体のサイズ： 縦65　横40　厚さ10ｍｍ ・根付け紐の長さ：15ｃｍ（ゴム製なので伸びます） ・宝来鈴付き ★達磨のチャームは取り外しできます。  *-*-*-*-*-*-*-*-*-*-*- ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-  「学業成就」>「合格祈願」  学業成就とは、勉学がはかどり目標を達成したり成績が向上したりすることを祈願することです。学業成就のお守りは、勉強全般においての目標が叶うと言われており、合格祈願のお守りに似ていますが、受験や試験などの合格だけでなく、学校のテストや成績などのアップを目指す人にも効果があるとされています。  同じ意味合いで使われるこの言葉ですが、学業成就のほうが幅広く、より具体的に「試験合格」のような願意が合格祈願となります。   ★学業成就★  勉強達成: 学習を完了することです。学び取るべき事柄がすべて理解・習熟された状態を指します。 成績向上: 採点や評価の結果が前回より上がった状態。学業における技能や知識の増加を示します。 学力充実: 学業を円滑に進めるための知識や技能が十分に備わっていることを指します。 卒業達成: 学校教育を完了し、卒業証書を獲得すること。または最終的な学業目標の達成を指します。 資格取得: 特定の学科等を修了し、公的な認証資格を獲得すること。英検1級、日商簿記２級など。   ★合格祈願★  成功祈願: 幅広い範囲の成功、より一般的な祈りや願いを表します。 良績祈願: 学校のテストや、競技会で良い成績を取ることを祈るなど、優れた結果や成績を祈願します。 試験突破祈願: 特定の試験をクリアすること、試験に関連したステージや過程を突破することを祈願します。 志願達成祈願: 志望する学校や職場への入学・入職をし、目標達成により生活の次の段階に進むことの願いを示します。 目標達成祈願: 合格祈願の範囲を超え、広範な達成を含むようにと、一般的な目標達成されることを祈ることを指します。  ◇合格祈願御守（クリップ式）はこちら https://www.goodtimeschool.jp/items/87130809  どんなお願いをするのか、きちんと考慮し、適切な種類の御守りを授かりましょう。   ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242   *-*-*-*-*-*-*-*-*- 学業成就・志望校合格・資格取得を目指す方への応援アイテム。目標達成や学力向上を祈願した御守りは、受験生だけでなくリスキリングや学び直しを頑張る社会人にもおすすめです。日々の努力を支え、成功へ導く縁起の良いお守りとして、プレゼントや自分用にも最適な学習応援アイテムです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6885f39ad70f1dcc2e8eb66f7a94ad25.png",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/bd9c745db7778e7d1d4c0c9b742462f3.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1480",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87130500",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：ピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1480",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87130500",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：ブルー"
+      }
+    ]
+  },
+  "/items/47985666": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/47985666#product",
+    "name": "交通安全守 ワイヤーロックタイプのお守り 厄除け・自転車・バッグ用に 御神札神社一般祈祷済み 5色紐付き 携帯便利な交通安全御守 ",
+    "description": "交通安全守（御神札神社一般）5色紐　ワイヤーロックタイプ   ビニール製の筒の中に厄除け5色紐と御神札が入っています。バッグ、ランドセルや自転車などに簡単に取り付けられるようワイヤーロック式になっています。（鍵はありません）  ビニール製ですので、雨にも強い！ 雨の日でも風の日でも、いつでもお出かけ時に身に着けて交通安全と厄除けを願いましょう。  長さ：18cm ビニール筒の直径：8mm ワイヤーロックした時の直径：約5cm 重さ：9.2ｇ 留め具：プラスチック製  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-  交通安全守は、ご自身や大切な人たちの交通安全を祈願するための御守りです。 神社で作成された御神札を使用しており、厄除け効果も期待できます。 5色の紐がビニールの筒に入った、ロックタイプで便利にお持ち運びできます。自転車やバッグにつけて、身につけることで交通事故や災害から身を守ることができます。  この御守りを手にすることで、毎日の生活に少しでも安心と安全が加わりますように。 大切な人へのプレゼントとしても最適です。  *-*-*-*-*-*-*  5色紐について  五色は、青・赤・黄・白・黒（玄）の5色です。ただし、染料や色彩認識の関係で、青は緑、黒は紫で表されることが多いので、実際には緑・赤・黄・白・紫になっています  ・五色の意味・由来は？  五色は、古代中国の陰陽五行説に由来します。陰陽五行説とは、万物は「陰・陽」の二気、「木・火・土・金・水」の五行で成り立ち、これら陰陽五行の要素で世の中は回っているという思想で、日本の文化に深く関わっています。  ・厄除けの5色  厄除けの色は、陰陽道の四聖獣の都を守る色になぞらえて、四神相応といいます。  青（緑）・・・青龍 東を守護する聖獣。姿は通常の龍と同じで、青色です。  赤・・・朱雀 南を守護する聖獣。四霊獣の鳳凰のことです。  白・・・白虎 西を守護する聖獣。姿は白い虎です。  黒（紫）・・・玄武 北を守護する聖獣。亀と蛇を合成したような姿をしています。  この中心を「黄」としたものが5色です。  5色紐の四聖獣と交通安全御守護があなたを厄から守ってくれることでしょう。  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242   *-*-*-*-*-*-*-*-*- ワイヤーロックで簡単に取り付けられる「交通安全守」は、自転車やバッグ、カバンに装着できる便利なお守りです。5色紐付きでカラフル、厄除けや安全祈願にも最適。御神札神社にて祈祷された御守なのでご利益も安心。通学や通勤、お子さまの安全を願う贈り物としてもおすすめの交通安全御守です。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9b429fd07468149bd292033259644509.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/791374bbba416c25c0162e68124d9664.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1330",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/47985666",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "紺"
+      }
+    ]
+  },
+  "/items/88351441": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/88351441#product",
+    "name": "交通安全御守 蛍光色リングタイプ 防水仕様 自転車・バイク・ランドセル・ベビーカーに最適 夜間の視認性アップ おしゃれな安全お守り ",
+    "description": "交通安全をご祈願するお守りです。 暗いところで光があたると反射して蛍光色として発光します。暗い夜道で反射材としてお使いいただけます。  自転車やバイク、ベビーカー、ランドセル、カバンなどにお付けください。バックルはプラスチック製で簡単に装着できます。  ビニール製ですので、雨にも強い！ 雨の日でも風の日でも、いつでもお出かけ時に身に着けて交通安全と厄除けを願いましょう。  1個ずつＰＰ袋に入れ、交通安全のステッカー付です。そのままプレゼントにお使いいただけます。  長さ：17.5cm ゴムワイヤーの太さ：8mm 内径：約4.5cm 重さ：5ｇ  ◆翌日スピード発送 クリックポストにて翌日発送いたします。   交通安全守 御神札神社一般 5色紐 ワイヤーロックタイプ  はこちら https://www.goodtimeschool.jp/items/47985666  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-*-*- 夜間でも目立つ蛍光色リングが特徴の交通安全御守。防水仕様で、自転車・バイク・ランドセル・ベビーカーなどに手軽に取り付け可能です。視認性が高く、お子さまの通学や外出時の安全対策にも最適。カラフルでおしゃれなデザインなので、安全祈願を兼ねたギフトにもおすすめの御守です。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/17fd87384baaff602369e14c071d40e0.png",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/585b8813b5c082f9ac0ea23a4752446d.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "880",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/88351441",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "黄緑"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "880",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/88351441",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "オレンジ"
+      }
+    ]
+  },
+  "/items/63894589": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/63894589#product",
+    "name": "ご縁結守 縁結びのお守り 5円玉＆牛乳パック再利用素材使用 恋愛運・結婚運アップに 開運 根付 ストラップ型 プレゼントにも最適 ",
+    "description": "五円と結びですべての縁が繋がりますように。  五円玉と結びで縁が繋がるよう紐で堅く結びました。 たくさんのご縁が繋がるよう、祈願しています。 いつも身に付けてお持ちください。  根付け紐の色が4色あります。（それぞれ和紙柄も違います）  1. 根付け紐の色（赤）　和紙結の柄：赤・黒葵柄 2. 根付け紐の色（紫）　和紙柄：青海波柄 3. 根付け紐の色（ピンク）　和紙柄：赤桜柄 4. 根付け紐の色（ブルー）　和紙柄：青桜柄   サイズ：縦50 × 幅35 × 厚さ15 (mm)　※お守り本体 根付け紐：約11cm 全体の長さ：約17cm 重さ：7ｇ  ・5円玉付き ・和紙の結びは牛乳パックのリサイクルを使用しています。  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  -*-*-*-*-*-*-*-*-*-*-*  SDGs、3Rは、人と人の繋がりが欠かせません。お互いが尊重し合えば、良いご縁も生まれます。 そして、いつまでもご縁が続きますようにとの願いが込められています。  飲み終わった紙パックは、トイレットペーパー等に生まれ変わります。  　[紙パックのリサイクルは市民から始まりました]  紙パックはポリエチレンが両面にラミネートされているので、新聞や雑誌などの古紙とは異なり、紙資源として適さない「禁忌品」とされていました。 　1984（昭和59）年、山梨県大月市の主婦グループ「たんぽぽ」は、上質なパルプの紙パックが捨てられていることはもったいないと思い、日本で初めて紙パックの回収に取り組み始めました。 　しかし、「禁忌品」であった紙パックを紙資源とするためには、量を確保すること、集めた紙パックを保管する場所、中身が腐ること、ポリエチレンを除く設備が必要なこと等多くの課題がありました。 　「たんぽぽ」は、古紙回収事業者や家庭紙メーカーをはじめとして多くの関係者と連携し、「洗って・開いて・乾かして」というひと手間かけることによって紙パックを資源とすることに尽力しました。こうして海外とは異なる日本独自の高品質な再生品へのリサイクルの仕組みができました。  出典：http://www.yokankyo.jp/recycle/   【5円玉のご縁】  5円玉1枚に「ご縁がありますように」という願いを込めてお賽銭としてよく使われます。5円玉には穴が開いているので「先が見通せる」という意味もありますが、本来は材料の節約で穴を開けたとのこと。 世界中でモノの値段が上がり、節約志向が高まっている中、ピッタリの縁起物ではないでしょうか  ☆5円を重ねて願うことも。 　5円(1枚)  ：ご縁がありますように 　10円(2枚)：重ね重ねご縁がありますように 　15円(3枚)：十分ご縁がありますように 　20円(4枚)：よいご縁がありますように 　25円(5枚)：二重にご縁がありますように  いつも身に付けて、「ご縁がありますように」と願いましょう。  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242   *-*-*-*-*-*-*-*-*- 縁起の良い5円玉を使用し、牛乳パックの再利用素材で作られたエコなお守り「ご縁結守」。恋人との良縁や結婚運、恋愛成就を願う方にぴったりの縁結び御守です。開運根付としてバッグや財布に取り付けやすく、プレゼントにも人気。やさしい想いと環境への配慮が込められた、心温まる縁結びのお守りです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/dc799a492cec6be272a3306e985c2245.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/375b33f9f979b385b193d0fb63113a82.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "920",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/63894589",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "1. 根付け紐の色（赤）　和紙結の柄：赤・黒葵柄"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "920",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/63894589",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "2. 根付け紐の色（紫）　和紙柄：青海波柄"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "920",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/63894589",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "3. 根付け紐の色（ピンク）　和紙柄：赤桜柄"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "920",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/63894589",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "4. 根付け紐の色（ブルー）　和紙柄：青桜柄"
+      }
+    ]
+  },
+  "/items/40528686": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/40528686#product",
+    "name": "縁結び 長寿のお守り 結守 折り鶴モチーフ 夫婦円満・結婚記念日に 敬老の日 誕生日 父の日 母の日 プレゼントに最適な根付御守 ",
+    "description": "鶴の色：赤と青　　2羽ペアセット  羽の長さ：約4cm　｜　高さ：約２cm 頭から尾までの長さ：約２cm 根付け紐の長さ：約6cm 縁起のいい宝来鈴付き  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-  大切な人や物との縁を糸のように紡ぎ繋げる様、祈願されています。   折り鶴は防水処理を施した和紙を用いて、職人さんが丹精こめて1羽づつ作りました。  赤と青の鶴が2羽あり、2人で一つずつ持つことで縁がつながる様にと考えて作ってあります。   「鶴は千年、亀は万年」と言われるように、鶴には長生きや円満の象徴とされています。  「結び」ついて「円満」に過ごせる様にと願いを込めて作りました。  *-*-*-*-*-*-*-*-*-*-*-*-  「縁結び 長寿のお守り 結守 折り鶴」は、大切な人との絆を深めるお守りです。  美しく折り上げた鶴は、長寿と愛情を意味し、ずっとつけていても飽きのこないデザインです。手のひらサイズで、バッグやポーチにも取り付けられるので、常に身近にお守りとして持ち運べます。  鶴のお守りは、日本の伝統的な文化と手作業によって丁寧に作られました。職人たちの思いを込めて丁寧に作り上げられたお守りは、心と身体を癒し、幸運を招くと言われています。  結婚記念日や父の日、母の日、誕生日などのプレゼントにもおすすめです。大切な人に幸せを願って、是非プレゼントに。  ※ご使用の際には、水に濡らさないように注意してください。  *-*-*-*-*-*-*-*-*-*-*-*-*-*  【鶴について】  ツルは古代中国の伝説では仙界に棲む鳥とされました。ツルは吉祥と長寿の象徴で、古来より高位高官の身に着ける装飾品に用いられました。  日本では昔話にもよく登場し、「鶴は千年、亀は万年」などカメと共に長寿の象徴とされています。他の動物より寿命が長いのは確かですが、実際の寿命は動物園での飼育の場合であっても50年-80年程度で、野生では30年位と推定されています。「鶴姫」など名前としても使われています。 折鶴、千羽鶴なども、日本の象徴となっています。  ツルは地上性、特に湿地での活動に高度に順応した鳥であって、一部の種類を除き木に止まることはできません。 よく水墨画でツルがマツ等の樹に止まる構図がある（いわゆる「松上の鶴」。伊藤若冲の『旭日松鶴図』や広渡湖秀の『桃鹿・巌波双鶴図』を始め数作が知られる）が、これは一般にコウノトリとツルとを混同してのことだとされています。  信じがたい事実ですが、江戸時代には鶴の肉は白鳥とともに高級食材として珍重されていました。武家の本膳料理のために鶴の料理が振る舞われたことが献立資料などの記録に残されています。鶴の肉は、江戸時代の頃の「三鳥二魚」と呼ばれる5大珍味の1つであり、歴史的にも名高い高級食材です。三鳥二魚とは、鳥＝鶴（ツル）、雲雀（ヒバリ）、鷭(バン)、魚＝鯛（タイ）、鮟鱇（アンコウ）のことです。  日本航空（鶴丸）やルフトハンザドイツ航空などの航空会社のシンボルにも使用されていますね。  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-* 折り鶴をモチーフにした「結守」は、縁結びや夫婦円満、長寿祈願の願いを込めたお守りです。父の日・母の日・敬老の日・誕生日・結婚記念日など、大切な人への贈り物にもおすすめ。根付タイプで持ち運びにも便利で、心を込めた和風ギフトとして多くの方に喜ばれています。幸福と健康を願う縁起物です。 *-*-*-*-*-*-*-*   ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3d522ab498a19ca1eb4d57f31314d8ac.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3db155bc1c0e2173a40aa620ed6c3e3e.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "880",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/40528686",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "赤と青"
+      }
+    ]
+  },
+  "/items/45467990": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/45467990#product",
+    "name": "御朱印帳留 梅の花モチーフ ちりめん素材 かわいい 御朱印帳バンド 2色梅＆縁結び ブックバンドタイプのお守り ",
+    "description": "かわいい御朱印バンドが出来ました！ 御朱印帳バンド ちりめん 梅の花  蛇腹式の御朱印帳をカバンの中や持ち歩きされる時に開いてしまわないように留めるバンドです。通常サイズ（横11cm）から大きめの御朱印帳（横14cm）程度までご利用できます。  梅の花には縁を繋ぐ力があると言われています。 御朱印帳や本など、大切な物を留めてご使用ください。 お弁当箱のバンドとしても！   サイズ バンド：折径10cm　幅0.5cm×2本 素材 バンド:平ゴム　　　梅の花飾り:ちりめん ＊ちりめん素材を使用した手工芸品のため、お届けする品の色柄が画像掲載品と多少異なる場合がございます。ご了承ください。  【カラー】 全6種類からお選びください。  1. ピンク＆ブルー 2. ピンク＆黄緑 3. ピンク＆藤色 4. オレンジ＆ブルー 5. オレンジ＆黄緑 6. オレンジ＆藤色　   [こちらもご覧ください] https://www.goodtimeschool.jp/blog/2023/08/24/115120  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*  梅の花とちりめんの組み合わせが美しい、御朱印帳留・御朱印帳バンド・ブックバンドです。  縁起物である梅の花をモチーフに、伝統の技法であるちりめんを取り入れた高級感のある仕上がりに。留めるだけでなく、御朱印帳の装飾にもなるアクセサリーです。  仕事や旅行先で訪れる寺社仏閣に、御朱印帳を持参して記念に御朱印を頂く方も多いと思います。そんな方に、おすすめしたい一品です。大切な思い出が詰まった御朱印帳を、更に特別なものへと変えてくれます。  美しく飾り立てられた御朱印帳で、心安らかなひと時をお過ごしくださいませ。  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-*-*- 御朱印帳を美しくまとめる「御朱印帳留」は、ちりめん素材の2色梅の花が可愛いアクセント。縁結びの意味を持つ梅モチーフで、お守りとしてもお使いいただけます。伸縮性のあるバンドタイプで、ブックバンドとしてもしっかり固定。神社巡りや御朱印集めを楽しむ方にぴったりの和風アイテムです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7522c06f6ffa289fae5eac719f16c6c1.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c6a58a890de4af1b108265f47a3d5ffb.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1080",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/45467990",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "1. ピンク＆ブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1080",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/45467990",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "2. ピンク＆黄緑"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1080",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/45467990",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "3. ピンク＆藤色"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1080",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/45467990",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "4. オレンジ＆ブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1080",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/45467990",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "5. オレンジ＆黄緑"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1080",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/45467990",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "6. オレンジ＆藤色"
+      }
+    ]
+  },
+  "/items/87128169": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/87128169#product",
+    "name": "金箔入り 開運御守 招き猫 七福神 めで鯛 桜 縁起物 御守り お守り 金運上昇 ゴールド 幸運 商売繁盛 ",
+    "description": "縁起物の金箔と縁起物を組み合わせて、素敵な御守りが出来上がりました。  【金箔入　七福神守】 七福神には、「七難即滅、七福即生」の説に基づくように、七福神を参拝すると七つの災難が除かれ、七つの幸福が授かると言われています。 金箔と一緒に御守りとなりました。  ・重さ：4g　　本体のサイズ：縦20、横20、厚さ7mm ・根付紐は三つ編み（青）　根付け紐の長さ：7ｃｍ ・全体の長さ：10ｃｍ ・パッケージ：縦10*横8*厚1cm　　重さ5ｇ *-*-*-*-*-*-*-  【金箔入　めで鯛守】 「おめでたい」と「たい」の語呂合わせと、目の前の食卓に「めでたい」ものが皿に盛られることで、お祝いの宴席にふさわしい縁起ものとされています。 めで鯛御守りとなりました。  ・重さ：2g　　本体のサイズ：縦25、横15、厚さ7mm ・根付紐は三つ編み（赤）　根付け紐の長さ：7ｃｍ ・全体の長さ：10ｃｍ ・パッケージ：縦10*横8*厚1cm　　重さ5ｇ *-*-*-*-*-*-*-  【金箔入　開運桜守】 桜は、生命が芽吹く春の訪れを連想させることから、「物事の始まり」として縁起が良いといわれています。 又、ほぼ一斉に花を咲かせることから、「豊かさ」や「繁栄」という意味も込められています。  ★根付け紐の色　ピンクと紫からお選びください。 ・重さ：3g　　本体のサイズ：縦25、横25、厚さ7mm ・根付紐は三つ編み　根付け紐の長さ：7ｃｍ ・全体の長さ：10ｃｍ ・パッケージ：縦10*横8*厚1cm　　重さ5ｇ *-*-*-*-*-*-*-  【金箔入　招き猫守】 招き猫は開運招福や千客萬来のご利益をもたらすシンボルとして有名です。 昔は養蚕の縁起物とされていましたが、現在では商売繁盛の縁起物として広く知られるようになりました。  ・金箔入招き猫守は、左手を挙げて人脈を招き、白色のねこは開運招福のシンボル、そして金箔で金運を呼び込み、商売繁盛を祈願いたします。  ★根付け紐の色　ピンクと青からお選びください。 ・重さ：3g　　本体のサイズ：縦20、横20、厚さ7mm ・根付紐は三つ編み　根付け紐の長さ：7ｃｍ ・全体の長さ：10ｃｍ ・パッケージ：縦10*横8*厚1cm　　重さ5ｇ *-*-*-*-*-*-*-*-*-*  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*  縁起物の「金箔」 https://www.goodtimeschool.jp/blog/2024/07/14/205531  仏教では極楽浄土を表現する神聖な色としても使われてきた「金」。 金色は、金運を呼び、潜在能力を引き出して成功をもたらす色とも言われています。  色褪せることのない金は、永遠を象徴し、美しい輝きから富や成功を表すものとしても古くから様々なところで尊いものとして使用されています。  金の輝きは、身近にあるだけで心を豊かにしてくれます。 そして輝きを失わずに、身近な存在として加工されたものが金箔です。 金箔は、金を極限まで打ち伸ばして作られた箔片のことを指します。職人の技術により1万分の1ミリメートルという薄さにまで伸ばし、様々なものに使われています。  この金箔は、日本国内においては９8％以上が石川県金沢市にて生産されています。2024年の能登半島地震の復興のためにも、みんなで応援していきましょう。   縁起物の金箔と縁起物を組み合わせて、素敵な御守りが出来上がりました。   【金箔入　七福神守】  　七福神  七福神（しちふくじん）とは、福をもたらすとして日本で信仰されている七柱の神のことです。 大黒天（だいこくてん）、毘沙門天（びしゃもんてん）、恵比寿天（えびすてん）、寿老人（じゅろうじん）、福禄寿（ふくろくじゅ）、弁財天（べんざいてん）、布袋尊（ほていそん）とされており、それぞれがヒンドゥー教、仏教、道教、神道など様々な背景を持っています。  「七難即滅、七福即生」の説に基づくように、七福神を参拝すると七つの災難が除かれ、七つの幸福が授かると言われています。 七福神の信仰は、室町時代の末期のころより生じ、当時の庶民性に合致して民間信仰の最も完全な形となって育てられてきました。特に農民、漁民の信仰として成長し、現代に今も生き続けています。   　恵比寿天  七福神中で唯一の日本の神様。いざなみ、いざなぎの二神の第三子といわれ、満三歳になっても歩かなかったため、船に乗せられ捨てられてしまい、やがて漂着した浜の人々の手によって手厚く祀れれたのが、信仰のはじまりと伝えられています。 左手に鯛をかかえ右手に釣竿を持った親しみ深いお姿の、漁業の神で、特に商売繁昌の神様としても信仰が厚いです。  　大黒天  大黒天は、大自在天の化身ともいわれ、大国主命と神仏習合したものです。一度仏となったが、人々に福徳を授けるために再びこの世に現れたといいます。 大地を掌握する神様（農業）でもあります。大きな袋を背負い、打出小槌をもち、頭巾をかぶられた姿が一般によく知られていて財宝、福徳開運の神様として信仰されています。  　毘沙門天（びしゃもんてん）  毘沙門天は、四天王の一仏で、別名「多聞天」といい、七福神の中で、唯一の武将の姿をし、右手に宝棒、左手に宝塔、足の下に邪鬼天の邪鬼を踏みつけています。七福神では、融通招福の神として信仰されています。  　弁財天  弁財天は、七福神の中で、唯一の女神で、元はインド河（水）の神でしたが、やがて音楽の神、言語の神となり、日本に伝わった当初は弁才天と呼ばれました。 その後、財宝・芸術に関係深い吉祥天の性格が吸収され弁財天といわれるようになり、財宝を授けてくださる神へとなりました。知恵財宝、愛嬌縁結びの徳があるといわれています。  　福禄寿（ふくろくじゅ）  福禄寿の名前は、幸福の福、身分をあらわす禄、寿命を表わす寿の三文字からなり、中国、道教の長寿神です。南極老人星の化身であり中国の村や町に住み、人々の信仰を集めたといわれる仙人でもあります。長い頭、長い顎鬚、大きな耳たぶをもち年齢は千歳といわれ、長寿、幸福の徳を持ち、鶴と亀を連れて、左手に宝珠、右手に巻物を括り付けた杖をもつ姿が特徴です。 招徳人望の神様として信仰されています。  　寿老人（じゅろうじん）  寿老人は、福禄寿と同じく星の化身で、にこやかな微笑みをたたえ、手には巻物を括り付けた杖、そして団扇や桃などを持ち、鹿を従えた姿が一般的に知られています。団扇は難を払い、桃は長寿のしるしで、鹿もまた長寿の象徴です。 長寿延命、富貴長寿の神として信仰されています。  　布袋尊（ほていそん） 布袋尊は、弥勒菩薩（みろくぼさつ）の化身といわれ、いつも笑顔を絶やさず人々に接していた人で、大きな袋には宝物がいっぱい入っていて、信仰の厚い人に与えられたといわれます。 笑門来福、夫婦円満、子宝の神として信仰が厚いです。  ※http://www.buddha-world.jp/file/guide/nana2.html　より引用    【金箔入　めで鯛守】  日本では非常に馴染みの深い魚で、赤い色がめでたいとして、お祝いの席でよく出ます。 そのため七福神の一人恵比須様は釣竿で鯛を釣り上げた姿をしています。 神道では重要な地位を占めており、冠婚葬祭等の祭礼に欠かせません。  家庭で調理する場合は購入する鮮魚店で予めさばいてもらう事があります。さばかない一匹まるごとの状態は「尾頭付き」と呼ばれ、頭から尾まで、丸ごと出される姿焼きのことを、昔からまたの名で「目出鯛」（めでたい）と呼ばれていました。 「おめでたい」と「たい」の語呂合わせと、目の前の食卓に「めでたい」ものが皿に盛られることで、お祝いの宴席にふさわしい縁起ものとされています。   【金箔入　開運桜守】  桜は、生命が芽吹く春の訪れを連想させることから、「物事の始まり」として縁起が良いといわれています。 又、ほぼ一斉に花を咲かせることから、「豊かさ」や「繁栄」という意味も込められています。  桜は春を象徴する花として日本人にはなじみが深く、春本番を告げる役割を果たします。入学式を演出する春の花として多くの学校に植えられています。 桜が咲く時期は年度の変わり目に近く、桜の人気は様々な生活の変化の時期であることとも関係しているようです。   【金箔入　招き猫守】  招き猫は開運招福や千客萬来のご利益をもたらすシンボルとして有名です。 昔は養蚕の縁起物とされていましたが、現在では商売繁盛の縁起物として広く知られるようになりました。  招き猫には右手を上げているものと、左手を上げているもの、両手を上げているものがあります。 右手を上げている招き猫は金運を招くという意味があり、左手を上げている招き猫は人脈を招くという意味があります。 そして両手を上げた猫は金運と人脈の両方を招き入れると信じられています。  招き猫は色にも意味があります。 白・・・開運招福 黒・・・厄除け 赤・・・健康長寿 青・・・学業向上 黄・・・金運良縁 金・・・金運上昇 緑・・・家内安全、交通安全 ピンク・・・恋愛成就  と言われているようです。  ※こちらもどうぞ https://www.goodtimeschool.jp/blog/2024/07/14/205531  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-*-*- 金箔入りの豪華な開運御守。招き猫・七福神・めで鯛・桜などの縁起モチーフが揃い、金運上昇・商売繁盛・幸運祈願におすすめ。ゴールドカラーが目を引き、プレゼントや贈答用にも最適。財布やポーチにも入れやすいサイズで、毎日の開運アイテムとして活躍します。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d6824b98a997ffc5787e74ffc0da7886.png",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e6d53418896c73249a909546feec3625.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1650",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87128169",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付紐の色：紺"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1650",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87128169",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "赤"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1650",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87128169",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1650",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87128169",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "紫"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1650",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87128169",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1650",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87128169",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "青"
+      }
+    ]
+  },
+  "/items/87132883": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/87132883#product",
+    "name": "金箔入り 財布御守 蛙 無事カエル 招き猫 めで鯛 小槌 達磨 だるま 金運上昇 お財布 縁起物 金箔 ",
+    "description": "金箔と縁起物を組み合わせた、お財布に入れるサイズの金運上昇のお守りです。  【5種類の中からお選びください。】  いつもお財布に入れてお持ちください。 たくさんの運に恵まれますように。  ※袋を開封せずにそのままお財布等にお入れください。  1.無事かえる　交通安全 2.招き猫　　　商売繁盛 3.鯛　　　　　開運 4.小槌　　　　金運上昇 5.達磨　　　　学業成就 ↑いずれからお選びください。  ・重さ：1ｇ ・パッケージ本体のサイズ：縦45　横50　厚さ3ｍｍ  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-  こちらもご覧ください↓ https://www.goodtimeschool.jp/blog/2024/06/09/225726  「お財布」はお金を入れるもの、として皆さん一つはお持ちかと思います。  そのお財布の中に、金運や縁起を上げるとされるアイテムを入れることで験担ぎとして、何か落ち着くものです。 合わせて、財布に入れてはいけないものもありますので、注意しましょう。  （１）　縁起がよいとされているもの  金運や縁起を上げるために、財布に入れておくとよいものの一つが「縁起がよいとされているもの」です。  ・招き猫 ・カエル ・小槌 ・鯛 ・達磨（だるま）  昔からの迷信や語呂合わせもありますが、一般的に縁起が良いとされています。  （2）金運のお守り  金運をアップさせるためには、金運のお守りを財布に入れておきましょう。  ただしお守りには神様が宿っているとされるので、お守りを入れた財布をお尻のポケットに入れるのはやめましょう。神様にとって居心地が悪いからです。  金運お守りは、財布に入れることで豊かさを引き寄せる効果が期待できます。  （３）　縁起物の「金箔」  仏教では極楽浄土を表現する神聖な色としても使われてきた「金」。 金色は、金運を呼び、潜在能力を引き出して成功をもたらす色とも言われています。  色あることのない金は永遠を象徴し、美しい輝きから富や成功を表すものとしても古くから様々なところで尊いものとして使用されています。  金の輝きは、身近にあるだけで心を豊かにしてくれます。輝きを失わずに、身近な存在として加工されたものが金箔です。 金箔は、金を極限まで打ち伸ばして作られた箔片のことを指します。職人の技術により1万分の1ミリメートルという薄さにまで伸ばすことができます。  この金箔は日本国内では９8％が石川県金沢市にて生産されています。2024年の能登半島地震の復興のためにも、みんなで応援していきましょう。  ★　お得な5種類全種類セットはこちら →　https://www.goodtimeschool.jp/items/87152127  ◆　ブログもご覧ください →　https://www.goodtimeschool.jp/blog/2024/06/09/225726  ★　御守り一覧はこちら →　https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-*-*- 金箔入りの豪華なお財布御守り。蛙（無事カエル）や招き猫、めで鯛、小槌、だるまなど縁起の良いモチーフを集めた金運アップのお守りです。財布やポーチに入れて持ち歩けば、開運・商売繁盛・無病息災の願いを込めたお守りに。プレゼントやお祝い品にもおすすめです。 *-*-*-*-*-*-*-*-*-  ne002105 金箔入　財布御守  無事かえる ne002106 金箔入　財布御守  招き猫 ne002107 金箔入　財布御守  鯛 ne002108 金箔入　財布御守  小槌 ne002109 金箔入　財布御守  だるま  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c0b8668b31418902003685fa21bd471a.png",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7e3687759f7dfd2bf58d0f9fa5babc4b.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "960",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87132883",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "緑"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "960",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87132883",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "白"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "960",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87132883",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "赤"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "960",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87132883",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "金"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "960",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87132883",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "赤"
+      }
+    ]
+  },
+  "/items/87152127": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/87152127#product",
+    "name": "金箔入り 財布御守 （5個全種類セット） 蛙 無事カエル 招き猫 めで鯛 小槌 達磨 だるま 金運上昇 お財布 縁起物 金箔 ",
+    "description": "金箔と縁起物を組み合わせた、お財布に入れるサイズの金運上昇のお守りです。  【5種類 1個ずつ全種類セットです】  いつもお財布に入れてお持ちください。 たくさんの運に恵まれますように。  ※袋を開封せずにそのままお財布等にお入れください。  1.無事かえる　交通安全 2.招き猫　　　商売繁盛 3.鯛　　　　　開運 4.小槌　　　　金運上昇 5.達磨　　　　学業成就  ・1つの重さ：1ｇ ・1つのパッケージ本体サイズ：縦45　横50　厚さ3ｍｍ  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*- 1つをご購入の方はこちらから https://www.goodtimeschool.jp/items/87132883 *-*-*-*-*-*-*-*-*-*-  「お財布」はお金を入れるもの、として皆さん一つはお持ちかと思います。  そのお財布の中に、金運や縁起を上げるとされるアイテムを入れることで験担ぎとして、何か落ち着くものです。 合わせて、財布に入れてはいけないものもありますので、注意しましょう。  （１）　縁起がよいとされているもの  金運や縁起を上げるために、財布に入れておくとよいものの一つが「縁起がよいとされているもの」です。  ・招き猫 ・カエル ・小槌 ・鯛 ・達磨（だるま）  昔からの迷信や語呂合わせもありますが、一般的に縁起が良いとされています。  （2）金運のお守り  金運をアップさせるためには、金運のお守りを財布に入れておきましょう。  ただしお守りには神様が宿っているとされるので、お守りを入れた財布をお尻のポケットに入れるのはやめましょう。神様にとって居心地が悪いからです。  金運お守りは、財布に入れることで豊かさを引き寄せる効果が期待できます。  （３）　縁起物の「金箔」  仏教では極楽浄土を表現する神聖な色としても使われてきた「金」。 金色は、金運を呼び、潜在能力を引き出して成功をもたらす色とも言われています。  色あることのない金は永遠を象徴し、美しい輝きから富や成功を表すものとしても古くから様々なところで尊いものとして使用されています。  金の輝きは、身近にあるだけで心を豊かにしてくれます。輝きを失わずに、身近な存在として加工されたものが金箔です。 金箔は、金を極限まで打ち伸ばして作られた箔片のことを指します。職人の技術により1万分の1ミリメートルという薄さにまで伸ばすことができます。  この金箔は日本国内では９8％が石川県金沢市にて生産されています。2024年の能登半島地震の復興のためにも、みんなで応援していきましょう。   ◆1つご購入の方はこちらから → https://www.goodtimeschool.jp/items/87132883  ★ ブログもご覧ください↓ → https://www.goodtimeschool.jp/blog/2024/06/09/225726  ★ 御守り一覧はこちら → https://www.goodtimeschool.jp/categories/3027242  *-*-*-*-*-*-*-*-*- 蛙（無事カエル）・招き猫・めで鯛・小槌・だるまの5種類が揃った金箔入り財布御守セット。金運アップ・商売繁盛・無事息災など、縁起の良い願いを込めたお守りをまとめて持てるお得なセットです。財布やカバンに入れて携帯しやすく、贈り物やまとめ買いにもおすすめです。 *-*-*-*-*-*-*-*-*-  ne002105 金箔入　財布御守  無事かえる ne002106 金箔入　財布御守  招き猫 ne002107 金箔入　財布御守  鯛 ne002108 金箔入　財布御守  小槌 ne002109 金箔入　財布御守  だるま   ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/997fc106c00d654bd7bab2923aebb6bf.png",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e3e0eaeb2ad6ec8af9cafda043f60f1a.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87152127",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "赤、白"
+      }
+    ]
+  },
+  "/items/63863809": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/63863809#product",
+    "name": "商売繁盛 福猫守 招き猫 猫のお守り 招福 千客万来 三毛猫 縁起の良い猫のお守り かわいい根付け ストラップ",
+    "description": "挙げた右手で「金運」、左手で「人」を呼ぶと言われています。 両手を挙げて、たくさんの「福」を呼び寄せます。  縁起のよい猫のお守りです。  サイズ：縦17mm　幅9mm　厚さ13mm 重さ：5ｇ 全体の長さ（本体+根付け紐）11cm 根付け紐の長さ：8cm  本体の猫は陶器製です。宝来鈴付き 猫本体の色は赤、黄色、青の3色でそれぞれ根付け紐の色も合わせています。  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-  ここ数年でペットの数は犬より猫のほうが多くなりました。 少子高齢化に伴い、飼いやすい猫が人気となっていることが大きな理由ですが、もしかすると縁起の良い動物ということもあるのかもしれません。  猫は昔から魔よけの効果があり、幸運が訪れたりする、縁起が良い動物だとされてきました。  猫は暗闇でも目が見えることから、魔よけや幸運の象徴とされたたといわれています。  　[三毛猫] 三毛猫は、毛色を決定している遺伝子と、染色体が関係し、基本的にはメスになります。 しかし、まれにオスが生まれることがあります。なんとその確率は3万分の1と言われています。  そんな三毛猫のオスは、かなり希少性が高いことから、金運上昇、商売繁盛、などと言われています。 元々メスの三毛猫自体も数が少ないことから、お店など商売をしている家に三毛猫がいると、お客さんが見に来るため、商売繁盛し、「三毛猫は幸運を呼ぶ」と言われるようになりました。 海外においても「MIKE」という愛称の三毛猫。それぞれの毛色に意味があります。 白は福を招き、茶色は無病息災、そして黒は厄除けとされています。  　[かぎしっぽ] かぎしっぽとは、途中で曲がっているしっぽの形が「鍵」のように見えることで、そのまま名づけられました。 かぎしっぽを持つ猫は、幸運を呼ぶ猫として世界中で愛されています。  鍵状になっているしっぽは、幸運を引っかけて鍵をするということで幸運を呼ぶといわれるようになりました。 ちなみに、日本では短いかぎしっぽがよいとされています。  　[白猫] 古来より、白い動物は神の使いとして崇められてきました。 白猫も同様に、幸運を呼ぶといわれています。 また、白猫は恋愛によい影響があるとも考えられています。  　[黒猫] 黒猫はその出で立ちから、怖い不気味なイメージを持つ人も少なくありませんが、実は古来の日本では幸運の象徴でした。 厄よけの招き猫に「黒猫」が使われていることからも、厄を避け、幸せを呼び込むとされています。 海外での「魔女の使いの黒猫」のイメージからマイナーなイメージを持つ人が増えたのかもしれません。  　[オッドアイ] 両目の色が異なる猫をオッドアイと呼びます。その美しい瞳は、神秘的な感じがして引き込まれそうです。 オッドアイを持った猫は希少性が高いことより、幸福をもたらすともいわれています。特に右脳力を強め、直観力や潜在能力を高めるとも言われています。 何か新しいことを始める時、または重要な決断をする時などここぞというときにオッドアイの猫は助けてくれるかもしれません。  　[招き猫] 招き猫には右手を上げているものと、左手を上げているもの、両手を上げているものがあります。 右手を上げている招き猫は金運を招くという意味があり、左手を上げている招き猫は人脈を招くという意味があります。 そして両手を上げた猫は金運と人脈の両方を招き入れると信じられています。  招き猫は色にも意味があります。 白・・・開運招福 黒・・・厄除け 赤・・・健康長寿 青・・・学業向上 黄・・・金運良縁 金・・・金運上昇 緑・・・家内安全、交通安全 ピンク・・・恋愛成就  と言われているようです。  当店の福猫守は赤、黄、青です。こちらの意味も含めてお選びくださいませ。  *-*-*-*-*-*-*-*-*-  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242   *-*-*-*-*-*-*-*-*- 商売繁盛・千客万来を願う「福猫守」。三毛猫モチーフの招き猫デザインで、かわいさと縁起の良さを兼ね備えたお守りです。ストラップタイプで、財布やスマホ、小物に取り付けやすく、毎日の開運アイテムとしてもおすすめ。店舗経営やビジネス成功を願う方への贈り物にも最適です。 *-*-*-*-*-*-*-*-*-   ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6685b5d70a11a6802a711a9e05c4f047.png",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9cf3ba74560b1bdc196acc43b5ab92c2.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "970",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/63863809",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "赤（根付け紐の色：ピンク）"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "970",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/63863809",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "黄（根付け紐の色：黄）"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "970",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/63863809",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "青（根付け紐の色：藤色）"
+      }
+    ]
+  },
+  "/items/56963659": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/56963659#product",
+    "name": "干支まもり 十二支のお守り 根付 ストラップ 子・丑・寅・卯・辰・巳・午・未・申・酉・戌・亥 開運 幸運 ",
+    "description": "子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥の干支からお選びください。  十二支の干支さんがお守りになりました。職人さんの手作りで、お守りとしてご自身を守りながら心も癒されるお守りです。  ・サイズ：それぞれで違いますが、おおよそ長さ2cm、高さ1.2cm、幅1.8cmくらいです。 ・根付け紐の長さ6.5cm、全体の長さ9cm ・根付け紐の色：ピンク、ブルー、黄緑、黄色、藤色の5色からランダムについています。 ・重さ：それぞれで違いますが、おおよそ5ｇ〜6ｇです。 ・材質：ポリレジン  ◆個装で干支守りシールを貼付し簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*  干支まもり 十二支 根付け ストラップ 御守り 子 丑 寅 卯 辰 未 午 未 申 酉 戌 亥は、十二支の干支さんがモチーフとなった御守りストラップです。  職人さんが心を込めて一つ一つ手作りした、大切な人を守るためのお守りは可愛い素敵なデザイン。 どの干支さんも、表情やしぐさなど、可愛らしさがたっぷり。しかも、干支の意味を知っていると、更に愛着がわいてきます。  心安らぐこの十二支まもりをつけて、風邪や病気、怪我などから身を守ってください。そして、新しい一年も、幸せに満ちたものとなりますように。   ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242   *-*-*-*-*-*-*-*-*- 干支（十二支）にちなんだ「干支まもり」は、子・丑・寅・卯・辰・巳・午・未・申・酉・戌・亥から選べる根付タイプのお守りです。自分の干支や大切な人の干支を選んで、幸運・厄除け・開運の願いを込めてお持ちいただけます。カバンや財布に付けやすく、誕生日や年祝いのプレゼントにもぴったり。 *-*-*-*-*-*-*-*-*-   ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f99290bf551a57ac6334e71633fd0713.png",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e97221f89240fab15a7d7bd7393b869f.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "930",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56963659",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "白"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "930",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56963659",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "茶色"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "930",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56963659",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "黄色"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "930",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56963659",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "緑"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "930",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56963659",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "白"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "930",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56963659",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "白"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "930",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56963659",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "白"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "930",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56963659",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "茶色"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "930",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56963659",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "緑"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "930",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56963659",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "白"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "930",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56963659",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "茶色"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "930",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56963659",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "白"
+      }
+    ]
+  },
+  "/items/64032152": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/64032152#product",
+    "name": "干支まもり アクリルケース入り 十二支のお守り 子・丑・寅・卯・辰・巳・午・未・申・酉・戌・亥 根付 開運 幸運 ",
+    "description": "子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥の干支からお選びください。 根付け紐のカラーはブルーとピンクの2種類。こちらもお選びください。  十二支から選べる干支のお守り根付けストラップが登場しました。 ブルーとピンクのカラーからお選びいただけます。干支ごとに可愛らしいデザインになっており、手元に優しく寄り添ってくれます。  この干支のお守りは、かわいいデザインがアクリルケースに入っており、持ち歩きにも便利なストラップ付きです。  干支には各々に象徴する意味があり、お守りとして身に付けることで、その年の運気が向上するとされています。大切なご家族やお友達への贈り物にも最適です。 今年の干支に合わせて、あなたにとって大切な人への贈り物に是非、お選びください。  ・サイズ：直径2cm、厚さ0.5cm ・根付け紐の長さ10cm、全体の長さ12cm（根付け紐はゴム製なので伸縮します） ・根付け紐の色：ピンクとブルーの2色から選べます。 ・重さ：3ｇ  アクリル製ですので、軽くて丈夫です。 縁起のいい宝来鈴付き  ◆「干支まもり」台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。   職人さん手作りのかわいい干支まもりもございます。 https://www.goodtimeschool.jp/items/56963659  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242   *-*-*-*-*-*-*-*-*- 十二支から選べる「干支まもり（アクリルケースタイプ）」は、干支の動物をあしらったコンパクトでかわいい根付お守り。アクリルケース入りで丈夫＆携帯しやすく、財布やカバン、スマホにも取り付け可能。自身の干支を身に付けて運気を上げたい方や、年祝い・誕生日・開運祈願の贈り物にもおすすめです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f82144c473a10a13363197b554ceb0b1.png",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/720d88e72d724b33c481207bb928da9f.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "780",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/64032152",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：ブルーorピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "780",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/64032152",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：ブルーorピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "780",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/64032152",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：ブルーorピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "780",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/64032152",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：ブルーorピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "780",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/64032152",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：ブルーorピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "780",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/64032152",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：ブルーorピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "780",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/64032152",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：ブルーorピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "780",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/64032152",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：ブルーorピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "780",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/64032152",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：ブルーorピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "780",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/64032152",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：ブルーorピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "780",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/64032152",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：ブルーorピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "780",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/64032152",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：ブルーorピンク"
+      }
+    ]
+  },
+  "/items/81123918": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/81123918#product",
+    "name": "開運 干支 辰年お守り 黒札 根付 出世開運 厄除 金運 龍 竜 ドラゴン 招福 縁起物 ",
+    "description": "コンパクトな黒札（プレート型）のお守り。アクリル製なので軽くて丈夫で長持ち。 ５色から選べる綺麗な根付け紐　（赤、紫、ピンク、ブルー、金）  縁起の良い宝来鈴付き。  厄除、商売繁盛、開運のお守りとしてお財布やスマホなど身に付けてお持ちください。  お守りプレートのサイズ： ・縦3.5　×　横1.5　×　厚さ0.3　（cm） ・重さ：約3ｇ ・根付け紐の長さ：8ｃｍ ・全体の長さ：12ｃｍ  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  ◆送料200円（10個以上お買い上げで送料無料）  **-*-*-*-*-*-*-*  [令和六年は「辰年」]  十二支唯一架空の動物の辰（龍）は、古来より霊獣として信仰されています。 辰（龍）は「成長」を意味し、悪しき物を退けるとされる事から、出世開運・厄除祈願の象徴とされています。   [黒のお守り]  黒は他の色に染まらない色であることから、厄除けの力が強いとも言われています。 また、利益が出ると「黒字」と言うように黒色は「財運を安定させる色」と言われており、商売の資金繰りを安定させるのに最適な色です。  龍の如く昇っていき、財運を安定させて出世し、様々な厄を除いていく、最強のお守りです。   令和6年（2024年）がよい年となりますように、「開運招福」の願いを込めて辰さんを製作しました。 ご本人用はもちろん、ご家族やお友達へのプレゼント、商売繁盛にお客様へのご挨拶に沿えてみてはいかがですか？  ★詳細はブログをご覧ください！★ https://www.goodtimeschool.jp/blog/2023/12/09/194309  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242   *-*-*-*-*-*-*-*-*- 辰年生まれにぴったりな「辰年黒札お守り」は、龍（竜）をモチーフにした出世開運・金運上昇・諸願成就の縁起物。黒札に金文字が映えるデザインで、高級感とご利益を兼ね備えた干支守りです。根付タイプでスマホや財布、バッグにも付けられ、ドラゴンボール（如意宝珠）付きでさらに運気を後押し。辰年の方へのプレゼントにもおすすめ。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/fbfcc0a4682d61461925f0d699e508b4.png",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2decdbff2f2c6f3a10f034dcc648ba46.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "860",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/81123918",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：赤"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "860",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/81123918",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：紫"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "860",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/81123918",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：ピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "860",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/81123918",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：ブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "860",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/81123918",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "根付け紐の色：金"
+      }
+    ]
+  },
+  "/items/44594290": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/44594290#product",
+    "name": "ペットのお守り ちりめん肉球キーホルダー 交通安全・健康長寿を願う 鈴付き 防水 御守り 犬・猫用 ",
+    "description": "ちりめん ペットの御守　キーホルダー 肉球がちりめんで出来ています。  首輪やリードにつけて大切なペットの健康や交通安全を祈願しましょう。  縁起のいい宝来鈴付き（小さな鈴の音です） 色は赤と紺の2色 肉球はパウチされていますので雨でもOK！ ペットの首輪等へお付けください。  全体の長さ：5cm 重さ：3.5ｇ  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。 *-*-*-*-*-*-*-*-*-*-*  　【ペットのお守り】  ペットと一緒に過ごす時間は、とても特別なものです。そんな大切なペットを守るためのアイテム、それが「ペットの肉球お守り」です。  ちりめん素材で作られた、キュートで小さなお守りは、犬や猫などの愛らしいペットたちにピッタリ。大切なペットを守るために、そのお守りを身につけて家族全員でペットを守ることができます。  ペットの健康や交通安全を祈願したお守りは、一緒に過ごす時間をますます楽しくし、ペットとの絆を深めることができます。長寿を願って贈るギフトとしても喜ばれます。 愛しいペットたちが健康で安全な生活を送り、いつまでも一緒に過ごせるように。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。   ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242   *-*-*-*-*-*-*-*-*- 大切なペットの健康と安全を願う「ちりめん肉球キーホルダー型お守り」。犬や猫にぴったりの可愛い肉球デザインで、交通安全・健康長寿を祈願した鈴付きタイプです。防水仕様なので、散歩や外出時も安心して使えます。首輪やリードに簡単に装着でき、ペットへのギフトにもおすすめの和風御守りです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b0d360488b4f9ea273a45f0abb94eeac.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6e6e6dcdcf074998c8c9de2639fa9297.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1130",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/44594290",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "赤"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1130",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/44594290",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "紺"
+      }
+    ]
+  },
+  "/items/44593842": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/44593842#product",
+    "name": "ペットのお守り 肉球ネームプレート 犬・猫用 根付＆キーホルダーセット 交通安全 健康長寿祈願 ",
+    "description": "首輪やリードにつけて大切なご家族の健康や交通安全を祈願しましょう。 名前の書ける肉球ストラップとキーホルダーのセットです。  肉球本体：20×18×5mm 根付け紐の長さ：45mm 全体の長さ：約10cm　　重さ：5.2g  ※赤、青の2色からお選びください。 ※肉球の裏に名前が書けます。 ※名入れサービスはございません 　ご主人様でお名前をご記入してくださいませ。  ◆台紙付き、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。 *-*-*-*-*-*-*-*-  　【ペットのお守り】  ペットを守るための特別なお守りです。肉球ネームプレートには、ペットのお名前をご記入ください。  このお守りには、ペットの健康や長寿を祈る意味が込められています。また、交通安全を願い、愛犬・愛猫の安全な散歩やお出かけをサポートします。  肉球ネームプレートは、高品質なプラスチック素材を使用しています。防水・防錆性に優れており、どんな天気でも安心して使えます。 お守りの中心になる肉球モチーフがついた可愛いデザイン。お出かけのコーディネートにもなじみ、ペットも気に入ること間違いなしです。 愛犬・愛猫と一緒にいつも健康で、楽しく過ごせますように。  ※首輪やリードにしっかりと取り付けてください。  *-*-*-*-*--* 詳細記事はこちらから https://www.goodtimeschool.jp/blog/2023/11/28/170130 *-*-*-*-*-*-  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。   ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242   *-*-*-*-*-*-*-*-*- ペットの交通安全と健康長寿を願う「肉球ネームプレートお守り」は、根付ストラップとキーホルダーの2点セット。犬や猫の首輪やリードに取り付けやすく、ネームプレートには名前を書き込めることができ、迷子対策にも役立ちます。かわいい肉球モチーフと和風デザインで、ペットを大切に想う方への贈り物にもぴったりです。 *-*-*-*-*-*-*-*-*-   ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/514585f09bf84c6194323ad0cf0c6b8e.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/67a5c12d79872912626aec1bbe666905.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1020",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/44593842",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "赤"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1020",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/44593842",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "青"
+      }
+    ]
+  },
+  "/items/44594801": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/44594801#product",
+    "name": "ペット御守り 編み紐首輪タイプ 肉球ネームプレート付き お守り 交通安全 健康長寿に ",
+    "description": "＜首輪のペット守＞ 首輪タイプのお守りです。どこにつけてもｶﾜ(・∀・)ｲｲ!! 首輪やリードにつけて大切なペットの健康や交通安全を祈願しましょう。  ・長さは調整できます。 　最短：直径約6cm　｜　最長：直径約13cm ・色は赤と青の2色 ・縁起のいい宝来鈴付き ・肉球の裏にお名前が書けます。 　※名入れは行っておりません。ご主人様がお書きくださいませ。  【注意】散歩などのリードをつけての首輪としては使用しないでください。  ◆1体ずつかわいいシール貼付し、簡易ラッピングにてお届けいたします。そのままプレゼントにお使いいただけます。  *-*-*-*-*-*-*-*-*  　【ペットのお守り】  ペット守 編み紐首輪タイプは、ペットの安全と健康を守るため、おすすめのお守りアクセサリーです。肉球ネームプレートが付いているので、ペットを守る力になります。  編み紐素材で作られた首輪は、柔らかな肌触りでペットも心地よく身につけられます。編み紐ならではの伸縮性があるから、長時間身につけていてもペットのストレスを軽減します。首輪のサイズは、調整可能です。  ペット守 編み紐首輪タイプは、ペットをより一層愛する飼い主さんにもぴったりなアクセサリーです。愛情を込めてセッティングすれば、ペットとの愛情も深まります。 ※ペットの体型には個体差がありますので、適切なサイズをご確認ください。 ※手作りのため、ほどけやすくなっています。あらかじめご了承ください。 ※愛犬、愛猫にほどかされてしまった写真をぜひ送ってください。代替品はございませんが、愛着度をいただけますと幸いです。どうぞよろしくお願いいたします。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  ★　御守り一覧はこちら https://www.goodtimeschool.jp/categories/3027242   *-*-*-*-*-*-*-*-*- ペットの安全と健康を願う編み紐タイプのお守り。首輪タイプのかわいいデザインで、肉球ネームプレート付き。犬や猫の名前を記入できるので迷子対策にも最適。交通安全や健康長寿の願いを込めた和風のお守りで、毎日の散歩やおでかけに安心をプラス。ギフトにも喜ばれるペットアクセサリーです。 *-*-*-*-*-*-*-*-*-   ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/601a9b1686c23ee8451f4a737bd33c36.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/74e5e5eaa41e4329270e0f3508c7dbf5.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "お守り",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "980",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/44594801",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "赤"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "980",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/44594801",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "青"
+      }
+    ]
+  },
+  "/items/112508462": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/112508462#product",
+    "name": "い草 ごろ寝マット＆くぼみ枕セット 日本製 （ギフトラッピング対応） 畳マット 寝具に最適",
+    "description": "【10月末まで！セール実施中】  大切な方へのプレゼントに最適な、シンプルな「い草マット」と「い草枕」の2点セットです。※ラッピングし、お届けいたします。  商品サイズ：　【枕】50×30cm　【マット】70×150cm カラー：　グリーン/グレー  素材等： 【枕】 側地＝国産い草　※無地メセキ織 中材＝低反発チップウレタン ヘリ＝綿100% 【マット】 側地＝い草　※普通織 中材＝固わた40mm ヘリ＝ポリエステル100%（返し二方）  原産国：　【枕】日本製 　　　　　【マット】日本製（側=中国製　最終加工=日本） ※洗濯不可  正規メーカー品：イケヒコ（IKEHIKO）  ※本製品はメーカー工場より直送いたします。 　ご注文後、3営業日以内の発送となります。（土日、祝日は出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ※ 画面上のカラーはご使用ブラウザやモニターの設定により、実物とは若干異なる場合がございます。あらかじめご了承ください。  ■ 大切な方へのプレゼントに、シンプルな「い草マット」と「い草枕」の2点セットです。 ■ マットは寝っころがってテレビを見たり、折りたたんで腰かけたり、リビングでのお昼寝用に…などいろいろな使い方ができるフリーマットです。中材には固わた40mmを使用していますのでフローリングでも快適にご使用頂けます。 ■ 枕は国産のい草を使用し、より頭にフィットするよう、枕の中心部分に「くぼみ」をつくりました。 ■ 枕の中材には低反発ウレタンチップを使用しています。柔らかすぎずヘタリにくく、型崩れしにくいのが特長です。やわらかく心地良い眠りをサポートします。 ■ 快眠い草の効能として 　1．綿の約2.5倍の吸湿力 　2．蒸れにくい。汗による湿気を吸うことにより温度を下げ快適な就寝を促します。 　3．汗のにおいを軽減。汗のにおいの元となる化学物質を90%以上抑えます。などがあります。 　暑苦しい日本の夏でも汗のジメジメを軽減してくれます。 ■ 青森県のヒバの木から抽出した「ヒバエッセンス」をメーカー独自の技術で生地表面に加工しました。ヒバエッセンスにはヒノキチオールという天然物質が含まれており、抗菌防臭効果があります。 ■ なつかしい「い草」の香りに包まれた、落ち着きの場所をどうぞ。   〜〜寝具 シーツ い草 敷きパッド「いやし」シリーズ〜〜 ★サイズは４種類からお選びください★  →　ベビーサイズ　・約70×120cm https://www.goodtimeschool.jp/items/112419045  →　シングル　・約88×200cm https://www.goodtimeschool.jp/items/112419535  →　セミダブル　・約110×200cm https://www.goodtimeschool.jp/items/112419603  →　ダブル　・約130×200cm https://www.goodtimeschool.jp/items/112419658  ★★★他にも！★★★ →　ごろ寝マット＆枕 セット （ギフトラッピング） プレゼント  　　【枕】50×30cm　【マット】70×150cm https://www.goodtimeschool.jp/items/112508462  →　い草のシーツ 寝ござ 純国産 シングル約88×180cm https://www.goodtimeschool.jp/items/91521292  *-*-*-*-*-*-*-*-*-  日本製のい草ごろ寝マットと、くぼみ平枕がセットになったリラックス寝具セットです。 畳のような自然な香りと通気性を楽しめるい草素材は、夏場のごろ寝や昼寝に最適。 軽量で収納しやすく、持ち運びにも便利なので、和室・洋室を問わず使いやすいアイテムです。 ご自宅用はもちろん、ギフトラッピングにも対応しているため、敬老の日やお誕生日プレゼントとしてもおすすめ。 ごろ寝マット、い草マットレス、くぼみ枕、日本製寝具、畳マット、い草寝具、ギフト、プレゼント、井草敷物などをお探しの方にぴったりです。  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   グッドタイム goodtime 夏 07042025",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/285b89a4dd2e4bc0beb1785c8ece265f.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/42315a0cace2bfb1defc40c518376097.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "イケヒコ"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "8740",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/112508462",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "8740",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/112508462",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      }
+    ]
+  },
+  "/items/112419658": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/112419658#product",
+    "name": "い草敷きパッド ダブル 130×200cm 日本製 吸汗 調湿 消臭 さらさら快適な夏用寝具 （いやし）",
+    "description": "【10月末まで！セール実施中】  商品名：寝具 シーツ い草 敷きパッド 国産 日本製 さらさら 吸汗 調湿 消臭 『いやし』  サイズ ・約130×200cm（ダブル）  ■生産地：日本 ■素材：表地=国産無染土い草　※綾織 　　　　ヘリ=綿100% ※四隅ゴムバンド付き ※い草敷シーツのみの販売となります。写真の敷布団は別売りです。  正規メーカー品：イケヒコ（IKEHIKO）  ※本製品はメーカー工場より直送いたします。 　ご注文後、3営業日以内の発送となります。（土日、祝日は出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。   ※ 画面上のカラーはご使用ブラウザやモニターの設定により、実物とは若干異なる場合がございます。あらかじめご了承ください。  ★サイズは４種類からお選びください★  →　ベビーサイズ　・約70×120cm https://www.goodtimeschool.jp/items/112419045  →　シングル　・約88×200cm https://www.goodtimeschool.jp/items/112419535  →　セミダブル　・約110×200cm https://www.goodtimeschool.jp/items/112419603  →　ダブル　・約130×200cm https://www.goodtimeschool.jp/items/112419658  ★★★他にも！★★★ →　ごろ寝マット＆枕 セット （ギフトラッピング） プレゼント  　　【枕】50×30cm　【マット】70×150cm https://www.goodtimeschool.jp/items/112508462  →　い草のシーツ 寝ござ 純国産 シングル約88×180cm https://www.goodtimeschool.jp/items/91521292  **-*-*-*-*-*-*-*-*-*---*-*-  国産い草を使用したダブルサイズの敷きパッドです（サイズ：約130×200cm）。 い草特有のさらさらとした肌触りと、優れた吸汗性・調湿性で、蒸し暑い夏の夜も快適に過ごせます。 また、消臭効果にも優れており、寝汗や湿気による不快感を軽減。お手入れも簡単で、毎日清潔に使えます。 通気性のよい日本製寝具をお探しの方や、自然素材にこだわる方におすすめ。 い草敷きパッド、寝具、シーツ、ダブルサイズ、130×200cm、日本製、吸汗、調湿、消臭、さらさら、夏用寝具、天然素材、敷パッドなどをお探しの方にぴったりのアイテムです。  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   グッドタイム goodtime 夏 07032025",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5ed4fbb1e78f0cbca29bd261a4b2925f.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/aba671e81f828585726e1ff0c0b413ff.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "イケヒコ"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9384",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/112419658",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/112419603": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/112419603#product",
+    "name": "い草敷きパッド セミダブル 110×200cm 日本製 吸汗 調湿 消臭 さらさら快適な夏用寝具 （いやし）",
+    "description": "【10月末まで！セール実施中】  商品名：寝具 シーツ い草 敷きパッド 国産 日本製 さらさら 吸汗 調湿 消臭 『いやし』  サイズ ・約110×200cm（セミダブル）  ■生産地：日本 ■素材：表地=国産無染土い草　※綾織 　　　　ヘリ=綿100% ※四隅ゴムバンド付き  正規メーカー品：イケヒコ（IKEHIKO）  ※本製品はメーカー工場より直送いたします。 　ご注文後、3営業日以内の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ※ 画面上のカラーはご使用ブラウザやモニターの設定により、実物とは若干異なる場合がございます。あらかじめご了承ください。   ★サイズは４種類からお選びください★  →　ベビーサイズ　・約70×120cm https://www.goodtimeschool.jp/items/112419045  →　シングル　・約88×200cm https://www.goodtimeschool.jp/items/112419535  →　セミダブル　・約110×200cm https://www.goodtimeschool.jp/items/112419603  →　ダブル　・約130×200cm https://www.goodtimeschool.jp/items/112419658  ★★★他にも！★★★ →　ごろ寝マット＆枕 セット （ギフトラッピング） プレゼント  　　【枕】50×30cm　【マット】70×150cm https://www.goodtimeschool.jp/items/112508462  →　い草のシーツ 寝ござ 純国産 シングル約88×180cm https://www.goodtimeschool.jp/items/91521292  *-*-*-*-*-*-*-*-*-  日本製のい草敷きパッド、セミダブルサイズ（110×200cm）です。 さらっと心地よい肌触りのい草素材は、吸汗・調湿・消臭効果に優れ、蒸し暑い夏の夜も快適に眠れます。 軽量で扱いやすく、お手入れも簡単。敷くだけで和の香りが広がり、癒しの空間を演出します。 夏用寝具、天然素材の敷きパッド、日本製の快眠寝具をお探しの方におすすめ。 い草、敷きパッド、セミダブル、110×200cm、日本製、寝具、吸汗、調湿、消臭、さらさら、夏、快眠、い草シーツ、和素材、軽量敷きパッド、天然素材寝具などをお探しの方にぴったりです。  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  グッドタイム goodtime 夏 07032025",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ffe51fb95ca6362cc288cba83343c218.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d08b8d3964b7166bffee1a9334921799.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "イケヒコ"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9108",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/112419603",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/112419535": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/112419535#product",
+    "name": "い草敷きパッド シングル 88×200cm 日本製 吸汗 調湿 消臭 さらさら快適な夏用寝具 （いやし）",
+    "description": "【10月末まで！セール実施中】  商品名：寝具 シーツ い草 敷きパッド 国産 日本製 さらさら 吸汗 調湿 消臭 『いやし』  サイズ ・約88×200cm（シングル）  ■生産地：日本 ■素材：表地=国産無染土い草　※綾織 　　　　ヘリ=綿100% ※四隅ゴムバンド付き  正規メーカー品：イケヒコ（IKEHIKO）  ※本製品はメーカー工場より直送いたします。 　ご注文後、3営業日以内の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。   ※ 画面上のカラーはご使用ブラウザやモニターの設定により、実物とは若干異なる場合がございます。あらかじめご了承ください。   ★サイズは４種類からお選びください★  →　ベビーサイズ　・約70×120cm https://www.goodtimeschool.jp/items/112419045  →　シングル　・約88×200cm https://www.goodtimeschool.jp/items/112419535  →　セミダブル　・約110×200cm https://www.goodtimeschool.jp/items/112419603  →　ダブル　・約130×200cm https://www.goodtimeschool.jp/items/112419658  ★★★他にも！★★★ →　ごろ寝マット＆枕 セット （ギフトラッピング） プレゼント  　　【枕】50×30cm　【マット】70×150cm https://www.goodtimeschool.jp/items/112508462  →　い草のシーツ 寝ござ 純国産 シングル約88×180cm https://www.goodtimeschool.jp/items/91521292  *-*-*-*-*-*-*-*-*-  日本製のい草敷きパッド（シングルサイズ／88×200cm）は、夏場の寝具として理想的な一枚です。 天然い草のさらさらとした肌触りと優れた吸汗性・調湿性が、寝苦しい夜を快適にしてくれます。 消臭効果もあるため、汗のにおい対策にもおすすめ。軽量で扱いやすく、お手入れも簡単です。 ご家庭用のほか、贈り物や和室用寝具としても人気のシリーズ「いやし」。 い草、敷きパッド、シングル、88×200cm、日本製、寝具、夏用、さらさら、吸汗、調湿、消臭、和素材、ナチュラル素材、天然素材、敷パッド、い草シーツ、快眠寝具などをお探しの方にぴったりです。   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  グッドタイム goodtime 夏 07032025",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/371de4fbb45d4afaaf6078b5ec73db16.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ce48524e129788e1fafff5359166a299.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "イケヒコ"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5428",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/112419535",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/112419045": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/112419045#product",
+    "name": "い草敷きパッド ベビー 70×120cm 日本製 吸汗・調湿・消臭 さらさら快適な赤ちゃん用寝具 いやし",
+    "description": "【10月末まで！セール実施中】  商品名：寝具 シーツ い草 敷きパッド 国産 日本製 さらさら 吸汗 調湿 消臭 『いやし』  サイズ ・約70×120cm（ベビー）  ■生産地：日本 ■素材：表地=国産無染土い草　※綾織 　　　　ヘリ=綿100% ※四隅ゴムバンド付き  正規メーカー品：イケヒコ（IKEHIKO）  ※本製品はメーカー工場より直送いたします。 　ご注文後、3営業日以内の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。   ※ 画面上のカラーはご使用ブラウザやモニターの設定により、実物とは若干異なる場合がございます。あらかじめご了承ください。  〜〜寝具 シーツ い草 敷きパッド「いやし」シリーズ〜〜 ★サイズは４種類からお選びください★  →　ベビーサイズ　・約70×120cm https://www.goodtimeschool.jp/items/112419045  →　シングル　・約88×200cm https://www.goodtimeschool.jp/items/112419535  →　セミダブル　・約110×200cm https://www.goodtimeschool.jp/items/112419603  →　ダブル　・約130×200cm https://www.goodtimeschool.jp/items/112419658  ★★★他にも！★★★ →　ごろ寝マット＆枕 セット （ギフトラッピング） プレゼント  　　【枕】50×30cm　【マット】70×150cm https://www.goodtimeschool.jp/items/112508462  →　い草のシーツ 寝ござ 純国産 シングル約88×180cm https://www.goodtimeschool.jp/items/91521292  *-*-*-*-*-*-*-*-*-  日本製のい草敷きパッド（ベビーサイズ／70×120cm）は、赤ちゃんの快適な眠りをサポートする天然素材寝具です。 さらさらとした肌触りのい草は、吸汗性・調湿性に優れ、夏場の寝苦しさや汗によるムレを軽減します。 消臭効果もあり、デリケートなお子さまにも安心してお使いいただけます。軽量で扱いやすく、お手入れも簡単。 ナチュラルな香りと清涼感で、赤ちゃんの睡眠環境を快適に保ちます。 い草、敷きパッド、ベビー寝具、70×120cm、日本製、赤ちゃん用寝具、さらさら、吸汗、調湿、消臭、い草シーツ、天然素材、オーガニック風、快眠寝具、いやしシリーズなどをお探しの方におすすめです。  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  グッドタイム goodtime　夏 07032025",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d09f85d12d74f2045c0b5366c890773f.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f04534fff2950b233fc84b455e386dc6.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "イケヒコ"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3680",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/112419045",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/91521292": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/91521292#product",
+    "name": "い草のシーツ 寝ござ 純国産 シングル約88×180cm 熊本県八代産イ草使用 寝具 シーツ シングル 敷きパッド 抗菌防臭 消臭 白水",
+    "description": "【10月末まで！セール実施中】  サイズ 88×180cm  組成 表地=い草100％（熊本県八代産） 縁=綿100％ 原産国 日本製 洗濯表示 洗濯不可  ・国産（熊本県八代産）のい草を使用したネゴザ（寝ござ）です。 ・国産のイ草は一本一本が太く、表皮が厚く繊維がキメ細かいので、弾力性があり、耐久性に優れています。 ・い草は吸汗性・消臭効果に優れた素材で、汗ばむ季節にぴったりの素材です。 ・大目織のすべすべとした感触をお楽しみください。 ・お洗濯の必要がなく経済的です。  い草には、 1．綿の約3倍の吸湿性があり汗のじめじめを軽減します。 2．湿度の調整作用があり、蒸れにくく快適な就寝を促します。 3．汗のにおいの元となる化学物質を90%以上抑え、においを軽減します。  などの効果があります。 ※い草に青森ヒバ加工を施しています。（抗菌・防臭効果）  ・正規メーカー品「IKEHIKO イケヒコ」  ※本製品はメーカー工場より直送いたします。 　ご注文後、3営業日以内の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ※ 画面上のカラーはご使用ブラウザやモニターの設定により、実物とは若干異なる場合がございます。あらかじめご了承ください。   〜〜寝具 シーツ い草 敷きパッド「いやし」シリーズ〜〜 ★サイズは４種類からお選びください★  →　ベビーサイズ　・約70×120cm https://www.goodtimeschool.jp/items/112419045  →　シングル　・約88×200cm https://www.goodtimeschool.jp/items/112419535  →　セミダブル　・約110×200cm https://www.goodtimeschool.jp/items/112419603  →　ダブル　・約130×200cm https://www.goodtimeschool.jp/items/112419658  ★★★他にも！★★★ →　ごろ寝マット＆枕 セット （ギフトラッピング） プレゼント  　　【枕】50×30cm　【マット】70×150cm https://www.goodtimeschool.jp/items/112508462  →　い草のシーツ 寝ござ 純国産 シングル約88×180cm https://www.goodtimeschool.jp/items/91521292   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   グッドタイム goodtime 父の日 母の日 敬老の日 プレゼント 夏",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ce25f76c1f3cdf63b700a34d53881951.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9353e684902abed9e9dfdf11a6af0cc4.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "イケヒコ"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4140",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/91521292",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4140",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/91521292",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "アイボリー"
+      }
+    ]
+  },
+  "/items/90796434": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/90796434#product",
+    "name": "い草枕 平枕 日本製 い草まくら ござ枕 畳枕 50×30cm くぼみ 低反発ウレタン 国産 夏用 寝具 枕 自然素材 さらさら 消臭 シンプル",
+    "description": "【10月末まで！セール実施中】  商品サイズ:平枕　約50×30cm  生産地：日本 素材：表地=い草　裏地=い草　中材=低反発チップ　ヘリ=綿100%  ・快眠い草の効能として 　1．綿の約2.5倍の吸湿力 　2．蒸れにくい。汗による湿気を吸うことにより温度を下げ快適な就寝を促します。 　3．汗のにおいを軽減。汗のにおいの元となる化学物質を90%以上抑えます。などあります。  ・暑苦しい日本の夏でも汗のジメジメを軽減してくれます。  ・い草の表面に、抗菌・防臭効果のある天然青森のヒバ加工を施しています。 　青森県のヒバの木から抽出した「ヒバ油」をメーカー独自の技術で材料や商品に加工しました。 　「ヒバ油」には、ヒノキチオールという天然物質としては極めて抗菌性の高い成分が含まれ、医療や食品など多分野で利用研究が進められています。  ※ 画面上のカラーはご使用ブラウザやモニターの設定により、実物とは若干異なる場合がございます。あらかじめご了承の上、ご注文をお願いいたします。  [平枕の特徴]  ・国産（九州産）のしなやかなイ草を使用した、い草のくぼみ平枕です。より頭にフィットするよう、枕の中心部分に「くぼみ」をつくりました。 ・中材には低反発ウレタンを使用しています。柔らかすぎずヘタリにくく、型崩れしにくいのが特長です。心地良い眠りをサポートします。   正規メーカー品：イケヒココーポレーション  ※本製品はメーカー工場より直送いたします。 　ご注文後、3営業日以内の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。   ★　角枕もございます。こちら↓ https://www.goodtimeschool.jp/items/90796237  ★ブログもご覧ください！ https://www.goodtimeschool.jp/blog/2024/09/02/145056   〜〜寝具 シーツ い草 敷きパッド「いやし」シリーズ〜〜 ★サイズは４種類からお選びください★  →　ベビーサイズ　・約70×120cm https://www.goodtimeschool.jp/items/112419045  →　シングル　・約88×200cm https://www.goodtimeschool.jp/items/112419535  →　セミダブル　・約110×200cm https://www.goodtimeschool.jp/items/112419603  →　ダブル　・約130×200cm https://www.goodtimeschool.jp/items/112419658  ★★★他にも！★★★ →　ごろ寝マット＆枕 セット （ギフトラッピング） プレゼント  　　【枕】50×30cm　【マット】70×150cm https://www.goodtimeschool.jp/items/112508462  →　い草のシーツ 寝ござ 純国産 シングル約88×180cm https://www.goodtimeschool.jp/items/91521292  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   グッドタイム goodtime 父の日 母の日 敬老の日 プレゼント 夏",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/eebaf313670acbfdf69305a520230211.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/da46d8961c334d7804d32fafcf44db9c.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "イケヒコ"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3496",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90796434",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3496",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90796434",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3496",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90796434",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ナチュラル"
+      }
+    ]
+  },
+  "/items/90796237": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/90796237#product",
+    "name": "い草枕 角枕 日本製 い草まくら ござ枕 畳枕 高さが変わる 30×15cm 国産 夏用 寝具 枕 自然素材 さらさら 消臭 シンプル",
+    "description": "【10月末まで！セール実施中】  商品サイズ:角枕　約30×15cm  生産地：日本 素材：表地=い草　裏地=い草　中材=ポリエチレン　ヘリ=綿100%  ・快眠い草の効能として 　1．綿の約2.5倍の吸湿力 　2．蒸れにくい。汗による湿気を吸うことにより温度を下げ快適な就寝を促します。 　3．汗のにおいを軽減。汗のにおいの元となる化学物質を90%以上抑えます。などあります。  ・暑苦しい日本の夏でも汗のジメジメを軽減してくれます。  ・い草の表面に、抗菌・防臭効果のある天然青森のヒバ加工を施しています。 　青森県のヒバの木から抽出した「ヒバ油」をメーカー独自の技術で材料や商品に加工しました。 　「ヒバ油」には、ヒノキチオールという天然物質としては極めて抗菌性の高い成分が含まれ、医療や食品など多分野で利用研究が進められています。  ※ 画面上のカラーはご使用ブラウザやモニターの設定により、実物とは若干異なる場合がございます。あらかじめご了承の上、ご注文をお願いいたします。  [角枕の特徴]  ・国産（九州産）のしなやかなイ草を使用した、い草角枕です。柔らかく、すべすべしたとした肌触りです。 ・枕の左右には高さ調節用のヒモ付き。左右のヒモをきつく結べば高めの枕に、ゆるく結べば低めの枕になって便利です。 　少し小さめのサイズですので、横のヒモをほどいてお子様用の枕としてもご使用頂けます。 ・中材には通気性のよいポリエチレンパイプを使用しています。通気性がよく、熱がこもりにくいのが特長です。  正規メーカー品：イケヒココーポレーション  ※本製品はメーカー工場より直送いたします。 　ご注文後、3営業日以内の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。   ★平枕もございます。こちら↓ https://www.goodtimeschool.jp/items/90796434  ★ブログもご覧ください！ https://www.goodtimeschool.jp/blog/2024/09/02/145056   〜〜寝具 シーツ い草 敷きパッド「いやし」シリーズ〜〜 ★サイズは４種類からお選びください★  →　ベビーサイズ　・約70×120cm https://www.goodtimeschool.jp/items/112419045  →　シングル　・約88×200cm https://www.goodtimeschool.jp/items/112419535  →　セミダブル　・約110×200cm https://www.goodtimeschool.jp/items/112419603  →　ダブル　・約130×200cm https://www.goodtimeschool.jp/items/112419658  ★★★他にも！★★★ →　ごろ寝マット＆枕 セット （ギフトラッピング） プレゼント  　　【枕】50×30cm　【マット】70×150cm https://www.goodtimeschool.jp/items/112508462  →　い草のシーツ 寝ござ 純国産 シングル約88×180cm https://www.goodtimeschool.jp/items/91521292  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   グッドタイム goodtime 父の日 母の日 敬老の日 プレゼント 夏",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ead2190f9e96b000e83018dd4f987f09.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f52586eed60432bf29d2fb7d808f206d.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "イケヒコ"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2484",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90796237",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2484",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90796237",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2484",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90796237",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ナチュラル"
+      }
+    ]
+  },
+  "/items/83079853": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/83079853#product",
+    "name": "TVまくら 座布団付 M テレビ枕 リビング リラックス 折りたたみ可能 横になって楽にテレビを観る ざぶとん",
+    "description": "形を変えられるので、座ったり、寝転んだり、自分の楽な姿勢で過ごすことができます。  商品サイズ：W40×D48-96×H27-31×SH5/14  【材質】表地:ポリエステル(サンゴマイヤー) 中材:ウレタンフォーム 【静的耐荷重】設定なし 【小箱】なし 【組立】完成品  【原産地】中国 【梱包Aサイズ】W94.0xD32.0xH41.0 【梱包A重量】4.0kg 【商品重量】1.6kg   正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  *-*-*-*-*-*-* リビングやダイニングでのくつろぎ時間に最適なテレビ枕。コンパクトで持ち運びしやすく、おしゃれなファブリック素材がインテリアにもなじみます。かわいいデザインでブラウンとアイボリーの2色展開。父の日や母の日、敬老の日などのプレゼントにもおすすめ。グッドタイムの人気商品です。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   FCC-120BE fc002001 FCC-120BR fc002002",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/59a97e1df5bf7c535fc63deca0a55e02.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5ad9e42e9603a950aa364a61661491af.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "8200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/83079853",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "8200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/83079853",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      }
+    ]
+  },
+  "/items/111489618": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/111489618#product",
+    "name": "ごみ箱 70L 蓋付き オーシャンバウンドプラスチック使用 ロック＆パッキン付き キッチン・分別用に最適",
+    "description": "商品名：ゴミ箱 ごみ箱 ダストボックス ふた付き 蓋付き [70L] 分別 キッチン 台所 リビング 大容量 ロック機能付き パッキン付き プラスチック ポリプロピレン オーシャンバウンドプラスチック  商品サイズ 70L（大サイズ）：W38.1×D51.7×H67　  オーシャンバウンドプラスチックを回収・再利用した環境に優しい防臭ゴミ箱。  ・オーシャンバウンドプラスチック(OBP)とは、海岸線から50km以内の内陸部で正式な廃棄物処理を行っていないコミュニティから収集されたプラスチック素材のこと。 ・海へ流れ出る前に回収されたオーシャンバウンドプラスチックを素材の一部に使用することで「海洋プラスチック」の削減に貢献します。 ・安心の日本製です。   【材質】本体・蓋・蓋ロック・ポリ袋止め:PP パッキン:発泡PE 【組立】完成品 【原産地】日本 【商品重量】2.8kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★　70L 大容量はこちら https://www.goodtimeschool.jp/items/111489618  ★　47L　中サイズはこちら https://www.goodtimeschool.jp/items/111489119  *-*-*-*-*-*-*-*-*-  オーシャンバウンドプラスチックを使用した、環境に配慮した大容量70Lのごみ箱です。 密閉力の高いパッキン付きフタとロック機能により、におい漏れやゴミの飛び出しを防ぎ、清潔に使えます。 キッチンや台所はもちろん、リビングやオフィスでの分別用ダストボックスとしても便利。 蓋付き・ロック付きで衛生的な環境を保ちたい方におすすめです。 ごみ箱、ダストボックス、70L、大容量、蓋付き、ふた付き、パッキン付き、ロック付き、分別、キッチン収納、オーシャンバウンドプラスチック、エコ素材、ごみ分別などをお探しの方に最適です。  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  RSD-52 rsd001002 goodtime  6/24/2025 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3bb5ac6779161070d8f188268ae72a9f.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f3d8b2b4de9e9619d8eec599dc6239e9.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/111489618",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "青"
+      }
+    ]
+  },
+  "/items/111489119": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/111489119#product",
+    "name": "ごみ箱 47L 蓋付き オーシャンバウンドプラスチック使用 ロック＆パッキン付き キッチン・分別用に最適",
+    "description": "商品名：ゴミ箱 ごみ箱 ダストボックス ふた付き 蓋付き [47L] 分別 キッチン 台所 リビング 大容量 ロック機能付き パッキン付き プラスチック ポリプロピレン オーシャンバウンドプラスチック  商品サイズ 47L（中サイズ）：W34.1×D47.1×H59.2  オーシャンバウンドプラスチックを回収・再利用した環境に優しい防臭ゴミ箱。  ・オーシャンバウンドプラスチック(OBP)とは、海岸線から50km以内の内陸部で正式な廃棄物処理を行っていないコミュニティから収集されたプラスチック素材のこと。 ・海へ流れ出る前に回収されたオーシャンバウンドプラスチックを素材の一部に使用することで「海洋プラスチック」の削減に貢献します。 ・安心の日本製です。   【材質】本体・蓋・蓋ロック・ポリ袋止め:PP パッキン:発泡PE 【組立】完成品 【原産地】日本 【商品重量】2.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★　70L 大容量はこちら https://www.goodtimeschool.jp/items/111489618  ★　47L　中サイズはこちら https://www.goodtimeschool.jp/items/111489119  *-*-*-*-*-*-*-*-*-  オーシャンバウンドプラスチックを使用した、環境に配慮した大容量47Lのごみ箱です。 密閉力の高いパッキン付きフタとロック機能により、におい漏れやゴミの飛び出しを防ぎ、清潔に使えます。 キッチンや台所はもちろん、リビングやオフィスでの分別用ダストボックスとしても便利。 蓋付き・ロック付きで衛生的な環境を保ちたい方におすすめです。 ごみ箱、ダストボックス、70L、大容量、蓋付き、ふた付き、パッキン付き、ロック付き、分別、キッチン収納、オーシャンバウンドプラスチック、エコ素材、ごみ分別などをお探しの方に最適です。  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  RSD-51 rsd001001 goodtime  6/24/2025 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/727db8bf592fa925904358ed251bd8d7.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e5e4c87fd7a812557e10837a421fe1ab.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/111489119",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "青"
+      }
+    ]
+  },
+  "/items/100979544": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/100979544#product",
+    "name": "ゴミ箱 60L 大容量 フタ付き ペールカン ロック付き 屋外用 ごみ箱 日本製 ポリエチレン製 シンプル おしゃれ カバーセイバー付き 3年保証",
+    "description": "屋外でも使える60Lのタフなゴミ箱！日本製・3年保証付き！  ●野外でも使用OKで、耐衝撃の丈夫でタフなゴミ箱“タフカン”。 ●衝撃に強く復元力のある大容量60Lのゴミ箱。 ●ゴミ容器として正常なご使用状態で、万一割れ・破損が生じた場合の保証が3年付いた安心の日本製。  ●やさしいカラーリングの本体と、ロックバーの配色も魅力的なアイテム。 ●ポリエチレン製なので柔軟性があり強い力で押しても復元。また、ポリエチレンは汚れに強くお手入れも簡単。  ●60Lと大容量なので屋外作業のゴミ箱としても活躍。 ●取っ手を持ち上げると、フタのロック機能に。持ち運ぶときはロックが掛かった状態なので移動も安心。 ●フタの片側には取っ手に付けられる『カバーセイバー』付き。作業中にフタが飛んだり無くしてしまうことを防止。  ●本体重量は約1.5kgと軽量なので持ち運びもらくらく。  サイズ：W36×D55.4×H62.2  【材質】ポリエチレン スチール 【機能】容量:約60L 【組立】完成品 ・3年保証付き  【原産地】日本 【商品重量】1.5kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。    ★ 30L スリムはこちらから https://www.goodtimeschool.jp/items/103329260  ★ 45L スリムはこちらから https://www.goodtimeschool.jp/items/103335761  ★ 60L 大容量 ペールカン フタ付きはこちらから https://www.goodtimeschool.jp/items/100979544  ★ ペール45L ラウンドはこちらから https://www.goodtimeschool.jp/items/103340967  ★ バタフライペダルペール 32Lはこちらから https://www.goodtimeschool.jp/items/103341869  *-*-*-*-*-*-*-*-*- 大容量60Lの日本製ペール型ゴミ箱。ポリエチレン製で軽くて丈夫、屋外でも安心して使えるロック付き設計。フタ付きで臭い漏れを防ぎ、カバーセイバー付きで風にも強い構造。シンプルかつおしゃれなデザインで、ベランダや玄関先、店舗用にも最適。安心の3年保証付きで長く使えます。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   LFS-938CG pailcan-pc004001 LFS-938BR pailcan-pc004002 LFS-938BG pailcan-pc004003 LFS-938WH pailcan-pc004004 グッドタイム goodtime 20250512",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/08a9965ccf123ed9a305128e4ed338a0.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/10cc6d9e167f54a90b21c52a97b0be56.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4650",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/100979544",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "チャコールグレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4650",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/100979544",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4650",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/100979544",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルーグレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4650",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/100979544",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/103341869": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/103341869#product",
+    "name": "ごみ箱 バタフライペダルペール 32L ダストボックス ゴミ箱 省スペース キャスター付き ペダル折りたたみ シンプル おしゃれ",
+    "description": "■安心の日本製。  ■コンパクト設計で使いやすいバタフライオープンのペダルペール。  ■両開きという特徴的な開き方で、狭い場所でも蓋を全開に開くことができます。 ■フタを開けても高さ約59cm幅約23cmととてもコンパクト。 ■同じ商品同士でスタッキング可能な仕様。使わない時は重ねることでどこに置いてもかさばらずスッキリ。  ■重さ約2kgと軽量で軽々と持ち運び可能。 ■上部両サイドに取っ手が、底部にキャスターがあり移動もラクラク。 ■開口部に取り外し可能な袋止めが付いており袋の脱着も簡単。 ■ストッパーにはくぼみがあるため複数の袋を掛けて分別できます。  ■汚してもすぐに拭き取れば汚れが残りにくくお手入れが簡単。 ■難しいお手入れがなくサッと拭き取るだけで清潔に保てます。  ■踏むだけでフタが開くため手がふさがっていてもゴミを捨てられます。 ■ペダルは折りたたみ可能なため邪魔にならずいたずら防止にも。  サイズ：W22.8×D48×H48.5  【材質】ポリプロピレン 【機能】容量:32L 【組立】完成品 【原産地】日本 【商品重量】2.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ 30L スリムはこちらから https://www.goodtimeschool.jp/items/103329260  ★ 45L スリムはこちらから https://www.goodtimeschool.jp/items/103335761  ★ 60L 大容量 ペールカン フタ付きはこちらから https://www.goodtimeschool.jp/items/100979544  ★ ペール45L ラウンドはこちらから https://www.goodtimeschool.jp/items/103340967  ★ バタフライペダルペール 32Lはこちらから https://www.goodtimeschool.jp/items/103341869  *-*-*-*-*-*-* コンパクトでおしゃれなバタフライ式ごみ箱。ペダル式で開閉も簡単、軽量なので持ち運びもスムーズ。省スペース設計でキッチンやリビングにも自然に馴染みます。ゴミ箱、ダストボックス、ペールとして多用途に使え、シンプルなデザインはインテリアの邪魔をしません。新生活や一人暮らしにもおすすめです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   LFS-769BR pc003014 LFS-769GR pc003015 LFS-769WH pc003016 goodtime",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5fe8e0c99248909259fa07ae57a12672.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3f6291800d1066ef2906cf8c9dd0aa98.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/103341869",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/103341869",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/103341869",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/103340967": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/103340967#product",
+    "name": "ゴミ箱 ペール45L ラウンドペール 丸型 フタ付き ロック機能付き ポリプロピレン 屋外 分別ゴミ箱 ダストボックス おしゃれ シンプル",
+    "description": "■マットな3色 しっとりと落ち着いた、マットなカラーの3色展開。 BR（ブラウン）、GR（グリーン）、WH（ホワイト）の人気の高い色をラインナップ。GRは“グレー”に近い色合いなので、オフィス等のフォーマルな場所でも違和感なくお使いいただけます。  ■掴みやすい大きな取っ手付きで、蓋の開け閉めも簡単に行なえます。  ■蓋をスライドさせる事で本体にロックする事が可能。風の強い日や持ち運び時などで蓋が外れてしまうという心配もありません。  ■蓋のロック部分は持ち手にもなっているので、移動も楽にできます。  ■デザイン性のあるおしゃれなカラーリングなので、ゴミ箱としてはもちろん工具類やガーデニング用具入れなどにも最適です。  ■トラッシュカンのラベルは海外からの輸入品を思わせるデザインに仕上げてますが、製品は安心の日本製。 おしゃれなデザインと共に、品質面もしっかりしているので安心です。  サイズ：φ42.5×H52  【材質】ポリプロピレン 【機能】容量:45L 【静的耐荷重】設定なし 【組立】完成品 【原産地】日本 【商品重量】1.4kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ 30L スリムはこちらから https://www.goodtimeschool.jp/items/103329260  ★ 45L スリムはこちらから https://www.goodtimeschool.jp/items/103335761  ★ 60L 大容量 ペールカン フタ付きはこちらから https://www.goodtimeschool.jp/items/100979544  ★ ペール45L ラウンドはこちらから https://www.goodtimeschool.jp/items/103340967  ★ バタフライペダルペール 32Lはこちらから https://www.goodtimeschool.jp/items/103341869  *-*-*-*-*-*-* 45Lの大容量ゴミ箱は、フタ付き＆ロック機能付きで屋外でも安心して使える丸型ペールタイプ。ポリプロピレン製で丸洗いOK、衛生的で扱いやすい設計です。アースカラーのブラウン・グリーン・ホワイト展開で、おしゃれな見た目も魅力。分別ゴミ箱や屋外用ダストボックスとして、家庭やベランダ、ガレージにもおすすめです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   LFS-765BR pc003011 LFS-765GR pc003012 LFS-765WH pc003013 goodtime",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/dfaf4500842de0f7f41b6b32cd287a5a.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b68e6bfc2afacacd9ea19af27a653c5d.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/103340967",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/103340967",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/103340967",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/103335761": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/103335761#product",
+    "name": "ゴミ箱 スタッキングペール45L スリム ダストボックス 分別ゴミ箱 フラップロック スタッキングペール アースカラー シンプル おしゃれ",
+    "description": "■マットな3色 しっとりと落ち着いた、ツヤ消し・マットなカラーの3色展開。  ■スタッキング可 LFS-760（30L）とLFS-761（45L）はどちらも『スタッキング』が可能なので、上下でゴミを分別するのにとっても便利です。  ■フラップタイプの蓋 内側にはバネが付いているので、ゴミを捨てた後はピタっと蓋が閉まります。  ■フラップロック付き 上蓋の内側に『フラップロック』が付いているので、「カチッ」と音がするまで蓋を押し上げればそのままロックされる仕様になっています。  ■ミニキャスター 底面には『ミニキャスター』が付いているので、ゴミを出す時などコロコロと本体を動かすことができます。 また、このミニキャスターは“縦方向”にも“横方向”にも取り付ける事が可能なので、置き場所に合わせて使いやすく変えることができて便利です。  ■袋止め トラッシュカンに必須な『袋止め』はもちろん標準装備しています。  サイズ：W28×D45×H67  【材質】ポリプロピレン 【機能】スタッキング可 容量:45L 【組立】完成品  【原産地】日本 【商品重量】2.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ 30L スリムはこちらから https://www.goodtimeschool.jp/items/103329260  ★ 45L スリムはこちらから https://www.goodtimeschool.jp/items/103335761  ★ 60L 大容量 ペールカン フタ付きはこちらから https://www.goodtimeschool.jp/items/100979544  ★ ペール45L ラウンドはこちらから https://www.goodtimeschool.jp/items/103340967  ★ バタフライペダルペール 32Lはこちらから https://www.goodtimeschool.jp/items/103341869  *-*-*-*-*-*-* 30L容量のゴミ箱は、屋外・屋内どちらでも使える丈夫なポリプロピレン製。スタッキング可能で省スペースに分別収納でき、キッチンやベランダにもぴったり。フラップロック付きでニオイ漏れを軽減し、実用性も◎。分別ゴミ箱や収納ボックスとしても活躍。シンプルでおしゃれなデザインは生活感を抑えつつ、機能性にも優れています。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  LFS-761BR pc003008 LFS-761GR pc003009 LFS-761WH pc003010 goodtime",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a7383cd430999f527ba27f6596c48cb8.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/8a556240aa7680edb91bf8980e7dce83.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/103335761",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/103335761",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/103335761",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/103329260": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/103329260#product",
+    "name": "ゴミ箱 スタッキングペール30L スリム ダストボックス 分別ゴミ箱 キッチン フラップロック スタッキングペール シンプル おしゃれ",
+    "description": "●GRは“グレー”に近い色合いなので、オフィス等のフォーマルな場所でも違和感なくお使いいただけます。  ●製品は安心の日本製。おしゃれなデザインと共に、品質面もしっかりしているので安心です。  ●トラッシュカンの蓋部分は『フラップ』タイプ。内側にはバネが付いているので、ゴミを捨てた後はピタっと蓋が閉まります。  ●上蓋の内側に『フラップロック』が付いているので、「カチッ」と音がするまで蓋を押し上げればそのままロックされる仕様になっています。  ●底面には『ミニキャスター』が付いているので、ゴミを出す時などコロコロと本体を動かすことができます。また、このミニキャスターは“縦方向”にも“横方向”にも取り付ける事が可能なので、置き場所に合わせて使いやすく変えることができて便利です。  ●トラッシュカンに必須な『袋止め』はもちろん標準装備しています。真ん中から手前側と奥側それぞれに可動する袋止めタイプなので、ゴミ袋を付け替える時に袋止めがあっちこっちに“遊ぶ”事がなく、手間無く簡単に付け替えられます。  サイズ：W28×D45×H51  【材質】ポリプロピレン 【機能】スタッキング可 容量:30L 【組立】完成品 【原産地】日本 【商品重量】1.6kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ 30L スリムはこちらから https://www.goodtimeschool.jp/items/103329260  ★ 45L スリムはこちらから https://www.goodtimeschool.jp/items/103335761  ★ 60L 大容量 ペールカン フタ付きはこちらから https://www.goodtimeschool.jp/items/100979544  ★ ペール45L ラウンドはこちらから https://www.goodtimeschool.jp/items/103340967  ★ バタフライペダルペール 32Lはこちらから https://www.goodtimeschool.jp/items/103341869  *-*-*-*-*-*-* 30Lのスタッキング可能なゴミ箱は、屋内外どちらでも使える丈夫なポリプロピレン製。フラップロック付きでニオイ漏れを防ぎ、分別ごみ箱としても便利。積み重ねできる省スペース設計で、キッチンや玄関、ベランダなどの限られた空間にも最適。シンプルでおしゃれなデザインは、日常使いにぴったりの実用的なダストボックスです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   LFS-760BR pc004005 LFS-760GR pc004006 LFS-760WH pc004007 goodtime",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7e96370e42a312507d1b207290e32fcc.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/8783fe7115c93bffd51094200b7849e0.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/103329260",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/103329260",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/103329260",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/100980653": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/100980653#product",
+    "name": "観葉植物用グリーンベース 5号鉢カバー フェイクグリーン対応 おしゃれ シンプル モダン 室内インテリア 植木鉢 プランター",
+    "description": "フェイクグリーン 観葉植物の入物 グリーンベース 手入れいらずで気軽におしゃれな雰囲気に。観葉植物入れ 植物の表情や印象を手軽に変えることができます。  サイズ：W25×D25×H20  【材質】酸化マグネシウム 【機能】5号用 【組立】完成品  【原産地】中国 【商品重量】2.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ※写真のフェイクグリーンは別売りとなっています。当ページの商品は入物のみの販売となります。  *-*-*-*-*-*-* シンプルでモダンなデザインが魅力のグリーンベース（5号鉢対応）は、観葉植物やフェイクグリーンを美しく引き立てるインテリア雑貨。人工観葉植物や造花、モンステラなどのリーフに最適で、室内空間に癒しと彩りをプラスします。玄関やリビングに馴染みやすく、スタイリッシュなおしゃれ空間を演出。軽量で扱いやすく、お手入れも簡単です。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   GRNB-201 fg001004 グッドタイム goodtime",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/47292186ac9eefa3ad8babbb43bdccae.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/100980653",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      }
+    ]
+  },
+  "/items/100977883": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/100977883#product",
+    "name": "グリーンベース 8号用 植木鉢カバー フェイクグリーン対応 ミニパイナップル 人工観葉植物 おしゃれ 室内インテリア 飾り用プランター",
+    "description": "フェイクグリーン 観葉植物の入物 グリーンベース 手入れいらずで気軽におしゃれな雰囲気に。観葉植物入れ 植物の表情や印象を手軽に変えることができます。  サイズ：W31×D31×H28.5  【材質】酸化マグネシウム 【機能】8号用 【静的耐荷重】設定なし 【組立】完成品  【原産地】中国 【商品重量】5.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ※写真のフェイクグリーンは別売りとなっています。当ページの商品は入物のみの販売となります。  ★ インテリア・家具 はこちらから ⇒　https://www.goodtimeschool.jp/categories/4966320   *-*-*-*-*-*-* ミニパイナップル型のフェイクグリーンと、8号鉢対応のシンプルなグリーンベースのセット。人工観葉植物や造花を手軽に飾れるおしゃれなプランターカバーです。室内や玄関、リビングに癒しと彩りをプラスし、ガーデン雑貨やインテリア小物としてもおすすめ。モダンでナチュラルな雰囲気を演出し、水やり不要でお手入れも簡単です。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   GRNB-200 fg001002 グッドタイム goodtime",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/87ea95a421b59933f89e7f70fa620216.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/100977883",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      }
+    ]
+  },
+  "/items/90032270": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/90032270#product",
+    "name": "フェイクグリーン ミニパイナップル 人工観葉植物 造花 インテリア リーフ 室内飾り おしゃれ 癒しグリーン ガーデン雑貨",
+    "description": "インテリアとして使い勝手がよいことが魅力なフェイクグリーン 手入れいらずで気軽におしゃれな雰囲気に。 癒し、自然、安らぎなリラックス空間を手軽に作れます。  サイズ：約W61×D61×H67  【材質】ポリ塩化ビニル 合成樹脂 【静的耐荷重】設定なし 【組立】完成品 【原産地】中国  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ※写真のグリーンベース等の入物は別売りとなっています。  ★ インテリア・雑貨はこちらから ⇒　https://www.goodtimeschool.jp/categories/4966320   *-*-*-*-*-*-* リアルな質感が魅力のミニパイナップル型フェイクグリーン。人工観葉植物として室内や玄関、ガーデン空間に自然な彩りと癒しをプラスします。葉の造形も美しく、おしゃれなリーフアイテムとして飾るだけで空間が華やかに。水やり不要でお手入れ簡単、長く楽しめるインテリアグリーンです。コンパクトサイズで置き場所を選ばず、プレゼントにも最適です。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   GRN-12 fg001003 グッドタイム goodtime",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a191530046cbc63f10710890da747f04.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3160540bf9d38085dc04fdde9f8aef87.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90032270",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/90031775": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/90031775#product",
+    "name": "フェイクグリーン モンステラ 人工観葉植物 造花 リーフ インテリア おしゃれ 癒しグリーン 室内 ガーデン飾り 葉",
+    "description": "インテリアとして使い勝手がよいことが魅力なフェイクグリーン 手入れいらずで気軽におしゃれな雰囲気に。 癒し、自然、安らぎなリラックス空間を手軽に作れます。  商品サイズ：約W56×D56×H100  【材質】ポリ塩化ビニル 合成樹脂 【組立】完成品 【原産地】中国 【商品重量】1.0kg  ※写真のグリーンベースは別売りです。  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ★ インテリア・雑貨はこちら ⇒　https://www.goodtimeschool.jp/categories/4966320   *-*-*-*-*-*-* リアルな質感のモンステラ型フェイクグリーンは、人工観葉植物として室内インテリアに自然な癒しをもたらします。大きめのリーフが空間を華やかに演出し、リビングや玄関、ガーデン雑貨としても活躍。水やり不要でお手入れも簡単。おしゃれでモダンな雰囲気を演出できる飾りとして、置くだけで洗練されたグリーン空間が完成します。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   GRN-11 fg001001 グッドタイム goodtime",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/19fadbe4497748da6c0164714cd559b8.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1d640e740c7907a9a03ac1c9c0779d79.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "8800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90031775",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/117202085": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/117202085#product",
+    "name": "傘立て アンブレラスタンド Sサイズ 陶器製 猫デザイン かわいい 北欧風 玄関収納 屋外 室内 コンパクト ポスター収納にも",
+    "description": "玄関から健気に見送る、コロンとしたシルエットが愛らしい猫の傘立て。 さりげない存在感でお部屋の中でもインテリアとして使いやすいサイズです。 傘立てのみならず、様々な小物を収納してください。 マットに仕上げた陶器は、さらりとしたなめらかな手触り。  サイズ：約W15.5×D17×H34.5 ※Sサイズ  【材質】陶器 【機能】内側に濡れ防止コーティング 【組立】完成品 【原産地】ベトナム 【商品重量】2.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ★　Mサイズはこちらから 　⇒　https://www.goodtimeschool.jp/items/90022943  *-*-*-*-*-*-* 猫のシルエットがかわいい陶器製の傘立て。重さ約2kgで安定感があり、室内・屋外どちらでも使用可能。北欧風デザインが玄関をおしゃれに演出します。傘はもちろん、フラワーベースやポスター収納、インテリア置物としても活用できる多用途アイテム。スリムでコンパクトだから玄関まわりもすっきり。プレゼントにもおすすめの人気アイテムです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   CLY-13BK fs003010 CLY-13BR fs003011 CLY-13WH fs003012 グッドタイム goodtime",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/43308ef587460a29405e64d0aaa63675.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/8e3458d19789dd5ddbade5b4364b12cf.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/117202085",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/117202085",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/117202085",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/90022943": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/90022943#product",
+    "name": "傘立て アンブレラスタンド Mサイズ 陶器製 猫デザイン かわいい 北欧風 玄関収納 屋外 室内 コンパクト ポスター収納にも",
+    "description": "玄関から健気に見送る、コロンとしたシルエットが愛らしい猫の傘立て。 さりげない存在感でお部屋の中でもインテリアとして使いやすいサイズです。 傘立てのみならず、様々な小物を収納してください。 マットに仕上げた陶器は、さらりとしたなめらかな手触り。  サイズ：約W19×D19×H45　（Mサイズ）  【材質】陶器 【機能】内側に濡れ防止コーティング 【注意事項】個体差あり 【組立】完成品 【原産地】ベトナム 【商品重量】3.5kg 【小箱サイズ】W25.0xD25.0xH48.0 【小箱重量】4.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ★ Sサイズはこちらから 　⇒ https://www.goodtimeschool.jp/items/117202085  *-*-*-*-*-*-* 猫のシルエットがかわいい陶器製の傘立て。重さ約3.5kgで安定感があり、室内・屋外どちらでも使用可能。北欧風デザインが玄関をおしゃれに演出します。傘はもちろん、フラワーベースやポスター収納、インテリア置物としても活用できる多用途アイテム。スリムでコンパクトだから玄関まわりもすっきり。プレゼントにもおすすめの人気アイテムです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   CLY-12BK fs003003 CLY-12BR fs003004 CLY-12WH fs003005 グッドタイム goodtime",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9dd23600eb725162faceced1c957f604.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/907fdf16f83d3c683b456fb4781aec5b.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90022943",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90022943",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90022943",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/85931729": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/85931729#product",
+    "name": "デスクライト LED 卓上ライト 角度調節 スタンドライト 北欧風 照明 学習机 テレワーク 在宅ワーク シンプル おしゃれ",
+    "description": "カラフルなスチール素材に天然木が合わさる事で、ナチュラルであたたかみのある北欧風の雰囲気を醸し出してくれるデスクライトです。 3か所のジョイント部分で自由な角度調節が出来、欲しい所に光を届けてくれます。  サイズ：W17×D29-50×H82-35  【材質】スチール(粉体塗装) 天然木(ラバーウッド) 水性ラッカー塗装 アルミ 【機能】電球付:LHB-91 LED電球対応可能 【組立】組立式 【原産地】中国 【商品重量】2.0kg 【小箱サイズ】W39.0xD20.0xH20.0  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  *-*-*-*-*-*-* シンプルで北欧風デザインがおしゃれなLEDデスクライト。角度調節が可能で、学習机やワークデスクに最適。明るく目に優しい光が作業効率をサポートします。テレワークやリモートワーク、読書灯としても活躍。コンパクトで場所を取らず、どんなインテリアにもなじむ卓上ライトです。スタンドライトとしての実用性とデザイン性を兼ね備えた照明アイテム。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   LHT-755LBL lh003003 LHT-755WH lh003004 LHT-755YE lh003005",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/eb2f31d83f9427bd1253c18cd793290e.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c7cdd31a81ed4818db86847e99f8b4a8.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/85931729",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ライトブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/85931729",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/85931729",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "イエロー"
+      }
+    ]
+  },
+  "/items/85931326": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/85931326#product",
+    "name": "卓上ケース アクセサリーケース 天然木 5段収納 小物入れ お洒落 シンプル サークル型 スクエア型 アンティーク風 小物収納",
+    "description": "収納力とデザイン性を兼ね備えた仕上がりで空間を引き立てます。  商品サイズ：W16×D16×H31  【材質】天然木 スチール(粉体塗装) 【注意事項】個体差あり 【組立】完成品 【原産地】インドネシア 【商品重量】1.0kg 【小箱サイズ】W18.0xD18.0xH31.0  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ インテリア・雑貨 一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/4966320   *-*-*-*-*-*-* 天然木を使用した卓上アクセサリーケース。5段構造でアクセサリーや小物をすっきり収納でき、サークル型とスクエア型から選べます。アンティーク調のお洒落なデザインで、置くだけで空間を上質に演出。省スペースな卓上サイズで、玄関やデスク、ドレッサーにもぴったり。実用性とインテリア性を兼ね備えた、ギフトにもおすすめの収納アイテムです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  グッドタイム goodtime GUY-920A fs002008 GUY-920B fs002009",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/58995ff6f586a75faff073604f6d668a.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1c7ddab3edb187eaf89c7ffe95624f60.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/85931326",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/85931326",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      }
+    ]
+  },
+  "/items/112713890": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/112713890#product",
+    "name": "折りたたみスチールラック （3段棚） キャスター・ストッパー付き 高さ調整可能 ワゴンやキッチン収納に最適",
+    "description": "商品名：折りたたみラック スチール フォールディング キャスター付き ストッパー付き 3段棚 2段階高さ調整 キッチンラック ワゴン サイドラック  商品サイズ：W45×D34×H53/66  すっきりとしたシンプルデザインのフォールディングラック。  ・2段階の高さ調整が可能で、使わない時は折りたたんで省スペースに収納。 ・移動がしやすいキャスター付きなので様々な場所で活躍。 ・53cmと66cmの2段階で高さ調整ができるのが便利なポイント。 ・場所や用途に合わせて使えます。 ・簡単に折りたたみが可能で、使わない時はコンパクトに収納。 ・キャスター付きで移動も楽々。ストッパーも付いているので固定も可能。 ・キッチンワゴンとして。デスク横のサイドラックとして。  【材質】スチール（粉体塗装） 【静的耐荷重】5kg 【組立】完成品 【原産地】中国 【商品重量】4.5kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  ★他の生活雑貨・キッチン雑貨はこちらから →　https://www.goodtimeschool.jp/categories/4990894  *-*-*-*-*-*-*-*-*-  折りたたみ式のスチールラックは、使わないときはコンパクトに収納できる便利な収納アイテムです。 キャスター付きで移動もスムーズ。ストッパー付きなのでしっかり固定でき、キッチンラックやサイドラック、ワゴンとしても活躍します。 3段棚＋2段階高さ調整機能付きで、調味料・食品・家電・書類などの収納に最適です。 洗面所や脱衣所でのタオル収納にも便利で、リビングやワンルームの省スペース家具としてもおすすめ。 折りたたみラック、スチールラック、キッチンワゴン、収納棚、キャスター付きラック、サイドテーブル、ワゴン収納などをお探しの方にぴったりのアイテムです。  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   LFS-56BK lfs002046 LFS-56WH lfs002047 goodtime  07072025",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7e3ca5408947eb0c04c34fca1ea71548.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d040479eb568929f9bce7164a92b3947.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/112713890",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/112713890",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/108898864": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/108898864#product",
+    "name": "スチールラック 2段 長方形ワイドタイプ 玄関・トイレ・花台にも使える スリムでスタイリッシュなオープンラック",
+    "description": "スチールラック 2段 『長方形 ワイドタイプ』   商品サイズ；W45×D22×H65  様々な空間に合わせて溶け込むラック スチール製のすっきりとしたデザインが魅力的なスチールラック。 スリムな省スペースラックなので、様々な場所で使用することができます。 シンプルなので空間の雰囲気に合わせて活躍してくれます。  【材質】スチール(粉体塗装) 【組立】組立式 【原産地】中国 【商品重量】2.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   【スチールラックは３タイプ】  ★　正方形スリムタイプはこちら https://www.goodtimeschool.jp/items/108898692  ★三角形コーナータイプはこちら https://www.goodtimeschool.jp/items/108897377  ★長方形ワイドタイプはこちら https://www.goodtimeschool.jp/items/108898864   *-*-*-*-*-*-*-*-*- 長方形ワイドタイプの2段スチールラックは、スリムでスタイリッシュなデザインが特徴のオープンラックです。 玄関やトイレ、洗面所などの狭いスペースにも設置しやすく、花台や観葉植物のディスプレイにもぴったり。 シンプルながらもインダストリアルな雰囲気があり、モダンインテリアにも調和します。 小物収納、飾り棚、ディスプレイ棚としても活躍し、軽量で移動もラクラク。 スチールラック、2段ラック、オープンラック、長方形ラック、花台、玄関収納、トイレ収納、ディスプレイラック、スタイリッシュ家具、インダストリアル、シンプル家具、スリム収納などをお探しの方におすすめです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   MIP-12DGY mip002020 MIP-12WH mip002021 20250526",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/8037109f49454aa83e409bdc0367baed.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/158dcabb3b612a7453e03910e3cea811.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108898864",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ダークグレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108898864",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/108898692": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/108898692#product",
+    "name": "スチールラック 2段 正方形スリムタイプ 花台や玄関・トイレにも使える スタイリッシュなオープンラック",
+    "description": "スチールラック 2段 『正方形 スリムタイプ』   商品サイズ；W22×D22×H65  様々な空間に合わせて溶け込むラック スチール製のすっきりとしたデザインが魅力的なスチールラック。 スリムな省スペースラックなので、様々な場所で使用することができます。 シンプルなので空間の雰囲気に合わせて活躍してくれます。  【材質】スチール(粉体塗装) 【組立】組立式 【原産地】中国 【商品重量】1.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   【スチールラックは３タイプ】  ★　正方形スリムタイプはこちら https://www.goodtimeschool.jp/items/108898692  ★三角形コーナータイプはこちら https://www.goodtimeschool.jp/items/108897377  ★長方形ワイドタイプはこちら https://www.goodtimeschool.jp/items/108898864   *-*-*-*-*-*-*-*-*- スリムで正方形のフォルムが美しい2段スチールラックです。 オープンなデザインで圧迫感がなく、トイレや玄関などの限られたスペースにも設置しやすいのが特徴。 観葉植物や雑貨の花台として、また小物収納やディスプレイ用ラックとしても活躍します。 スタイリッシュでシンプルなデザインは、モダンやインダストリアルなインテリアとも相性抜群。 スチールラック、2段ラック、正方形ラック、オープンラック、スリムラック、花台、玄関収納、トイレ棚、シンプル家具、インダストリアルインテリア、ディスプレイラックなどをお探しの方におすすめです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   MIP-11DGY mip002018 MIP-11WH mip002019 20250526",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/0003cb6c167b32586e740ae7ff2e939b.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/622feed3485b3a0d3eff628cac4cbdd2.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3650",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108898692",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ダークグレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3650",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108898692",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/108897377": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/108897377#product",
+    "name": "スチールラック 2段 三角形コーナータイプ 省スペースでも活躍する花台・玄関・トイレ向け オープンラック",
+    "description": "スチールラック 2段 『三角形 コーナー』   商品サイズ；W45×D23×H65  様々な空間に合わせて溶け込むラック スチール製のすっきりとしたデザインが魅力的なスチールラック。 スリムな省スペースラックなので、様々な場所で使用することができます。 シンプルなので空間の雰囲気に合わせて活躍してくれます。  【材質】スチール(粉体塗装) 【組立】組立式 【原産地】中国 【商品重量】1.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   【スチールラックは３タイプ】  ★　正方形スリムタイプはこちら https://www.goodtimeschool.jp/items/108898692  ★三角形コーナータイプはこちら https://www.goodtimeschool.jp/items/108897377  ★長方形ワイドタイプはこちら https://www.goodtimeschool.jp/items/108898864   *-*-*-*-*-*-*-*-*- スタイリッシュで省スペース設計の三角形コーナー型スチールラック（2段）です。 お部屋の角や玄関・トイレなどのデッドスペースを有効活用できる実用的な収納ラック。 花台として観葉植物や雑貨を飾ったり、小物のディスプレイ棚としても最適です。 シンプルでインダストリアルなデザインは、北欧風やモダンインテリアにもマッチ。 スチールラック、三角ラック、コーナーラック、2段ラック、花台、オープンラック、玄関収納、トイレ収納、コンパクト家具、省スペース収納、ディスプレイ棚、シンプルインテリアなどをお探しの方におすすめです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   MIP-10DGY mip002016 MIP-10WH mip002017 20250526",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a5016571a9ee1c0ecdcaeb82a108fe95.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ee28774805b898a759829751eaccb251.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3650",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108897377",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ダークグレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3650",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108897377",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/103417829": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/103417829#product",
+    "name": "ハンガーラック 伸縮式 スチール製 収納棚付き ワイドタイプ 高さ180cm アジャスター付き シンプル おしゃれ キャスター付き",
+    "description": "伸縮可能なハンガー機能付きのスチールラック シンプルで、置く場所を選ばないスチール製のラック。伸縮機能が付いたハンガーが付いており、衣類を掛ける量やお部屋の広さに合わせて、ハンガーの幅を調整する事が出来ます。  商品サイズ：W67.5-152×D40×H180.5  【材質】スチール（粉体塗装） 【機能】ラック：アジャスター付き 　　　　ハンガー：伸縮可能2段階ハンガー付き キャスター付き 【組立】組立式 【原産地】中国 【商品重量】9.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ↓詳細動画をご覧ください。↓ https://www.youtube.com/watch?v=psX4KwzVu_k   ★ 生活雑貨・キッチン雑貨はこちらから ⇒　https://www.goodtimeschool.jp/categories/4990894   *-*-*-*-*-*-* シンプルでおしゃれなスチール製ハンガーラック。幅は伸縮式で、収納スペースに合わせて調整可能。高さ180cmのワイド設計でロングコートもスッキリ掛けられ、下部には収納棚も付いています。アジャスター付きで安定性も抜群。キャスター付きで移動も楽々、掃除や模様替えにも便利です。インダストリアルなデザインがインテリアにもなじみ、衣類収納をスタイリッシュに演出します。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   MIP-66DGY mip002005 MIP-66WH mip002006",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/465c52b23a5931e95dbd273a66c703a0.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/cb697832d4bf71056a94b324a63cf23d.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "19600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/103417829",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ダークグレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "19600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/103417829",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/82351207": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/82351207#product",
+    "name": "ハンガーラック ハンガーワゴン シェルフ付き 北欧風 おしゃれ モノトーン 幅50cm スリム コート掛け 洋服掛け タオル掛け",
+    "description": "北欧ナチュラルな収納家具シリーズ“Sylph”にハンガーラックが登場。 キャスター付きで移動が簡単で収納力も抜群。生活のあらゆるシーンで活躍します。  ・掛けても良し、置いても良しの便利なハンガーラック。ハンガーポールに加えて上段・下段に収納棚を設置し、収納力をアップさせました。キャスター付きで手軽に移動させることができるので、リビングや玄関など様々な場所で活躍します。  ・全体の幅は50cmと程良くスリムな設計ですが、普段よく着る衣服などを掛けられるスペースをしっかり確保しています。また衣類を掛ける有効スペースは高さ125cmなので、コートやワンピースなどの長物も掛けられます。  ・下段には収納スペースがひとつ設けられており、入れ口の高さは9cmと深めに設計されています。身の回りの小物を置いておくスペースとしてご活用いただけます。  ・上段には入れ口が浅めに設計された収納スペースも備えています。入れ口が浅いことで手軽に物を取ったり置いたりすることができるので、サッと使いたい衣類スプレーなどを置くのもおすすめです。  ・脚部にはキャスターが4カ所に付いているため、衣類をたくさん掛けたままでも安定して移動させることができます。   【商品サイズ】 幅50×奥行36×高さ155.5cm 【材質】 スチール(粉体塗装)/天然木(ビーチ)/ラッカー塗装 【生産国】 中国 【組立】 組立必要  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  *-*-*-*-*-*-* 北欧風デザインがおしゃれなハンガーワゴン。幅50cmのスリム設計で、玄関や廊下にもすっきり収まるコンパクトサイズ。洋服掛けやコートハンガーとしてはもちろん、タオル掛けや収納ワゴンとしても活躍します。アイアンとシェルフの組み合わせがスタイリッシュで、モノトーンのカラーリングはインテリアにも調和。実用性と美しさを兼ね備えた収納アイテムです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PW-55GR mw002007 PW-55WH mw002008",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c027dc307a784d54965723ee685d6e9d.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/73f6b1139ad48696735e39897aefbfdd.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "10300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82351207",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "10300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82351207",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/90024422": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/90024422#product",
+    "name": "バスケットワゴン キッチンワゴン ガーデンプランター 天然木 スチール 北欧 ナチュラル キャスター付き 棚 観葉植物",
+    "description": "●全体的に丸みのある優しいフォルムが特徴的なキャスター付きバスケットワゴン。 ●フレームやバスケットの角を丸く仕上げているので全体的に柔らかい印象。 ●フレームはしっくりと手に馴染む天然木（ビーチ）を使用。 ●木目が細かく繊細な雰囲気の天然木なので、愛らしく上品な仕上がり。 ●キャスターにも天然木を使用したこだわりデザイン。 ●棚はフレーム固定式なので移動中にバスケットが外れる事もなく安心。 ●ワゴンは高さが約86.5cmなのでダイニング周りのワゴンとしても便利。 ●グリーン等を置いておしゃれなディスプレイワゴンとしても。  サイズ：W55×D35.5×H86.5  【材質】天然木(ビーチ) ラッカー塗装 スチール(粉体塗装) 【静的耐荷重】3kg/棚 【組立】組立式 【原産地】中国 【商品重量】4.5kg 【小箱サイズ】W39.0xD14.0xH102.0 【小箱重量】6.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ 他のワゴン、ラックはこちらから ⇒　https://www.goodtimeschool.jp/categories/4990894   *-*-*-*-*- 天然木×スチールの組み合わせが美しいバスケットワゴン。キッチンワゴンやガーデンプランターとして使える2WAY仕様で、キャスター付きなので移動もラクラク。ナチュラルな北欧テイストがインテリアに調和し、観葉植物やフェイクグリーンのディスプレイにも最適。テーブルサイドの収納ラックや棚としても便利で、おしゃれな空間を演出します。組立も簡単です。 *-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PW-54GR mw002005 PW-54WH mw002006",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3d73abce20920888a780a608cacc899c.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/74212950eedde98f7d6d8ef1d0b06230.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "13800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90024422",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "13800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90024422",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/90023824": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/90023824#product",
+    "name": "マルチワゴン 3段 木製 キッチンワゴン サイドテーブル ナイトテーブル 天然木 北欧風 キャスター付き 収納棚 シンプル",
+    "description": "愛着の湧くカタチと、優しい色合いで心をつかむ 北欧ナチュラルな丸みを持たせたデザインとカラーで、優しい空間を作り出すマルチワゴンです。  ■多用途ワゴン／全体的に丸みのある優しいフォルムが特徴のキッチンワゴン。ソファの横に置いて【サイドワゴン】として、食器類や調味料を入れての【キッチンワゴン】として、多用途で使える便利なワゴンです。  サイズ：W50.5×D35.5×H98  【材質】天然木(ビーチ) ラッカー塗装 スチール(粉体塗装) 【静的耐荷重】5kg/棚 【組立】組立式 【原産地】中国 【小箱サイズ】W57.0xD43.0xH12.0 【小箱重量】9.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ★ 2段ワゴンはこちらから ⇒　https://www.goodtimeschool.jp/items/90023452  ★生活雑貨・キッチンはこちらから ⇒　https://www.goodtimeschool.jp/categories/4990894   *-*-*-*-*-*-* 北欧テイストの天然木を使用したマルチワゴン3段タイプ。キッチンワゴンとしてはもちろん、サイドテーブルやベッドサイド、ナイトテーブルとしても活躍。キャスター付きで移動もスムーズ、オープンラック仕様で出し入れ簡単。ナチュラルな木目とシンプルなデザインは、どんなインテリアにも馴染みます。おしゃれで実用的な収納棚をお探しの方におすすめです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PW-53GR mw002003 PW-53WH mw002004",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/018eb669ce4ff203288659d55c8db74a.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/377e360b100fb3a64d80977513c8b1a7.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "12100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90023824",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "12100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90023824",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/90023452": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/90023452#product",
+    "name": "マルチワゴン 2段 木製 キッチンワゴン サイドテーブル ナイトテーブル 北欧風 天然木 キャスター付き 収納棚 ラック",
+    "description": "愛着の湧くカタチと、優しい色合いで心をつかむ 北欧ナチュラルな丸みを持たせたデザインとカラーで、優しい空間を作り出すマルチワゴンです。  サイズ：W50.5×D35.5×H63.5  【材質】天然木(ビーチ) ラッカー塗装 スチール(粉体塗装) 【静的耐荷重】5kg/棚 【組立】組立式 【原産地】中国 【商品重量】5.5kg 【小箱サイズ】W57.0xD43.0xH9.0 【小箱重量】6.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ 3段のワゴンはこちら ⇒　https://www.goodtimeschool.jp/items/90023824  ★ 生活雑貨・キッチンはこちら ⇒　https://www.goodtimeschool.jp/categories/4990894   *-*-*-*-*-*-* 天然木のあたたかみと北欧デザインが魅力の2段マルチワゴン。キッチンワゴンやサイドテーブル、ナイトテーブルとしても使える万能アイテムです。キャスター付きで移動も簡単、使い勝手のよいオープンラック仕様。ナチュラルでシンプルなデザインはどんなお部屋にも調和し、収納棚としてもおしゃれに活躍します。省スペースでもしっかり収納できる優秀ワゴンです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PW-52GR mw002001 PW-52WH mw002002",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6cae7adc27fc6e8fb36dd16cf163d764.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e1b3f1fe05c80e19664d04297e5f5c88.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "10200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90023452",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "10200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90023452",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/109036181": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/109036181#product",
+    "name": "猫・犬ぬいぐるみ 癒されアニマル （むぶまる） 関節可動で自由自在 癒し・介護・ペットロスにも最適なインテリア雑貨",
+    "description": "癒されアニマル 『むぶまる』   [商品サイズ] ねこちゃん：　約W12.5×D27×H30 わんちゃん：　約W12×D32×H23  表情やころんとしたフォルムに癒される、ペットのようなぬいぐるみ「むぶまる」。手足やしっぽが動かせるのでいろんなポーズを取ることができます。程よい重さもあり本当の動物のように愛着が湧くこと間違いなし。インテリアの中に置いておいても空間になじみます。  【材質】ポリエステル 【組立】完成品 【原産地】中国 【商品重量】0.4kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   【もちもちクッションはこちら】  ・ロープクッション https://www.goodtimeschool.jp/items/109032317  ・ボールクッション  https://www.goodtimeschool.jp/items/109032563  *-*-*-*-*-*-*-*-*-  癒されアニマル『むぶまる』は、関節が自由に動く猫、犬のぬいぐるみです。 リアルなポージングが可能で、まるで本物の猫や犬のような癒しを届けてくれます。 ペットロスで寂しさを感じている方や、高齢者の方へのプレゼントとしても人気。 介護施設や自宅のインテリアとしても使える、やさしい表情と柔らかい質感が魅力です。 猫ぬいぐるみ、ねこ雑貨、犬ぬいぐるみ、癒しグッズ、関節可動ぬいぐるみ、ペットロスケア、介護用グッズ、高齢者向けプレゼント、かわいいインテリア、むぶまる、癒されアニマルなどをお探しの方におすすめです。  *-*-*-*-*-*-*-*-*-  ★ インテリア・雑貨一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/4966320   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   GLK-210A glk002034 GLK-210B glk002035 5/28/2025",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6ce266dc8794faaa6555354ab61ef8b4.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/729dbef500ba364e8079bdb338773426.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/109036181",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/109036181",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      }
+    ]
+  },
+  "/items/109032563": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/109032563#product",
+    "name": "結び目ボールクッション もちもち・もこもこ質感でかわいい北欧風 おしゃれなフロアクッション インテリア雑貨に最適",
+    "description": "ボールクッション もちもちクッション   商品サイズ：約W25×D25×H25  もちもち触感のブークレ生地を使用した、ボールクッション。触り心地の良い感触と、インテリア性のあるデザインが魅力的なアイテムです。クッションとしての使いやすさはもちろん、置いておくだけでも雰囲気が出ます。  【材質】ポリエステル 【組立】完成品 【原産地】中国 【商品重量】0.6kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   【もちもちクッションは２種類】  ・ロープクッション https://www.goodtimeschool.jp/items/109032317  ・ボールクッション  https://www.goodtimeschool.jp/items/109032563  *-*-*-*-*-*-*-*-*-  柔らかくてもちもちの触感が気持ちいい、結び目デザインのボールクッションです。 まるでロープを編んだようなユニークなフォルムで、インテリアのアクセントにぴったり。 北欧風のおしゃれな空間や、子供部屋、ソファ周りのフロアクッションとしても活躍します。 もこもこでかわいらしい見た目は、贈り物や写真映えグッズとしても人気です。 ボールクッション、もちもちクッション、もこもこ、結び目クッション、ロープデザイン、フロアクッション、北欧インテリア、インテリア雑貨、かわいいクッション、柔らかい雑貨、おしゃれな部屋作りなどをお探しの方におすすめです。  *-*-*-*-*-*-*-*-*-  ★ インテリア・雑貨一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/4966320   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   GLK-212BE glk003028 GLK-212BL glk003029 GLK-212DGY glk003030 5/28/2025",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/aba80adf8fefd6f30c8afea9a69c9711.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c546754ade3cb069473a69c14d186792.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/109032563",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/109032563",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/109032563",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ダークグレー"
+      }
+    ]
+  },
+  "/items/109032317": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/109032317#product",
+    "name": "ロープクッション 結び目デザイン もちもち・もこもこ質感の北欧風 フロアクッション おしゃれでかわいい インテリア雑貨",
+    "description": "ロープクッション もちもちクッション   商品サイズ：約W60×D29.5×H21  もちもち触感のブークレ生地を使用した、ロープクッション。触り心地の良い感触と、インテリア性のあるデザインが魅力的なアイテムです。クッションとしての使いやすさはもちろん、置いておくだけでも雰囲気が出ます。  【材質】ポリエステル 【組立】完成品 【原産地】中国 【商品重量】0.5kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   【もちもちクッションは２種類】  ・ロープクッション https://www.goodtimeschool.jp/items/109032317  ・ボールクッション  https://www.goodtimeschool.jp/items/109032563  *-*-*-*-*-*-*-*-*-  おしゃれでかわいい結び目デザインのロープクッションです。 もちもち、もこもことした柔らかい質感で、リビングやベッドルーム、子供部屋のフロアクッションとしてぴったり。 北欧風のやさしい色合いとユニークなフォルムが、空間に温かみをプラスします。 ソファの背もたれや抱き枕としても使える多機能クッション。写真映えするインテリアアイテムとしても人気です。 ロープクッション、もちもちクッション、結び目クッション、もこもこ、北欧雑貨、おしゃれ、かわいい、フロアクッション、柔らかいクッション、インテリア雑貨、プレゼント、子供部屋、ナチュラルインテリアなどをお探しの方におすすめです。  *-*-*-*-*-*-*-*-*  ★ インテリア・雑貨一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/4966320   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   GLK-211BE glk003031 GLK-211BL glk003032 GLK-211DGY glk003033 5/28/2025",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6d932ba7a10dac9e7cdac8b7d68855f8.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a9c86619f75f1acd25897705fa721dfc.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/109032317",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/109032317",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/109032317",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ダークグレー"
+      }
+    ]
+  },
+  "/items/103631946": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/103631946#product",
+    "name": "クッション 腰当て 枕 肘置き 背もたれ もちもち ふかふか おもち型 和風 かわいい 軽量 お昼寝 仮眠 ギフトにも",
+    "description": "商品サイズ：W30×D25×H19  様々な場所に挟んで使えるおもち型クッション お家でも仕事でも大活躍する汎用性の高いクッションアイテム。 使用用途やお好みによって様々なシーンで色んな使い方ができます。 挟んで使うだけでなく、背あてクッションや枕としても活躍します。  【材質】ポリエステル 【組立】完成品 【原産地】中国 【商品重量】0.4kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ↓詳細動画をご覧ください。↓ https://www.youtube.com/watch?v=P0I9kXTJsB4  *-*-*-*-*-*-* もちもち＆ふかふかの触感が癒しを届ける多機能クッション。腰当て、枕、肘置き、背もたれ、足置きとしても使えるU字型デザインで、リラックスやお昼寝、仮眠にぴったり。おもちのような可愛い和風デザインは、デスクや寝室、リビングにもマッチ。軽量＆コンパクトなので持ち運びも簡単。ポップで実用的なアイテムとして、自分用はもちろんプレゼントにもおすすめです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   GLK-209GR glk003016 GLK-209PK glk003017 GLK-209WH glk003018 goodtime",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/53f06109aa7f5a891471fc9791b5d634.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e28b91922c53fc94323f31b8f6aa99e9.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/103631946",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/103631946",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/103631946",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/102461996": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/102461996#product",
+    "name": "デスクチェア 回転 昇降機能付き キャスター付き PCチェア ワークチェア パソコンチェア 在宅勤務 リモートワーク おしゃれ",
+    "description": "●コーデュロイ生地はおしゃれで柔らかい印象なので、リビングでの使用する際も周りのインテリアと好相性です。 ●シェアオフィスやデザイナーズオフィス等でのご使用もおススメです。  サイズ：W43×D49×H82-92×SH48-58  【材質】スチール(粉体塗装) 　　ポリエステル（他の3色） 【機能】昇降機能 回転式 【静的耐荷重】80kg 【組立】組立式 【原産地】中国 【商品重量】7.0kg  ※1脚単位販売  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ★ チェア・スツールはこちらから ⇒　https://www.goodtimeschool.jp/categories/4998684   *-*-*-*-*-*-* 快適な座り心地と機能性を兼ね備えたデスクチェア。キャスター＆回転機能付きでスムーズな移動が可能。昇降調整で体格やデスク高さに合わせて使え、長時間の作業や在宅勤務にもぴったり。シンプルでおしゃれなデザインは、リビングや書斎にもなじみます。パソコンチェア・ワークチェアとして、リモートワークや学習用にもおすすめ。組み立ても簡単です。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  KGI-109CBK ac004002 KGI-109CBL ac004003 KGI-109CGY ac004004",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/874b9ad791947cb10234b641f947e0bd.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/32586a8f07c37085cd6d0d75b1dcea25.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "13500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/102461996",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "13500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/102461996",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "13500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/102461996",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      }
+    ]
+  },
+  "/items/79194852": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/79194852#product",
+    "name": "パイプ椅子 折りたたみ フォールディングチェア おしゃれ ヴィンテージ風 コンパクト 北欧 ナチュラル 隙間収納 来客用",
+    "description": "サイズ：W47×D45×H79×SH48  ※当ページは1脚単位の販売です。  お得な4脚セットはこちらから↓ https://www.goodtimeschool.jp/items/82349023  ●オフィスやテレワークなど幅広く活躍するフォールディングチェア。 ●上品な色合いと高級感を感じる、おしゃれなベロア調の生地。 ●折りたたみ時の厚さはわずか9cmとコンパクト。 ●使わない時は折りたたんでお部屋の隙間に収納。 ●座面と背もたれに肌触りのいいベロア調の生地を使用。 ●クッション材が背中とおしりを優しく受け止めてくれます。 ●本体のスチールフレームにはベージュカラーを採用し、上品で美しい仕上がり。 ●床のダメージや安全面に配慮した、脚先キャップ付き。 ●滑りにくく床にキズが付きにくいのでフローリングでも使用可能。 ●様々なシーンに合わせてコーディネートが可能。  商品サイズ：約幅47×奥行45×高さ79cm（床から座面までの高さ48cm） 材質：スチール（粉体塗装）/ポリエステル 商品重量：4.0kg 生産国：中国 備考：完成品/折りたたみ式  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  　[当ページは1脚単位の販売です]  お得な4脚セットはこちらから↓ https://www.goodtimeschool.jp/items/82349023   ★ チェア・スツール 一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/4998684   *-*-*-*-*-*-* アメリカンヴィンテージの雰囲気が漂う、おしゃれなパイプ椅子。折りたたみ可能なフォールディングチェアで、使わない時はスリムに収納でき、来客用やキッチン、リビング、ダイニングでも活躍します。シンプルでナチュラルなデザインは北欧風インテリアにもぴったり。軽量かつコンパクトで持ち運びも楽々。1脚から購入可能で、必要な分だけ揃えられます。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PC-33BE PC-33BK PC-33BL PC-33GR PC-33GY pc005001 pc005002 pc005003 pc005004 pc005005",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7ca49c998862c0b6d11e2e0ba3555f2e.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d35bb8934411885d958849827e6db909.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/79194852",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/79194852",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/79194852",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/79194852",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/79194852",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      }
+    ]
+  },
+  "/items/82349023": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/82349023#product",
+    "name": "パイプ椅子 4脚セット 折りたたみ フォールディングチェア ヴィンテージ風 北欧 ナチュラル 隙間収納 来客用",
+    "description": "サイズ：W47×D45×H79×SH48  ●オフィスやテレワークなど幅広く活躍するフォールディングチェア。 ●上品な色合いと高級感を感じる、おしゃれなベロア調の生地。 ●折りたたみ時の厚さはわずか9cmとコンパクト。 ●使わない時は折りたたんでお部屋の隙間に収納。 ●座面と背もたれに肌触りのいいベロア調の生地を使用。 ●クッション材が背中とおしりを優しく受け止めてくれます。 ●本体のスチールフレームにはベージュカラーを採用し、上品で美しい仕上がり。 ●床のダメージや安全面に配慮した、脚先キャップ付き。 ●滑りにくく床にキズが付きにくいのでフローリングでも使用可能。 ●様々なシーンに合わせてコーディネートが可能。  【お得な4脚セットです】  ※1〜3脚をお求めの方はこちらから https://www.goodtimeschool.jp/items/79194852  商品サイズ：約幅47×奥行45×高さ79cm（床から座面までの高さ48cm） 材質：スチール（粉体塗装）/ポリエステル 商品重量：4.0kg 生産国：中国 備考：完成品/折りたたみ式  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ チェア・スツール 一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/4998684   *-*-*-*-*-*-*- お得な4脚セットのフォールディングチェア。アメリカンヴィンテージ風のデザインがおしゃれで、北欧ナチュラルな空間にもマッチ。折りたたみ式で使わない時はスリムに収納でき、来客時やキッチン・ダイニング・リビングなど多目的に使えます。軽量で持ち運びも簡単。コンパクトながら安定感のある座り心地で、実用性とデザイン性を兼ね備えた便利なチェアセットです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PC-33BE PC-33BK PC-33BL PC-33GR PC-33GY pc005001 pc005002 pc005003 pc005004 pc005005",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b7847a014dc469ac712c06d2247255bf.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f3948225578505becc5e114ae3a81610.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "23200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82349023",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "23200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82349023",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "23200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82349023",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "23200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82349023",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "23200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82349023",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      }
+    ]
+  },
+  "/items/108459612": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/108459612#product",
+    "name": "カウンタースツール 昇降・回転式 おしゃれなファブリック座面の丸椅子 カフェバー ワークスペースに最適なハイスツール",
+    "description": "カウンタースツール  商品サイズ：約幅38×奥行38×高さ62-84cm  お家のカウンターがおしゃれなカフェ空間に！  商品重量：約5kg 材質：スチール(粉体塗装)/ABS樹脂/ポリエステル 生産国：中国 備考：組立式/回転式/昇降機能 ※1脚単位販売  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   *-*-*-*-*-*-*-*-*- 昇降・回転機能付きのカウンタースツールは、快適さと機能性を兼ね備えたハイスツールです。 座面は肌触りの良いファブリック素材を使用し、丸椅子タイプでやさしい印象。 カフェ風キッチンやバー、ワークスペース、カウンター席など様々なシーンで活躍します。 ガス圧昇降で高さ調整もラクラク、組み立ても簡単なので届いてすぐに使えます。 カウンタースツール、カウンターチェアー、バーチェア、ハイスツール、昇降式、回転式、ファブリック、丸椅子、おしゃれ椅子、カフェチェア、バー家具、作業用チェア、コンパクトチェアなどをお探しの方におすすめです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PC-264LGY pc002051 PC-264DGY pc002052 グッドタイム goodtime 20250521",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/0674c9811274252f2272bd1151e24672.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/47072b56fc4004fd30551e4d84489410.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7450",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108459612",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ライトグレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7450",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108459612",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ダークグレー"
+      }
+    ]
+  },
+  "/items/108642072": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/108642072#product",
+    "name": "スツール 天然木レッドオーク 軽量・シンプルな四角形デザイン ナチュラル ブルーグレーのおしゃれな椅子",
+    "description": "天然木 レッドオーク スツール  商品サイズ：W42×D32×H42.5  気品漂う木製スツール。 品のあるレッドオークの色合いに、手触りの良い混色の上品さが際立つカラーのファブリック生地を採用しています。 角を取った細身の脚と、シンプルなデザインが温かみのある空間を演出します。  ※1脚単位販売です。  【材質】天然木(レッドオーク) ウレタン塗装 ポリエステル 【静的耐荷重】80kg 【組立】完成品 【原産地】中国 【商品重量】2.6kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  *-*-*-*-*-*-*-*-*- 天然木レッドオークを使用した、上品でおしゃれなスツールです。 軽量で扱いやすく、四角形のシンプルなデザインは、リビング・玄関・寝室など様々な空間にマッチします。 混色の座面（ナチュラル×ブルーグレー）は、北欧風やナチュラルテイストのインテリアと相性抜群。 サブチェアとしての使用はもちろん、ディスプレイ台や花台としてもおすすめ。 スツール、椅子、天然木、レッドオーク、四角形スツール、軽量チェア、ナチュラルインテリア、混色チェア、ブルーグレー、サイドチェア、おしゃれなイス、上品な家具などをお探しの方に最適です。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   CL-804BG cl004014 CL-804GYB cl004015 CL-804OBR cl004016 CL-804WH cl004017 20250521",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/87c81762d049dcbc8c99e9758e76a60e.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/358c7686cf1e630321824a3f502d7939.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108642072",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルーグリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108642072",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレーブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108642072",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "オレンジブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108642072",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/108354137": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/108354137#product",
+    "name": "スツール 三角形 スチール製 軽量 おしゃれチェア 背もたれなし コンパクトなモダンイス",
+    "description": "トライアングルスツール 三角形 椅子  W36×D32×H45  様々な空間になじむ三角スツール コロンとした角の丸い三角形に、落ち着いた色味のスチール脚が魅力的なスツール。 コンパクトなサイズ感でお部屋に合わせやすいシンプルな2色展開です。 玄関やキッチン、お部屋に馴染みどこでも活躍します。  【材質】スチール(粉体塗装) ポリエステル 【静的耐荷重】80kg 【組立】組立式 【原産地】中国 【商品重量】1.0kg  ※1脚単位販売  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ チェア・スツールはこちらから ⇒　https://www.goodtimeschool.jp/categories/4998684   *-*-*-*-*-*-*-*-*- 三角形のデザインが特徴のスチール製スツール。軽量で移動もラクラク。背もたれなしで省スペース、コンパクトな空間にもぴったり。おしゃれなモダンデザインで、インテリアのアクセントにもおすすめです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PC-14IV pc002049 PC-14GY pc002050 グッドタイム goodtime 20250520",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/06b9b0aff75aaf461df38484a6dad02d.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c8e995988243105e4b7a9e78faf4b28e.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108354137",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "アイボリー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108354137",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      }
+    ]
+  },
+  "/items/108327306": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/108327306#product",
+    "name": "スツール 椅子 オットマン クロスレザー 背もたれなし コンパクト おしゃれ モダンデザイン 脚置き台 一人掛け キャメルカラー",
+    "description": "クロスレザー×ブラックスツールのモダンなスツール  商品サイズ：W47×D47×H43  クロスレザー×ブラックスチールのモダンスツール クロスレザー仕様で高級感のある座面と、スタイリッシュなスチール脚が印象的なスツール。 すっきりとした脚部のデザインは抜け感があり、空間を広く見せてくれるアイテムです。  【材質】スチール(粉体塗装) ポリエステル 【静的耐荷重】80kg 【組立】組立式 【原産地】中国 【商品重量】4.0kg  ※1脚単位販売  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★　他のチェア・スツールはこちらから 　　→　https://www.goodtimeschool.jp/categories/4998684   *-*-*-*-*-*-*-*-*- キャメルカラーのクロスレザーが印象的なスツール。背もたれなしで省スペース設計、玄関や待合室、リビングの脚置き台や一人掛けチェアとしても活躍します。おしゃれでモダンなデザインが空間に上質感を与え、コンパクトながら存在感ある椅子です。オットマンや補助椅子にもおすすめ。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PC-12BK pc002047 PC-12CA pc002048 グッドタイム goodtime 20250520",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/fd98f52116d99ad4bfd2e814810d650e.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/919ce9774e415e93c383aba2da6565dc.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "8100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108327306",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "8100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108327306",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "キャメル"
+      }
+    ]
+  },
+  "/items/108045889": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/108045889#product",
+    "name": "スタッキングスツール フェイクラタン かごめ編み調 背もたれなし 椅子 積み重ね可 軽量 コンパクト モダンな腰掛チェア 来客用にも",
+    "description": "商品サイズ：W34×D34×H46  温かみのあるかごめ編み調 ・シンプルなフォルムの中に装飾されたかごめ編み調の座面が目を引き、お部屋のアクセントになります。 ・ポリプロピレン製なので軽量で、耐久性があり汚れた時にお手入れがしやすいです。 ・スタッキングが可能なので、使わない時は場所を取らずに収納することができます。  【材質】ポリプロピレン 【機能】スタッキング可 【静的耐荷重】80kg 【組立】完成品 【原産地】中国 【商品重量】1.5kg  ※1脚単位販売  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★　他のチェア・スツールはこちらから 　　→　https://www.goodtimeschool.jp/categories/4998684  *-*-*-*-*-*-*-*-*- かごめ編み調のフェイクラタンデザインが美しいスタッキングスツール。背もたれなしで省スペース、軽量で持ち運びも簡単。来客用の腰掛や玄関、リビングなどあらゆる場所で活躍します。積み重ね収納が可能で、シンプルかつモダンな空間づくりに最適なコンパクトチェアです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PC-733BK pc004035 PC-733GY pc004036 PC-733WH pc004037 PC-733YE pc004038 グッドタイム goodtime 20250518",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f308cc766ab4b69af89a8a69b12dcbc3.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5bd7a7c335766e46e953c9471d3214f7.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108045889",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108045889",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108045889",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/108045889",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "イエロー"
+      }
+    ]
+  },
+  "/items/107946293": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/107946293#product",
+    "name": "スタッキングスツール 高さ46cm トールサイズ 背もたれなし 椅子 シンプル 腰掛け 積み重ね可能 来客用 軽量 モダン 玄関用 1脚販売",
+    "description": "商品サイズ：W33×D33×H46  『高さ46cm トールサイズ』 　※1脚単位販売  異素材の組み合わせがモダンなスツール。 優しい色味と上品な合皮が魅力的なスツール。シンプルなデザインと絶妙なカラーは場所を選ばず使用でき、様々なインテリアと相性がよく空間に馴染みます。スタッキングができるので、使わない時は省スペースに収納していただけます。  【材質】ポリプロピレン 合皮 【機能】スタッキング可 【静的耐荷重】80kg 【組立】完成品 【原産地】中国 【商品重量】2.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   【高さは2種類から選べます】 ★　高さ31cm　ローサイズスツール https://www.goodtimeschool.jp/items/107946056  ★　高さ46cm　トールサイズスツール https://www.goodtimeschool.jp/items/107946293   ★　他のチェア・スツールはこちらから 　　→　https://www.goodtimeschool.jp/categories/4998684  *-*-*-*-*-*-*-*-*- 高さ46cmのトールサイズが使いやすいスタッキングスツール。背もたれなしで省スペース設計、来客用や玄関・キッチンでの腰掛けとしても便利です。軽量で持ち運びしやすく、積み重ねて収納可能。ポリプロピレン製でお手入れも簡単。シンプルでモダンなデザインが空間に調和します。1脚販売。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PC-732BK pc004043 PC-732GY pc004044 PC-732IV pc004045 PC-732RBE pc004046 グッドタイム goodtime 20250518",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/60c54e635bbf42585996fb95cafd8529.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/592d823de2126a315ca458ae7cde5aff.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/107946293",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/107946293",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/107946293",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "アイボリー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/107946293",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ローズベージュ"
+      }
+    ]
+  },
+  "/items/107946056": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/107946056#product",
+    "name": "スタッキングスツール 高さ31cm ローサイズ 背もたれなし 椅子 積み重ね可能 腰掛け 軽量 シンプル モダン 来客用 玄関用 1脚販売",
+    "description": "商品サイズ：W30.5×D30.5×H31  『高さ31cm ローサイズ』　※1脚単位販売  異素材の組み合わせがモダンなスツール。 優しい色味と上品な合皮が魅力的なスツール。シンプルなデザインと絶妙なカラーは場所を選ばず使用でき、様々なインテリアと相性がよく空間に馴染みます。スタッキングができるので、使わない時は省スペースに収納していただけます。  【材質】ポリプロピレン 合皮 【機能】スタッキング可 【静的耐荷重】80kg 【組立】完成品 【原産地】中国 【商品重量】1.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   【高さは2種類から選べます】 ★　高さ31cm　ローサイズスツール https://www.goodtimeschool.jp/items/107946056  ★　高さ46cm　トールサイズスツール https://www.goodtimeschool.jp/items/107946293   ★　他のチェア・スツールはこちらから 　　→　https://www.goodtimeschool.jp/categories/4998684  *-*-*-*-*-*-*-*-*- 高さ31cmのロータイプスタッキングスツール。コンパクトで背もたれのない省スペース設計。軽量で持ち運びも簡単、来客用や玄関、子ども用の腰掛けとしても活躍します。積み重ねて収納できるので場所を取らず、シンプルでモダンなデザインはさまざまな空間に馴染みます。1脚販売。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PC-731BK pc004039 PC-731GY pc004040 PC-731IV 　　pc004041 PC-731RBE pc004042 グッドタイム goodtime 20250518",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a687ae7ff0fcac05dc10f6b291376262.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/925fb6e1bbc887c8cf7023cb89c6a51e.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/107946056",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/107946056",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/107946056",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "アイボリー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/107946056",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ローズベージュ"
+      }
+    ]
+  },
+  "/items/101191852": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/101191852#product",
+    "name": "キリムスツール ビーズクッション オルテガ柄 コットン おしゃれ かわいい オットマン 肘置き 座椅子 インテリア",
+    "description": "オルテガ調の柄はシンプルなお部屋でもオシャレなアクセントに。 スツール、肘掛け、オットマンなど様々な使用ができます。  ●中近東の織物『キリム』でできたビーズクッション。 ●発泡ビーズを使用した、適度な弾力のピーズクッション。  サイズ：約W30×D30×H30  【材質】コットン ポリウレタン(発泡ビーズ) 【注意事項】個体差あり 【組立】完成品 【原産地】インド 【商品重量】1.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ★ チェア・スツールはこちらから ⇒　https://www.goodtimeschool.jp/categories/4998684   *-*-*-*-*-*-* 泡ビーズ×コットン素材のキリムスツールは、座椅子・オットマン・肘置きなど多用途に使えるリラックスアイテム。民族調のオルテガ柄がおしゃれで、お部屋のアクセントにも。軽量で持ち運びしやすく、ビーズのフィット感が心地よい座り心地を実現。リビングや寝室、ワークスペースにもぴったりなスツールです。かわいい見た目と実用性でギフトにもおすすめ。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   FAB-002A as004011 FAB-002B as004012 FAB-002C as004013 FAB-002D as004014",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/689e0d7cc94cdf04c3ce4078191b3d8e.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/76746b6172b4ba074c67cfe39c67653e.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "10500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/101191852",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "赤/黒/黄色"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "10500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/101191852",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "赤/黒/黄色"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "10500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/101191852",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "赤/白"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "10500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/101191852",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "赤/黒"
+      }
+    ]
+  },
+  "/items/101291869": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/101291869#product",
+    "name": "キューブスツール 四角 スツール 角型チェア 韓国風 北欧風 おしゃれ かわいい フロアチェア クッション 椅子 イス",
+    "description": "柔らかい暖色を組み合わせた落ち着いたカラーリングが魅力的です。 シンプルナチュラルなお部屋や北欧テイストにも合わせやすいスツール。  サイズ：約W54×D54×H39  【材質】コットン ポリウレタン(発泡ビーズ) 【注意事項】個体差あり 【組立】完成品 【原産地】インド 【商品重量】3.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ★ チェア・スツールはこちらから ⇒　https://www.goodtimeschool.jp/categories/4998684   *-*-*-*-*-*-* 四角いフォルムが可愛いキューブスツール。韓国風・北欧風のインテリアにもなじむシンプルデザインで、フロアチェアやオットマン、ちょっとした腰掛けにもぴったり。軽量で扱いやすく、省スペースで使えるためリビングや玄関、寝室にも最適。かわいらしさと実用性を兼ね備えたチェアとして、ギフトにもおすすめです。ビーズクッションやキリム調のアイテムとの相性も抜群です。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   FAB-004A as002015 FAB-004B as002016",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a2d197869a1045b5da21a9df12f00725.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6a9f63795aee10912287de9d73bc728f.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "11500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/101291869",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "11500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/101291869",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "オレンジ"
+      }
+    ]
+  },
+  "/items/101292658": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/101292658#product",
+    "name": "ラウンドスツール 丸型チェア スツール 椅子 北欧風 アジアン風 フロアチェア おしゃれ かわいい コンパクト",
+    "description": "丸みを帯びたソフトデザインのスツール。 インテリアのアクセントにもなる優しいデザインです。  サイズ：約φ45×H43  【材質】コットン ポリウレタン(発泡ビーズ) 【注意事項】個体差あり 【組立】完成品 【原産地】インド 【商品重量】2.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ★ チェア・スツールはこちらから ⇒　https://www.goodtimeschool.jp/categories/4998684   *-*-*-*-*-*-* 丸いフォルムが優しい印象を与えるラウンドスツール。北欧風やアジアン風のインテリアにもマッチするおしゃれなデザインで、椅子やフロアチェア、ちょっとした腰掛けとして多用途に活躍。コンパクトで軽量なため移動や収納もラクラク。リビングや玄関、寝室、子ども部屋にもぴったりです。かわいらしさと実用性を兼ね備え、ギフトや来客用のサブチェアとしてもおすすめです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   FAB-005A as002017 FAB-005B as002018",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/79fc44549d38919548815109d47922a2.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/eaa5578ca3ef0226027156501e3f933d.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "14100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/101292658",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "14100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/101292658",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      }
+    ]
+  },
+  "/items/101189970": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/101189970#product",
+    "name": "ラウンドスツール ビーズクッション オットマン 軽量 ビーズスツール コットン 発泡ビーズ 腰掛け かわいい おしゃれ",
+    "description": "優しい手ざわりのラウンドスツール かわいらしいフォルムと優しい色合いがお部屋のアクセントになります。 大きいサイズのクッションとしてや、ソファの前に置いてオットマンとしても使えます。 ●中材に発泡ビーズを使用しているので軽量。持ち運びもラクラクです。  商品サイズ：約φ50×H36  【材質】コットン ポリウレタン(発泡ビーズ) 【注意事項】個体差あり 【組立】完成品 【原産地】インド 【商品重量】1.6kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  **-*-*-*-*-*- 発泡ビーズを内藏した、もちもちの座り心地が彼らなラウンドスツール。オットマンやサブチェア、脊髄ケアクッションとしても使えます。コットン素材のカバーがかわいらしく、オシャレなインテリアにもピッタリ。軽量で持ち運びも楽。リビングや将来のチルド部屋用にも最適です。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   FAB-001BR as002009 FAB-001GY as002010 グッドタイム goodtime",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/0ed924ef50359198992db7221fcf0fb8.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/148acd23a1890fca660d358e7b488b1e.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "10800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/101189970",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "10800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/101189970",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      }
+    ]
+  },
+  "/items/77591407": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/77591407#product",
+    "name": "ミニスツール 簡易椅子 来客 コンパクト 脚付き かわいい おしゃれ ファブリック いす 玄関 リビング",
+    "description": "子供部屋や玄関など、お家のいろんな場所に馴染むサイズです  ●軽量で持ち運びカンタンなミニスツール。 ●子供部屋や玄関など、お家のいろんな場所に馴染むサイズ。 ●限られたスペースにも置ける使い勝手の良いスツール。 ●ソファと合わせてオットマンとしても活躍。 ●淡い色合いで優しい手触りのファブリックを使用。  商品サイズ：W27×D27×H30  【材質】木フレーム ポリプロピレン ポリエステル 【静的耐荷重】80kg 【組立】完成品 【原産地】インドネシア 【商品重量】2.5kg 【小箱サイズ】W29.0xD29.0xH32.0 【小箱重量】3.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ブログもご覧ください。 https://www.goodtimeschool.jp/blog/2024/04/05/151734  *-*-*-*-*-*-* ミニサイズでコンパクトなミニスツールは、来客用や席替え用に最適。足付きのしっかりデザインで、ファブリックの純赤なカラーバリエーションも魅力。現代風リビングやこじんまり空間にも合い、来客用はもちろん、お宅のあらゆる場所で活躍します。色違いや製品の合わせも楽しめます。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   NS-505BR as001001 NS-505GY as001002 NS-505IV as001003 NS-505OR as001004",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2b4de9cc0c9bb87434fd8448281b7236.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/16ffd32e8062417850a7c72b0cd15973.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7900",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77591407",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7900",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77591407",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7900",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77591407",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "アイボリー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7900",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77591407",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "オレンジ"
+      }
+    ]
+  },
+  "/items/82416980": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/82416980#product",
+    "name": "ミニビーズクッション キューブ型 自立型 軽量 コンパクト コーデュロイ 北欧風 ベロア 座椅子 サイドテーブル",
+    "description": "北欧風のかわいいキューブ型ミニビーズクッション。  【商品サイズ】幅30×奥行30×高さ30cm  ・キューブタイプなので使いやすく持ち運びにも便利です。 ・リラックスタイムに最適なビーズクッション。座椅子のようにしっかりとした安定感をもちながら、一度触ったら手放せなくなる心地よさです。 ・クッションとして王道的にお使いいただくこともできますが、沈みこみにくくしっかりとした作りになっているので、スツールとして腰を掛けたり、座面にトレーを載せてサイドテーブルに応用したりと、使い方は様々です。 ・体重をかければマイクロビーズがボディラインに合わせて動き、体をやさしく包み込むため、極上のフィット感を体感することができます。 ・カバーリング仕様になっているので、汚れた時はチャックを外して中身を取り出していただければ、カバーのお手入れが可能です（※お手入れ方法はドライクリーニングのみ対応しています。） ・ファスナーを開けると、さらに内側に補充用ファスナーがあるため、ビーズがこぼれ出てくる心配もなく安心してビーズ補充を行うことができます。  【材質】ポリエステル 　　※マイクロビーズ使用 【生産国】中国  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ チェア・スツール 一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/4998684   *-*-*-*-*-*-* 北欧風のかわいいキューブ型ミニビーズクッション。軽量で持ち運びやすく、自立型でサイドテーブルや座椅子にも。コーデュロイ素材がやさしい肌触り。省スペースでも使えるコンパクトサイズ。ナチュラルな3色展開。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   LSS-804BE bc003001 LSS-804GY bc003002 LSS-804NV bc003003",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/463229ee1f471e1f15341d01a9fb56a7.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/4976de9f6f5f59720305a64f030b68e8.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82416980",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82416980",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82416980",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/110502212": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/110502212#product",
+    "name": "折りたたみ式 お座敷ミニテーブル 仏壇前・写経・供養・和室にぴったりな天然木製 経机（W60×D30×H20）",
+    "description": "商品名：【折りたたみ式】お座敷ミニテーブル｜仏壇前・写経・供養・和室にぴったりな天然木製 経机  商品サイズ：W60×D30×H20  ■ おしゃれで格調高い雰囲気を演出する、折りたたみ式のミニテーブルです。  ・天然木製の素材を使用し、優しさと温かみのあるデザインが特徴です。 ・W60×D30×H20の小ぶりなサイズは、仏壇前や写経、供養の場面でもちょうど良い大きさです。 ・使用しない時は簡単に折りたたむことができ、省スペースでの収納が可能です。 ・ぼんやりとした光沢があり、和室やお座敷にも自然に馴染みます。 ・多用途での使用ができるため、日常生活の中で様々なシーンに役立ちます。  【材質】天然木(アカシア) 繊維板 ラッカー塗装 【機能】折りたたみ式 【組立】完成品 【原産地】ベトナム 【小箱重量】4.5kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★和風インテリアを豊かにする他の商品はこちらから →　https://www.goodtimeschool.jp/categories/4990894  この折りたたみ式お座敷ミニテーブルで、和のある暮らしを楽しんでみませんか？ お座敷ミニテーブルとして、仏壇前経机や写経机、供養台、供物台として活用できるフォールディング式の便利机です。和室・和風空間や寺院、神社、お寺、旅館、座敷などでの法事や供養にも最適。軽量で折りたたみ収納ができる黒の天然木製テーブルは、経机・文机としても使えます。  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  BC-116 bc001006 goodtime  6/14/2025 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1629b843a79223293ffcfa45c7c4ef3a.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e9d0277d8fe59e8e5157d1eb5c3bb52f.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "8500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/110502212",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック"
+      }
+    ]
+  },
+  "/items/110393515": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/110393515#product",
+    "name": "円形サイドテーブル コンクリート調とブラックスチール風 高級感あるモダンデザイン ラウンドテーブル",
+    "description": "商品名：サイドテーブル テーブル 机 ラウンドテーブル 円形 ディスプレイ ブラックスチール コンクリート調 スタイリッシュ モダン シンプル おしゃれ 高級感  商品サイズ：W40×D40×H40  凹凸デザインが目を引くシックなサイドテーブル コンクリートを模した、凹凸のある表情が特徴的な天板を使用したサイドテーブル。 シャープなブラックスチールと組み合わせモダンなデザインに仕上げました。 インテリアに馴染みやすいグレーカラーとベージュカラーの2色展開です。  【材質】繊維板 ラッカー塗装 スチール(粉体塗装) 【機能】アジャスター付 【注意事項】※個体差あり 【組立】ねじこみ式 【原産地】中国 【商品重量】2.2kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ 他のテーブルはこちらから 　⇒　https://www.goodtimeschool.jp/categories/4966318  *-*-*-*-*-*-*-*-*-  コンクリート調の天板とブラックスチール脚を組み合わせた、モダンでスタイリッシュな円形サイドテーブルです。 コンパクトながらも存在感があり、リビング・寝室・玄関など様々なシーンで使いやすいサイズ感。 ソファ横やベッドサイドのコーヒーテーブル、観葉植物のディスプレイ台、インテリアのアクセントとしてもおすすめです。 シンプルでおしゃれ、高級感のあるデザインは、モノトーン・インダストリアル・北欧テイストの空間にもよく馴染みます。 サイドテーブル、ラウンドテーブル、円形テーブル、モダンインテリア、ブラックスチール、コンクリート調、ディスプレイテーブル、スタイリッシュ、シンプル、リビング家具、おしゃれなテーブルなどをお探しの方にぴったりです。  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   TAP-408BE tap002006 TAP-408GY tap002007 goodtime  6/13/2025 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/4660cde46d96d05ee828eb628e9d9ac2.png",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/78975e7b9688159fba6fb8e86f683b19.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3900",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/110393515",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      }
+    ]
+  },
+  "/items/107937018": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/107937018#product",
+    "name": "サイドテーブル テラゾー柄 石調デザイン 北欧風 ベッドサイド ナイトテーブル 花台 コンパクト シンプル おしゃれ モダン トレンド感ある机",
+    "description": "商品サイズ：W40×D32×H50  フォルムの美しい個性的なサイドテーブル オブジェのようなフォルムが特徴的な、存在感のあるサイドテーブル。 向きを変えて使用することで、空間の印象を変えてくれます。 石のような質感の、テラゾー柄はシックでモダンな雰囲気があり、個性のある空間を演出します。  【材質】繊維板 ラッカー塗装 【静的耐荷重】10kg 【組立】完成品 【原産地】中国 【商品重量】6.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★　他のテーブルはこちらから 　→　https://www.goodtimeschool.jp/categories/4966318  *-*-*-*-*-*-*-*-*- 石調のテラゾー柄が美しいサイドテーブル。北欧テイストのモダンなデザインで、ナイトテーブルやベッドサイド、花台としても活躍。コンパクトながら存在感があり、玄関やリビングなど幅広いシーンで使えます。おしゃれでシンプルなデザインは、インテリアのアクセントとしてもおすすめです。 *-*-*-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   MAR-14LGY mry002001 MAR-14WH mry002002 グッドタイム goodtime 20250515",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1c6b9de959b97040e9cc1ae0bd292264.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/06cb04f5e80cc5fe277518170a0afda7.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "10000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/107937018",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ライトグレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "10000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/107937018",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/104237987": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/104237987#product",
+    "name": "北欧風キャスター付きサイドテーブル 収納付き 取っ手付き ベッド・ソファーサイド リビング 寝室 おしゃれ 多機能ワゴン",
+    "description": "北欧風のキャスター付きサイドテーブル  ●北欧やモダン、ナチュラルなどの幅広いテイストのお部屋によく馴染みます。 ●360度回転するキャスター付きで移動もスムーズ。 ●高さが約51.5cmなので、ソファやベッドサイドにぴったり。 ●天板は直径約35cmなので、コップやお菓子、本などを置いても余裕が大きさ。天板は取り外しが可能。 ●天板下は収納スペース。内側の高さは約6cmと少し深めの設計。 ●収納部分の底面にはフェルトが敷かれあるので小物類も安心して収納。 ●天板にはレザー素材のおしゃれな取っ手付き。 ●天板とウッドフレームには、ハッキリとした美しい木目と明るい色味が特徴の天然木パイン材を採用。デザイン性を損なわないよう、キャスターの側面にも天然木を使用したこだわりデザイン。   商品サイズ：W35×D35×H51.5  【材質】スチール(粉体塗装) 天然木(パイン) ラッカー塗装 【静的耐荷重】5kg 【組立】組立式 【原産地】中国 【商品重量】2.5kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ★ テーブルはこちらから ⇒　https://www.goodtimeschool.jp/categories/4966318   *-*-*-*-*-*-* 北欧風デザインのキャスター付きサイドテーブル。取っ手付きでスムーズな移動が可能。収納棚や引き出し付きでリビング・寝室・ソファー横にも最適。コンパクトながら実用性抜群の多機能ワゴン。おしゃれで新生活にも◎ *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PW-56GR pw003001 PW-56GY pw003002 PW-56WH pw003003",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ef68408d809942e8e79ba76b27451c3a.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/506a695abecbc4e2818fdc01bbe1b388.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "10500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/104237987",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "10500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/104237987",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "10500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/104237987",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/83250504": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/83250504#product",
+    "name": "折りたたみサークルテーブル クラフター円卓 アウトドア 折りたたみ 円形 ポリプロピレン キャンプ BBQ 携帯 コンパクト",
+    "description": "ちょっとした作業台や、センターテーブル、サイドテーブルとして  サイズ：W58×D58×H46  【材質】ポリプロピレン 【機能】折りたたみ式 【静的耐荷重】10kg 【小箱】なし 【組立】完成品  【原産地】中国 【梱包Aサイズ】W59.0xD40.0xH68.0 【梱包A重量】15.0kg 【商品重量】2.5kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ◇角型（スクエア）はこちら https://www.goodtimeschool.jp/items/83250670  *-*-*-*-*-*-* クラフターテーブルの円形フォールディングテーブル。軽量ポリプロピレン製で持ち運びやすく、BBQやキャンプ・ピクニックに最適。折りたたんで厚さ約10cm、収納・設置も簡単。色はナチュラルなサンドベージュ・グリーン・カーキ・ブラックから選べて、屋外でもおしゃれに使える屋根付きテーブルです。コンパクト設計ながら安定感があり、アウトドアライフを快適に彩ります。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   LFS-414BK at003027 LFS-414GR at003028 LFS-414SBE at003029",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a43807fb7c1b86333be6dd3967d748aa.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c68e51a55cc0e13a1afd3ef85187a87d.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/83250504",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/83250504",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/83250504",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      }
+    ]
+  },
+  "/items/71970538": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/71970538#product",
+    "name": "ラウンドガラステーブルM 45cm 天然木ミンディ＋ラタン 北欧モダン 強化ガラス サイドテーブル インテリア",
+    "description": "欧風 モダンなガラステーブル 送料無料  コンパクトでちょうどいいサイズ。 モダンなガラステーブルはお部屋を奏でます。   商品サイズ：W45×D45×H50　（Mサイズ）  【材質】天然木(ミンディ) ラタン ラッカー塗装 5mm強化ガラス 【静的耐荷重】5kg 【注意事項】個体差あり 【組立】組立式 【原産地】インドネシア 【商品重量】4.0kg 【小箱サイズ】W50.0xD10.0xH48.0 【小箱重量】5.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ★　Sサイズはこちら 　⇒　https://www.goodtimeschool.jp/items/71970471  ★ テーブル一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/4966318   *-*-*-*-*-*-* 幅約45×高さ50cmのラウンドガラステーブルM。天然木（ミンディ）×ラタン素材と5mm強化ガラスを組み合わせた北欧モダンな逸品。軽量約4kg、耐荷重5kg、組立式。脚裏フェルトで床を保護し、リビングや寝室のサイドテーブルにぴったり。新生活にも調和するナチュラルでおしゃれなデザインです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   at001025 GT-779BR",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/130ad143ff1d8d81727d73c0ca261725.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/028ad098bd6a907d92d0f92a0cb4638a.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "15400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71970538",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      }
+    ]
+  },
+  "/items/71970471": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/71970471#product",
+    "name": "ラウンドガラスサイドテーブルS 幅35cm 天然木ミンディ×ラタン 強化ガラス 北欧モダン サイドテーブル",
+    "description": "欧風 モダンなガラステーブル、コンパクトでちょうどいいサイズ。 モダンなガラステーブルはお部屋を奏でます。  商品サイズ：W35×D35×H45　（Sサイズ）  【材質】天然木(ミンディ) ラタン ラッカー塗装 5mm強化ガラス 【静的耐荷重】5kg 【注意事項】個体差あり 【組立】組立式 【原産地】インドネシア 【商品重量】3.0kg 【小箱サイズ】W46.0xD10.0xH37.0 【小箱重量】3.5kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ★　Mサイズはこちら 　⇒　https://www.goodtimeschool.jp/items/71970538  ★ テーブル一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/4966318   *-*-*-*-*-*-* 幅35×奥行35×高さ45cm、重さ約3kgのコンパクトなSサイズラウンドガラステーブル。天然木ミンディとラタンの温かみあるフレームと5mm強化ガラス天板が美しく調和。耐荷重約5kg、脚裏フェルト付きで床への傷を防止。リビングやベッドサイドにぴったりの北欧モダンデザイン。組立式で届いてすぐ使える、新生活にもおすすめのインテリアアイテムです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  at001024",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/32f552660c145e4299058d652d227240.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d5ea99d394f36238f3e27684163832b1.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "12800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71970471",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      }
+    ]
+  },
+  "/items/71970402": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/71970402#product",
+    "name": "折りたたみフォールディングテーブルL φ60cm ナチュラル／ホワイト 折畳式 簡易テーブル 軽量 持ち運び 良収納",
+    "description": "ワンタッチで折りたためる便利なラウンドテーブル  ●工具不要で簡単組み立て、ワンタッチで折りたためる便利なラウンドテーブル。 ●折りたたみ時の“持ち手”で移動もしやすく、様々なシーンで大活躍。 ●コンパクトでちょうどいいサイズ。 ●大・小を組み合わせてネストテーブルとしても使えます。 ●折りたたみ時の厚さは、Sサイズで5cm、Lサイズで6cmと薄型に。ベッド下やクローゼットなどの隙間に収納が可能。 ●脚裏にはフェルトが付いているので床への傷防止にもなり安心です。  ※折りたたみ動画はこちら https://www.azumaya-kk.com/movie/douga/gt-668na.html  商品サイズ：φ60×H49(折りたたみ時 : W60 x D5.5 x H68cm)  【材質】天然木(パイン) ラッカー塗装 【機能】折りたたみ式 【静的耐荷重】10kg 【注意事項】常時外置きは出来ません。直射日光・雨ざらしの環境下では劣化が早まりますので、屋根付きのテラス等でご使用ください。 【組立】完成品 【原産地】インドネシア 【商品重量】4.0kg 【小箱サイズ】W62.0xD8.0xH70.0 【小箱重量】5.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  *-*-*-*-*-*-* φ60cm 幅広サイズの折りたたみフォールディングテーブルL。天然木パイン材にラッカー塗装を施し、ナチュラルとホワイトの2色展開。折りたたみ時の厚さ約6cmと薄型設計で、ベッド下やクローゼットにも収納可能。脚裏フェルト付きで床面を保護。重さ約4kg、耐荷重約10kgとしっかり使える丈夫設計。ネスト仕様でSサイズと組合せても◎。おしゃれな簡易テーブルが欲しい方におすすめです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   GT-669NA at002022 GT-669WH at002023",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/183d978979ea14af1894f579c6402898.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6f8dd422fa6f1e18f6989fabda2e2310.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "12100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71970402",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：ナチュラル"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "12100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71970402",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：ホワイト"
+      }
+    ]
+  },
+  "/items/71970347": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/71970347#product",
+    "name": "折りたたみフォールディングテーブルS φ58cm 軽量約2.5〜3kg 折畳式 簡易テーブル アウトドア ピクニック リビング サイドテーブル",
+    "description": "ワンタッチで折りたためる便利なラウンドテーブル 送料無料  ●工具不要で簡単組み立て、ワンタッチで折りたためる便利なラウンドテーブル。 ●折りたたみ時の“持ち手”で移動もしやすく、様々なシーンで大活躍。 ●コンパクトでちょうどいいサイズ。●大・小を組み合わせてネストテーブルとしても使えます。 ●折りたたみ時の厚さは、Sサイズで5cm、Lサイズで6cmと薄型に。ベッド下やクローゼットなどの隙間に収納が可能。 ●脚裏にはフェルトが付いているので床への傷防止にもなり安心です。  ※折りたたみ動画はこちら https://www.azumaya-kk.com/movie/douga/gt-668na.html  商品サイズ：φ45×H34.5(折りたたみ時 : W45 x D5 x H48.5cm)  【材質】天然木(パイン) ラッカー塗装 【機能】折りたたみ式 【静的耐荷重】10kg 【注意事項】常時外置きは出来ません。直射日光・雨ざらしの環境下では劣化が早まりますので、屋根付きのテラス等でご使用ください。 【組立】完成品 【原産地】インドネシア 【商品重量】2.0kg 【小箱サイズ】W52.0xD48.0xH7.0 【小箱重量】2.5kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ テーブル一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/4966318   *-*-*-*-*-*-* 直径58cmの折りたたみクラフターテーブルS。厚さ約4?cmとスリムに折りたたみ可能で、重量約2.5〜3kgと軽量設計。ポリプロピレン製で耐水性あり、屋外キャンプから室内のサイドテーブルまで多用途に活躍。完成品で工具不要、開けばすぐに使える実用性。ブラック・グリーン・サンドベージュの3色展開で、おしゃれにアウトドアも日常も彩ります。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  at002020",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/07ce95d0c037127ad6666af394fd8432.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/4cc473f90562cd70988ce09cfc7f957c.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71970347",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：ナチュラル"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71970347",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：ホワイト"
+      }
+    ]
+  },
+  "/items/91595087": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/91595087#product",
+    "name": "北欧風サイドテーブル 木製 天然木ラバーウッド 丸型 円形 おしゃれ 軽量 ナイトテーブル アジャスター付き ガタつき防止 ソファーテーブル",
+    "description": "商品サイズ：約幅40.5×奥行40.5×高さ50cm  天然木のぬくもり感じる北欧デザインの使い勝手の良いサイドテーブルが登場。 ソファサイドやベッドサイドで使うのはもちろん、どこに置いても馴染んでくれるデザインで様々な場所で活躍します。  ●持ち運びラクラクな軽量設計。 ●ガタつきを抑える脚裏アジャスター付き。 ●付属の六角レンチを使い4ステップで作れる簡単組立式。 ●天然木(ラバーウッド)を使用。 ●天板側面は美しい曲線を描き優しい手触り。  商品重量：約2kg 材質：天然木(ラバーウッド)/ラッカー塗装 生産国：ベトナム 備考：組立式 静的耐荷重：約5kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  *-*-*-*-*- 北欧風のおしゃれなサイドテーブル。天然木ラバーウッド使用でナチュラルな風合い。軽量で持ち運び簡単、アジャスター付きでガタつき調整も可能。ソファ横やベッドサイドのナイトテーブルとして、リビングや寝室に最適な丸型テーブルです。 *-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  HOW-016NA how001001 2024/9/18",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3e6b358bdc0ace07df15af2897a5f5f2.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a699279e47145ae5fefd790a728d2f5e.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/91595087",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ナチュラル"
+      }
+    ]
+  },
+  "/items/71968147": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/71968147#product",
+    "name": "サイドテーブル 天然木アカシア トレーテーブル 小物入れ付き ミニテーブル マガジンラック付き おしゃれ スチール脚 ナチュラル シンプル モダン",
+    "description": "シンプルなサイドテーブル  ●細身のスチールフレームに天然木の天板を組み合わせた、シンプルで使いやすいおしゃれなサイドテーブル。 ●天板の上にはカップや本、リモコンなど。 ●ちょっと大きめの雑誌類は下段のマガジンラックに収納。 ●雑誌類の出し入れがしやすい、V字型のマガジンラック。 ●天板には天然木（アカシア）を使用。木目や色合いが一つ一つ異なる風合いが魅力。 ●脚先には小さな円形のプレート付き。安定感があり床への傷防止にもなり安心。  商品サイズ：W39.5×D21×H45  【材質】天然木(アカシア) スチール(粉体塗装) 【静的耐荷重】5kg 【組立】完成品 【原産地】中国 【梱包Aサイズ】W78.0xD72.0xH43.0 【梱包A重量】11.0kg 【商品重量】1.8kg   正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ テーブル一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/4966318   *-*-*-* 天然木アカシアを使用したナチュラルなサイドテーブル。小物入れやマガジンラック付きで収納力も◎。トレーテーブルとして使えるデザインで、ソファ横やベッドサイド、花台にもぴったり。シンプルでモダンなインテリアに調和します。 *-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  AKB-435AGD at002016 AKB-435BK at002017",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f25100bbbd6cfac314ef4fb0618a8a07.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ab2679f14a00aa5f35edcf2780858aa0.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71968147",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：ゴールド"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71968147",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：ブラック"
+      }
+    ]
+  },
+  "/items/71968074": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/71968074#product",
+    "name": "サイドテーブル 天然木 パイン ミニテーブル 小物入れ フラワースタンド レストルーム おしゃれ シンプル",
+    "description": "シンプルなサイドテーブル 送料無料  用途に合わせて様々なシーンで使えます。  商品サイズ：W40×D20×H50  【材質】天然木(パイン) スチール(粉体塗装) 【静的耐荷重】5kg 【小箱】なし 【組立】完成品  【原産地】中国 【梱包Aサイズ】W92.0xD65.0xH43.0 【梱包A重量】12.0kg 【商品重量】1.5kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ テーブル一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/4966318   *-*-*-* 天然木パイン材を使用したシンプルでおしゃれなサイドテーブル。軽量で移動も簡単。小物入れとしても使える収納スペース付きで、ベッドサイドやソファ横、花台やフラワースタンドにも最適。ナチュラルな空間にぴったりのミニテーブルです。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  AKB-425BR at002014 AKB-425IV at002015",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c1979ad04c45ef5d99d7fb844837edf9.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/4b6cea50144bfaf1971e658de2eeb672.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71968074",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71968074",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：アイボリー"
+      }
+    ]
+  },
+  "/items/71967941": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/71967941#product",
+    "name": "レクトサイドテーブル ソファテーブル ナイトテーブル 収納付き 軽量 コンパクト コード穴付き 北欧風 おしゃれ シンプル モダン 木脚 樹脂製 マット仕上げ",
+    "description": "洗練されたデザインのコンパクトなサイドテーブル  天板の取り外しが可能。 コード穴があるので照明や携帯の充電コードを通すことができ、機能性も追求した仕上がりになっています。  商品サイズ：W40×D39.5×H47  【材質】ポリプロピレン 天然木(ビーチ) ラッカー塗装 【組立】ねじ込み式 【原産地】中国 【商品重量】3.0kg 【小箱サイズ】W41.0xD41.0xH13.0 【小箱重量】4.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  *-*-*-* 収納とコード穴付きで機能的なレクト型サイドテーブル。軽量＆省スペース設計でソファ横やベッドサイドに最適。北欧風デザインのマットな質感がおしゃれな空間を演出。木脚×樹脂製の組み合わせで、シンプルモダンなインテリアにも調和します。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PT-980GY at001005 PT-980WH at001006 PT-980YE at001007",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e22f2dbf829263c0c3b845371777f3b3.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c4b510bcd027608c9972ce24feb2382b.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "8800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71967941",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：グレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "8800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71967941",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：ホワイト"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "8800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71967941",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：イエロー"
+      }
+    ]
+  },
+  "/items/71886481": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/71886481#product",
+    "name": "トレーテーブル Mサイズ サイドテーブル 天然木 ミニテーブル 小物入れ付き フラワースタンド モロッコ風 おしゃれ ナチュラル ソファサイド ベッドサイド",
+    "description": "モロッコ風の模様が美しいトレーテーブル。用途に合わせて様々なシーンで使えます。  商品サイズ：φ40×H37 (Mサイズ）  【材質】繊維板 天然木(パイン材) ラッカー塗装 【静的耐荷重】3kg 【注意事項】個体差あり 【組立】ねじ込み式 【原産地】中国 【商品重量】1.5kg 【小箱サイズ】W8.0xD41.0xH41.0 【小箱重量】1.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ★　Sサイズはこちら　 ⇒　https://www.goodtimeschool.jp/items/71871940  *-*-*-* モロッコ風デザインが魅力のMサイズトレーテーブル。天然木の温もりと異国感が融合したおしゃれな1台。小物置きや花台、ソファサイド・ベッドサイドのミニテーブルとして活躍。軽量＆シンプルでナチュラルなインテリアに最適です。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   LFS-191A at003011 LFS-191B at003012 LFS-191C at003013",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a8078037841c620737d4459c6536682c.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ff0f28c720bc75bd653e8987086621e6.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71886481",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "A・グレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71886481",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "B・ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71886481",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "C・ホワイト"
+      }
+    ]
+  },
+  "/items/71871940": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/71871940#product",
+    "name": "トレーテーブル Sサイズ サイドテーブル 天然木 ミニテーブル 小物入れ フラワースタンド モロッコ風 おしゃれ ナチュラル シンプル ソファサイド ベッドサイド",
+    "description": "モロッコ風の模様が美しいトレーテーブル。用途に合わせて様々なシーンで使えます。  商品サイズ：φ29.5×H29.5  【材質】繊維板 天然木(パイン材) ラッカー塗装 【静的耐荷重】3kg 【注意事項】個体差あり 【組立】ねじ込み式 【原産地】中国 【商品重量】1.0kg 【小箱サイズ】W8.5xD31.0xH31.0 【小箱重量】1.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ★　Mサイズはこちら ⇒ https://www.goodtimeschool.jp/items/71886481  ★ その他テーブルはこちらから ⇒　https://www.goodtimeschool.jp/categories/4966318   *-*-*-* モロッコ風デザインが映えるSサイズのトレーテーブル。天然木の素材感が温もりを演出し、ソファサイドやベッドサイドのミニテーブル、花台、小物置きにもぴったり。軽量＆省スペースで、ナチュラルでおしゃれなインテリアに最適です。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   LFS-190A at003008 LFS-190B at003009 LFS-190C at003010",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/8219366293c5e48514ba824604fdd2bb.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/19d75b4da3b90033605e50e9c4b5f221.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71871940",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "A・グレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71871940",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "B・ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71871940",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "C・ホワイト"
+      }
+    ]
+  },
+  "/items/71967768": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/71967768#product",
+    "name": "トレーサイドテーブル 丸型 スチール製 お盆取り外し可能 モノトーン 北欧風 シンプル モダン ホワイト ブラック ラウンド ミニテーブル ナイトテーブル",
+    "description": "インテリアが冴える トレーサイドテーブル  トレイが取り外しでき、多様な使い方ができます インテリア性の高い軽量なスチール製  商品サイズ：W48×D48×H52  【材質】スチール(粉体塗装) 【機能】トレー取り外し可 【静的耐荷重】4kg 【注意事項】※製造段階でトレーを塗装する工程があり、吊り下げて作業を行うためにトレー側面にパンチングで小さな穴をあけております。不良品ではございませんので予めご了承ください。 【組立】組立式 【原産地】中国 【商品重量】2.5kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ★ テーブル一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/4966318   *-*-*-* お盆として使える取り外し可能な天板が便利なトレーサイドテーブル。シャープなスチール製で、北欧風のシンプルモダンなデザインが魅力。ホワイト・ブラックのモノトーンカラーで、ソファ横やベッドサイド、ナイトテーブルにも最適です。 *-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   LFS-880BK at001002 LFS-880GY at001003 LFS-880WH at001004",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a121cb4074c9ef4c464139153a8fb518.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9ac99ebc59ee7d8847a9dd959d4ed615.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71967768",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：ブラック"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71967768",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：グレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71967768",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：ホワイト"
+      }
+    ]
+  },
+  "/items/85080817": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/85080817#product",
+    "name": "アイリスオーヤマ テレビ台 幅109.5cm 扉付き ローボード 47型対応 耐荷重40kg 組立簡単 コンパクト収納 AVボード",
+    "description": "【セール・割引対象品】  ◆スマートなのに優れた収納力 　幅約110cmの薄型テレビ台。  ◆AV機器もしっかり収納 　中央のスペースは複数のAV機器をまとめて収納可能。 　可動棚は4段階で好みの高さに調節できます。  ◆配線がしやすい背面フルオープン 　背面はフルオープンなので、絡まりがちな配線も後ろに通してまとめやすい。  ◆くつろぎのロータイプ 　目線を少し下げることで、ゆったりとくつろぎやすい。 　寝転んで見るのが好きな方にもおすすめ。 　高さを抑えることで圧迫感がなくなり、お部屋を広く見せてくれます。  ◆しっかり支える耐荷重 　頑丈なつくりでテレビをしっかり支えます。（天板耐荷重40kg）  ◆様々なサイズのテレビに対応 　幅110cm以下の薄型テレビ対応。 　※設置テレビのサイズ・重量を必ずお確かめ下さい。   【商品サイズ(約cm)】W109.5×D29.6×H31.1 【商品重量(kg)】12.3 【生産地】中国 【素材】プリント紙化粧パーティクルボード、プリント紙化粧繊維板  ・組み立て式 ・47インチTV対応 ・ロータイプでちょうど良い高さ ・コンパクトな奥行サイズ　　30cm以下の奥行でお部屋を広く使えます。 ・背面に穴が開いていて配線が通せるので、配線が見えずすっきり収納できます。 ・耐荷重：全体約60kg　天板約40kg　底板約15kg　可動棚板約5kg    　[送料無料] ※沖縄・離島へのお届けは別途送料4 400円が加算されます。  正規メーカー品：アイリスオーヤマ(IRIS OHYAMA) ※本製品はメーカー工場より直送いたします。 　ご注文後、3営業日以内の発送となります。（土・日祝日は休業のため出荷しておりません）  ■在庫状況により納期が遅れる場合が御座います。予めご了承くださいませ。  ■出荷後のキャンセル、返品は初期不良を除き不可となります。ご了承ください。   *-*-*-* アイリスオーヤマ製、幅109.5cmで47型テレビまで設置可能なロータイプテレビ台。前面に扉収納＆可動棚付きで配線もすっきり整理できます。天板耐荷重40kgでAV機器に対応。奥行29.6cm・高さ31.1cmのコンパクト設計でワンルームにも最適。組立工具付きで初心者も安心の設置。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7d09dba61f4e45cf89c8a7a9f3c56b3e.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "アイリスオーヤマ"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "8142",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/85080817",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/112251227": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/112251227#product",
+    "name": "アイリスオーヤマ オーブントースター 2枚焼き 30分タイマー コンパクト設計 トースト ピザ お菓子作りに最適",
+    "description": "【セール・割引対象品】  おしゃれな色味と便利な機能を兼ね備えたトースター［2枚焼きタイプ］  【温度調節可能】 最大：1200W／80〜230℃無段階切替。 素早く均一に焼けるので、トーストは「外はカリッと中はふんわり」に。 トースト以外にもピザやクッキーなど、料理にあわせた温度調節ができる。  【じっくり焼く料理も楽しめる30分タイマー】 最大30分まで設定可能なタイマー機能搭載。 グラタンや焼き芋などの調理時間の長いメニューも楽しめる。  【料理の幅がグッと広がる、角皿付き】 カタチが崩れやすいものも、角皿を使えば加熱調理可能になるから料理の幅が広がる。 また食材の汁や油、チーズなどが庫内に落ちるのを防ぎ、お手入れもラクに。  【使いやすいスライドオープンドア】 ドアを開けると焼き網が手前に出てくるから取り出しやすい。  【庫内のお手入れもスムーズ】 パンくずトレーを開くだけで庫内の掃除ができる。  【仕様】 ●電源　AC100V、50／60Hz ●定格消費電力　1200W ●温度調整つまみ　80〜230℃（無段階切替） ●タイマー　30分計 ●商品サイズ（cm） 外形寸法：幅約36.5×奥行約24.5×高さ約20.7 庫内寸法：幅約26×奥行約18×高さ約8.5 ●製品質量　約2.3kg（受け皿含まず） ●電源コード長さ　約1.0m ●付属品　受け皿   　[送料無料] ※沖縄・離島へのお届けは別途送料4 400円が加算されます。  正規メーカー品：アイリスオーヤマ(IRIS OHYAMA) ※本製品はメーカー工場より直送いたします。 　ご注文後、3営業日以内の発送となります。（土・日祝日は休業のため出荷しておりません）  ■在庫状況により納期が遅れる場合が御座います。予めご了承くださいませ。  ■出荷後のキャンセル、返品は初期不良を除き不可となります。ご了承ください。  *-*-*-*-*-*-*-*-*-  アイリスオーヤマ製の2枚焼きオーブントースターは、トーストやピザ、クッキーなどの調理にぴったりのコンパクトサイズ。 最大30分のタイマー付きで、焼き加減を調整しやすく、忙しい朝の朝食準備にも便利です。 シンプルなデザインでキッチンにもなじみやすく、初めての一人暮らしやセカンドトースターにも最適。 お手入れも簡単で、パンくずトレイ付き。 オーブントースター、2枚焼き、タイマー付きトースター、アイリスオーヤマ、トースト、ピザ、クッキー、お菓子作り、朝食家電、コンパクトトースター、シンプル家電、ミニオーブンなどをお探しの方におすすめです。  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  グッドタイム goodtime NEW　20250701",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5e1054c128471c046396ac92a4f3ef38.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "アイリスオーヤマ"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5510",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/112251227",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      }
+    ]
+  },
+  "/items/84178076": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/84178076#product",
+    "name": "アイリスオーヤマ 電子レンジ 17L ターンテーブル IMB‑T178‑W ホワイト 単機能 ヘルツフリー シンプル 一人暮らし",
+    "description": "【セール・割引対象品】  ◆シンプル操作で簡単あたため◆  シンプルなボタン操作でお子様からご年配の方までご使用いただける、ターンテーブルタイプのシンプルレンジです。  【選べる3段階出力】 あたためから解凍まで料理に合わせて使い分け可能。 最大15分タイマー付き。 調理時間は10秒単位で設定可能。  【楽ちん自動調理メニュー】 5種類の料理がワンタッチで簡単調理。 忙しい時に役立ちます。  【庫内ひろびろ設計】 ピザやお弁当なども入ります。  【インテリアにも馴染むデザイン】 シンプルなデザインでさまざまなキッチンに馴染みます。  ●商品サイズ（cm）　全体：幅約44×奥行約32.5×高さ約25.5　庫内：幅約30.6×奥行約30.7×高さ約19　丸皿：直径約25.5　 ●商品重量：約10.6kg ●電圧：AC100V　 ●定格周波数：50Hz/60Hz　 ●定格消費電力　50Hz：900W　60Hz：1200W ●定格高周波出力　50Hz：500W、200W相当　60Hz：650W、500W、200W相当　 ●発振周波数：2450MHz ●タイマー：最大15分　 ●庫内総容量：約17L　※JISの判定基準に基づき算出された容量 ●電源コード：1.5m　 ●メーカー保証期間：1年   　[送料無料] ※沖縄・離島へのお届けは別途送料4 400円が加算されます。  正規メーカー品：アイリスオーヤマ(IRIS OHYAMA) ※本製品はメーカー工場より直送いたします。 　ご注文後、3営業日以内の発送となります。（土・日祝日は休業のため出荷しておりません）  ■在庫状況により納期が遅れる場合が御座います。予めご了承くださいませ。  ■出荷後のキャンセル、返品は初期不良を除き不可となります。ご了承ください。   ★ 生活家電はこちらから ⇒　https://www.goodtimeschool.jp/categories/6756759   *-*-*-* アイリスオーヤマの17Lターンテーブル電子レンジ IMB?T178?W。ヘルツフリー設計で東日本・西日本両地域に対応。500W／200W（50Hz）、650W／500W／200W（60Hz）切替可能。コンパクト設計で省スペースでも設置しやすく、一人暮らしやオフィス・学生に最適。シンプル操作で温め・解凍が簡単、丸皿直径25.5cmで使い勝手も良好です。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/45ea8b84d7871549f6bff899adf5c9eb.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "アイリスオーヤマ"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "11209",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/84178076",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/84155618": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/84155618#product",
+    "name": "アイリスオーヤマ コード式サイクロンクリーナー 軽量スティック2WAY 1.7kg 吸込仕事率100W ハンディ＆スティックタイプ",
+    "description": "【セール・割引対象品】  パワフルな吸引力。充電時間を気にせず使えるコード式［2WAY／コード式］  【パワフルな吸引力・吸込仕事率100W】 ・コードタイプだから時間を気にすることなく使えてゴミがしっかり取れる！ ・竜巻状に「ゴミ」と「空気」を吸い上げ、遠心力によって分離。 ・ゴミはダストカップ、空気は高性能HEPAフィルターを通し外へ運ばれるので、クリーンな排気で安心お掃除。 ・吸込仕事率が既存品SCA-110から、約125％UP＆真空度16000paの強力吸引。  【便利なコンパクト設計】 ・扱いやすく、便利で省スペースな設計。コードを巻き取れるパーツを搭載。使わないときはコンパクトに、そして壁に立てかけての収納も可能。 ・場所を取らないので、一人暮らしや2台目クリーナーにもオススメ。  【2WAY：スティック／ハンディ】 用途で使い分けができる！  ●集じん方式：サイクロン式  ●集じん容積：ゴミ捨てラインまで：0.3L、最大容積：0.5L  ●電源：AC100V50/60Hz共通  ●消費電力：600W  ●製品質量：フロアヘッド延長パイプ含む/1.7kg  ●吸引仕事率：100W  ●コード長さ：4m  ●セット内容：掃除機本体、フロアヘッド、延長パイプ、すき間ノズル、取扱説明書  ●保証期間：お買い上げ日より1年間  *-*-*-*-*-*-*-*-*-  メーカー：アイリスオーヤマ  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  *-*-*-* アイリスオーヤマ製のコード式サイクロンスティッククリーナー。約1.7kgの軽量設計で疲れにくく、スティック／ハンディ兼用の2WAY仕様。吸込仕事率100Wで強力吸引、長さ約4mのコードで家中隅々まで使用可能。水洗いOKのダストカップ＆HEPAフィルター採用で清潔。紙パック不要でランニングコストも抑えられ、一人暮らしやサブ掃除機として最適です。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e081aff07263b7c13a208383609dbbbb.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e9826a6c59a622de4d3b13ed72c43c76.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "アイリスオーヤマ"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "8645",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/84155618",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/104357144": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/104357144#product",
+    "name": "ペットベッド 枕付き 楕円型 犬用 猫用 マットレス クッション シンプル おしゃれ かわいい ドッグキャット用（枕クッション一体）",
+    "description": "●かわいい曲線フォルムでインテリアに馴染むペットベッド。 ●脚部には天然木ラバーウッドを使用し、フレームには天然木アッシュ（突板）を使用。 ●枕も付いているので、まるで本物のベッドのようなこだわりデザイン。 ●専用マットレスはカバーリング式なので手洗いができ清潔に保つことが出来ます（※マクラはカバーリング式ではありません）。 ●工具不要で脚ねじ込みタイプの簡単組立式なので、届いたその日からお使いいただけます。'  ◆脚裏には床の傷つき防止のフェルト付き。  正規メーカー品：東谷（AZUMAYA）  商品サイズ：W60×D40×H25.5  【材質】天然木化粧繊維板(アッシュ) 天然木(ラバーウッド) ラッカー塗装 【機能】カバーリング 【注意事項】※枕はカバーリングではありません。 【組立】組立式 【原産地】中国 【商品重量】3.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ ペット用ベッド・マットはこちらから ⇒　https://www.goodtimeschool.jp/categories/4152418   *-*-*-* 楕円型のペットベッドは、犬・猫どちらもゆったり使える枕付きクッションベッド。ふんわりマットレス構造で安定感があり、ワンちゃんネコちゃんも安心。シンプルでおしゃれなデザインは、インテリアにも自然に馴染み、かわいい雰囲気を演出。丸洗い可能タイプなら清潔を維持しやすく、ペット用マットレスとして一押しです。 *-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PET-123BR ap002025 PET-123NA ap002026",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d35a00c5e60eea269b018392e5f774be.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2091a41d247997592c3aeb8d1babb962.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/104357144",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/104357144",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ナチュラル"
+      }
+    ]
+  },
+  "/items/104240399": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/104240399#product",
+    "name": "ペットベッド クッションベッド 犬用 猫用 室内用 おしゃれ かわいい シンプル マットレス型 ドッグ キャット用 ペット用ベッド",
+    "description": "クッションはカバーリング式で手洗いができるので、清潔に保つことが出来ます。 程よく厚みのある専用マットレスなので安心です。 工具不要で脚ねじ込みタイプの簡単組立式なので、届いたその日からお使いいただけます。  ◆脚裏には床の傷つき防止のフェルト付き。  商品サイズ：W60×D40×H15  【材質】天然木化粧合板 天然木(ラバーウッド) ラッカー塗装 【機能】カバーリング 【組立】組立式 【原産地】中国 【商品重量】2.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ★ ペット用ベッド・マットはこちらから ⇒　https://www.goodtimeschool.jp/categories/4152418   *-*-*-* シンプルでおしゃれな室内用ペットベッド。犬・猫どちらにも使えるマットレス型クッションタイプで、ふんわり快適な寝心地。通気性・クッション性に優れ、オールシーズン使いやすい仕様です。お部屋のインテリアにも馴染む落ち着いたデザインで、ワンちゃんネコちゃんのリラックスタイムに最適なペット用ベッドです。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PET-121BR ap002021 PET-121NA ap002022",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6cdd9ff81093cddc7d7b96bf150d2720.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c20ec946b2c482a1c620f13b087bcc67.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/104240399",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/104240399",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ナチュラル"
+      }
+    ]
+  },
+  "/items/104359237": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/104359237#product",
+    "name": "ペットベッド オブジェ型 犬用 猫用 クッション付き おしゃれ シンプル モダン かわいい 室内用 マットレス型 ドッグ キャット用",
+    "description": "脚部には天然木ラバーウッドを使用し、フレームには天然木アッシュ（突板）を使用した、デザイン性あふれる形のペットベッド。  ●目を引くオブジェのようなフォルムはお部屋のアクセントにもなります。 ●フードのような囲われた形状になっているので、ペットも安心してくつろぐことができます。 ●専用マットレスは、ずれない様にゴムバンドで固定が可能。 ●また、カバーリング式で手洗いができるので清潔に保つことが出来ます。 ●工具不要で脚ねじ込みタイプの簡単組立式なので、届いたその日からお使いいただけます。'  ◆脚裏には床の傷つき防止のフェルト付き。  商品サイズ：W41×D40×H53.5  【材質】天然木化粧繊維板(アッシュ) 天然木(ラバーウッド) ラッカー塗装 【機能】カバーリング 【組立】組立式 【原産地】中国 【商品重量】3.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ ペット用ベッド・マットはこちらから ⇒　https://www.goodtimeschool.jp/categories/4152418   *-*-*-* インテリアに映えるオブジェ型ペットベッド。犬・猫どちらにも対応した室内用クッション付きベッドで、丸みのあるシルエットが可愛らしさと高級感を演出。やわらかいマットレス構造で快適な寝心地を実現。おしゃれでシンプルなデザインは、リビングや寝室にも自然に馴染み、ペットと暮らす空間をより上質にします。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PET-124BR ap002027 PET-124NA ap002028",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d6a8f80d4b11cd0350a0e694f0c9da71.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/38ae14217f6271723f9c47a9269749f5.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "12700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/104359237",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "12700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/104359237",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ナチュラル"
+      }
+    ]
+  },
+  "/items/90904677": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/90904677#product",
+    "name": "ペットベッド 冬用 丸型 ラウンドベッド 約50cm 犬 猫用 あったか 保温シート付 フェイクファー ボア うさぎタッチ ふわふわ おしゃれ",
+    "description": "【10月末まで！セール実施中】  サイズ：外寸 直径約50cm　丸型  ・生産地：中国 ・表地　（ファー部分）＝ポリエステル100％ 　　　　 （ボア部分）＝ポリエステル100％ 　　　　 （ツイード部分）＝ポリエステル60％+アクリル20％+レーヨン/毛/綿/ポリウレタン20％ ・中材＝ポリエステル100％+ポリエチレン ・裏地＝ポリエステル100％【滑り止め付】   ・寒い冬にぴったりのペット用ベッドです。 　熱を反射するシート入りで保温効果があるので、冬のお留守番も安心です。 ・底はラビットファータッチ、側面の内側は厚みのあるボア生地です。 ・クッション性にも優れた、ふわふわ快適な寝心地です。 ・フチ部分はお好みに応じて曲げ伸ばしが可能です。 ・やわらかくて寝心地の良い本体は、おしゃれなツイード柄です。 ・裏面の滑り止め加工で、クッションのズレを防止します。   正規メーカー品：イケヒココーポレーション  ※本製品はメーカー工場より直送いたします。 　ご注文後、3営業日以内の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  40サイズもございます。 https://www.goodtimeschool.jp/items/90904603   ★ ペット用品一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/3468070  *-*-*-* 寒い季節にぴったりのあったかラウンド型ペットベッド。直径約50cmで犬・猫どちらにも快適サイズ。保温シート入りで熱を逃がしにくく、ラビットファータッチのフェイクファーとボア素材がふんわり暖か。柔らかい肌ざわりでペットもリラックス。丸型で包み込むような安心感があり、冬の室内用ベッドに最適です。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/82b884a45d6306aea6ecc83046490188.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "イケヒコ"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4508",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90904677",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4508",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90904677",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      }
+    ]
+  },
+  "/items/90904603": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/90904603#product",
+    "name": "ペットベッド 冬用 小型 丸型 約40cm ラウンドベッド 犬 猫用 あったか 保温シート付 フェイクファー ボア うさぎタッチ ふわふわ",
+    "description": "【10月末まで！セール実施中】  サイズ：外寸 直径約40cm　丸型  ・生産地：中国 ・表地　（ファー部分）＝ポリエステル100％ 　　　　 （ボア部分）＝ポリエステル100％ 　　　　 （ツイード部分）＝ポリエステル60％+アクリル20％+レーヨン/毛/綿/ポリウレタン20％ ・中材＝ポリエステル100％+ポリエチレン ・裏地＝ポリエステル100％【滑り止め付】   ・寒い冬にぴったりのペット用ベッドです。 　熱を反射するシート入りで保温効果があるので、冬のお留守番も安心です。 ・底はラビットファータッチ、側面の内側は厚みのあるボア生地です。 ・クッション性にも優れた、ふわふわ快適な寝心地です。 ・フチ部分はお好みに応じて曲げ伸ばしが可能です。 ・やわらかくて寝心地の良い本体は、おしゃれなツイード柄です。 ・裏面の滑り止め加工で、クッションのズレを防止します。   正規メーカー品：イケヒココーポレーション  ※本製品はメーカー工場より直送いたします。 　ご注文後、3営業日以内の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。   50サイズもございます。 https://goodtimesc.thebase.in/items/90904677   ★ ペット用品一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/3468070   *-*-*-* 小型犬・猫にぴったりの約40cmラウンドペットベッド。寒い冬も安心の保温シート入りでぬくもりキープ。フェイクファーとラビットファータッチのボア素材がやわらかく、ふんわり快適な寝心地を提供します。丸型デザインで包み込まれる安心感があり、おしゃれでかわいい冬用室内ベッドとして人気です。 *-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/4786cffa32bf455e359a2b22936afbd8.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "イケヒコ"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4140",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90904603",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4140",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/90904603",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      }
+    ]
+  },
+  "/items/77265173": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/77265173#product",
+    "name": "ペットスツール 角型 天然木 小型犬 猫用 クッション付き 椅子兼用 チェック柄 シンプル 北欧風 おしゃれ カバーリング対応",
+    "description": "アンティーク感のある天然木（杉）フレームに、ナチュラルテイスト柄の生地を使用 インテリア性の高いペットスツール  ペット用クッションは取り外しが可能なので、クッションを外して収納ボックスとしても使えます（座面クッションは取り外しができません） ペット用クッションはカバーを外して手洗いができるので、いつでも清潔に使えます アンティーク感のある天然木（杉）フレームに、ナチュラルテイスト柄の生地を使用した、インテリア性の高いペットスツール  商品サイズ：W34×D29.5×H39  【材質】天然木(杉) 積層合板 水性ラッカー塗装 ポリエステル コットン 【静的耐荷重】80kg 【組立】完成品 【原産地】中国 【商品重量】2.5kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  ★ ペット用品一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/3468070   *-*-*-* 小型犬・猫用のペットスツールは、椅子としても使える角型デザイン。天然木フレームにやさしいコットン生地のクッション付きで、ペットが安心してくつろげます。シンプルなチェック柄と北欧風の佇まいでインテリアにも馴染みます。クッションは取り外し可能なカバーリング仕様でお手入れ簡単。愛犬・愛猫との暮らしにぴったりの多機能ペット家具です。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PET-169A ap001018 PET-169B ap001019 PET-169C ap001020   スツール ペット ペットスツール ペット用 ペット用品 ペット シンプル おしゃれ 北欧 愛犬 犬 猫 ドッグ キャット グレー アイボリー ファブリック 布地 クッション クッション取り外し カバーリング",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/fb5d36493134bb6df3d771cf86cb1160.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/23984a84eba5e7f258303a1b86e4e6b0.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77265173",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ストライプ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77265173",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "モノトーンチェック"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77265173",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウンチェック"
+      }
+    ]
+  },
+  "/items/77259694": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/77259694#product",
+    "name": "ペットハウススツール ラタン調 天然木 小型犬 猫用 クッション付き 椅子兼収納 ナチュラル おしゃれ シンプル 籐風 ペットベッド",
+    "description": "入ったり乗ったり座ったりと、ペットの可愛らしい姿を楽しむことができるスツール。  中敷きのクッションやフタが外れる仕様になっており、物を入れたり植物を飾ったりとアイデア次第で様々な使い方ができます。 軽やかな編み目とナチュラルテイストな色味が優しい雰囲気を作り出してくれます。  商品サイズ：φ39×H43  ◆脚裏には床の傷つき防止のフェルト付き。  【材質】天然木(ミンディ) ラタン ラッカー塗装 ポリプロピレン ポリエステル 【静的耐荷重】80kg 【注意事項】※小型犬・猫などの小動物向けです。 【組立】完成品 【原産地】インドネシア 【商品重量】3.0kg 【小箱サイズ】W41.0xD42.0xH46.0 【小箱重量】3.5kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  *-*-*-* ラタン調のナチュラルな風合いが魅力のペットハウススツール。小型犬や猫がくつろげるクッション付きで、ベッドとしても椅子としても使える2WAY仕様。さらに内部に収納スペース付きで、ペット用品や小物整理にも便利。天然木を使用したシンプルでおしゃれなデザインは、インテリアに自然に馴染みます。ペットと暮らす空間を快適＆上質に。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  PET-66 ap001008",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1bb40184cbecc55f8fb4efbf802b6a04.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2cdb49b6ec3c6dfebccb96afbab0446c.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "20700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77259694",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ナチュラル"
+      }
+    ]
+  },
+  "/items/77259221": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/77259221#product",
+    "name": "ペットハウススツール チェア型 ラタン調 天然木 小型犬 猫用 クッション付き 椅子型ベッド おしゃれ ゆったり設計 リビングにも最適",
+    "description": "ペットはもちろん、人も座ることができるペットスツール。 取り外し可能なボリュームのあるクッション付きです。  おしゃれなペットスツール（チェア型） 天然木ラタンを使用したおしゃれなスツールです。  ◆脚裏には床の傷つき防止のフェルト付き。  商品サイズ：約φ55×H35  【材質】ラタン ラッカー塗装 ポリエステル 【静的耐荷重】80kg 【注意事項】※個体差あり ※クッション洗濯不可 【組立】完成品 【原産地】インドネシア 【商品重量】2.5kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  *-*-*-* チェア型デザインが魅力のペットハウススツール。ラタン調と天然木の組み合わせで高級感のある佇まい。小型犬や猫にぴったりのクッション付きで、ベッドとしても椅子としても使えるおしゃれな2WAY仕様。リビングや寝室に馴染むナチュラルテイストで、ゆったりした空間設計がペットのくつろぎタイムに最適。収納スペースも備え、機能性も抜群です。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PET-64 ap001006",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/32beea706499d37abf4405ce88b9eead.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a63ccb8fb491e497e9059630bb93855f.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "16100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77259221",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ナチュラル"
+      }
+    ]
+  },
+  "/items/73312092": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/73312092#product",
+    "name": "ペットハウススツール テーブル型 天然木パイン×ラタン 脚付き 天板付き クッション付き 犬 猫用 ペットベッド 収納 おしゃれ 籐風",
+    "description": "おしゃれなペットスツール（テーブル型） 天然木(パイン) ラタンを使用したおしゃれなスツールです。  ◆脚裏には床の傷つき防止のフェルト付き。  商品サイズ：W40×D40×H45  【材質】天然木(パイン) ラタン ラッカー塗装 ポリエステル 【静的耐荷重】80kg 【組立】完成品 【原産地】インドネシア 【商品重量】5.6kg 【小箱サイズ】W44.0xD44.0xH50.0 【小箱重量】6.5kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  *-*-*-* テーブルとしても使える多機能ペットハウススツール。天然木パイン材とラタン調デザインが調和した、おしゃれで温もりのある佇まい。脚付き＆天板付きで高さもあり、ペットベッドとしても収納家具としても活躍。犬・猫用のふかふかクッション付きで、安心してくつろげる空間を提供します。リビングや寝室にも自然に馴染む上質なペット家具です。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PET-63 ap001005",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2e0e44fc21d3f5cb0991d0d0ce53a26b.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e041b3dbaf47e7e5d738fff31bdae15c.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "17100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/73312092",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ナチュラル"
+      }
+    ]
+  },
+  "/items/73311693": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/73311693#product",
+    "name": "ペットハウススツール 角型 脚付き クッション付き 天然木 小型犬 猫用 ペットベッド 収納付き スクエア型 スツール おしゃれ かわいい",
+    "description": "おしゃれなペットスツール（スクエア型） 2色からお選びください。  ◆脚裏には床の傷つき防止のフェルト付き。  商品サイズ：W35×D35×H41  【材質】木フレーム ポリプロピレン ポリエステル 【静的耐荷重】80kg 【組立】完成品 【原産地】インドネシア 【商品重量】5kg 【小箱サイズ】W37.0xD38.0xH38.0 【小箱重量】5.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   *-*-*-* 角型デザインのペットハウススツールは、ベッド・スツール・収納の3役をこなす多機能家具。天然木の脚付きで通気性が良く、犬や猫も安心してくつろげるクッション付き。スクエア型で安定感があり、リビングや玄関先にも馴染むシンプルでおしゃれなデザイン。ペットと暮らす空間をスマートに彩る、かわいくて実用的なペット用インテリアです。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PET-62BE ap001003 PET-62GR ap001004",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/977dc6582d010175deaab34d1577a330.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2fee660bcfc10e49b2b03c3fac050747.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "11200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/73311693",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "11200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/73311693",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/73311585": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/73311585#product",
+    "name": "ペットハウススツール 丸型 ラウンド 脚付き クッション付き 天然木 小型犬 猫用 ペットベッド 収納付き スツール かわいい おしゃれ",
+    "description": "★ペットがくつろげるペットハウススツール ★座って一緒にくつろぐことができます。  おしゃれなペットスツール（ラウンド型） 2色からお選びください。  ◆脚裏には床の傷つき防止のフェルト付き。  商品サイズ：W33×D33×H41  【材質】木フレーム ポリプロピレン ポリエステル 【静的耐荷重】80kg 【組立】完成品 【原産地】インドネシア 【商品重量】3.5kg 【小箱サイズ】W37.0xD38.0xH43.0 【小箱重量】4.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  *-*-*-* 丸型フォルムがかわいいペットハウススツール。犬・猫用のクッション付きベッドとしても、脚付きスツールとしても使える2WAY仕様。天然木フレームを採用し、通気性と安定感を両立。内部は収納スペースとしても活用でき、日用品やペット用品の整理に便利。やわらかく優しい印象のラウンド型デザインで、インテリアにも自然に馴染みます。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PET-61BE petstool-ap001001 PET-61GR ap001002",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/981dca5fa39da530312917866cd0c91e.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c628e9fab8806f53fb84d576c8a7d164.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "12100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/73311585",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "12100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/73311585",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/77265062": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/77265062#product",
+    "name": "ペットソファ 丸型 コンパクト 軽量 ファブリック製 クッション付き 犬 猫用 北欧風 おしゃれ シンプル ペットベッド カバーリング対応",
+    "description": "ペットはもちろん、人も座ることができるペットソファ。 特別なペットの居場所を作ります。  落ち着いたシンプルなカラーリングとコロンと丸みを帯びた形状がお洒落。 ペットとの生活をより良くさせるソファです。  ◆脚裏には床の傷つき防止のフェルト付き。  商品サイズ：約W58×D44×H29.5×SH15  【材質】木フレーム ラタンフレーム ポリプロピレン ポリエステル 【機能】クッション部分カバーリング 【組立】完成品 【原産地】インドネシア 【商品重量】3.5kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ ペット用品一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/3468070   *-*-*-* 北欧風のシンプルデザインが魅力の丸型ペットソファ。軽量＆コンパクト設計で、室内のどこにでも置きやすく、犬・猫どちらにも対応。やわらかいファブリック生地にクッション付きで快適な寝心地。カバーリング仕様でクッションは取り外し可能、お手入れも簡単。おしゃれで落ち着いたインテリアにも馴染む、上質なペット用ベッドです。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PET-72GY ap001016 PET-72IV ap001017",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f5c6386e59fb4eb6a87be1a1e595e530.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/60355a89ff15637f38adc19f0e8ac64a.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "14800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77265062",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：グレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "14800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77265062",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：アイボリー"
+      }
+    ]
+  },
+  "/items/77264797": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/77264797#product",
+    "name": "ペットソファ スクエア型 ファブリック製 軽量 コンパクト 犬 猫用 ペットベッド 北欧風 おしゃれ シンプル 布製 クッション付き 室内用",
+    "description": "ペットはもちろん、人も座ることができるペットソファ。 特別なペットの居場所を作ります。  ペット用の小ぶりな、包み込むような背もたれが特徴のソファ。 特別なペットの居場所を作ります。  インテリア性の高いパーソナルチェアをペット用のサイズ感で作られているので、もちろん人が座ることもできるディティールです。  商品サイズ：約W55×D50×H37×SH15.5  【材質】木フレーム ラタンフレーム ポリプロピレン ポリエステル 【静的耐荷重】設定なし 【組立】完成品 【原産地】インドネシア 【商品重量】3.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ ペット用品一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/3468070   *-*-*-* 北欧テイストのスクエア型ペットソファは、犬・猫どちらにも使える室内用ペットベッド。軽量かつコンパクトで移動もラクラク。肌ざわりの良いファブリック素材とふかふかクッションが快適な寝心地を提供します。シンプルかつおしゃれなデザインでリビングや寝室にも馴染み、グレー・アイボリーの落ち着いた色合いも魅力です。 *-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PET-71GY ap001014 PET-71IV ap001015",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3deea06262020b19ca38000706199013.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2bdcf7573d98cc1149ed19338ec8623e.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "14800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77264797",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：グレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "14800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77264797",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：アイボリー"
+      }
+    ]
+  },
+  "/items/77259519": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/77259519#product",
+    "name": "ペットソファ 脚付き コンパクト ローソファ コットン素材 ふっくらクッション 小型犬 猫 うさぎ用 椅子型 おしゃれ かわいい 室内用",
+    "description": "ペットはもちろん、人も座ることができるペットソファ。 広い座面でゆったりとくつろぐことができます。  おしゃれなペットソファ コットン素材を使用した、肌触りのよいソファです ご家族皆さんでお使いいただけます。  ◆脚裏には床の傷つき防止のフェルト付き。  商品サイズ：W59×D50×H40×SH18  【材質】木フレーム コットン 【静的耐荷重】設定なし 【組立】完成品 【原産地】インドネシア 【商品重量】6.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。  *-*-*-* コットン素材のやさしい肌ざわりが魅力の脚付きペットソファ。小型犬・猫・うさぎにぴったりなコンパクトサイズで、ふっくらクッションが快適なリラックスタイムを演出。ローソファ風のデザインは、椅子としても使える実用性とかわいさを両立。おしゃれなブルー系カラーで、ナチュラルなインテリアにも自然に馴染む室内用ペット家具です。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PET-65 ap001007",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7d0a1bc3959fdf9d35cd5b35328fcebc.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3516475db61f73431cf45a8e86bf7155.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "18100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77259519",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/77264692": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/77264692#product",
+    "name": "ペットベッド 猫型デザイン 天然木フレーム 雲モチーフ デニムマット付き 犬用 猫用 ドッグ キャット おしゃれ かわいい シンプル 室内用",
+    "description": "猫モチーフのブラウンカラーは木目が映える素朴でかわいらしいデザイン。 ホワイトカラーは雲のモチーフで、デニム生地のマットレスとの組み合わせは空に浮かぶ雲のようなデザインです。  おしゃれなペット用ベッド 2色からお選びください。（デザインがそれぞれ違いますので写真にてご確認ください）  ◆脚裏には床の傷つき防止のフェルト付き。  商品サイズ：（ネコ）W40×D75×H40×SH18 　　　　　　（雲）W45×D75×H38×SH18  【材質】天然木(ミンディ) ラッカー塗装 コットン ポリエステル 【機能】カバーリング 【注意事項】個体差あり 【組立】組立式 【原産地】インドネシア 【商品重量】7.0kg 【小箱サイズ】W77.0xD14.0xH43.0 【小箱重量】8.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ ペット用品一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/3468070   *-*-*-* 猫型の背もたれと雲のようなデザインが目を引く、天然木フレームのペットベッド。犬・猫どちらにも使えるサイズ感で、デニム調マットレス付き。インテリアに映えるおしゃれでシンプルな佇まいと、優しい寝心地が魅力です。ナチュラルテイストのお部屋にも馴染みやすく、ペットと過ごす空間をかわいく演出する室内用ベッドです。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PET-69BR ap001011 PET-69WH ap001012",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/48212965c6207428251caddb4ca19d04.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/afab42d5a7c9d344cd1d830cb7d558fe.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "19400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77264692",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン（ねこ）"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "19400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77264692",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト（雲）"
+      }
+    ]
+  },
+  "/items/77259947": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/77259947#product",
+    "name": "ペットサイドテーブル 天然木ミンディ製 クッション付き 犬 猫用 ペットベッド兼用 花台 ハンドル付き テーブル おしゃれ ナチュラル",
+    "description": "ペットとお部屋でくつろぐために最適な「ペットサイドテーブル」 取り外し可能なやわらかいクッションでペットのくつろげる場所になり、上部のテーブルはサイドテーブルとしてもお使いいただけます。  天然木のカラーと木目がぬくもりを与え、お部屋のインテリアにもとても馴染みます。  ◆脚裏には床の傷つき防止のフェルト付き。  商品サイズ：W54×D40×H60  【材質】天然木(ミンディ) ラッカー塗装 ポリプロピレン ポリエステル 【静的耐荷重】3kg 【注意事項】個体差あり 【組立】完成品 【原産地】インドネシア 【商品重量】5.0kg  正規メーカー品：東谷（AZUMAYA）  ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）  ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。  [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4 400円加算されます。 ※離島地域は5 500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。   ★ ペット用品一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/3468070   *-*-*-* 天然木ミンディ材を使用したペット用サイドテーブル。上部は花台や小物置きとして、下部はクッション付きのペットベッドとして使える2WAY仕様。犬・猫・うさぎにも対応し、リビングに自然に溶け込むナチュラルなデザイン。両側に持ち手があり移動も簡単。おしゃれで実用性のあるインテリア家具として、ペットと快適に暮らせる空間を演出します。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   PET-67 ap001009",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5e071650e4f6082bcbdaed3ee240ec74.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/26b4d5136486c5a1021c06cb969ac671.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "19400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77259947",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ナチュラル"
+      }
+    ]
+  },
+  "/items/95934341": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/95934341#product",
+    "name": "ぽちのPOCHI がま口 シリコン製 コインケース ペットおやつ入れ 薬入れ p+g design 肉球デザイン かわいい 小銭入れ デコピン",
+    "description": "商品サイズ：（約）W85 × H95 × D45（mm）  ブランド：p+g design（ピージーデザイン）  ポップなデザインで世界中で人気の雑貨ブランド、ピージーデザイン。 ぷっくりした小さ目の足跡がかわいいがまぐち「ぽちのポチ」。 小銭・小物・お薬などが入れられます。  重量：52g (カラビナ含む) 素材：シリコン、ステンレス 生産国：中国  ★端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ◆2つの発送方法からお選びください。（発送オプション）　 （１）商品をケースから出して、プラスチックケースを畳んでポスト投函のクリックポストにて発送いたします。（送料無料） （２）プレゼントなど、箱に入ったままの状態をご希望の方は確認事項で「宅配便」をお選びください。（別途送料660円頂戴いたします）  ★小さ目サイズ「BABY」はこちらから https://www.goodtimeschool.jp/items/95643949  *-*-*-*-*-*-* 大人気の「ぽちのPOCHI」は、ぷにぷにシリコン素材のがま口型コインケース。小銭入れや薬入れ、アクセサリーケースとしてはもちろん、ペットのおやつ入れにも便利。かわいい肉球モチーフとデコピン風のユニークなデザインで、大谷翔平選手の使用アイテムとしても話題のp+g design製。軽量で携帯しやすく、ギフトにもぴったりな万能ミニポーチです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  goodtime pg25401 pg25402 pg25404 pg25405 pg25403",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9a15f8d6ddee13a8663b76716dcb4c2f.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/002de257184887a33d1d785a493f2c26.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "p+g design"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/95934341",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ライトグリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/95934341",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ライトピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/95934341",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ライトブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/95934341",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ライトオレンジ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/95934341",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ライトパープル"
+      }
+    ]
+  },
+  "/items/95643949": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/95643949#product",
+    "name": "ぽちのPOCHI BABY がま口 シリコン製 小銭入れ コインケース 薬入れ ペットおやつ入れ p+g design デコピン 肉球 ベイビーサイズ",
+    "description": "商品サイズ：(約)W60 × H62 × D42(mm) ※キーチェーン含めた長さ：102mm パッケージサイズ：(約)W60×H110×D38(mm)  ブランド：p+g design（ピージーデザイン）  ポップなデザインで世界中で人気の雑貨ブランド、ピージーデザイン。 ぷっくりした足跡がかわいいがまぐちキーリング、「ぽちのポチベビー」。 小銭・小物・お薬などが入れられます。  重量：50g (キーホルダー含む) 素材：シリコン / SUS(※ステンレス鋼材) 生産国：中国  ★端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ◆2つの発送方法からお選びください。（発送オプション）　 （１）商品をケースから出して、プラスチックケースを畳んでポスト投函のクリックポストにて発送いたします。（送料無料） （２）プレゼントなど、箱に入ったままの状態をご希望の方は確認事項で「宅配便」をお選びください。（別途送料660円頂戴いたします）  ★ 肉球が小さ目で通常サイズのがま口はこちら https://www.goodtimeschool.jp/items/95934341   ★ ペット用品一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/3468070   *-*-*-*-*-*-* 手のひらサイズがかわいい「ぽちのPOCHI BABY」は、シリコン素材のミニがま口ケース。小銭入れや薬入れ、アクセサリーケースにぴったりで、ペット用のおやつ入れとしても活躍します。肉球モチーフ＆デコピン風デザインで人気のp+g design（ピージーデザイン）製。大谷翔平選手も使用していた話題のアイテムです。やわらかくて丈夫、持ち歩きにも最適なベイビーサイズポーチ。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  pg33401 pg33402 pg33403 pg33405 pg33404",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7accfb942b6a26ee14b8d87377024025.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/611b14b1860ec826f6aa5722a953c290.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "p+g design"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/95643949",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "レッド"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/95643949",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "イエロー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/95643949",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/95643949",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/95643949",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "マゼンダ"
+      }
+    ]
+  },
+  "/items/100612472": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/100612472#product",
+    "name": "犬用ハーネス Sサイズ 大谷翔平モデル MLB公式 ドジャース 小型犬 胴輪 おしゃれ デコピン 野球グッズ ドッグハーネス",
+    "description": "商品名：大谷翔平選手モデル 犬用 ハーネス Sサイズ 小型犬 MLB公式 ロサンゼルス ドジャース デコピン  【MLBの公式グッズ　大谷翔平選手モデルの犬用ハーネス　Sサイズ】  メジャーリーグファン必見！！ ロサンゼルス ドジャース 、大谷翔平選手モデル。 丈夫なPVC製のアジャスタブルハーネス、背中面とお腹面のパーツをバックルで装着。 長さ調整ができ、ハーネスの内面はメッシュ素材で通気性に配慮。 背中のDカンにリードを装着。 お出かけしても注目されること間違いなし☆  ・Sサイズ(約)：首回り：30〜43cm、胴周り：43〜55cm、背丈：22〜35cm 　　適応体重:S…〜7kg 　　※大谷ハーネスSは胴回り43〜55cmです。超小型犬種（ヨーキーやチワワなど）には適していません。  素材：PVC 原産国:中国  ※サイズ表記は目安ですので、ご購入の前に必ず、わんちゃんのサイズ（首回り、胴回り）をお測りいただき、サイズ記載をご確認ください。 ※ディスプレイの環境、設定によっては、実物と若干異なって見える場合がございます。 ※記載のサイズとは多少の誤差が生じる場合がございます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  ★開封後（着衣後）の返品は初期不良を除き不可となります。必ずサイズを計ったうえでご注文願います。  ・Mサイズ(約)：首回り：40〜48cm、胴周り：53〜66cm、背丈：27〜45cm 　　適応体重:M…〜19kg https://www.goodtimeschool.jp/items/100612555  ・Lサイズ(約)：首回り：45〜53cm、胴周り：63〜76cm、背丈：33〜55cm 　　適応体重:L…〜36kg https://www.goodtimeschool.jp/items/100612627   ★ 大谷モデルのわんちゃんグッズはこちら ⇒　https://www.goodtimeschool.jp/?q=デコピン  *-*-*-*-*-*-*- MLB公式ライセンス商品、大谷翔平選手モデルの犬用ハーネス（Sサイズ）。ロサンゼルス・ドジャースのチームロゴ入りで、野球ファンにはたまらないアイテムです。小型犬にぴったりのサイズ感で、しっかりと体にフィットし、快適な着け心地を実現。散歩時にも注目されるおしゃれなデザインで、デコピンシリーズとしても話題。愛犬とのお出かけがもっと楽しくなる一着です。 *-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   fw003018",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3b752c43634c05218a11f6caae80c187.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ファンタジーワールド"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "8400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/100612472",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/100612555": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/100612555#product",
+    "name": "犬用ハーネス Mサイズ 大谷翔平モデル MLB公式 中型犬 ドジャース 胴輪 野球 ドッグハーネス おしゃれ デコピン",
+    "description": "商品名：大谷翔平選手モデル 犬用 ハーネス Mサイズ 中型犬 MLB公式 ロサンゼルス ドジャース デコピン  【MLBの公式グッズ　大谷翔平選手モデルの犬用ハーネス　Mサイズ】  メジャーリーグファン必見！！ ロサンゼルス ドジャース 、大谷翔平選手モデル。 丈夫なPVC製のアジャスタブルハーネス、背中面とお腹面のパーツをバックルで装着。 長さ調整ができ、ハーネスの内面はメッシュ素材で通気性に配慮。 背中のDカンにリードを装着。 お出かけしても注目されること間違いなし☆  ・Mサイズ(約)：首回り：40〜48cm、胴周り：53〜66cm、背丈：27〜45cm 　　適応体重:M…〜19kg  素材：PVC 原産国:中国  ※サイズ表記は目安ですので、ご購入の前に必ず、わんちゃんのサイズ（首回り、胴回り）をお測りいただき、サイズ記載をご確認ください。 ※ディスプレイの環境、設定によっては、実物と若干異なって見える場合がございます。 ※記載のサイズとは多少の誤差が生じる場合がございます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  ★開封後（着衣後）の返品は初期不良を除き不可となります。必ずサイズを計ったうえでご注文願います。  ・Sサイズ(約)：首回り：30〜43cm、胴周り：43〜55cm、背丈：22〜35cm 　　適応体重:S…〜7kg https://www.goodtimeschool.jp/items/100612472  ・Lサイズ(約)：首回り：45〜53cm、胴周り：63〜76cm、背丈：33〜55cm 　　適応体重:L…〜36kg https://www.goodtimeschool.jp/items/100612627   ★ 大谷選手のわんちゃんグッズはこちら ⇒　https://www.goodtimeschool.jp/?q=デコピン   *-*-*-*-*-*-* MLB公認・大谷翔平選手モデルの中型犬用ハーネス（Mサイズ）。ロサンゼルス・ドジャース公式デザインで、野球ファン＆愛犬家に人気のアイテムです。丈夫な素材と快適なフィット感で、毎日のお散歩をスタイリッシュに演出。注目の“デコピン”シリーズとしても話題で、スポーツファンへのプレゼントにもおすすめ。おしゃれな胴輪で愛犬との特別な時間を。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  fw003019",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6f7cf7bc02bc7cca517fc4bc5b3243e7.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ファンタジーワールド"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "8700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/100612555",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/100612627": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/100612627#product",
+    "name": "犬用ハーネス Lサイズ 大谷翔平モデル MLB公式 中型犬 ドジャース 胴輪 野球 ドッグハーネス おしゃれ デコピン",
+    "description": "商品名：大谷翔平選手モデル 犬用 ハーネス Lサイズ 大型犬 MLB公式 ロサンゼルス ドジャース デコピン  【MLBの公式グッズ　大谷翔平選手モデルの犬用ハーネス　Lサイズ】  メジャーリーグファン必見！！ ロサンゼルス ドジャース 、大谷翔平選手モデル。 丈夫なPVC製のアジャスタブルハーネス、背中面とお腹面のパーツをバックルで装着。 長さ調整ができ、ハーネスの内面はメッシュ素材で通気性に配慮。 背中のDカンにリードを装着。 お出かけしても注目されること間違いなし☆  ・Lサイズ(約)：首回り：45〜53cm、胴周り：63〜76cm、背丈：33〜55cm 　　適応体重:L…〜36kg  素材：PVC 原産国:中国  ※サイズ表記は目安ですので、ご購入の前に必ず、わんちゃんのサイズ（首回り、胴回り）をお測りいただき、サイズ記載をご確認ください。 ※ディスプレイの環境、設定によっては、実物と若干異なって見える場合がございます。 ※記載のサイズとは多少の誤差が生じる場合がございます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  ★開封後（着衣後）の返品は初期不良を除き不可となります。必ずサイズを計ったうえでご注文願います。  ・Sサイズ(約)：首回り：30〜43cm、胴周り：43〜55cm、背丈：22〜35cm 　　適応体重:S…〜7kg 　　※大谷ハーネスSは胴回り43〜55cmです。超小型犬種（ヨーキーやチワワなど）には適していません。 https://www.goodtimeschool.jp/items/100612472  ・Mサイズ(約)：首回り：40〜48cm、胴周り：53〜66cm、背丈：27〜45cm 　　適応体重:M…〜19kg https://www.goodtimeschool.jp/items/100612555  *-*-*-*-*-*-* MLB公認・大谷翔平選手モデルの中型犬用ハーネス（Lサイズ）。ロサンゼルス・ドジャース公式デザインで、野球ファン＆愛犬家に人気のアイテムです。丈夫な素材と快適なフィット感で、毎日のお散歩をスタイリッシュに演出。注目の“デコピン”シリーズとしても話題で、スポーツファンへのプレゼントにもおすすめ。おしゃれな胴輪で愛犬との特別な時間を。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  fw003020",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/4b3ed92269eeb22e16f71a1ea0923165.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ファンタジーワールド"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/100612627",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/91952568": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/91952568#product",
+    "name": "犬用パーカー Sサイズ 大谷翔平モデル MLB公式 ドジャース 超小型犬用 ユニフォーム風 犬服 デコピン オオタニサン かっこいい服",
+    "description": "パーカー【Sサイズ】  メジャーリーグファン必見！！ ロサンゼルス ドジャース 、大谷翔平選手モデルの可愛いワンちゃんのパーカー(首元にマジックテープ) MLBの公式、大谷翔平選手モデルのペットグッズが登場。  ■画像のサイズ記載をご確認のうえご購入ください。 ※当店では、S、M、Lサイズのみの取り扱いとなります。  ■原産国:中国  ※サイズ表記は目安ですので、ご購入の前に必ず、わんちゃんのサイズ（首回り、胴回り）をお測りいただき、サイズ記載をご確認ください。 ※ディスプレイの環境、設定によっては、実物と若干異なって見える場合がございます。 ※商品は全て新品ですが、海外製造品により、多少の縫製不良・糸クズ・汚れのある場合がございます。  【洋服パーカーの実寸】　※多少の誤差はご了承ください。 Sサイズ：首回り　29cm　着丈　29cm　身幅　26.5cm　　重さ：48ｇ  ※開封後（着衣後）の返品、交換は初期不良を除き不可となります。ご了承ください。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。   ※　Tシャツ Sサイズはこちらから https://www.goodtimeschool.jp/items/87323708  ※　Tシャツ S-Mサイズはこちらから https://www.goodtimeschool.jp/items/91955592  ※　Tシャツ Mサイズはこちらから https://www.goodtimeschool.jp/items/87323779  ※　Tシャツ Lサイズはこちらから https://www.goodtimeschool.jp/items/87324509  ★　パーカー Sサイズはこちら https://www.goodtimeschool.jp/items/91952568  ★　パーカー S-Mサイズはこちら https://www.goodtimeschool.jp/items/93795158  ★　パーカー Mサイズはこちら https://www.goodtimeschool.jp/items/91952760  ★　パーカー Lサイズはこちら https://www.goodtimeschool.jp/items/91953444  ♪ Tシャツを着たわんこが嬉しそう ♪ こちらもどうぞ★↓ https://www.youtube.com/watch?v=HBtXqLaAXDI https://www.youtube.com/watch?v=S2JHIINqjbw   ★ ペット用品一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/3468070   *-*-*-*-*-*-*- MLB公式・大谷翔平選手モデルの犬用パーカー（Sサイズ）。ロサンゼルス・ドジャースのユニフォームをモチーフにしたデザインで、超小型犬にぴったりのサイズ。注目の「デコピン」シリーズで、かっこよさとかわいさを兼ね備えたわんちゃん用ファッションアイテムです。野球ファンの愛犬家におすすめで、お散歩時も注目されること間違いなし。ギフトにも人気です。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  fw003012",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/48055d78b268af93e87750e3c926639d.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ファンタジーワールド"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/91952568",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/93795158": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/93795158#product",
+    "name": "犬用パーカー S-Mサイズ 大谷翔平モデル MLB公式 ドジャース 超小型犬用 ユニフォーム風 犬服 デコピン オオタニサン かっこいい服",
+    "description": "パーカー【S-Mサイズ】　※SとMの中間サイズです。  メジャーリーグファン必見！！ ロサンゼルス ドジャース 、大谷翔平選手モデルの可愛いワンちゃんのパーカー(首元にマジックテープ) MLBの公式、大谷翔平選手モデルのペットグッズが登場。  ■画像のサイズ記載をご確認のうえご購入ください。 ※当店では、S、S-M、M、Lサイズのみの取り扱いとなります。  ■原産国:中国  ※サイズ表記は目安ですので、ご購入の前に必ず、わんちゃんのサイズ（首回り、胴回り）をお測りいただき、サイズ記載をご確認ください。 ※ディスプレイの環境、設定によっては、実物と若干異なって見える場合がございます。 ※商品は全て新品ですが、海外製造品により、多少の縫製不良・糸クズ・汚れのある場合がございます。  【洋服パーカーの実寸】　※多少の誤差はご了承ください。 S-Mサイズ：首回り　36cm　着丈　35cm　身幅　25cm　　重さ：54ｇ   ※開封後（着衣後）の返品、交換は初期不良を除き不可となります。ご了承ください。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。   ※　Tシャツ Sサイズはこちらから https://www.goodtimeschool.jp/items/87323708  ※　Tシャツ S-Mサイズはこちらから https://www.goodtimeschool.jp/items/91955592  ※　Tシャツ Mサイズはこちらから https://www.goodtimeschool.jp/items/87323779  ※　Tシャツ Lサイズはこちらから https://www.goodtimeschool.jp/items/87324509  ★　パーカー Sサイズはこちら https://www.goodtimeschool.jp/items/91952568  ★　パーカー S-Mサイズはこちら https://www.goodtimeschool.jp/items/93795158  ★　パーカー Mサイズはこちら https://www.goodtimeschool.jp/items/91952760  ★　パーカー Lサイズはこちら https://www.goodtimeschool.jp/items/91953444  ♪ Tシャツを着たわんこが嬉しそう ♪ こちらもどうぞ★↓ https://www.youtube.com/watch?v=HBtXqLaAXDI https://www.youtube.com/watch?v=S2JHIINqjbw   ★ ペット用品一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/3468070  *-*-*-*-*-*-*- MLB公式・大谷翔平選手モデルの犬用パーカー（S-Mサイズ）。ロサンゼルス・ドジャースのユニフォームをモチーフにしたデザインで、超小型犬にぴったりのサイズ。注目の「デコピン」シリーズで、かっこよさとかわいさを兼ね備えたわんちゃん用ファッションアイテムです。野球ファンの愛犬家におすすめで、お散歩時も注目されること間違いなし。ギフトにも人気です。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  fw004017",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6d1d141a0d84ea71f27339b9e712e69b.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ファンタジーワールド"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "8000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/93795158",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/91952760": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/91952760#product",
+    "name": "犬用パーカー Mサイズ 大谷翔平モデル MLB公式 ドジャース 超小型犬用 ユニフォーム風 犬服 デコピン オオタニサン かっこいい服",
+    "description": "パーカー【Ｍサイズ】  メジャーリーグファン必見！！ ロサンゼルス ドジャース 、大谷翔平選手モデルの可愛いワンちゃんのパーカー(首元にマジックテープ) MLBの公式、大谷翔平選手モデルのペットグッズが登場。  ■画像のサイズ記載をご確認のうえご購入ください。 ※当店では、S、M、Lサイズのみの取り扱いとなります。  ■原産国:中国  ※サイズ表記は目安ですので、ご購入の前に必ず、わんちゃんのサイズ（首回り、胴回り）をお測りいただき、サイズ記載をご確認ください。 ※ディスプレイの環境、設定によっては、実物と若干異なって見える場合がございます。 ※商品は全て新品ですが、海外製造品により、多少の縫製不良・糸クズ・汚れのある場合がございます。  【洋服パーカーの実寸】　※多少の誤差はご了承ください。 Mサイズ：首回り　39cm　着丈　40cm　身幅　33cm　　重さ：77ｇ  ※開封後（着衣後）の返品、交換は初期不良を除き不可となります。ご了承ください。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。   ※　Tシャツ Sサイズはこちらから https://www.goodtimeschool.jp/items/87323708  ※　Tシャツ S-Mサイズはこちらから https://www.goodtimeschool.jp/items/91955592  ※　Tシャツ Mサイズはこちらから https://www.goodtimeschool.jp/items/87323779  ※　Tシャツ Lサイズはこちらから https://www.goodtimeschool.jp/items/87324509  ★　パーカー Sサイズはこちら https://www.goodtimeschool.jp/items/91952568  ★　パーカー S-Mサイズはこちら https://www.goodtimeschool.jp/items/93795158  ★　パーカー Mサイズはこちら https://www.goodtimeschool.jp/items/91952760  ★　パーカー Lサイズはこちら https://www.goodtimeschool.jp/items/91953444  ♪ Tシャツを着たわんこが嬉しそう ♪ こちらもどうぞ★↓ https://www.youtube.com/watch?v=HBtXqLaAXDI https://www.youtube.com/watch?v=S2JHIINqjbw   ★ ペット用品一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/3468070  *-*-*-*-*-*-*- MLB公式・大谷翔平選手モデルの犬用パーカー（Mサイズ）。ロサンゼルス・ドジャースのユニフォームをモチーフにしたデザインで、超小型犬にぴったりのサイズ。注目の「デコピン」シリーズで、かっこよさとかわいさを兼ね備えたわんちゃん用ファッションアイテムです。野球ファンの愛犬家におすすめで、お散歩時も注目されること間違いなし。ギフトにも人気です。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  fw003013",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1b5075512625e828fb7a42a314701502.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ファンタジーワールド"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "8700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/91952760",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/91953444": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/91953444#product",
+    "name": "犬用パーカー Lサイズ 大谷翔平モデル MLB公式 ドジャース 超小型犬用 ユニフォーム風 犬服 デコピン オオタニサン かっこいい服",
+    "description": "パーカー【Lサイズ】  メジャーリーグファン必見！！ ロサンゼルス ドジャース 、大谷翔平選手モデルの可愛いワンちゃんのパーカー(首元にマジックテープ) MLBの公式、大谷翔平選手モデルのペットグッズが登場。  ■画像のサイズ記載をご確認のうえご購入ください。 ※当店では、S、M、Lサイズのみの取り扱いとなります。  ■原産国:中国  ※サイズ表記は目安ですので、ご購入の前に必ず、わんちゃんのサイズ（首回り、胴回り）をお測りいただき、サイズ記載をご確認ください。 ※ディスプレイの環境、設定によっては、実物と若干異なって見える場合がございます。 ※商品は全て新品ですが、海外製造品により、多少の縫製不良・糸クズ・汚れのある場合がございます。  【洋服パーカーの実寸】　※多少の誤差はご了承ください。 Lサイズ：首回り　47cm　着丈　50cm　身幅　35.5cm　　重さ：100ｇ   ※開封後（着衣後）の返品、交換は初期不良を除き不可となります。ご了承ください。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 ゆうパックにて翌日発送いたします。   ※　Tシャツ Sサイズはこちらから https://www.goodtimeschool.jp/items/87323708  ※　Tシャツ S-Mサイズはこちらから https://www.goodtimeschool.jp/items/91955592  ※　Tシャツ Mサイズはこちらから https://www.goodtimeschool.jp/items/87323779  ※　Tシャツ Lサイズはこちらから https://www.goodtimeschool.jp/items/87324509  ★　パーカー Sサイズはこちら https://www.goodtimeschool.jp/items/91952568  ★　パーカー S-Mサイズはこちら https://www.goodtimeschool.jp/items/93795158  ★　パーカー Mサイズはこちら https://www.goodtimeschool.jp/items/91952760  ★　パーカー Lサイズはこちら https://www.goodtimeschool.jp/items/91953444  ♪ Tシャツを着たわんこが嬉しそう ♪ こちらもどうぞ★↓ https://www.youtube.com/watch?v=HBtXqLaAXDI https://www.youtube.com/watch?v=S2JHIINqjbw   ★ ペット用品一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/3468070  *-*-*-*-*-*-*- MLB公式・大谷翔平選手モデルの犬用パーカー（Sサイズ）。ロサンゼルス・ドジャースのユニフォームをモチーフにしたデザインで、超小型犬にぴったりのサイズ。注目の「デコピン」シリーズで、かっこよさとかわいさを兼ね備えたわんちゃん用ファッションアイテムです。野球ファンの愛犬家におすすめで、お散歩時も注目されること間違いなし。ギフトにも人気です。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  fw003014",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ff636a4cedfbb428189b7404860a06d2.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5fac748fcac9d072912693a89a76d335.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ファンタジーワールド"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "10040",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/91953444",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/87323708": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/87323708#product",
+    "name": "犬用Tシャツ Sサイズ 大谷翔平モデル MLB公式 ドジャース 超小型犬用 ユニフォーム風 デコピン わんちゃんの服 かっこいい服",
+    "description": "Tシャツ【Sサイズ】  MLBの公式、大谷翔平選手モデルのペットグッズが登場。  メジャーリーグファン必見！！ ロサンゼルス ドジャース 、大谷翔平選手モデルの可愛いワンちゃんのTシャツ。 大好きなチームのユニフォームを大好きなペットが着る。 考えるだけで、ワクワクしますね。 お出かけしても注目されること間違いなし☆  ♪ Tシャツを着たわんこが嬉しそう ♪ こちらもどうぞ★↓ https://www.youtube.com/watch?v=HBtXqLaAXDI https://www.youtube.com/watch?v=S2JHIINqjbw  ブランド：ファンタジーワールド  ■画像のサイズ記載をご確認のうえご購入ください。 ※当店では、S、S-M、M、Lサイズのみの取り扱いとなります。  ■原産国:中国  ※サイズ表記は目安ですので、ご購入の前に必ず、わんちゃんのサイズ（首回り、胴回り）をお測りいただき、サイズ記載をご確認ください。 ※ディスプレイの環境、設定によっては、実物と若干異なって見える場合がございます。 ※記載のサイズとは多少の誤差が生じる場合がございます。 ※商品は全て新品ですが、海外製造品により、多少の縫製不良・糸クズ・汚れのある場合がございます。  【実寸】　※多少の誤差はご了承ください。 Sサイズ：首回り　20cm　着丈　29.5cm　身幅　24.5cm　　重さ：47ｇ  ※開封後（着衣後）の返品、交換は初期不良を除き不可となります。ご了承ください。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。   ※　Tシャツ Sサイズはこちらから https://www.goodtimeschool.jp/items/87323708  ※　Tシャツ S-Mサイズはこちらから https://www.goodtimeschool.jp/items/91955592  ※　Tシャツ Mサイズはこちらから https://www.goodtimeschool.jp/items/87323779  ※　Tシャツ Lサイズはこちらから https://www.goodtimeschool.jp/items/87324509  ★　パーカー Sサイズはこちら https://www.goodtimeschool.jp/items/91952568  ★　パーカー S-Mサイズはこちら https://www.goodtimeschool.jp/items/93795158  ★　パーカー Mサイズはこちら https://www.goodtimeschool.jp/items/91952760  ★　パーカー Lサイズはこちら https://www.goodtimeschool.jp/items/91953444  ♪ Tシャツを着たわんこが嬉しそう ♪ https://www.youtube.com/watch?v=S2JHIINqjbw&list=PLm7wh5uMM3b5iP4_ryW_3sEpFguh2Pvjk  *-*-*-*-*-*-* MLB公式ライセンスの大谷翔平選手モデル犬用Tシャツ（Sサイズ）。ロサンゼルス・ドジャースのユニフォームデザインを忠実に再現し、かっこよさとかわいらしさを兼ね備えた注目の一着。超小型犬にフィットするサイズで、お散歩やお出かけにぴったり。人気の「デコピン」シリーズとして、愛犬家や野球ファンへのギフトにもおすすめです。わんちゃんが主役になる一枚。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  fw003006 fw003009 夏",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6093e0766529b0c08628062c4d24367d.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6b54c57fba083967de189927c8116a0b.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ファンタジーワールド"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87323708",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87323708",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/91955592": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/91955592#product",
+    "name": "犬用Tシャツ S-Mサイズ 大谷翔平モデル MLB公式 ドジャース 超小型犬用 ユニフォーム風 デコピン わんちゃんの服 かっこいい服",
+    "description": "Tシャツ【S-Mサイズ】※SとMの中間サイズです。  MLBの公式、大谷翔平選手モデルのペットグッズが登場。  メジャーリーグファン必見！！ ロサンゼルス ドジャース 、大谷翔平選手モデルの可愛いワンちゃんのTシャツ。 大好きなチームのユニフォームを大好きなペットが着る。 考えるだけで、ワクワクしますね。 お出かけしても注目されること間違いなし☆  ♪ Tシャツを着たわんこが嬉しそう ♪ こちらもどうぞ★↓ https://www.youtube.com/watch?v=HBtXqLaAXDI https://www.youtube.com/watch?v=S2JHIINqjbw  ブランド：ファンタジーワールド  ■画像のサイズ記載をご確認のうえご購入ください。 ※当店では、S、S-M、M、Lサイズのみの取り扱いとなります。  ■原産国:中国  ※サイズ表記は目安ですので、ご購入の前に必ず、わんちゃんのサイズ（首回り、胴回り）をお測りいただき、サイズ記載をご確認ください。 ※ディスプレイの環境、設定によっては、実物と若干異なって見える場合がございます。 ※記載のサイズとは多少の誤差が生じる場合がございます。 ※商品は全て新品ですが、海外製造品により、多少の縫製不良・糸クズ・汚れのある場合がございます。  【実寸】　※多少の誤差はご了承ください。 S-Mサイズ：首回り　27cm　着丈　35cm　身幅　23.5cm　　重さ：57ｇ  ※開封後（着衣後）の返品、交換は初期不良を除き不可となります。ご了承ください。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。   ※　Tシャツ Sサイズはこちらから https://www.goodtimeschool.jp/items/87323708  ※　Tシャツ S-Mサイズはこちらから https://www.goodtimeschool.jp/items/91955592  ※　Tシャツ Mサイズはこちらから https://www.goodtimeschool.jp/items/87323779  ※　Tシャツ Lサイズはこちらから https://www.goodtimeschool.jp/items/87324509  ★　パーカー Sサイズはこちら https://www.goodtimeschool.jp/items/91952568  ★　パーカー S-Mサイズはこちら https://www.goodtimeschool.jp/items/93795158  ★　パーカー Mサイズはこちら https://www.goodtimeschool.jp/items/91952760  ★　パーカー Lサイズはこちら https://www.goodtimeschool.jp/items/91953444  ♪ Tシャツを着たわんこが嬉しそう ♪ https://www.youtube.com/watch?v=S2JHIINqjbw&list=PLm7wh5uMM3b5iP4_ryW_3sEpFguh2Pvjk  *-*-*-*-*-*-* MLB公式ライセンスの大谷翔平選手モデル犬用Tシャツ（S-Mサイズ）。ロサンゼルス・ドジャースのユニフォームデザインを忠実に再現し、かっこよさとかわいらしさを兼ね備えた注目の一着。超小型犬にフィットするサイズで、お散歩やお出かけにぴったり。人気の「デコピン」シリーズとして、愛犬家や野球ファンへのギフトにもおすすめです。わんちゃんが主役になる一枚。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  fw004015 fw004016 夏",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5a8c3d0f0c38ffc3457b9d1122bc1135.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9da7f2bc2c4357e7898ef74bc8919ca2.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ファンタジーワールド"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/91955592",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/91955592",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/87323779": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/87323779#product",
+    "name": "犬用Tシャツ Mサイズ 大谷翔平モデル MLB公式 ドジャース 超小型犬用 ユニフォーム風 デコピン わんちゃんの服 かっこいい服",
+    "description": "Tシャツ【Mサイズ】  MLBの公式、大谷翔平選手モデルのペットグッズが登場。  メジャーリーグファン必見！！ ロサンゼルス ドジャース 、大谷翔平選手モデルの可愛いワンちゃんのTシャツ。 大好きなチームのユニフォームを大好きなペットが着る。 考えるだけで、ワクワクしますね。 お出かけしても注目されること間違いなし☆  ♪ Tシャツを着たわんこが嬉しそう ♪ こちらもどうぞ★↓ https://www.youtube.com/watch?v=HBtXqLaAXDI https://www.youtube.com/watch?v=S2JHIINqjbw  ブランド：ファンタジーワールド  ■画像のサイズ記載をご確認のうえご購入ください。 ※当店では、S、S-M、M、Lサイズのみの取り扱いとなります。  ■原産国:中国  ※サイズ表記は目安ですので、ご購入の前に必ず、わんちゃんのサイズ（首回り、胴回り）をお測りいただき、サイズ記載をご確認ください。 ※ディスプレイの環境、設定によっては、実物と若干異なって見える場合がございます。 ※記載のサイズとは多少の誤差が生じる場合がございます。 ※商品は全て新品ですが、海外製造品により、多少の縫製不良・糸クズ・汚れのある場合がございます。  【実寸】　※多少の誤差はご了承ください。 Ｍサイズ：首回り　27cm　着丈　40cm　身幅　32cm　　重さ：77ｇ  ※開封後（着衣後）の返品、交換は初期不良を除き不可となります。ご了承ください。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。   ※　Tシャツ Sサイズはこちらから https://www.goodtimeschool.jp/items/87323708  ※　Tシャツ S-Mサイズはこちらから https://www.goodtimeschool.jp/items/91955592  ※　Tシャツ Mサイズはこちらから https://www.goodtimeschool.jp/items/87323779  ※　Tシャツ Lサイズはこちらから https://www.goodtimeschool.jp/items/87324509  ★　パーカー Sサイズはこちら https://www.goodtimeschool.jp/items/91952568  ★　パーカー S-Mサイズはこちら https://www.goodtimeschool.jp/items/93795158  ★　パーカー Mサイズはこちら https://www.goodtimeschool.jp/items/91952760  ★　パーカー Lサイズはこちら https://www.goodtimeschool.jp/items/91953444  ♪ Tシャツを着たわんこが嬉しそう ♪ https://www.youtube.com/watch?v=S2JHIINqjbw&list=PLm7wh5uMM3b5iP4_ryW_3sEpFguh2Pvjk   *-*-*-*-*-*-* MLB公式ライセンスの大谷翔平選手モデル犬用Tシャツ（Mサイズ）。ロサンゼルス・ドジャースのユニフォームデザインを忠実に再現し、かっこよさとかわいらしさを兼ね備えた注目の一着。超小型犬にフィットするサイズで、お散歩やお出かけにぴったり。人気の「デコピン」シリーズとして、愛犬家や野球ファンへのギフトにもおすすめです。わんちゃんが主役になる一枚。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  fw003007 fw003010 夏",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e893ae6b8655e8a45b20e5c5f0412297.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/45797ce0d0854109d938d6ab49d5a65b.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ファンタジーワールド"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87323779",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87323779",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/87324509": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/87324509#product",
+    "name": "犬用Tシャツ Lサイズ 大谷翔平モデル MLB公式 ドジャース 超小型犬用 ユニフォーム風 デコピン わんちゃんの服 かっこいい服",
+    "description": "Tシャツ【Lサイズ】  MLBの公式、大谷翔平選手モデルのペットグッズが登場。  メジャーリーグファン必見！！ ロサンゼルス ドジャース 、大谷翔平選手モデルの可愛いワンちゃんのTシャツ。 大好きなチームのユニフォームを大好きなペットが着る。 考えるだけで、ワクワクしますね。 お出かけしても注目されること間違いなし☆  ♪ Tシャツを着たわんこが嬉しそう ♪ こちらもどうぞ★↓ https://www.youtube.com/watch?v=HBtXqLaAXDI https://www.youtube.com/watch?v=S2JHIINqjbw  ブランド：ファンタジーワールド  ■画像のサイズ記載をご確認のうえご購入ください。 ※当店では、S、S-M、M、Lサイズのみの取り扱いとなります。  ■原産国:中国  ※サイズ表記は目安ですので、ご購入の前に必ず、わんちゃんのサイズ（首回り、胴回り）をお測りいただき、サイズ記載をご確認ください。 ※ディスプレイの環境、設定によっては、実物と若干異なって見える場合がございます。 ※記載のサイズとは多少の誤差が生じる場合がございます。 ※商品は全て新品ですが、海外製造品により、多少の縫製不良・糸クズ・汚れのある場合がございます。  【実寸】　※多少の誤差はご了承ください。 Ｌサイズ：首回り　31cm　着丈　52cm　身幅　38cm　　重さ：108ｇ  ※開封後（着衣後）の返品、交換は初期不良を除き不可となります。ご了承ください。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。 （土日の発送はお休みとなりますので、翌営業日の発送となります） ゆうパックにて発送いたしますので、日時指定が可能です。（翌営業日以降） ご希望の方はご注文時にコメントにてご連絡ください。   ※　Tシャツ Sサイズはこちらから https://www.goodtimeschool.jp/items/87323708  ※　Tシャツ S-Mサイズはこちらから https://www.goodtimeschool.jp/items/91955592  ※　Tシャツ Mサイズはこちらから https://www.goodtimeschool.jp/items/87323779  ※　Tシャツ Lサイズはこちらから https://www.goodtimeschool.jp/items/87324509  ★　パーカー Sサイズはこちら https://www.goodtimeschool.jp/items/91952568  ★　パーカー S-Mサイズはこちら https://www.goodtimeschool.jp/items/93795158  ★　パーカー Mサイズはこちら https://www.goodtimeschool.jp/items/91952760  ★　パーカー Lサイズはこちら https://www.goodtimeschool.jp/items/91953444  ♪ Tシャツを着たわんこが嬉しそう ♪ https://www.youtube.com/watch?v=S2JHIINqjbw&list=PLm7wh5uMM3b5iP4_ryW_3sEpFguh2Pvjk  *-*-*-*-*-*-* MLB公式ライセンスの大谷翔平選手モデル犬用Tシャツ（Lサイズ）。ロサンゼルス・ドジャースのユニフォームデザインを忠実に再現し、かっこよさとかわいらしさを兼ね備えた注目の一着。超小型犬にフィットするサイズで、お散歩やお出かけにぴったり。人気の「デコピン」シリーズとして、愛犬家や野球ファンへのギフトにもおすすめです。わんちゃんが主役になる一枚。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  fw003008 fw003011 夏",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b9122e546136c103e0d9c01c7565e8f6.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3da62fdf13a56530682a85cb5d967516.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ファンタジーワールド"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "8600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87324509",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "8600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/87324509",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/86102231": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/86102231#product",
+    "name": "犬用おもちゃ トリートサッカーボール 知育トイ 日本代表モデル 知能育成 運動不足解消 抗菌素材 おしゃれ",
+    "description": "メーカー：FANTASY WORLD  サッカー日本代表オフィシャルライセンスグッズ 知育トイ「サッカー日本代表チームモデル　スポーティートレーニング」  ボールを転がすとおやつがでてくる！ ペットが遊びながらおやつにありつけ、学習するので知能の発育と運動不足・退屈の解消に役立ちます。  ■材質：ABS樹脂 ■サイズ：Φ12cm Made in：CHINA  ※こちらの商品をご使用の際は必ず監視して飼い主の責任においてご使用下さい。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日にゆうパックにて発送いたします。 （土日の発送はお休みとなりますので、翌営業日の発送となります）  *-*-*-*-*-*-* サッカー日本代表チーム公認エンブレム入りの知育トイ「トリートサッカーボール」。中におやつを入れて転がすだけで、遊びながら頭を使って学べる知育玩具です。抗菌剤入り素材で衛生面も安心。室内でもしっかり運動でき、退屈解消＆運動不足対策にぴったり。オリンピックやワールドカップ観戦シーズンにも映える、スポーティーでおしゃれな犬用おもちゃです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   fw001005",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/afaaa5f727b03a4ca9a9f3a654f22a20.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ファンタジーワールド"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2900",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/86102231",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/81494262": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/81494262#product",
+    "name": "キャットハウス ふわふわ ドーム型 クッション付き 2色 猫用ハウス 手触りのいい 柔らか生地 ネコ用 犬用",
+    "description": "【セール・割引対象品】  カラーはダークグレー、アイボリーの2色からお選びください。 手触りのいいやわらかい起毛生地を使用したふわふわのキャットハウス。  キャットハウスとクッションは同じ素材を使用しているので中に入っても上から圧し掛かっても心地よい肌触りを楽しめます。  クッションは取り外しが可能なのでクッションのみでも使用できます。 平たく押しつぶせば収納にも便利です。  [サイズ・容量] カラー： ダークグレー/アイボリー 素材： スポンジ/ポリエステル サイズ：(約)　全体：高さ34×幅41×奥行き45cm 　　　　　　入り口：縦26×横22cm 　　　　クッション：縦44×横34×厚さ10cm 重さ(約) 350g  生産地：中国  [注意事項] ※画像の色調はご使用のモニターの機種や設定により実際の商品と異なる場合があります。  ※ぬいぐるみは付属しません。 ※スポンジなどのやわらかい素材で作られた商品ですので、形に個体差があります。予めご了承ください。  ◆送料無料 ※北海道、四国、九州、沖縄、離島の方は別途送料が発生いたします。 ※本州地域の方は、カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日にゆうパックにて発送いたします。 （土日の発送はお休みとなりますので、翌営業日の発送となります）  *-*-*-*-*-*-*-*-*-  可愛らしいふわふわのドーム型キャットハウスです。猫ちゃんにとって快適な眠り場所として最適な一品。手触りの良い柔らかな生地で包まれることで、猫ちゃんは安心感を得られることでしょう。2色展開なので、お好みの色をお選びいただけます。  このキャットハウスは、猫ちゃんのために作られた特別な場所。寝るだけでなく、遊び場としても利用できます。クッション付きで、猫ちゃんがゆったりとくつろげるスペースを提供します。ネコちゃんの好奇心を刺激する形状も魅力的です。  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  pa002024 pa002025",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a75a140eb1d6bd76d39a56b010a0a12d.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3515",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/81494262",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：ダークグレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3515",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/81494262",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：アイボリー"
+      }
+    ]
+  },
+  "/items/69520238": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/69520238#product",
+    "name": "ペットベッド 寝袋型 2way Sサイズ 小型犬 猫用 クッション ふわふわ あったか 洗える コンパクト 冬用",
+    "description": "【Sサイズ】 サイズ：(約) 縦49×横49cm　　入り口：直径40cm(ボア含む) 内径30cm 重量：(約) 303g カラー グレー/ブラウン ※サイズは写真をご覧ください。  ■生産地：中国 ■素材・成分：素材 ポリエステル/布  注意事項 ※色味やサイズに若干個体差があります。 ※定期的に商品の状態を確認してください。破損等がある場合は使用しないでください。 ※入り口部分に骨組みがあるため、洗濯機のご利用はおやめください。 ※画像の色調はご使用のモニターの機種や設定により実際の商品と異なる場合があります。  ◆送料無料 ※北海道、四国、九州、沖縄、離島の方は別途送料が発生いたします。 ※本州地域の方は、カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日にゆうパックにて発送いたします。 （土日の発送はお休みとなりますので、翌営業日の発送となります）  *-*-*-*-*-*-*-*-*-*-  ■ふわふわボアで包み込む！寝袋ベッド！ 小型犬、猫向きSサイズの肌ざわりのいいふわふわのボアが付いたペット用寝袋ベッド。 ベッドとしての使用はもちろん、車やカートでのおでかけにも便利です。  ■形を変えられる！2way仕様！ 寝袋型とクッションベッド型の2種類の使い方ができる2way仕様！ とても軽く、お布団をかけているような感覚で優しく包み込んでくれる寝袋型。 入り口部分に骨組みが仕込まれているので、ペットが自由に出入りしやすくなっています。 骨組みに合わせてくるっと丸めると、くぼみにうずくまるようにして眠ることができる、クッションベットに早変わり！ペットの好みに合わせて使い分けることができます。  ■グレーとブラウンの2色展開！ 落ち着いた色味でインテリアを邪魔しない、グレーとブラウンの2色からお選びいただけます。  Lサイズもございます。 https://www.goodtimeschool.jp/items/72184287  *-*-*-*-*-*-* 小型犬や猫にぴったりな、2way仕様の寝袋型クッションベッド（Sサイズ）。包み込まれるような安心感とふわふわ素材で、寒い季節もあたたかく快適に。袋状にして潜り込ませたり、広げてクッションとして使ったり、使い方は自由自在。軽量＆コンパクトでお手入れもしやすく、丸洗い可能。冬の定番あったかアイテムとして、大切なペットの快眠をサポートします。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   ブラウン （pt-p002sbr） JAN：4573561657717  グレー （pt-p002sgr） JAN：4573561657724",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6008df2d47cf935e5e09bd1397b32291.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/69520238",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：　ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/69520238",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：　グレー"
+      }
+    ]
+  },
+  "/items/72184287": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/72184287#product",
+    "name": "ペットベッド 寝袋型 2way Lサイズ 小型犬 猫用 クッション ふわふわ あったか 洗える コンパクト 冬用",
+    "description": "【Lサイズ】 サイズ：(約) 縦58×横56cm　　入り口：直径48cm(ボア含む) 内径40cm 重量：(約) 436g カラー グレー/ブラウン 素材 ポリエステル/布 ※サイズは写真をご覧ください。  ■生産地：中国 ■素材・成分：素材 ポリエステル/布  注意事項 ※色味やサイズに若干個体差があります。 ※定期的に商品の状態を確認してください。破損等がある場合は使用しないでください。 ※入り口部分に骨組みがあるため、洗濯機のご利用はおやめください。 ※画像の色調はご使用のモニターの機種や設定により実際の商品と異なる場合があります。  ◆送料無料 ※北海道、四国、九州、沖縄、離島の方は別途送料が発生いたします。 ※本州地域の方は、カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日にゆうパックにて発送いたします。 （土日の発送はお休みとなりますので、翌営業日の発送となります）  *-*-*-*-*-*-*-*-*-*-  ■ふわふわボアで包み込む！寝袋ベッド！ 小型犬、猫向きSサイズの肌ざわりのいいふわふわのボアが付いたペット用寝袋ベッド。 ベッドとしての使用はもちろん、車やカートでのおでかけにも便利です。  ■形を変えられる！2way仕様！ 寝袋型とクッションベッド型の2種類の使い方ができる2way仕様！ とても軽く、お布団をかけているような感覚で優しく包み込んでくれる寝袋型。 入り口部分に骨組みが仕込まれているので、ペットが自由に出入りしやすくなっています。 骨組みに合わせてくるっと丸めると、くぼみにうずくまるようにして眠ることができる、クッションベットに早変わり！ペットの好みに合わせて使い分けることができます。  ■グレーとブラウンの2色展開！ 落ち着いた色味でインテリアを邪魔しない、グレーとブラウンの2色からお選びいただけます。  ★Sサイズもございます。 https://www.goodtimeschool.jp/items/69520238  *-*-*-*-*-*-* 小型犬や猫にぴったりな、2way仕様の寝袋型クッションベッド（Sサイズ）。包み込まれるような安心感とふわふわ素材で、寒い季節もあたたかく快適に。袋状にして潜り込ませたり、広げてクッションとして使ったり、使い方は自由自在。軽量＆コンパクトでお手入れもしやすく、丸洗い可能。冬の定番あったかアイテムとして、大切なペットの快眠をサポートします。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   ブラウン メーカー品番:pt-p002lbr JAN:4573561657731 pa001016  グレー メーカー品番:pt-p002lgr JAN:4573561657748 pa001017",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/44928187c26446546a7e823f32ea7fff.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/72184287",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：　ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/72184287",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：　グレー"
+      }
+    ]
+  },
+  "/items/63505058": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/63505058#product",
+    "name": "ペット用メッシュマット Sサイズ 小型犬 中型犬 猫用 夏用 室内マット 通気性 ピンクカラー わんちゃん ねこちゃん ",
+    "description": "メッシュ生地が春夏にぴったりな、ペット用マットです。【Sサイズ】  通気性に優れたメッシュ生地で、暑い日でも蒸れずに快適！ 春夏通してご使用いただけます。  裏面はキルティング生地で、ふんわりとした触り心地！  *-*-*-*-*-*-*-*-*-*  【サイズ・容量】 サイズ(約) 　縦41×横51(cm)、厚さ:6mm 重さ(約) 105g  【規格】 ■生産地：中国 ■素材・成分：素材 ポリエステル  【注意事項】 ※画像の色調はご使用のモニターの機種や設定により実際の商品と異なる場合があります。 ※ぬいぐるみは付属しません。  ◇ Lサイズはこちら https://www.goodtimeschool.jp/items/77839944  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  ★　ペット用品一覧はこちら https://www.goodtimeschool.jp/categories/3468070  *-*-*-*-*- 通気性に優れたペット用メッシュマット（Sサイズ）。小型犬・中型犬・猫に最適で、暑い季節も快適に過ごせる夏用アイテムです。軽量＆滑りにくい設計で、フローリングやケージの中にもぴったり。ピンクのやさしい色合いがインテリアにも映え、わんちゃん・ねこちゃんのくつろぎスペースをおしゃれに演出します。丸洗い可能で清潔に保てる、室内用マットです。送料無料。 *-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  pa001013",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/12f8a12ff7662690c3c22bb0adc83baa.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1630",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/63505058",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ピンク"
+      }
+    ]
+  },
+  "/items/77839944": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/77839944#product",
+    "name": "ペット用メッシュマット Lサイズ 小型犬 中型犬 猫用 夏用 室内マット 通気性 ピンクカラー わんちゃん ねこちゃん ",
+    "description": "メッシュ生地が春夏にぴったりな、ペット用マットです。（Lサイズ）  通気性に優れたメッシュ生地で、暑い日でも蒸れずに快適！ 春夏通してご使用いただけます。  裏面はキルティング生地で、ふんわりとした触り心地！  *-*-*-*-*-*-*-*-*-*  【サイズ・容量】 サイズ(約) 　縦56×横69(cm)、厚さ:6mm 重さ(約) 180g  【規格】 ■生産地：中国 ■素材・成分：素材 ポリエステル  【注意事項】 ※画像の色調はご使用のモニターの機種や設定により実際の商品と異なる場合があります。 ※ぬいぐるみは付属しません。  ◇ Sサイズはこちら https://www.goodtimeschool.jp/items/63505058  ◆送料無料 ※北海道、四国、九州、沖縄、離島の方は別途送料が発生いたします。 ※本州地域の方は、カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日にゆうパックにて発送いたします。  ★　ペット用品一覧はこちら https://www.goodtimeschool.jp/categories/3468070   *-*-*-*-*- 通気性に優れたペット用メッシュマット（Sサイズ）。小型犬・中型犬・猫に最適で、暑い季節も快適に過ごせる夏用アイテムです。軽量＆滑りにくい設計で、フローリングやケージの中にもぴったり。ピンクのやさしい色合いがインテリアにも映え、わんちゃん・ねこちゃんのくつろぎスペースをおしゃれに演出します。丸洗い可能で清潔に保てる、室内用マットです。送料無料。 *-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  pa001018",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6f271d687df02658a9d7c93130633b0a.png"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2230",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77839944",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ピンク"
+      }
+    ]
+  },
+  "/items/82144216": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/82144216#product",
+    "name": "ペットハンモック 綿100％ もぐれる 選べるポケット付き 41×41cm 小動物用 チンチラ デグー モルモット モモンガ ハリネズミ 洗える おしゃれ",
+    "description": "安心の綿100％でまったりリラックス♪　選べるポケット付き　ペットハンモック 41×41cm フェレットちゃんに嬉しい大きめサイズのゲージ用ハンモックです！  ポケットまたはトンネル付きなので、潜ったりお昼寝したり♪ ペットのかわいい姿が見られる楽しいスペースになります。 綿100％なので、夏も冬も季節を問わずご使用できます。 多頭飼いの方にも！  [対象動物] ・フェレット ・うさぎ ・猫(子猫や小型種)・その他小動物  [素材] ・綿 100% ・取り付け金具 / 鉄  [カラー] ・レッド ・ネイビー ・グリーン ・ブラック ・ブラウン  [サイズ] 【本体】 　約41×41cm 　※多少前後する場合があります。ご了承ください。 【取り付け部分】 　約4.5cm  メーカー：reowide  ※本製品はメーカー工場より直送いたします。 　ご注文後、3営業日以内に発送となります。  ※出荷後の返品は初期不良を除き不可となります。ご了承ください。  [送料無料] ※メール便でお送りいたします。 ★カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。   ★ ペット用品一覧はこちらから ⇒　https://www.goodtimeschool.jp/categories/3468070   *-*-*-* 安心の綿100％素材を使用した、もぐれるタイプの小動物用ペットハンモック。41×41cmでゆったり快適、選べるポケット付きでチンチラ・デグー・モルモット・モモンガ・ハリネズミなど多頭飼いにも対応。洗濯OKで清潔に保ちやすく、オールシーズン使えるデザイン。サークルやケージに取り付けられる金具付きで、花柄・北欧柄などおしゃれな柄展開も魅力です。 *-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/30a93bd32f1ab42b6ca2f964ccfc4853.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/75eca4f1090ad6c87aae7555e47702a4.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "reowide"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2692",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82144216",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ポケットタイプ　[レッド]"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2692",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82144216",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ポケットタイプ　[ネイビー]"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2692",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82144216",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ポケットタイプ　[グリーン]"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2692",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82144216",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ポケットタイプ　[ブラック]"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2692",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82144216",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ポケットタイプ　[ブラウン]"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2692",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82144216",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "トンネルタイプ　[レッド]"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2692",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82144216",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "トンネルタイプ　[ネイビー]"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2692",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82144216",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "トンネルタイプ　[グリーン]"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2692",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82144216",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "トンネルタイプ　[ブラック]"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2692",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82144216",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "トンネルタイプ　[ブラウン]"
+      }
+    ]
+  },
+  "/items/58935153": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/58935153#product",
+    "name": "ハーネス 小型犬用 ミニリュック型 ハーネス 犬用ハーネス 犬用リュック かわいい ミニリュックでお出かけ ",
+    "description": "リュックを背負ったわんちゃんがとってもキュート！わんちゃん用のミニリュック型ハーネス！ バックル付きなので、リードもリュックに付けられます！  かわいいのはもちろん、中に物を入れられるので、ちょっとしたときに便利です！ 保冷剤やカイロを入れておけば、夏・冬のお散歩にも安心！ わんちゃん用のおやつや、ポリ袋など軽いものを入れておけます！ おしゃれとしても実用としても使用できるリュック型ハーネスで、楽しくお散歩に出かけましょう！  背中に当たる裏面は通気性のいいメッシュ素材を使用！ ナスカンのリードも付属します。取り外し可能なので、お手持ちのリードに付け替えることも！  オレンジ/グレー/レッドの三色からお選び頂けます。 （※リードの色は三色とも共通でブラックとなっています）  *-*-*-*-*-*-*-*-*-*-*  ・全体サイズ：W15×D12×H18cm ・収納サイズ：W14.5×D5.5×H15cm ・ポケット収納：W10×D2×H5cm ・バックル：W2×H1.5cm （円周：6cm）  付属のリード：幅2.2×長さ124×厚み0.1cm  対象サイズ（約）  ・腕周り（円周）：最小36〜最大44.7cm ・胴周り（円周）：最小23.3〜最大41cm  重さ（約） 124g　(付属のリード42g除く)  ■生産地：中国  注意事項 ※画像の色調はご使用のモニターの機種や設定により実際の商品と異なる場合があります。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  ★　ペット用品一覧はこちら https://www.goodtimeschool.jp/categories/3468070  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  pa001006 pa001007 pa001008",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6532f1478fadf0d9583b819f589b9087.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/568661b1152fe5f79e1898f4e0da3ed3.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/58935153",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "オレンジ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/58935153",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/58935153",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "レッド"
+      }
+    ]
+  },
+  "/items/66550437": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/66550437#product",
+    "name": "犬雅 唐草ベストハーネス M 中型犬用 ハーネス お散歩 ペティオ 唐草模様 おしゃれ かわいい ",
+    "description": "和柄模様がかわいい犬用ソフトハーネス  - 和柄シリーズ -　犬雅（いぬみやび）  前足を通して背中デパッチン！　簡単装着　ワンタッチタイプ！ 体をしっかりサポートし、愛犬にかかる負担を和らげます。  胸部に通気性とクッション性のあるダブルラッセル生地を使用しているので、愛犬にかかる負担を和らげます。 毎回の調節が不要のワンタッチバックルを採用しているので、簡単に装着できます。 どんな犬にもぴったりの和柄デザイン。  ★　写真のぬいぐるみ、リードは撮影用です。商品ではございません  使用方法： 前足を左右に入れてください。 ※犬の進行方向に見て、バックルオス(ツメのある側)を左側にしてください。両端のＤカンを持ち上げてバックルを留め、アジャスターで調節してください。引きひもは両方のＤカンにつないでください。 ※指が2〜3本入る程度に調節してください。 ※バックルはカチッと音がするまで真っ直ぐしっかりと留めてください。ななめに留めると外れなくなることがあります。 ※購入の際には必ず実測のうえ、適応サイズを確かめてお選びください。  適用サイズ(胴囲)：45〜70cm 適用体重：〜20kg その他：適応種：中型犬  生産地：中国 サイズ：(H)205×(W)190×(D)60mm・(重量)130g／商品使用時サイズテープ幅：20mm 素材＜材質＞本体：コットン・ポリエステル、テープ：ポリエステル   注意事項 ・本品は犬用です。犬以外には使用しないでください。 ・事故防止のため、適応サイズ・適応体重以外の犬には使用しないでください。ただし、犬の習性を十分理解したうえで、強く引く場合は適応体重に余裕のある製品を購入してください。 ・一定の場所にとどめておくためのケイ留には使用しないでください。 ・人やペットが破片等を誤飲しないように注意してください。万一、誤飲した場合は各医師に相談してください。 ・本品を正しく使用してください。使用方法の誤りや分解・修理・改造等による事故については、一切責任を負いません。 ・子供が使用する場合は、必ず大人が立ち会ってください。 ・本品は消耗品ですので、使用前には必ず点検し、6ヶ月前後を目安としてホツレ・毛羽立ち・亀裂等の傷みが目立ち始めたら新しい製品に買い替えてください。 ・本品は、ペットがかんだり引っかく等すると、切れたり破損したりします。 かみぐせのある犬には使用しないでください。 ・犬が嫌がる場合は、無理に使用しないでください。 ・本品は指が2〜3本入る程度に装着し、しまり過ぎていないか、たえず点検してください。 ・水ぬれや摩擦等で色落ちする場合があります。特に薄い毛色の犬には注意してください。 ・火気や水気のそばでの使用や保管はしないでください。 ・幼児・子供・認知症の方・ペットのふれない所に保管してください。  メーカー名 株式会社 ペティオ  [[ペティオ] 犬雅 唐草ベストハーネス M レッド] 商品コード：Ｗ57468 品番 4903588574689 適応腫：ブル、テリア、ボーダー、コリー、柴等  [[ペティオ] 犬雅 唐草ベストハーネス M グリーン] 商品コード：Ｗ57462 品番 4903588574672 適応腫：ブル、テリア、ボーダー、コリー、柴等   ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  ★　ペット用品一覧はこちら https://www.goodtimeschool.jp/categories/3468070   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   pb001007 pb001006",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/0135ab04522288f1f2dc7fae9c5f95a0.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ff2918fc7c019dca791ebc4a6be23295.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ペティオ"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/66550437",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "Mサイズ　レッド"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/66550437",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "Mサイズ　グリーン"
+      }
+    ]
+  },
+  "/items/66550295": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/66550295#product",
+    "name": "犬雅 唐草ベストハーネス S 小型犬用 ハーネス お散歩 ペティオ 唐草模様 おしゃれ かわいい ",
+    "description": "和柄模様がかわいい犬用ソフトハーネス  - 和柄シリーズ -　犬雅（いぬみやび）  前足を通して背中デパッチン！　簡単装着　ワンタッチタイプ！ 体をしっかりサポートし、愛犬にかかる負担を和らげます。  胸部に通気性とクッション性のあるダブルラッセル生地を使用しているので、愛犬にかかる負担を和らげます。 毎回の調節が不要のワンタッチバックルを採用しているので、簡単に装着できます。 どんな犬にもぴったりの和柄デザイン。  ★　写真のぬいぐるみ、リードは撮影用です。商品ではございません  使用方法： 前足を左右に入れてください。 ※犬の進行方向に見て、バックルオス(ツメのある側)を左側にしてください。両端のＤカンを持ち上げてバックルを留め、アジャスターで調節してください。引きひもは両方のＤカンにつないでください。 ※指が2〜3本入る程度に調節してください。 ※バックルはカチッと音がするまで真っ直ぐしっかりと留めてください。ななめに留めると外れなくなることがあります。 ※購入の際には必ず実測のうえ、適応サイズを確かめてお選びください。  適用サイズ(胴囲)：35〜55cm 適用体重：〜10kg その他：適応種：小型犬   生産地 中国 サイズ (H)205×(W)170×(D)50mm・(重量)75g／商品使用時サイズテープ幅：15mm 素材 ＜材質＞ 本体：コットン・ポリエステル、テープ：ポリエステル   注意事項 ・本品は犬用です。犬以外には使用しないでください。 ・事故防止のため、適応サイズ・適応体重以外の犬には使用しないでください。ただし、犬の習性を十分理解したうえで、強く引く場合は適応体重に余裕のある製品を購入してください。 ・一定の場所にとどめておくためのケイ留には使用しないでください。 ・人やペットが破片等を誤飲しないように注意してください。万一、誤飲した場合は各医師に相談してください。 ・本品を正しく使用してください。使用方法の誤りや分解・修理・改造等による事故については、一切責任を負いません。 ・子供が使用する場合は、必ず大人が立ち会ってください。 ・本品は消耗品ですので、使用前には必ず点検し、6ヶ月前後を目安としてホツレ・毛羽立ち・亀裂等の傷みが目立ち始めたら新しい製品に買い替えてください。 ・本品は、ペットがかんだり引っかく等すると、切れたり破損したりします。 かみぐせのある犬には使用しないでください。 ・犬が嫌がる場合は、無理に使用しないでください。 ・本品は指が2〜3本入る程度に装着し、しまり過ぎていないか、たえず点検してください。 ・水ぬれや摩擦等で色落ちする場合があります。特に薄い毛色の犬には注意してください。 ・火気や水気のそばでの使用や保管はしないでください。 ・幼児・子供・認知症の方・ペットのふれない所に保管してください。  メーカー名 株式会社 ペティオ  [[ペティオ] 犬雅 唐草ベストハーネス S レッド] 商品コード：Ｗ57462 品番 4903588574627 適応腫：シー・ズー、パグ等  [[ペティオ] 犬雅 唐草ベストハーネス S グリーン] 商品コード：Ｗ57461 品番 4903588574610 適応腫：シー・ズー、パグ等   ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。   ★　ペット用品一覧はこちら https://www.goodtimeschool.jp/categories/3468070  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   pb001003 pb001004",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f9cb2fd36508e225a760bb26f42e1460.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/fc5ca323e06070eaea26661093f81ae4.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ペティオ"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2900",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/66550295",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "Sサイズ　レッド"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2900",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/66550295",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "Sサイズ　グリーン"
+      }
+    ]
+  },
+  "/items/66692437": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/66692437#product",
+    "name": "犬雅 唐草ベストハーネス SS 超小型犬用 ハーネス お散歩 ペティオ 唐草模様 おしゃれ かわいい ",
+    "description": "和柄模様がかわいい犬用ソフトハーネス  - 和柄シリーズ -　犬雅（いぬみやび）  前足を通して背中デパッチン！　簡単装着　ワンタッチタイプ！ 体をしっかりサポートし、愛犬にかかる負担を和らげます。  胸部に通気性とクッション性のあるダブルラッセル生地を使用しているので、愛犬にかかる負担を和らげます。 毎回の調節が不要のワンタッチバックルを採用しているので、簡単に装着できます。 どんな犬にもぴったりの和柄デザイン。  ★　写真のぬいぐるみ、リードは撮影用です。商品ではございません  使用方法： 前足を左右に入れてください。 ※犬の進行方向に見て、バックルオス(ツメのある側)を左側にしてください。両端のＤカンを持ち上げてバックルを留め、アジャスターで調節してください。引きひもは両方のＤカンにつないでください。 ※指が2〜3本入る程度に調節してください。 ※バックルはカチッと音がするまで真っ直ぐしっかりと留めてください。ななめに留めると外れなくなることがあります。 ※購入の際には必ず実測のうえ、適応サイズを確かめてお選びください。  適用サイズ(胴囲)：30〜45cm 適用体重：〜5kg 適応種：超小型犬  生産地：中国 サイズ：(H)205×(W)150×(D)50mm・(重量)45g／商品使用時サイズテープ幅：10mm 素材＜材質＞本体：コットン・ポリエステル、テープ：ポリエステル   注意事項 ・本品は犬用です。犬以外には使用しないでください。 ・事故防止のため、適応サイズ・適応体重以外の犬には使用しないでください。ただし、犬の習性を十分理解したうえで、強く引く場合は適応体重に余裕のある製品を購入してください。 ・一定の場所にとどめておくためのケイ留には使用しないでください。 ・人やペットが破片等を誤飲しないように注意してください。万一、誤飲した場合は各医師に相談してください。 ・本品を正しく使用してください。使用方法の誤りや分解・修理・改造等による事故については、一切責任を負いません。 ・子供が使用する場合は、必ず大人が立ち会ってください。 ・本品は消耗品ですので、使用前には必ず点検し、6ヶ月前後を目安としてホツレ・毛羽立ち・亀裂等の傷みが目立ち始めたら新しい製品に買い替えてください。 ・本品は、ペットがかんだり引っかく等すると、切れたり破損したりします。 かみぐせのある犬には使用しないでください。 ・犬が嫌がる場合は、無理に使用しないでください。 ・本品は指が2〜3本入る程度に装着し、しまり過ぎていないか、たえず点検してください。 ・水ぬれや摩擦等で色落ちする場合があります。特に薄い毛色の犬には注意してください。 ・火気や水気のそばでの使用や保管はしないでください。 ・幼児・子供・認知症の方・ペットのふれない所に保管してください。  メーカー名 株式会社 ペティオ  [[ペティオ] 犬雅 唐草ベストハーネス SS　ブルー] 商品コード：W57457 品番 4903588574573 適応腫：ポメラニアン、マルチーズ、ミニチュアダックスフンド等  [[ペティオ] 犬雅 唐草ベストハーネス SS レッド] 商品コード：W57456 品番 4903588574566 適応腫：ポメラニアン、マルチーズ、ミニチュアダックスフンド等  [[ペティオ] 犬雅 唐草ベストハーネス SS グリーン] 商品コード：W57455 品番 4903588574559 適応腫：ポメラニアン、マルチーズ、ミニチュアダックスフンド等   ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  ★　ペット用品一覧はこちら https://www.goodtimeschool.jp/categories/3468070  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   pb001010 pb001014",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/85d581cf3a537ed0760dbac1636746f5.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7120701ac2fe33025039ba7e7613d975.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ペティオ"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/66692437",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "SSサイズ　レッド"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/66692437",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "SSサイズ　グリーン"
+      }
+    ]
+  },
+  "/items/66550058": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/66550058#product",
+    "name": "和柄ソフトハーネス SS  超小型犬用 猫用 ハーネス お散歩 岡野製作所 おしゃれ かわいい ",
+    "description": "和柄模様がかわいい犬用ソフトハーネス  ［岡野製作所］和柄ソフトハーネス SS 市松 グリーン　超小型犬用 猫用 ハーネス お散歩 ［岡野製作所］和柄ソフトハーネス SS 麻の葉　レッド 超小型犬用 猫用 ハーネス お散歩  和柄模様がかわいい犬用ソフトハーネスです。 お洒落な市松柄のコットン生地を使用。内側にメッシュ加工したナイロン生地を使用   ［適応胴周りサイズ］ 320〜390mm ［適応体重］ 〜5kg ［適応種］ 猫・超小型犬  本体サイズ：幅160×奥行270×高さ40mm  注意事項： ・犬、猫以外には使用しないでください。 ・適用サイズ以上の犬には使用しないでください。また適用内であっても、犬の力が強いと判断される場合にも使用しないでください。 ・事故防止のため毎日点検し、キズ、伸びなどがある場合は使用しないでください。無理に引っ張ると、抜ける場合がありますのでご注意ください。 ・犬が噛むと切れたり破損します。噛み癖のあるペットには十分注意してください。 ・ぬれると色落ちする場合があります。 ・本品は散歩用です。係留はしないでください。  ※写真のぬいぐるみは撮影用です。こちらは商品ではありません。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  ★　ペット用品一覧はこちら https://www.goodtimeschool.jp/categories/3468070   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ac858a28389a08cf49544a0ba3582d0f.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7f3b1645afcdaa27d4ae36e9be08ff23.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "岡野製作所"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/66550058",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "麻の葉　レッド"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/66550058",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "市松　グリーン"
+      }
+    ]
+  },
+  "/items/83180038": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/83180038#product",
+    "name": "犬用首輪 ペティオ 犬雅 唐草カラー Mサイズ 中型犬 20kg迄 首回り30〜45cm 和柄デザイン おしゃれ かわいい  ",
+    "description": "大人気和柄シリーズの首輪  毎回の調節が不要のワンタッチバックルを採用しているので、簡単に装着できます。 どんな犬にもぴったりの和柄デザイン。  使用方法：購入の際には必ず実測のうえ、適応サイズを確かめてお選びください。 適用サイズ(首囲)：30〜45cm 適用体重：〜20kg 適応種：中型犬 ブル・テリア、ボーダー・コリー、柴等  サイズ:(H)275×(W)45×(D)18mm  　重量:40g　　商品使用時サイズ テープ幅：20mm 材質:ポリエステル   [注意事項] ・本品は犬用です。犬以外には使用しないでください。  ・事故防止のため、適応サイズ・適応体重以外の犬には使用しないでください。ただし、犬の習性を十分理解したうえで、強く引く場合は適応体重に余裕のある製品を購入してください。 ・本品は消耗品ですので、使用前には必ず点検し、6ヶ月前後を目安としてホツレ・毛羽立ち・亀裂等の傷みが目立ち始めたら新しい製品に買い替えてください。 ・本品は、ペットがかんだり引っかく等すると、切れたり破損したりします。 かみぐせのある犬には使用しないでください。  ・犬が嫌がる場合は、無理に使用しないでください。 本品は指が2〜3本入る程度に装着し、しまり過ぎていないか、たえず点検してください。  ・水ぬれや摩擦等で色落ちする場合があります。特に薄い毛色の犬には注意してください。 ・火気や水気のそばでの使用や保管はしないでください。   メーカー名： 株式会社 ペティオ  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  ★　ペット用品一覧はこちら https://www.goodtimeschool.jp/categories/3468070  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   pb002025 pb002024",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d79b9cc0de57e7d19345922a88452430.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ペティオ"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/83180038",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "Mサイズ　 レッド"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/83180038",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "Mサイズ　 グリーン"
+      }
+    ]
+  },
+  "/items/83711043": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/83711043#product",
+    "name": "犬用首輪 ペティオ 犬雅 唐草平首輪 Sサイズ 小型犬 10kg迄 首回り23〜33cm 和柄デザイン 唐草模様 合皮 おしゃれ かわいい ",
+    "description": "大人気和柄シリーズの平首輪 毎日のお散歩に気兼ねなく使える超小型犬から中型犬までのシリーズ。合皮と和柄を組合せた高級感あるデザイン。  カラーはレッドとグリーンから  使用方法：購入の際には必ず実測のうえ、適応サイズを確かめてお選びください。 適用サイズ(首囲)：23〜33cm 適用体重：〜10kg 適応犬種：柴犬、シーズー・キャバリア・パグ等  サイズ：(H)510×(W)48×(D)15mm・(重量)55g 商品使用時サイズW15×H230〜330×D20  素材：合成皮革、ポリエステル  メーカー名：株式会社 ペティオ   [注意事項] ・本品は犬用です。犬以外には使用しないでください。  ・事故防止のため、適応サイズ・適応体重以外の犬には使用しないでください。ただし、犬の習性を十分理解したうえで、強く引く場合は適応体重に余裕のある製品を購入してください。 ・本品は消耗品ですので、使用前には必ず点検し、6ヶ月前後を目安としてホツレ・毛羽立ち・亀裂等の傷みが目立ち始めたら新しい製品に買い替えてください。 ・本品は、ペットがかんだり引っかく等すると、切れたり破損したりします。 かみぐせのある犬には使用しないでください。  ・犬が嫌がる場合は、無理に使用しないでください。 本品は指が2〜3本入る程度に装着し、しまり過ぎていないか、たえず点検してください。  ・水ぬれや摩擦等で色落ちする場合があります。特に薄い毛色の犬には注意してください。 ・火気や水気のそばでの使用や保管はしないでください。    ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  ★　ペット用品一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/3468070  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   pb002028 pb002029",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7239fb684b9da67d147af1b64e76f491.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5e63648f4e29288d655f403d2cff54d6.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ペティオ"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/83711043",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "Sサイズ　 レッド"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/83711043",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "Sサイズ　 グリーン"
+      }
+    ]
+  },
+  "/items/71274132": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/71274132#product",
+    "name": "犬用 首輪 プリティカラクサカラー ＃24 唐草模様 犬具 中型犬 紀州犬 ビーグル バセットハウンド ブルテリア ダルメシアン 岡野製作所 ",
+    "description": "人気の唐草模様がかわいい！人気のカラクサ模様のピンタイプ首輪。  ★カラーはグリーンとレッドからお選びください。  適用サイズ(首囲)：37〜45cm 適用体重：20kg以下 適応種：中型犬 紀州犬・ビーグル・バセットハウンド・ブルテリア・ダルメシアン等  本体サイズ (幅X奥行X長さ) :2.4×3×53cm 生産地 日本 素材 　　コットン、合成皮革 メーカー名 株式会社 岡野製作所  使用上の注意： ・ご使用期限は使用頻度によって異なりますが、6か月位が目安です。 ・適用体重内であっても引っ張る力の強いペットに使用すると使用期間が短くなる場合がありますのでご注意下さい。 ・革製品は濡れると色落ちする場合がございます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。 ※15:00までのご注文で当日出荷いたします。  ★ 　他の首輪はこちらから ⇒　https://www.goodtimeschool.jp/categories/4684610  ★　ペット用品一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/3468070   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   pb001022 pb001026 ペット用品",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/61dead3fb7c48f0cb2ff034945265302.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/fddff739e9a5cb63577283927067c47e.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "岡野製作所"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71274132",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/71274132",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "レッド"
+      }
+    ]
+  },
+  "/items/68400430": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/68400430#product",
+    "name": "犬用 首輪 プリティカラクサカラー ＃21 唐草模様 犬具 中型犬 柴犬 紀州犬 ビーグル バセットハウンド ブルテリア ダルメシアン 岡野製作所 ",
+    "description": "人気の唐草模様がかわいい！人気のカラクサ模様のピンタイプ首輪。  ★カラーはレッドとグリーンからお選びください。  適用サイズ(首囲)：31〜39cm 適用体重：20kg以下 適応種：中型犬 紀州犬・ビーグル・バセットハウンド・ブルテリア・ダルメシアン等  本体サイズ (幅X奥行X長さ) :2.1×2×46.5cm 生産地 日本 素材 　　コットン、合成皮革 メーカー名 株式会社 岡野製作所  使用上の注意： ・ご使用期限は使用頻度によって異なりますが、6か月位が目安です。 ・適用体重内であっても引っ張る力の強いペットに使用すると使用期間が短くなる場合がありますのでご注意下さい。 ・革製品は濡れると色落ちする場合がございます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  ★　ペット用品一覧はこちら https://www.goodtimeschool.jp/categories/3468070  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   pb001027 pb001019",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2ac2be623a521bb1d78fb7cf1b83c59e.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/932b3e2756965dc80a9e36b1566b4ab1.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "岡野製作所"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/68400430",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/68400430",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カラー：レッド"
+      }
+    ]
+  },
+  "/items/68400260": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/68400260#product",
+    "name": "犬用 首輪 リフレクトレザーカラー ＃15 レッド 小型犬用 ピンタイプ首輪  岡野製作所 かわいい ",
+    "description": "2枚合わせの牛皮革に足跡柄と骨型のリフレクト素材を付けたピンタイプ首輪。 足型と骨型のリフレクト素材が車のライトを反射。夜のお散歩に安全です！  小型犬用 柴犬・ウエスティー・ミニチュアシュナウツァー・シェットランドシープドッグ・ウェルシュコーギ等 体重：10kg以下 サイズ（首回り）：210〜270mm  商品管理番号 4907733006698 生産地 日本 商品寸法　 335×15(mm) 素材:牛皮革 メーカー名 株式会社 岡野製作所  使用上の注意： ・ご使用期限は使用頻度によって異なりますが、6か月位が目安です。 ・適用体重内であっても引っ張る力の強いペットに使用すると使用期間が短くなる場合がありますのでご注意下さい。 ・革製品は濡れると色落ちする場合がございます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  ★　ペット用品一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/3468070   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   pb001018",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/10fcfc21a85f25ce99920a23d6d5485a.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "岡野製作所"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/68400260",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "レッド"
+      }
+    ]
+  },
+  "/items/66825102": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/66825102#product",
+    "name": "犬雅 唐草リード M 犬用リード 引きひも 中型犬用 ペティオ おしゃれ かわいい ",
+    "description": "[ペティオ] 犬雅 唐草リード M   購入の際には必ず実測のうえ、適応サイズを確かめてお選びください。 ・適用体重：〜20kg<br> ・その他：中型犬  どんな犬にもぴったりの和柄デザインの犬用リード  生産地: 中国 サイズ: (H)275×(W)45×(D)30mm・(重量)85g 商品使用時サイズテープ幅：20mm、引きひもサイズ：120cm 素材:＜材質＞ポリエステル  ※Sサイズ（小型犬）はこちら https://www.goodtimeschool.jp/items/66825239  ※SSサイズ（超小型犬）はこちら https://www.goodtimeschool.jp/items/66825364  ★　写真のぬいぐるみ、ハーネスは撮影用です。商品ではございません  注意事項 ・本品は犬用です。犬以外には使用しないでください。  ・事故防止のため、適応サイズ・適応体重以外の犬には使用しないでください。ただし、犬の習性を十分理解したうえで、強く引く場合は適応体重に余裕のある製品を購入してください。 ・一定の場所にとどめておくためのケイ留には使用しないでください。  ・人やペットが破片等を誤飲しないように注意してください。万一、誤飲した場合は各医師に相談してください。 ・本品を正しく使用してください。使用方法の誤りや分解・修理・改造等による事故については、一切責任を負いません。 ・子供が使用する場合は、必ず大人が立ち会ってください。  ・本品は消耗品ですので、使用前には必ず点検し、6ヶ月前後を目安としてホツレ・毛羽立ち・亀裂等の傷みが目立ち始めたら新しい製品に買い替えてください。  ・本品は、ペットがかんだり引っかく等すると、切れたり破損したりします。 かみぐせのある犬には使用しないでください。 ・犬が嫌がる場合は、無理に使用しないでください。 ・本品は指が2〜3本入る程度に装着し、しまり過ぎていないか、たえず点検してください。  ・水ぬれや摩擦等で色落ちする場合があります。特に薄い毛色の犬には注意してください。 ・火気や水気のそばでの使用や保管はしないでください。  ・幼児・子供・認知症の方・ペットのふれない所に保管してください。   メーカー名 株式会社 ペティオ  [[ペティオ] 犬雅 唐草リード M ブルー]　※品切れ中 商品コード：Ｗ57433 品番  4903588574337 適応腫：ブル・テリア、ボーダー・コリー、柴等  [[ペティオ] 犬雅 唐草リード M レッド] 商品コード：Ｗ57432 品番  4903588574320 適応腫：ブル・テリア、ボーダー・コリー、柴等  [[ペティオ] 犬雅 唐草リード M グリーン] 商品コード：Ｗ57431 品番  4903588574313 適応腫：ブル・テリア、ボーダー・コリー、柴等   ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  ★　ペット用品一覧はこちら https://www.goodtimeschool.jp/categories/3468070  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   pb001015 pb001016",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/88ac5e797f2fc0f6b699d11445b4c9fa.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ペティオ"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/66825102",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "サイズM　レッド"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/66825102",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "サイズM　グリーン"
+      }
+    ]
+  },
+  "/items/66825239": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/66825239#product",
+    "name": "犬雅 唐草リード S 犬用リード 引きひも 小型犬用 ペティオ おしゃれ かわいい ",
+    "description": "[ペティオ] 犬雅 唐草リード S   購入の際には必ず実測のうえ、適応サイズを確かめてお選びください。 ・適用体重：〜10kg<br> ・その他：小型犬  どんな犬にもぴったりの和柄デザインの犬用リード  生産地: 中国 サイズ：(H)275×(W)45×(D)30mm・(重量)55g 商品使用時サイズテープ幅：15mm、引きひもサイズ：120cm 素材:＜材質＞ポリエステル  ※Mサイズ（中型犬）はこちら https://www.goodtimeschool.jp/items/66825364  ※SSサイズ（超小型犬）はこちら https://www.goodtimeschool.jp/items/66825364  ★　写真のぬいぐるみ、ハーネスは撮影用です。商品ではございません  注意事項 ・本品は犬用です。犬以外には使用しないでください。  ・事故防止のため、適応サイズ・適応体重以外の犬には使用しないでください。ただし、犬の習性を十分理解したうえで、強く引く場合は適応体重に余裕のある製品を購入してください。 ・一定の場所にとどめておくためのケイ留には使用しないでください。  ・人やペットが破片等を誤飲しないように注意してください。万一、誤飲した場合は各医師に相談してください。 ・本品を正しく使用してください。使用方法の誤りや分解・修理・改造等による事故については、一切責任を負いません。 ・子供が使用する場合は、必ず大人が立ち会ってください。  ・本品は消耗品ですので、使用前には必ず点検し、6ヶ月前後を目安としてホツレ・毛羽立ち・亀裂等の傷みが目立ち始めたら新しい製品に買い替えてください。  ・本品は、ペットがかんだり引っかく等すると、切れたり破損したりします。 かみぐせのある犬には使用しないでください。 ・犬が嫌がる場合は、無理に使用しないでください。 ・本品は指が2〜3本入る程度に装着し、しまり過ぎていないか、たえず点検してください。  ・水ぬれや摩擦等で色落ちする場合があります。特に薄い毛色の犬には注意してください。 ・火気や水気のそばでの使用や保管はしないでください。  ・幼児・子供・認知症の方・ペットのふれない所に保管してください。   メーカー名 株式会社 ペティオ  [[ペティオ] 犬雅 唐草リード S　レッド] 商品コード：Ｗ57426 品番  4903588574269 適応腫：シー・ズー、パグ等  [[ペティオ] 犬雅 唐草リード S　ブルー]　※品切れ中 商品コード：Ｗ57427 品番  4903588574276 適応腫：シー・ズー、パグ等  [[ペティオ] 犬雅 唐草リード S　グリーン] 商品コード：Ｗ57425 品番  4903588574252 適応腫：シー・ズー、パグ等   ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  ★　ペット用品一覧はこちら https://www.goodtimeschool.jp/categories/3468070  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   pb001012 pb001021",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/81afe7eaddcd008ec730cb203d9d15e5.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d6635c7aadf6e70410373f5d70aa30f3.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ペティオ"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/66825239",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "サイズS　レッド"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/66825239",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "サイズS　グリーン"
+      }
+    ]
+  },
+  "/items/66825364": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/66825364#product",
+    "name": "犬雅 唐草リード SS 犬用リード 引きひも 超小型犬用 ペティオ ",
+    "description": "[ペティオ] 犬雅 唐草リード SS  購入の際には必ず実測のうえ、適応サイズを確かめてお選びください。 ・適用体重：〜5kg<br> ・その他：超小型犬  どんな犬にもぴったりの和柄デザインの犬用リード  生産地: 中国 (H)275×(W)45×(D)30mm・(重量)35g 商品使用時サイズテープ幅：10mm、引きひもサイズ：120cm 素材:＜材質＞ポリエステル  ※Mサイズ（中型犬）はこちら https://www.goodtimeschool.jp/items/66825364  ※Sサイズ（小型犬）はこちら https://www.goodtimeschool.jp/items/66825239  ★　写真のぬいぐるみ、ハーネスは撮影用です。商品ではございません  注意事項 ・本品は犬用です。犬以外には使用しないでください。  ・事故防止のため、適応サイズ・適応体重以外の犬には使用しないでください。ただし、犬の習性を十分理解したうえで、強く引く場合は適応体重に余裕のある製品を購入してください。 ・一定の場所にとどめておくためのケイ留には使用しないでください。  ・人やペットが破片等を誤飲しないように注意してください。万一、誤飲した場合は各医師に相談してください。 ・本品を正しく使用してください。使用方法の誤りや分解・修理・改造等による事故については、一切責任を負いません。 ・子供が使用する場合は、必ず大人が立ち会ってください。  ・本品は消耗品ですので、使用前には必ず点検し、6ヶ月前後を目安としてホツレ・毛羽立ち・亀裂等の傷みが目立ち始めたら新しい製品に買い替えてください。  ・本品は、ペットがかんだり引っかく等すると、切れたり破損したりします。 かみぐせのある犬には使用しないでください。 ・犬が嫌がる場合は、無理に使用しないでください。 ・本品は指が2〜3本入る程度に装着し、しまり過ぎていないか、たえず点検してください。  ・水ぬれや摩擦等で色落ちする場合があります。特に薄い毛色の犬には注意してください。 ・火気や水気のそばでの使用や保管はしないでください。  ・幼児・子供・認知症の方・ペットのふれない所に保管してください。   メーカー名 株式会社 ペティオ  [[ペティオ] 犬雅 唐草リード SS　ブルー]　※品切れ中 商品コード：Ｗ57421 品番  4903588574214 適応腫：ポメラニアン、マルチーズ、ミニチュア・ダックスフンド等  [[ペティオ] 犬雅 唐草リード SS グリーン] 商品コード：Ｗ57419 品番 4903588574191 適応腫：ポメラニアン、マルチーズ、ミニチュア・ダックスフンド等   ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  ★　ペット用品一覧はこちら https://www.goodtimeschool.jp/categories/3468070   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   pb001023 pb001020",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/00ae98ee715cf31addf9ddb9b195fcb1.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6f2d105810b4a47cb6a47a36161bcf04.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ペティオ"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/66825364",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "SS　グリーン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/66825364",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "SS　レッド"
+      }
+    ]
+  },
+  "/items/80269546": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/80269546#product",
+    "name": "犬用リード 伸縮リード アミーゴ コード M AMIGO CORD コード5m イタリアferplast社製 ",
+    "description": "【セール・割引対象品】  イタリアferplast社製  ワンちゃんの動きに合わせて自在に調節できる伸縮リード。 広い場所でノビノビ走らせてたいけど、ノーリードはちょっと... このアミーゴはオーナーが走り寄らなくても、簡単なボタン操作でワンちゃんの動きをコントロールできます。  リードにつながれていることをワンちゃんに感じさせない伸縮リード。 最長5mまで伸び、ワンちゃんも自由に動き回れて開放感を味わえます。 ワンちゃんも飼い主さんも、もっとお散歩が楽しくなりそう♪  ■適応体重:〜25kgまで ■幅X奥行X高さ(約):15X3.6X14cm ■ひもの長さ:5m ■MEDIUM  ※日本郵便レターパックプラスでお送りいたします。 ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。   ※リードを全部引き出した状態で連続した長時間のご使用はお控え下さい。内部のゼンマイ部分に負担がかかり破損する恐れがあります。散歩用ですのでけい留用としては使用しないで下さい。 ※イタリアのメーカーより商品の仕様、セット内容など変更が頻繁にありますので商品写真と異なる場合がありますがご了承下さい。（写真後半部分は実物の撮影です）  *-*-*-*-*-*-*-*  アミーゴ コード AMIGO CORD Mは、犬用の伸縮リードです。コードの長さは5mであり、あなたの愛犬の散歩を快適にサポートします。イタリアferplast社が製造したこのリードは、高品質な素材を使用しており、耐久性にも優れています。  伸縮性のあるリードによって、愛犬は自由に動き回ることができます。また、リードの長さを調整することで、犬の行動範囲を制限することも可能です。これにより、散歩中の安全性を確保することができます。  愛犬との散歩は、あなたとの特別な時間です。アミーゴ コード M AMIGO CORDを使って、より楽しい散歩体験をしてみませんか？このリードが、あなたと愛犬の絆をより深めるお手伝いをします。  ※正しい使用方法をお守りください。設定された最大引張力を超えないようにご注意ください。   ★　ペット用品一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/3468070  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   犬 首輪 ハーネス リード カラー 散歩 デザイン ファッション バックル ワンタッチ おしゃれ さんぽ 超小型犬 小型犬  fw001004",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9205d396714a654c34a70daead392970.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ferplast"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3735",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/80269546",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン＆ホワイト"
+      }
+    ]
+  },
+  "/items/77251389": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/77251389#product",
+    "name": "犬用リード 伸縮リード アミーゴ テープ MINI AMIGO TAPE テープ3m イタリアferplast社製 ",
+    "description": "【セール・割引対象品】  イタリアferplast社製  ワンちゃんの動きに合わせて自在に調節できる伸縮リード。 広い場所でノビノビ走らせてたいけど、ノーリードはちょっと... このアミーゴはオーナーが走り寄らなくても、簡単なボタン操作でワンちゃんの動きをコントロールできます。  伸縮リード アミーゴ テープ MINI AMIGO TAPE 3m  リードにつながれていることをワンちゃんに感じさせない伸縮リード。 最長3mまで伸び、ワンちゃんも自由に動き回れて開放感を味わえます。 ワンちゃんも飼い主さんも、もっとお散歩が楽しくなりそう♪  伸縮リードが「テープ」のタイプです  ■適応体重:〜12kgまで ■幅X奥行X高さ(約):12X3X10ｃｍ ■ひもの長さ:3m ■MINI  ※日本郵便レターパックでお送りいたします。 ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。   ※リードを全部引き出した状態で連続した長時間のご使用はお控え下さい。内部のゼンマイ部分に負担がかかり破損する恐れがあります。散歩用ですのでけい留用としては使用しないで下さい。 ※イタリアのメーカーより商品の仕様、セット内容など変更が頻繁にありますので商品写真と異なる場合がありますがご了承下さい。（写真後半部分は実物の撮影です）  *-*-*-*-*-*-*-*  アミーゴ コード MINI AMIGO CORDは、犬用の伸縮リードです。コードの長さは3mであり、あなたの愛犬の散歩を快適にサポートします。イタリアferplast社が製造したこのリードは、高品質な素材を使用しており、耐久性にも優れています。  伸縮性のあるリードによって、愛犬は自由に動き回ることができます。また、リードの長さを調整することで、犬の行動範囲を制限することも可能です。これにより、散歩中の安全性を確保することができます。  愛犬との散歩は、あなたとの特別な時間です。アミーゴ コード MINI AMIGO CORDを使って、より楽しい散歩体験をしてみませんか？このリードが、あなたと愛犬の絆をより深めるお手伝いをします。  ※正しい使用方法をお守りください。設定された最大引張力を超えないようにご注意ください。   ★　ペット用品一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/3468070  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   犬 首輪 ハーネス リード カラー 散歩 デザイン ファッション バックル ワンタッチ おしゃれ さんぽ 超小型犬 小型犬  fw001002",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b983bbc25c9066b62468d4890a545ef0.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ferplast"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3645",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77251389",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン＆ホワイト"
+      }
+    ]
+  },
+  "/items/77251270": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/77251270#product",
+    "name": "犬用リード 伸縮リード アミーゴ コード MINI AMIGO CORD コード3m イタリアferplast社製 ",
+    "description": "【セール対象品！】  イタリアferplast社製  ワンちゃんの動きに合わせて自在に調節できる伸縮リード。 広い場所でノビノビ走らせてたいけど、ノーリードはちょっと... このアミーゴはオーナーが走り寄らなくても、簡単なボタン操作でワンちゃんの動きをコントロールできます。  リードにつながれていることをワンちゃんに感じさせない伸縮リード。 最長3mまで伸び、ワンちゃんも自由に動き回れて開放感を味わえます。 ワンちゃんも飼い主さんも、もっとお散歩が楽しくなりそう♪  ■適応体重:〜12kgまで ■幅X奥行X高さ(約):12X3X10ｃｍ ■ひもの長さ:3m ■MINI  ※日本郵便レターパックでお送りいたします。 ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送   ※リードを全部引き出した状態で連続した長時間のご使用はお控え下さい。内部のゼンマイ部分に負担がかかり破損する恐れがあります。散歩用ですのでけい留用としては使用しないで下さい。 ※イタリアのメーカーより商品の仕様、セット内容など変更が頻繁にありますので商品写真と異なる場合がありますがご了承下さい。（写真後半部分は実物の撮影です）  *-*-*-*-*-*-*-*  アミーゴ コード MINI AMIGO CORDは、犬用の伸縮リードです。コードの長さは3mであり、あなたの愛犬の散歩を快適にサポートします。イタリアferplast社が製造したこのリードは、高品質な素材を使用しており、耐久性にも優れています。  伸縮性のあるリードによって、愛犬は自由に動き回ることができます。また、リードの長さを調整することで、犬の行動範囲を制限することも可能です。これにより、散歩中の安全性を確保することができます。  愛犬との散歩は、あなたとの特別な時間です。アミーゴ コード MINI AMIGO CORDを使って、より楽しい散歩体験をしてみませんか？このリードが、あなたと愛犬の絆をより深めるお手伝いをします。  ※正しい使用方法をお守りください。設定された最大引張力を超えないようにご注意ください。  ★　ペット用品一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/3468070   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   犬 首輪 ハーネス リード カラー 散歩 デザイン ファッション バックル ワンタッチ おしゃれ さんぽ 超小型犬 小型犬  fw001001",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/58e65ba3cd7ce1baf9fac64509699c17.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b47639e7a576f13d1e3f725a3a06db2a.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ferplast"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3051",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77251270",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン＆ホワイト"
+      }
+    ]
+  },
+  "/items/77251556": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/77251556#product",
+    "name": "犬用リード便利グッズ リードメート LEAD MATE 衝撃吸収バネ リード 首輪 犬 お散歩ツール ",
+    "description": "強い引っぱりによる愛犬とオーナーの衝撃を軽減するお散歩ツール「リードメート」 愛犬とオーナー双方の引っぱりによる衝撃負担を軽減できる 毎日のお散歩やトレーニングに最適な便利ツールです。  スプリング内蔵で急激な引っぱりをしっかり吸収！ 軽量で様々なリードやハーネスのDカン、首輪に簡単に装着できます。  リードメート  サイズ・容量 ■サイズ：本体：約Φ2.5×長さ9.5cm・約80g ■全長：約22.5cm（丸カン〜ナスカンの先まで） ■適応体重：8〜55kg  生産地：中国 素材・成分：ABS/亜鉛合金/ステンレス(バネ）   正規メーカー品：ファンタジーワールド  愛犬との思い出作りをより一層楽しむために、リードメート LEAD MATEをぜひお試しください。新しいお散歩ツールが、愛犬との絆を深めるきっかけになることでしょう。走るのが大好きな愛犬でも安心してお散歩ができること間違いなしです！  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日にヤマト宅急便コンパクトにて発送いたします。  ★　ペット用品一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/3468070  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。   犬 お散歩 愛犬 衝撃軽減 バネ リード 首輪 負担軽減 引っ張り吸収 ファンタジーワールド 首輪 ハーネス 散歩 ワンタッチ さんぽ 超小型犬 小型犬 中型犬 大型犬 fw001003",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d852c73a48658400418faa4b89b90306.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ファンタジーワールド"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77251556",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "レッド"
+      }
+    ]
+  },
+  "/items/44691176": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/44691176#product",
+    "name": "家に犬がいます アクリルストラップ or キーホルダー 柴犬 根付け ペット お守り お留守番 愛犬 備え 犬グッズ",
+    "description": "◆自宅でお留守番中の柴犬の存在を伝えます。 ◆一人暮らしや外出や出張が多い方の、お留守番をする愛犬のための備えとして。犬グッズ、雑貨好きの方へのプレゼントにもおすすめです。 ◆ご購入いただいた金額の一部を公益社団法人アニマル・ドネーション様へ寄付致します。寄付金はアニマル・ドネーション様より犬や猫の保護活動など動物福祉に関わる活動をされている全国の団体様に分配されます。 ◆国内工場で製造の高品質な日本製。チャーム部分は透明なアクリル素材。表面はアクリル内にデザインを埋め込み、裏面にも表と同じデザインをアクリル面に印刷しております。  ★キーホルダーとストラップからお選びください。  ☆サイズ :  [ストラップ] アクリル部分 縦3cm x 横3cm x 厚さ3mm、ストラップを含めた長さ 10cm [キーホルダー] アクリル部分 縦3cm x 横3cm x 厚さ3mm、キーホルダーを含めた長さ 8cm  規格 ■生産地：日本 ■素材： [ストラップ]チャーム部分:無色透明アクリル、ストラップ:ナイロン、スチール [キーホルダー]チャーム部分:無色透明アクリル 、ナスカン:スチール ■パッケージ：個包装  ブランド名　kakuo gadgets  ◆送料全国一律200円　※10個以上お買い上げで送料無料  ◆翌日スピード発送 クリックポストにて翌日発送いたします。   注意事項 ●取付ミスによる不具合や破損、取付の際に商品を加工された場合などは、交換や返品の対象外となります。 ●小さなお子様やペットに与えると誤飲やケガ等の恐れがありますので、安全に配慮した場所に保管してください。 ●無理な力を加えると、変形や破損の恐れがございます。取扱には十分ご注意ください。  *-*-*-*-*-*-*-*-*-*-*-*-*-  【人も動物も幸せになる】 商品売上の一部を猫や犬の保護活動など、動物福祉に関わる団体へ寄付されます。  長い間人と家族として共生してきた犬や猫、そんな多くの伴侶動物が幸せな生活を送ることが出来るよう小さくても確実な一歩となるよう商品を通して貢献致します。  ★　ペット用品一覧はこちら https://www.goodtimeschool.jp/categories/3468070  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/646c7db2968433d001258d1d6a04e7c5.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "kakuo gadgets"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "650",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/44691176",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "650",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/44691176",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/89763531": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/89763531#product",
+    "name": "緊急情報カード 家に犬がいます カードサイズ 3枚セット いぬ ペットカード 留守番中の犬 犬グッズ",
+    "description": "＜＜家に犬がいます 緊急情報カード クレジットカードサイズ 3枚セット＞＞ ブランド名：kakuo gadgets  ・外出中の飼い主に万が一のことがあった時、自宅でお留守番中の犬の救護を依頼するための携帯用緊急情報カード、3枚セットです。  ・一人暮らしや外出や出張が多い方の、お留守番をする愛犬のための備えとして。犬グッズ、雑貨好きの方へのプレゼントにもおすすめです。  ・ご購入いただいた金額の一部を公益社団法人アニマル・ドネーション様へ寄付致します。寄付金はアニマル・ドネーション様より犬や猫の保護活動など動物福祉に関わる活動をされている全国の団体様に分配されます。  ・厳選された国内産の上質紙を使用。表面はPPフィルム加工（光沢）で耐久性に優れ、記入面（マット）はしっかりとインクを吸収する紙質で筆記性に優れています。国内工場にて高品質なオフセット印刷で仕上げております。  ・携帯に便利なクレジットカードサイズ（2つ折り時）。筋入れ加工で折り畳みやすく、角丸加工で出し入れもスムーズ。緊急時に目に付きやすいよう、カード入れに挿しても見える位置に「緊急情報カード」と印字しています。  ・予め信頼できる方に緊急時の犬のお世話と、カードへの記載についてご了承頂くこと、また普段から犬の健康状態等も情報共有しておくことをお勧め致します。  サイズ : 縦54 x 横86mm（2つ折り時）、縦108 x 横86mm（見開き時） 3枚セット  【規格】 ◆生産地：日本 ◆素材・成分：紙 、 PPフィルム加工 ◆パッケージ：個包装  ◆送料全国一律200円　※10個以上お買い上げで送料無料  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  ★　ペット用品一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/3468070  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f3c9c8a38e7658eda87cfb09f610eeeb.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "kakuo gadgets"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "480",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/89763531",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "イエロー"
+      }
+    ]
+  },
+  "/items/44693220": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/44693220#product",
+    "name": "緊急情報カード 家に猫がいます カードサイズ 3枚セット ねこ ペットカード 留守番中の猫 ねこグッズ",
+    "description": "＜＜家に猫がいます 緊急情報カード クレジットカードサイズ 3枚セット＞＞ ブランド名：kakuo gadgets  ※通常デザインと「イラストレーター ico crafts 様による表紙デザイン」（手書きデザイン）の2種類からお選びください。  サイズ : 縦54 x 横86mm（2つ折り時）、縦108 x 横86mm（見開き時） 3枚セット  【規格】 ◆生産地：日本 ◆素材・成分：紙 、 PPフィルム加工 ◆パッケージ：個包装  ・外出中の飼い主に万が一のことがあった時、自宅でお留守番中の猫の救護を依頼するための携帯用緊急情報カード、3枚セットです。  ・一人暮らしや外出や出張が多い方の、お留守番をする愛猫のための備えとして。猫グッズ、雑貨好きの方へのプレゼントにもおすすめです。  ・ご購入いただいた金額の一部を公益社団法人アニマル・ドネーション様へ寄付致します。寄付金はアニマル・ドネーション様より犬や猫の保護活動など動物福祉に関わる活動をされている全国の団体様に分配されます。  ・厳選された国内産の上質紙を使用。表面はPPフィルム加工（光沢）で耐久性に優れ、記入面（マット）はしっかりとインクを吸収する紙質で筆記性に優れています。国内工場にて高品質なオフセット印刷で仕上げております。  ・携帯に便利なクレジットカードサイズ（2つ折り時）。筋入れ加工で折り畳みやすく、角丸加工で出し入れもスムーズ。緊急時に目に付きやすいよう、カード入れに挿しても見える位置に「緊急情報カード」と印字しています。  ・予め信頼できる方に緊急時の猫のお世話と、カードへの記載についてご了承頂くこと、また普段から猫の健康状態等も情報共有しておくことをお勧め致します。  ◆送料全国一律200円　※10個以上お買い上げで送料無料  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  ★　ペット用品一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/3468070  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3baa501a01c2a2883961f8ab5c4f3266.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c3de2d84e7cc8b959dfba4951c6aa085.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "kakuo gadgets"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "480",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/44693220",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "イエロー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "480",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/44693220",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "イエロー"
+      }
+    ]
+  },
+  "/items/82453699": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/82453699#product",
+    "name": "家に猫がいます アクリルキーホルダー or ストラップ ねこ  ペット お守り お留守番 愛猫 備え ねこグッズ",
+    "description": "自宅でお留守番中の猫の存在を伝えます。  ★キーホルダーとストラップからお選びいただけます。  ・一人暮らしや外出や出張が多い方の、お留守番をする愛猫のための備えとして。猫グッズ、雑貨好きの方へのプレゼントにもおすすめです。  ・国内工場で製造の高品質な日本製。チャーム部分は透明なアクリル素材。表面はアクリル内にデザインを埋め込み、裏面にも表と同じデザインをアクリル面に印刷しております。キーホルダーは取り付けやすく外れにくいナスカンキーホルダーを採用。  ☆サイズ :  [キーホルダー]　アクリル部分 縦3cm x 横3cm x 厚さ3mm、キーホルダーを含めた長さ 8cm [ストラップ]　アクリル部分 縦3cm x 横3cm x 厚さ3mm、ストラップを含めた長さ 10cm  規格 ■生産地：日本 ■素材： [キーホルダー]　チャーム部分:無色透明アクリル 、ナスカン:スチール [ストラップ]　チャーム部分:無色透明アクリル、ストラップ:ナイロン、スチール  ■パッケージ：個包装  ブランド名　kakuo gadgets  注意事項 ●取付ミスによる不具合や破損、取付の際に商品を加工された場合などは、交換や返品の対象外となります。 ●小さなお子様やペットに与えると誤飲やケガ等の恐れがありますので、安全に配慮した場所に保管してください。 ●無理な力を加えると、変形や破損の恐れがございます。取扱には十分ご注意ください。  ◆送料全国一律200円　※10個以上お買い上げで送料無料  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-  [ エシカルコレクション ]  ・ご購入いただいた金額の1%を公益社団法人アニマル・ドネーション様へ寄付致します。寄付金はアニマル・ドネーション様より犬や猫の保護活動など動物福祉に関わる活動をされている全国の団体様に分配されます。 ・誰もが生き生きと働ける社会の実現を目指し、商品の封入など生産工程の一部を障がい者の方の就労支援施設に委託し、障がい者の方の就労の定着に貢献しております。  長い間人と家族として共生してきた犬や猫、そんな多くの伴侶動物が幸せな生活を送ることが出来るよう小さくても確実な一歩となるよう商品を通して貢献致します。  ★　ペット用品一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/3468070   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/809f71681d46fc92afbf29859789e62d.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "kakuo gadgets"
+    },
+    "category": "ペット用品",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "650",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82453699",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "650",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/82453699",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/77255617": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/77255617#product",
+    "name": "晴雨兼用傘 完全遮光 UVカット レース猫柄 トランスフォーム傘 親骨45→60cm 手開き式 裾広がり 日本政府推奨 夏 日傘 ねこ柄 おしゃれ",
+    "description": "傘を開くと中から、裾生地の延長部分がグイっと出てきてトランスフォーム！ この仕様はなんと世界初！  閉じた状態では親骨45cm（子供サイズ）→　開くと親骨60cmの大きい傘に変身しちゃうんです。  ★メーカー社長自らが紹介！↓ https://www.youtube.com/watch?v=2fkEKXW_rJI  正規メーカー品：スギタ  [レース＆猫柄]  【商品サイズ】 ・畳んだ時の長さ:63.5cm 横幅:11cm 平置き時の高さ:5.5cm ・親骨：45cm→60cm 直径：約108cm  【規格】 ・生産地：中国 ・素材　生地:ポリエステル100% ・仕様　手開き式　晴雨兼用傘　UVカット&完全遮光 遮熱約25℃ 耐水度10000mm(百貨店基準の40倍)  ◆送料無料 ※北海道、四国、九州、沖縄、離島の方は別途送料が発生いたします。 ※本州地域の方は、カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。 （土日の発送はお休みとなりますので、翌営業日の発送となります）  ※開封後の返品、交換は初期不良を除き不可となります。ご了承ください。  【注意事項】 ●傘を開くときに押す部分「はじき」を押しながら傘を閉じると、 カチッと止まらず傘が開いてくる場合がございます。 「はじきの横部分」をもって傘を閉じると、カチッと止まります。 ●雨でご使用直後にたたむと、本体と裾生地の切れ目から水が内側に伝う場合がございます。 開いたまま軽くふるって水滴を落とし、雨のあとは傘を開いてしっかり乾燥をお願いいたします。 ●ご覧の閲覧環境により、画面上の商品の色と実物が異なって見える場合がございます。ご注文の際はあらかじめご了承の程お願い申し上げます。 ●全面プリントの為、使い始めはインクの匂いがする場合がございます。一晩おくと匂いは薄れていきます   ★ストライプねこ柄はこちら ⇒　https://www.goodtimeschool.jp/items/77256004  ★　ペット用品一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/3468070  *-*-**-*-*- UVカット・完全遮光・遮熱機能を備えたレース猫柄の晴雨兼用傘。世界初のトランスフォーム構造で、親骨が45cmから60cmに広がり、裾がふんわりと開く優雅なデザイン。軽量＆コンパクトで持ち運びやすく、紫外線対策も万全。日本政府推奨商品で安心感も抜群。ねこ好きの方へのギフトや、夏のおしゃれな日傘としてもおすすめです。 *-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  sa004001",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3da182c12bc76521303033447a958338.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c3cfd143d2f6afb584e5b7cdc4f1a2aa.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "スギタ"
+    },
+    "category": "家具・インテリア",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77255617",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "オフホワイト"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77255617",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ピンク"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77255617",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77255617",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック"
+      }
+    ]
+  },
+  "/items/44907797": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/44907797#product",
+    "name": "和風ピアス 結 〜 ITOYOSHI 〜 超軽量 両耳 フック式 ブラック＆ゴールド 浴衣 着物 夏 祭り おしゃれ  レディース",
+    "description": "【セール・割引対象品】  ペーパーピアス　結　〜　ITOYOSHI　〜 和の道「舞」シリーズ  剣舞（けんぶ）　緊張感漂う剣の刃の眩しさ  サイズ：縦40×横20 o　 厚さ　2枚で0.4mm　　 重さ：0.5ｇ（片側） 全長：60mm　　 フック　長さ19mm　横幅18mm　厚さ3mm  0.05mm単位で細部にわたって拘りを表現できるレーザーカッターを使用し、紙で製作しています。 片耳0.5ｇの超軽量ピアスは、つけていることさえ忘れてしまうほど軽やかで、しかも自然と靡く爽快感。 切り絵風で着物によく似合うデザインです。   日本伝統芸能を舞う 結　〜 ITOYOSHI 〜　和風ピアス  「結」という文字は「縁を結ぶ」のように前向きな言葉で使います。 この文字を構成している「糸」と「吉」を組合せた「ITOSYOSHI」は、 いと（誠に）よし（優美である）という、善行美徳な日本の伝統文化を表現します。  日本の伝統文化は、人から人への継承により日々進歩しています。  唯一無二の良き伝統を「多くの人に発信し、未来へ受け継いでいきたい」との強い想いを込めました。 　人と人を結ぶ、人と美を結ぶ。  [作者紹介]  山本　健太 拓殖大学工学部デザイン学科卒業 東京ディフェンス株式会社　デザイナー  0.05mm単位で細部にわたって拘りを表現できるレーザーカッターを使用し、紙で製作しています。 片耳0.5ｇの超軽量ピアスは、つけていることさえ忘れてしまうほど軽やかで、しかも自然と靡く爽快感。 切り絵風で着物によく似合うデザインです。  監修：着付け・日本舞踊家　　楳若　倭文 ジュエリーデザイナー。日本舞踊、和装の文化活動家。 作者山本健太とのコラボレーションで、切り絵の世界をアクセサリー（ピアス）に表現。 たくさんの方に「和」を身に着けてほしいから、洋・和装にあうピアスを作りました。 https://www.shinnichibu.com/   結　〜　ITOYOSHI　〜　　和の道「舞」シリーズは、以下の4種類からお選びください。  1. 剣舞（けんぶ）　緊張感漂う剣の刃の眩しさ 2. 日舞（にちぶ）　日本舞踊の美しき舞の滑らかさ　※販売終了 3. 洋舞（ようぶ）　薔薇のごとく和の中の様式美 4. 鼓舞（こぶ）　　太鼓の力強さと和の旋律　　※販売終了  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  ※開封後の返品、交換は初期不良を除き不可となります。ご了承ください。   ★　ピアス一覧はこちら https://www.goodtimeschool.jp/categories/2509477  *-*-*-*-*-*-* 夏祭りや浴衣にぴったりの和風ピアス「結 〜 ITOYOSHI 〜」。軽量で耳への負担が少なく、ブラック＆ゴールドの上品な配色が和装に映えます。フック式で着脱も簡単。着物や浴衣、祭りの装いに合わせたコーデに最適です。送料無料でお届け。日本らしさを大切にした、大人かわいい夏アクセサリーをお楽しみください。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5a8cd5dd762e682044d098af5c0bb7db.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ec07d15690e362321eb1ebefa9e66948.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "ITOYOSHI"
+    },
+    "category": "ピアス",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/44907797",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック＆ゴールド"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/44907797",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック＆ゴールド"
+      }
+    ]
+  },
+  "/items/28975664": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/28975664#product",
+    "name": "KIRIEBIJOU キリエビジューピアス 和風ピアス 両耳 切絵 金箔 漆塗り 夏 浴衣 着物 祭り アクセサリー おしゃれ ",
+    "description": "【セール・割引対象品】　  ＜＜驚きの超軽量！和の両耳ピアス　フック式＞＞  KIRIE BIJOU　キリエビジュー 和風ピアス ---------------------- 唯一無二の工芸宝飾ジュエリー、KIRIE BIJOU。 一つ一つ丹精を込めて作った切絵をベースに、金箔と黒漆の美しい輝き。つけていることさえ忘れてしまう軽やかさと、心のこもった独自製法の工芸宝飾があなたを輝かせて魅せます。未知の体験へぜひ、お越しください。  つけていることさえ忘れてしまう感触と、和の美しさは比類なき一品です。  重さ：0.2ｇ 寸法：長さ22mm、幅16mm K18フック：11mm K18ボール：3mm 素材：特殊紙 特殊加工：金箔（K24）、黒漆塗り  特徴：一つひとつ、製作者 TAKAKO の手作りです。特殊な紙を用いており、金箔と黒漆を施すことで水に強く汗も雨も完全に弾きます。 素材が紙だから超軽量！　身体に負担をかけません。  ※希望小売価格：30 000円  Kirie Bijou（キリエビジュー）は全12種類。 https://www.goodtimeschool.jp/categories/2509524  ------------------------- ★専用ケース付き -------------------------  KIRIEBIJOU キリエビジューピアスは、日本の美しい伝統技術である切り絵を使用して作られたピアスです。金箔や漆塗りが施され、高級感があります。着物に合わせても素敵なデザインで、レディースにおすすめです。両耳用のピアスなので、お二人でお楽しみいただけます。  KIRIEBIJOUは職人の手によって作られ、一つ一つに愛情が込められています。素材にもこだわり、耳にも優しい樹脂製を使用しています。軽くてつけやすく、長時間つけていても疲れにくいです。大切な記念日やプレゼントにも最適です。  KIRIEBIJOUのピアスをつけると、日本の美しい伝統技術に触れた気持ちになれ、自信や幸せな気持ちに包まれることでしょう。ぜひ、KIRIEBIJOUの世界観を味わい、特別な日を彩ってください。  ※アレルギーがある場合は使用をお控えください。天然素材を使用しているため、写真と実物では若干色味が異なる場合がございます。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 ヤマト宅急便コンパクトにて翌日発送いたします。  ※開封後の返品、交換は初期不良を除き不可となります。ご了承ください。  ★　ピアス一覧はこちら https://www.goodtimeschool.jp/categories/2509477  *-*-*-*-*-*-* 伝統工芸の美しさを現代に取り入れた和風ピアス「KIRIEBIJOU」。切絵、金箔、漆塗りなど日本の技が光るデザインで、浴衣や着物にぴったり。夏祭りや和装イベント、特別な日のコーディネートに華を添えます。両耳タイプで軽やかな着け心地。送料無料でお届けする、上品でモダンな和風アクセサリーです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/863094746f721562e8698530610d0d19.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "KIRIEBIJOU"
+    },
+    "category": "ピアス",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9310",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/28975664",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック＆ゴールド"
+      }
+    ]
+  },
+  "/items/28973140": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/28973140#product",
+    "name": "KIRIEBIJOU キリエビジューピアス 和風ピアス 高級 両耳 切絵 金箔 漆塗り 着物 浴衣 夏 祭り",
+    "description": "【セール・割引対象品】　　  ＜＜驚きの超軽量！和の両耳ピアス　フック式＞＞  唯一無二の工芸宝飾ジュエリー、KIRIE BIJOU。 一つ一つ丹精を込めて作った切絵をベースに、金箔と黒漆の美しい輝き。つけていることさえ忘れてしまう軽やかさと、心のこもった独自製法の工芸宝飾があなたを輝かせて魅せます。未知の体験へぜひ、お越しください。  つけていることさえ忘れてしまう感触と、和の美しさは比類なき一品です。  重さ：0.1〜0.4ｇ 寸法：長さ34mm、幅31mm前後（種類によって違います） K18フック：11mm K18ボール：3mm 素材：特殊紙 特殊加工：金箔（K24）、黒漆塗り  特徴：一つひとつ、製作者 TAKAKO の手作りです。特殊な紙を用いており、金箔と黒漆を施すことで水に強く汗も雨も完全に弾きます。 素材が紙だから超軽量！　身体に負担をかけません。  ※希望小売価格：35 000円  Kirie Bijou（キリエビジュー）は全12種類。 https://www.goodtimeschool.jp/categories/2509524  ----------------------- ★専用ケース付き -----------------------  KIRIE BIJOUの超軽量ゴールドピアス。 手作業による技巧と、古典的な日本の技法が生かされたアクセサリーです。 切り紙の細かな模様が魅力的なピアスは、金箔や漆塗りの施された質感もおしゃれなポイント。特に着物にあわせたいこだわりのデザイン両耳ピアス。 高級感があり、洋服にも合わせやすいので、普段使いからセレモニーシーンまで幅広くお楽しみいただけます。  ピアスはフック式、装着もしやすいです。さりげない装飾が丁寧に施されているので、大切な場面にぴったりの存在感あるアクセサリーです。 キリエビジューを身につけることで、今日もあなたらしく、芯の強い自分でいられるはずです。 ※この商品は、手作業による製作のため、一点一点微妙に異なります。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 宅急便コンパクトにて翌日発送いたします。  ※開封後の返品、交換は初期不良を除き不可となります。ご了承ください。  ★　ピアス一覧はこちら https://www.goodtimeschool.jp/categories/2509477  *-*-*-*-*-*-* 日本の伝統技術を贅沢に取り入れた高級和風ピアス「KIRIEBIJOU」。切絵・金箔・漆塗りの繊細な仕上げが特徴で、浴衣や着物に上品な華やかさをプラスします。夏祭りや和装イベント、特別な日のおしゃれにぴったり。両耳タイプで軽くて快適な着け心地。送料無料でお届けする、格式ある大人のアクセサリーです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/90f14fb510e9978158b0fde037015c5b.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c1109d4fb0908f38e6b47fdae9c56ac2.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "KIRIEBIJOU"
+    },
+    "category": "ピアス",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "11400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/28973140",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラック＆ゴールド"
+      }
+    ]
+  },
+  "/items/67257121": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/67257121#product",
+    "name": "天然石 ガーネット 6.105ct 薔薇柘榴石 ルース 裸石 1月誕生石 パワーストーン 宝石ルース アクセサリーパーツ 深紅色 プレゼント用",
+    "description": "サイズ：縦11×横11×厚み5（mm） 重さ：6.105ct  天然石ガーネット ｜ハートジルコンカット 管理番号：lg001038  ※端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*  ワインレッドの輝きの中に吸い込まれる魅力を感じるストーンです。 果物のざくろに似ていることから「柘榴石（ざくろいし）」と呼ばれています。  自然な結晶が12面体や24面体などで整った形状になることから、誕生石の1番目に選ばれたと言われています。 加工をしなくても十分に美しいので「天然のカット宝石」と呼ばれ、古くから装飾品などに用いられていたようです。   [情熱を高めてくれる石]  ガーネット独特の赤い色は「情熱」をもたらすとされています。 何らかの目標に向かい頑張っている人の「情熱、熱意」を高めることで目標を達成する力になると言われています。もちろん愛する人との絆を永遠にしたいときは、肌身離さず身につけると効果を発揮するでしょう。   [ガーネットは1月の誕生石]  「情熱」「友愛」「繁栄」「真実」など。  ガーネットの語源はラテン語で「種子」を意味する「granatum」です。 和名と同じくザクロの実の中にある粒に似ていることから、この名前が付けられました。  古くは、旧約聖書の中の物語「ノアの方舟」にも登場したと言われています。 正しい人であったノアは神より生き延びるように「方舟」を作るよう命ぜられました。 ノアは家族と全ての動物のつがいを方舟に乗せて、40日40夜続いた大洪水を乗り越え、生き延びることができました。その際に暗闇を照らし、船の行く先を示したのが「ガーネット」だったと言われています。  「アルマンディンガーネット」という深紅色をしたもの「パイロープガーネット」という血赤色のものが、よく知られています。 その他にも、オレンジ色や緑色を含む「グロッシュラーガーネット」や、バラ色の「ロードライトガーネット」など、さまざまな色があります。   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。   *-*-*-*-*-*-* 深紅の輝きが魅力の天然ガーネット（ザクロ石）ルース。1月の誕生石として人気で、アクセサリー加工やパワーストーンとしてもおすすめ。裸石ならではの透明感が美しく、結婚記念日の贈り物やコレクションにも最適です。天然石ならではの個性をお楽しみください。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/4bd9d738a5fbe09ce2274765645331bb.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7090",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/67257121",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ワインレッド"
+      }
+    ]
+  },
+  "/items/57961677": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/57961677#product",
+    "name": "天然石 ロードライトガーネット 9.585ct 宝石 ルース 裸石 薔薇柘榴石 パワーストーン 1月誕生石 アクセサリーパーツ 贈り物",
+    "description": "サイズ：縦15×横10.5×厚み5.5（mm） 重さ：9.585ct  天然ガーネット ｜カボションカット 管理番号：lg001028  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  -*-*-*-*-*-*-*-*-*-*-*-*-*  ワインレッドの輝きの中に吸い込まれる魅力を感じるストーンです。 果物のざくろに似ていることから「柘榴石（ざくろいし）」と呼ばれています。  自然な結晶が12面体や24面体などで整った形状になることから、誕生石の1番目に選ばれたと言われています。 加工をしなくても十分に美しいので「天然のカット宝石」と呼ばれ、古くから装飾品などに用いられていたようです。   [情熱を高めてくれる石]  ガーネット独特の赤い色は「情熱」をもたらすとされています。 何らかの目標に向かい頑張っている人の「情熱、熱意」を高めることで目標を達成する力になると言われています。もちろん愛する人との絆を永遠にしたいときは、肌身離さず身につけると効果を発揮するでしょう。   [ガーネットは1月の誕生石]  「情熱」「友愛」「繁栄」「真実」など。  ガーネットの語源はラテン語で「種子」を意味する「granatum」です。 和名と同じくザクロの実の中にある粒に似ていることから、この名前が付けられました。  古くは、旧約聖書の中の物語「ノアの方舟」にも登場したと言われています。 正しい人であったノアは神より生き延びるように「方舟」を作るよう命ぜられました。 ノアは家族と全ての動物のつがいを方舟に乗せて、40日40夜続いた大洪水を乗り越え、生き延びることができました。その際に暗闇を照らし、船の行く先を示したのが「ガーネット」だったと言われています。  「アルマンディンガーネット」という深紅色をしたもの「パイロープガーネット」という血赤色のものが、よく知られています。 その他にも、オレンジ色や緑色を含む「グロッシュラーガーネット」や、バラ色の「ロードライトガーネット」など、さまざまな色があります。   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 深みのある美しい赤紫が魅力の天然ロードライトガーネット（薔薇柘榴石）。1月の誕生石として人気があり、愛情や情熱を象徴するパワーストーンです。重厚感のある9.585ctサイズで、ジュエリー制作やコレクション、記念日の贈り物にも最適。裸石・ルースストーンとしてアクセサリーパーツにも活用できます。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9aa42b2c376c1b8d5e4d908e0c4708af.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "36000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/57961677",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ワインレッド"
+      }
+    ]
+  },
+  "/items/57961605": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/57961605#product",
+    "name": "天然石 ロードライトガーネット 11.530ct 薔薇柘榴石 ルース 裸石 天然石 宝石 パワーストーン 1月誕生石 アクセサリー 贈り物",
+    "description": "サイズ：縦16×横11.5×厚み5.5（mm） 重さ：11.530ct  天然ガーネット ｜カボションカット 管理番号：lg001027  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  -*-*-*-*-*-*-*-*-*-*-*-*-*  ワインレッドの輝きの中に吸い込まれる魅力を感じるストーンです。 果物のざくろに似ていることから「柘榴石（ざくろいし）」と呼ばれています。  自然な結晶が12面体や24面体などで整った形状になることから、誕生石の1番目に選ばれたと言われています。 加工をしなくても十分に美しいので「天然のカット宝石」と呼ばれ、古くから装飾品などに用いられていたようです。   [情熱を高めてくれる石]  ガーネット独特の赤い色は「情熱」をもたらすとされています。 何らかの目標に向かい頑張っている人の「情熱、熱意」を高めることで目標を達成する力になると言われています。もちろん愛する人との絆を永遠にしたいときは、肌身離さず身につけると効果を発揮するでしょう。   [ガーネットは1月の誕生石]  「情熱」「友愛」「繁栄」「真実」など。  ガーネットの語源はラテン語で「種子」を意味する「granatum」です。 和名と同じくザクロの実の中にある粒に似ていることから、この名前が付けられました。  古くは、旧約聖書の中の物語「ノアの方舟」にも登場したと言われています。 正しい人であったノアは神より生き延びるように「方舟」を作るよう命ぜられました。 ノアは家族と全ての動物のつがいを方舟に乗せて、40日40夜続いた大洪水を乗り越え、生き延びることができました。その際に暗闇を照らし、船の行く先を示したのが「ガーネット」だったと言われています。  「アルマンディンガーネット」という深紅色をしたもの「パイロープガーネット」という血赤色のものが、よく知られています。 その他にも、オレンジ色や緑色を含む「グロッシュラーガーネット」や、バラ色の「ロードライトガーネット」など、さまざまな色があります。   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 高貴な赤紫が印象的な天然ロードライトガーネット。11.530ctの存在感あるサイズで、コレクションやジュエリー制作に最適です。1月の誕生石として、愛情や情熱を象徴するパワーストーンとしても人気。薔薇柘榴石ならではの上品な色合いが魅力。アクセサリーの素材や、大切な人への贈り物にもおすすめです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ee6a98c907744da00deebdc9f614e2bb.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "43500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/57961605",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ワインレッド"
+      }
+    ]
+  },
+  "/items/57961526": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/57961526#product",
+    "name": "天然石 ロードライトガーネット 7.290ct 薔薇柘榴石 ルース 裸石 天然石 宝石 パワーストーン 1月誕生石 アクセサリー 贈り物",
+    "description": "サイズ：縦15×横10×厚み4.5（mm） 重さ：7.290ct  天然ガーネット ｜カボションカット 管理番号：lg001026  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  -*-*-*-*-*-*-*-*-*-*-*-*-*  ワインレッドの輝きの中に吸い込まれる魅力を感じるストーンです。 果物のざくろに似ていることから「柘榴石（ざくろいし）」と呼ばれています。  自然な結晶が12面体や24面体などで整った形状になることから、誕生石の1番目に選ばれたと言われています。 加工をしなくても十分に美しいので「天然のカット宝石」と呼ばれ、古くから装飾品などに用いられていたようです。   [情熱を高めてくれる石]  ガーネット独特の赤い色は「情熱」をもたらすとされています。 何らかの目標に向かい頑張っている人の「情熱、熱意」を高めることで目標を達成する力になると言われています。もちろん愛する人との絆を永遠にしたいときは、肌身離さず身につけると効果を発揮するでしょう。   [ガーネットは1月の誕生石]  「情熱」「友愛」「繁栄」「真実」など。  ガーネットの語源はラテン語で「種子」を意味する「granatum」です。 和名と同じくザクロの実の中にある粒に似ていることから、この名前が付けられました。  古くは、旧約聖書の中の物語「ノアの方舟」にも登場したと言われています。 正しい人であったノアは神より生き延びるように「方舟」を作るよう命ぜられました。 ノアは家族と全ての動物のつがいを方舟に乗せて、40日40夜続いた大洪水を乗り越え、生き延びることができました。その際に暗闇を照らし、船の行く先を示したのが「ガーネット」だったと言われています。  「アルマンディンガーネット」という深紅色をしたもの「パイロープガーネット」という血赤色のものが、よく知られています。 その他にも、オレンジ色や緑色を含む「グロッシュラーガーネット」や、バラ色の「ロードライトガーネット」など、さまざまな色があります。   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 深みのある赤紫色が魅力の天然ロードライトガーネット（薔薇柘榴石）。7.290ctの美しい裸石は、1月の誕生石として愛情や情熱を象徴します。アクセサリーやジュエリーの素材としてはもちろん、大切な人への贈り物や記念日のプレゼントにも最適。上品な輝きを放つルースストーンで、特別な一品をお届けします。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b14634e1d755a5c2137d07cb9de589f8.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "27900",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/57961526",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ワインレッド"
+      }
+    ]
+  },
+  "/items/57961359": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/57961359#product",
+    "name": "天然石 ロードライトガーネット 5.585ct 薔薇柘榴石 ルース 裸石 天然石 宝石 パワーストーン 1月誕生石 アクセサリー 贈り物",
+    "description": "サイズ：縦11×横9×厚み5（mm） さ：5.585ct  天然ガーネット ｜Emerald Cut 管理番号：lg001020  ※カケあり  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  -*-*-*-*-*-*-*-*-*-*-*-*-*  ワインレッドの輝きの中に吸い込まれる魅力を感じるストーンです。 果物のざくろに似ていることから「柘榴石（ざくろいし）」と呼ばれています。  自然な結晶が12面体や24面体などで整った形状になることから、誕生石の1番目に選ばれたと言われています。 加工をしなくても十分に美しいので「天然のカット宝石」と呼ばれ、古くから装飾品などに用いられていたようです。   [情熱を高めてくれる石]  ガーネット独特の赤い色は「情熱」をもたらすとされています。 何らかの目標に向かい頑張っている人の「情熱、熱意」を高めることで目標を達成する力になると言われています。もちろん愛する人との絆を永遠にしたいときは、肌身離さず身につけると効果を発揮するでしょう。   [ガーネットは1月の誕生石]  「情熱」「友愛」「繁栄」「真実」など。  ガーネットの語源はラテン語で「種子」を意味する「granatum」です。 和名と同じくザクロの実の中にある粒に似ていることから、この名前が付けられました。  古くは、旧約聖書の中の物語「ノアの方舟」にも登場したと言われています。 正しい人であったノアは神より生き延びるように「方舟」を作るよう命ぜられました。 ノアは家族と全ての動物のつがいを方舟に乗せて、40日40夜続いた大洪水を乗り越え、生き延びることができました。その際に暗闇を照らし、船の行く先を示したのが「ガーネット」だったと言われています。  「アルマンディンガーネット」という深紅色をしたもの「パイロープガーネット」という血赤色のものが、よく知られています。 その他にも、オレンジ色や緑色を含む「グロッシュラーガーネット」や、バラ色の「ロードライトガーネット」など、さまざまな色があります。   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 赤紫の気品あふれる輝きを放つ、天然ロードライトガーネット（薔薇柘榴石）。5.585ctの適度なサイズで、アクセサリー制作やコレクションに最適です。1月の誕生石として愛や情熱を象徴するパワーストーンで、大切な人への贈り物や記念日プレゼントにもおすすめ。ルースストーンならではの美しさをお楽しみください。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9cddad1364ff642f831c448df13b30f6.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "21600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/57961359",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ワインレッド"
+      }
+    ]
+  },
+  "/items/57961320": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/57961320#product",
+    "name": "天然石 ロードライトガーネット 3.620ct 薔薇柘榴石 ルース 裸石 天然石 宝石 パワーストーン 1月誕生石 アクセサリー 贈り物",
+    "description": "サイズ：縦9×横7×厚み5（mm） さ：3.620ct  天然ガーネット ｜Emerald Cut 管理番号：lg001019  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  -*-*-*-*-*-*-*-*-*-*-*-*-*  ワインレッドの輝きの中に吸い込まれる魅力を感じるストーンです。 果物のざくろに似ていることから「柘榴石（ざくろいし）」と呼ばれています。  自然な結晶が12面体や24面体などで整った形状になることから、誕生石の1番目に選ばれたと言われています。 加工をしなくても十分に美しいので「天然のカット宝石」と呼ばれ、古くから装飾品などに用いられていたようです。   [情熱を高めてくれる石]  ガーネット独特の赤い色は「情熱」をもたらすとされています。 何らかの目標に向かい頑張っている人の「情熱、熱意」を高めることで目標を達成する力になると言われています。もちろん愛する人との絆を永遠にしたいときは、肌身離さず身につけると効果を発揮するでしょう。   [ガーネットは1月の誕生石]  「情熱」「友愛」「繁栄」「真実」など。  ガーネットの語源はラテン語で「種子」を意味する「granatum」です。 和名と同じくザクロの実の中にある粒に似ていることから、この名前が付けられました。  古くは、旧約聖書の中の物語「ノアの方舟」にも登場したと言われています。 正しい人であったノアは神より生き延びるように「方舟」を作るよう命ぜられました。 ノアは家族と全ての動物のつがいを方舟に乗せて、40日40夜続いた大洪水を乗り越え、生き延びることができました。その際に暗闇を照らし、船の行く先を示したのが「ガーネット」だったと言われています。  「アルマンディンガーネット」という深紅色をしたもの「パイロープガーネット」という血赤色のものが、よく知られています。 その他にも、オレンジ色や緑色を含む「グロッシュラーガーネット」や、バラ色の「ロードライトガーネット」など、さまざまな色があります。   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 気品ある赤紫が魅力の天然ロードライトガーネット（薔薇柘榴石）。3.620ctの美しいルースストーンは、アクセサリーやジュエリー製作に最適です。1月の誕生石として、愛情や情熱を象徴するパワーストーンとしても人気。贈り物や記念日のプレゼントにもぴったりな、存在感ある天然石です。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6970426054c16da6027e384ddd10fe33.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "13800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/57961320",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ワインレッド"
+      }
+    ]
+  },
+  "/items/57961298": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/57961298#product",
+    "name": "天然石 ロードライトガーネット 6.085ct 薔薇柘榴石 ルース 裸石 天然石 宝石 パワーストーン 1月誕生石 アクセサリー 贈り物",
+    "description": "サイズ：縦11×横9×厚み5.5（mm） 重さ：6.085ct  天然ガーネット ｜Emerald Cut 管理番号：lg001018  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  -*-*-*-*-*-*-*-*-*-*-*-*-*  ワインレッドの輝きの中に吸い込まれる魅力を感じるストーンです。 果物のざくろに似ていることから「柘榴石（ざくろいし）」と呼ばれています。  自然な結晶が12面体や24面体などで整った形状になることから、誕生石の1番目に選ばれたと言われています。 加工をしなくても十分に美しいので「天然のカット宝石」と呼ばれ、古くから装飾品などに用いられていたようです。   [情熱を高めてくれる石]  ガーネット独特の赤い色は「情熱」をもたらすとされています。 何らかの目標に向かい頑張っている人の「情熱、熱意」を高めることで目標を達成する力になると言われています。もちろん愛する人との絆を永遠にしたいときは、肌身離さず身につけると効果を発揮するでしょう。   [ガーネットは1月の誕生石]  「情熱」「友愛」「繁栄」「真実」など。  ガーネットの語源はラテン語で「種子」を意味する「granatum」です。 和名と同じくザクロの実の中にある粒に似ていることから、この名前が付けられました。  古くは、旧約聖書の中の物語「ノアの方舟」にも登場したと言われています。 正しい人であったノアは神より生き延びるように「方舟」を作るよう命ぜられました。 ノアは家族と全ての動物のつがいを方舟に乗せて、40日40夜続いた大洪水を乗り越え、生き延びることができました。その際に暗闇を照らし、船の行く先を示したのが「ガーネット」だったと言われています。  「アルマンディンガーネット」という深紅色をしたもの「パイロープガーネット」という血赤色のものが、よく知られています。 その他にも、オレンジ色や緑色を含む「グロッシュラーガーネット」や、バラ色の「ロードライトガーネット」など、さまざまな色があります。   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 深い赤紫が魅力の天然ロードライトガーネット（薔薇柘榴石）。6.085ctの存在感あるサイズで、ジュエリー制作や天然石コレクションに最適です。1月の誕生石として人気があり、愛や情熱を象徴するパワーストーンとしても注目されています。アクセサリーパーツとしてはもちろん、記念日の贈り物にもおすすめです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/80e1bff1fe0c5cb2ad45e017acc54bee.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "22950",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/57961298",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ワインレッド"
+      }
+    ]
+  },
+  "/items/57961269": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/57961269#product",
+    "name": "天然石 ロードライトガーネット 5.345ct 薔薇柘榴石 ルース 裸石 天然石 宝石 パワーストーン 1月誕生石 アクセサリー 贈り物",
+    "description": "サイズ：縦10×横8×厚み6（mm） 重さ：5.345ct  天然ガーネット ｜Emerald Cut 管理番号：lg001017　lg001021  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  -*-*-*-*-*-*-*-*-*-*-*-*-*  ワインレッドの輝きの中に吸い込まれる魅力を感じるストーンです。 果物のざくろに似ていることから「柘榴石（ざくろいし）」と呼ばれています。  自然な結晶が12面体や24面体などで整った形状になることから、誕生石の1番目に選ばれたと言われています。 加工をしなくても十分に美しいので「天然のカット宝石」と呼ばれ、古くから装飾品などに用いられていたようです。   [情熱を高めてくれる石]  ガーネット独特の赤い色は「情熱」をもたらすとされています。 何らかの目標に向かい頑張っている人の「情熱、熱意」を高めることで目標を達成する力になると言われています。もちろん愛する人との絆を永遠にしたいときは、肌身離さず身につけると効果を発揮するでしょう。   [ガーネットは1月の誕生石]  「情熱」「友愛」「繁栄」「真実」など。  ガーネットの語源はラテン語で「種子」を意味する「granatum」です。 和名と同じくザクロの実の中にある粒に似ていることから、この名前が付けられました。  古くは、旧約聖書の中の物語「ノアの方舟」にも登場したと言われています。 正しい人であったノアは神より生き延びるように「方舟」を作るよう命ぜられました。 ノアは家族と全ての動物のつがいを方舟に乗せて、40日40夜続いた大洪水を乗り越え、生き延びることができました。その際に暗闇を照らし、船の行く先を示したのが「ガーネット」だったと言われています。  「アルマンディンガーネット」という深紅色をしたもの「パイロープガーネット」という血赤色のものが、よく知られています。 その他にも、オレンジ色や緑色を含む「グロッシュラーガーネット」や、バラ色の「ロードライトガーネット」など、さまざまな色があります。   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 優美な赤紫色が印象的な天然ロードライトガーネット（薔薇柘榴石）。5.345ctの程よいサイズ感で、ジュエリー制作やアクセサリーパーツに最適です。1月の誕生石として人気があり、愛と情熱を象徴するパワーストーンとしてもおすすめ。コレクションや記念日の贈り物にもふさわしい、高品質な天然石ルースです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9b0085ab0eede01d2f82c69c3e54b235.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "20400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/57961269",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ワインレッド"
+      }
+    ]
+  },
+  "/items/57961235": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/57961235#product",
+    "name": "天然石 ロードライトガーネット 4.175ct 薔薇柘榴石 ルース 裸石 天然石 宝石 パワーストーン 1月誕生石 アクセサリー 贈り物",
+    "description": "サイズ：縦10×横8×厚み4.5（mm） 重さ：4.175ct  天然ガーネット ｜Emerald Cut 管理番号：lg001015  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  -*-*-*-*-*-*-*-*-*-*-*-*-*  ワインレッドの輝きの中に吸い込まれる魅力を感じるストーンです。 果物のざくろに似ていることから「柘榴石（ざくろいし）」と呼ばれています。  自然な結晶が12面体や24面体などで整った形状になることから、誕生石の1番目に選ばれたと言われています。 加工をしなくても十分に美しいので「天然のカット宝石」と呼ばれ、古くから装飾品などに用いられていたようです。   [情熱を高めてくれる石]  ガーネット独特の赤い色は「情熱」をもたらすとされています。 何らかの目標に向かい頑張っている人の「情熱、熱意」を高めることで目標を達成する力になると言われています。もちろん愛する人との絆を永遠にしたいときは、肌身離さず身につけると効果を発揮するでしょう。   [ガーネットは1月の誕生石]  「情熱」「友愛」「繁栄」「真実」など。  ガーネットの語源はラテン語で「種子」を意味する「granatum」です。 和名と同じくザクロの実の中にある粒に似ていることから、この名前が付けられました。  古くは、旧約聖書の中の物語「ノアの方舟」にも登場したと言われています。 正しい人であったノアは神より生き延びるように「方舟」を作るよう命ぜられました。 ノアは家族と全ての動物のつがいを方舟に乗せて、40日40夜続いた大洪水を乗り越え、生き延びることができました。その際に暗闇を照らし、船の行く先を示したのが「ガーネット」だったと言われています。  「アルマンディンガーネット」という深紅色をしたもの「パイロープガーネット」という血赤色のものが、よく知られています。 その他にも、オレンジ色や緑色を含む「グロッシュラーガーネット」や、バラ色の「ロードライトガーネット」など、さまざまな色があります。   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 気品ある赤紫が美しい天然ロードライトガーネット（薔薇柘榴石）。4.175ctの上品なサイズで、ジュエリー制作やアクセサリーの素材として最適です。1月の誕生石として愛情や情熱を象徴するパワーストーンとしても人気。贈り物や記念日のプレゼントにもふさわしい、高品質な天然石ルースです。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/63ae80154028dcb89abd0b3f3b036c5a.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "15660",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/57961235",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ワインレッド"
+      }
+    ]
+  },
+  "/items/57961177": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/57961177#product",
+    "name": "天然石 ロードライトガーネット 3.165ct 薔薇柘榴石 裸石 ルース 天然石 宝石 1月誕生石 パワーストーン アクセサリー 贈り物",
+    "description": "サイズ：縦9×横6.5×厚み5（mm） 重さ：3.165ct  天然ガーネット ｜Emerald Cut 管理番号：lg001012　lg001013  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  -*-*-*-*-*-*-*-*-*-*-*-*-*  ワインレッドの輝きの中に吸い込まれる魅力を感じるストーンです。 果物のざくろに似ていることから「柘榴石（ざくろいし）」と呼ばれています。  自然な結晶が12面体や24面体などで整った形状になることから、誕生石の1番目に選ばれたと言われています。 加工をしなくても十分に美しいので「天然のカット宝石」と呼ばれ、古くから装飾品などに用いられていたようです。   [情熱を高めてくれる石]  ガーネット独特の赤い色は「情熱」をもたらすとされています。 何らかの目標に向かい頑張っている人の「情熱、熱意」を高めることで目標を達成する力になると言われています。もちろん愛する人との絆を永遠にしたいときは、肌身離さず身につけると効果を発揮するでしょう。   [ガーネットは1月の誕生石]  「情熱」「友愛」「繁栄」「真実」など。  ガーネットの語源はラテン語で「種子」を意味する「granatum」です。 和名と同じくザクロの実の中にある粒に似ていることから、この名前が付けられました。  古くは、旧約聖書の中の物語「ノアの方舟」にも登場したと言われています。 正しい人であったノアは神より生き延びるように「方舟」を作るよう命ぜられました。 ノアは家族と全ての動物のつがいを方舟に乗せて、40日40夜続いた大洪水を乗り越え、生き延びることができました。その際に暗闇を照らし、船の行く先を示したのが「ガーネット」だったと言われています。  「アルマンディンガーネット」という深紅色をしたもの「パイロープガーネット」という血赤色のものが、よく知られています。 その他にも、オレンジ色や緑色を含む「グロッシュラーガーネット」や、バラ色の「ロードライトガーネット」など、さまざまな色があります。   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 鮮やかな赤紫が印象的な天然ロードライトガーネット（薔薇柘榴石）。3.165ctのルースは、1月誕生石として愛情や情熱を象徴し、アクセサリー制作やプレゼントにも最適です。小ぶりながらも存在感のある輝きで、ジュエリーコレクションにもおすすめ。天然石・パワーストーンとしての魅力を備えた、高品質な裸石です。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1af7c1383ab660d8201ee3eb53a94aea.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "13500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/57961177",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ワインレッド"
+      }
+    ]
+  },
+  "/items/57961148": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/57961148#product",
+    "name": "天然石 ロードライトガーネット 1.945ct 薔薇柘榴石 裸石 ルース 天然石 宝石 1月誕生石 パワーストーン アクセサリー 贈り物",
+    "description": "サイズ：縦7.5×横6×厚み3（mm） 重さ：1.945ct  天然ガーネット ｜Emerald Cut 管理番号：lg001011  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  -*-*-*-*-*-*-*-*-*-*-*-*-*  ワインレッドの輝きの中に吸い込まれる魅力を感じるストーンです。 果物のざくろに似ていることから「柘榴石（ざくろいし）」と呼ばれています。  自然な結晶が12面体や24面体などで整った形状になることから、誕生石の1番目に選ばれたと言われています。 加工をしなくても十分に美しいので「天然のカット宝石」と呼ばれ、古くから装飾品などに用いられていたようです。   [情熱を高めてくれる石]  ガーネット独特の赤い色は「情熱」をもたらすとされています。 何らかの目標に向かい頑張っている人の「情熱、熱意」を高めることで目標を達成する力になると言われています。もちろん愛する人との絆を永遠にしたいときは、肌身離さず身につけると効果を発揮するでしょう。   [ガーネットは1月の誕生石]  「情熱」「友愛」「繁栄」「真実」など。  ガーネットの語源はラテン語で「種子」を意味する「granatum」です。 和名と同じくザクロの実の中にある粒に似ていることから、この名前が付けられました。  古くは、旧約聖書の中の物語「ノアの方舟」にも登場したと言われています。 正しい人であったノアは神より生き延びるように「方舟」を作るよう命ぜられました。 ノアは家族と全ての動物のつがいを方舟に乗せて、40日40夜続いた大洪水を乗り越え、生き延びることができました。その際に暗闇を照らし、船の行く先を示したのが「ガーネット」だったと言われています。  「アルマンディンガーネット」という深紅色をしたもの「パイロープガーネット」という血赤色のものが、よく知られています。 その他にも、オレンジ色や緑色を含む「グロッシュラーガーネット」や、バラ色の「ロードライトガーネット」など、さまざまな色があります。   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  **-*-*-*-*-*- 赤紫の気品あふれる輝きを放つ、天然ロードライトガーネット（薔薇柘榴石）。1.945ctのコンパクトなサイズは、指輪やネックレスなどアクセサリー制作にぴったり。1月の誕生石として愛や情熱を象徴し、記念日の贈り物やお守りとしてもおすすめ。高品質な天然石ルースで、パワーストーンとしても人気です。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/61b11bec00a2a509e611f6095301268b.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7350",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/57961148",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ワインレッド"
+      }
+    ]
+  },
+  "/items/57961124": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/57961124#product",
+    "name": "天然石 ロードライトガーネット 2.865ct 薔薇柘榴石 裸石 ルース 天然石 宝石 1月誕生石 パワーストーン アクセサリー 贈り物",
+    "description": "サイズ：縦9×横7×厚み4（mm） 重さ：2.865ct  天然ガーネット ｜Emerald Cut 管理番号：lg001009  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  -*-*-*-*-*-*-*-*-*-*-*-*-*  ワインレッドの輝きの中に吸い込まれる魅力を感じるストーンです。 果物のざくろに似ていることから「柘榴石（ざくろいし）」と呼ばれています。  自然な結晶が12面体や24面体などで整った形状になることから、誕生石の1番目に選ばれたと言われています。 加工をしなくても十分に美しいので「天然のカット宝石」と呼ばれ、古くから装飾品などに用いられていたようです。   [情熱を高めてくれる石]  ガーネット独特の赤い色は「情熱」をもたらすとされています。 何らかの目標に向かい頑張っている人の「情熱、熱意」を高めることで目標を達成する力になると言われています。もちろん愛する人との絆を永遠にしたいときは、肌身離さず身につけると効果を発揮するでしょう。   [ガーネットは1月の誕生石]  「情熱」「友愛」「繁栄」「真実」など。  ガーネットの語源はラテン語で「種子」を意味する「granatum」です。 和名と同じくザクロの実の中にある粒に似ていることから、この名前が付けられました。  古くは、旧約聖書の中の物語「ノアの方舟」にも登場したと言われています。 正しい人であったノアは神より生き延びるように「方舟」を作るよう命ぜられました。 ノアは家族と全ての動物のつがいを方舟に乗せて、40日40夜続いた大洪水を乗り越え、生き延びることができました。その際に暗闇を照らし、船の行く先を示したのが「ガーネット」だったと言われています。  「アルマンディンガーネット」という深紅色をしたもの「パイロープガーネット」という血赤色のものが、よく知られています。 その他にも、オレンジ色や緑色を含む「グロッシュラーガーネット」や、バラ色の「ロードライトガーネット」など、さまざまな色があります。   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 鮮やかな赤紫が魅力の天然ロードライトガーネット（薔薇柘榴石）。2.865ctのちょうど良いサイズで、リングやネックレスなどアクセサリー制作に最適です。1月の誕生石として「愛」や「情熱」を象徴し、記念日や贈り物にもぴったり。天然石・パワーストーンとしても人気の高い、高品質なルースストーンです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/586626aeaa3bad09b68999375a051e4f.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "10770",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/57961124",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ワインレッド"
+      }
+    ]
+  },
+  "/items/57961214": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/57961214#product",
+    "name": "天然石 ロードライトガーネット 4.895ct 薔薇柘榴石 裸石 ルース 天然石 宝石 1月誕生石 パワーストーン アクセサリー 贈り物",
+    "description": "サイズ：縦10×横8×厚み5.5（mm） 重さ：4.895ct  天然ガーネット ｜Emerald Cut 管理番号：lg001014  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  -*-*-*-*-*-*-*-*-*-*-*-*-*  ワインレッドの輝きの中に吸い込まれる魅力を感じるストーンです。 果物のざくろに似ていることから「柘榴石（ざくろいし）」と呼ばれています。  自然な結晶が12面体や24面体などで整った形状になることから、誕生石の1番目に選ばれたと言われています。 加工をしなくても十分に美しいので「天然のカット宝石」と呼ばれ、古くから装飾品などに用いられていたようです。   [情熱を高めてくれる石]  ガーネット独特の赤い色は「情熱」をもたらすとされています。 何らかの目標に向かい頑張っている人の「情熱、熱意」を高めることで目標を達成する力になると言われています。もちろん愛する人との絆を永遠にしたいときは、肌身離さず身につけると効果を発揮するでしょう。   [ガーネットは1月の誕生石]  「情熱」「友愛」「繁栄」「真実」など。  ガーネットの語源はラテン語で「種子」を意味する「granatum」です。 和名と同じくザクロの実の中にある粒に似ていることから、この名前が付けられました。  古くは、旧約聖書の中の物語「ノアの方舟」にも登場したと言われています。 正しい人であったノアは神より生き延びるように「方舟」を作るよう命ぜられました。 ノアは家族と全ての動物のつがいを方舟に乗せて、40日40夜続いた大洪水を乗り越え、生き延びることができました。その際に暗闇を照らし、船の行く先を示したのが「ガーネット」だったと言われています。  「アルマンディンガーネット」という深紅色をしたもの「パイロープガーネット」という血赤色のものが、よく知られています。 その他にも、オレンジ色や緑色を含む「グロッシュラーガーネット」や、バラ色の「ロードライトガーネット」など、さまざまな色があります。   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 深みのある赤紫色が印象的な天然ロードライトガーネット（薔薇柘榴石）。4.895ctの適度なサイズ感で、指輪やペンダントなどのジュエリー制作に最適です。1月の誕生石として愛と情熱を象徴し、大切な人への贈り物や記念日のプレゼントにもぴったり。高品質な天然石ルースとして、パワーストーンとしての魅力も備えています。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/19a5d1bdeaf943e09d832e781d6c99e9.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "18600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/57961214",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ワインレッド"
+      }
+    ]
+  },
+  "/items/57961102": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/57961102#product",
+    "name": "天然石 ロードライトガーネット 1.735ct 薔薇柘榴石 裸石 ルース 天然石 宝石 1月誕生石 パワーストーン アクセサリー 贈り物",
+    "description": "サイズ：縦8×横6×厚み3（mm） 重さ：1.735ct  天然ガーネット ｜Emerald Cut 管理番号：lg001010  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  -*-*-*-*-*-*-*-*-*-*-*-*-*  ワインレッドの輝きの中に吸い込まれる魅力を感じるストーンです。 果物のざくろに似ていることから「柘榴石（ざくろいし）」と呼ばれています。  自然な結晶が12面体や24面体などで整った形状になることから、誕生石の1番目に選ばれたと言われています。 加工をしなくても十分に美しいので「天然のカット宝石」と呼ばれ、古くから装飾品などに用いられていたようです。   [情熱を高めてくれる石]  ガーネット独特の赤い色は「情熱」をもたらすとされています。 何らかの目標に向かい頑張っている人の「情熱、熱意」を高めることで目標を達成する力になると言われています。もちろん愛する人との絆を永遠にしたいときは、肌身離さず身につけると効果を発揮するでしょう。   [ガーネットは1月の誕生石]  「情熱」「友愛」「繁栄」「真実」など。  ガーネットの語源はラテン語で「種子」を意味する「granatum」です。 和名と同じくザクロの実の中にある粒に似ていることから、この名前が付けられました。  古くは、旧約聖書の中の物語「ノアの方舟」にも登場したと言われています。 正しい人であったノアは神より生き延びるように「方舟」を作るよう命ぜられました。 ノアは家族と全ての動物のつがいを方舟に乗せて、40日40夜続いた大洪水を乗り越え、生き延びることができました。その際に暗闇を照らし、船の行く先を示したのが「ガーネット」だったと言われています。  「アルマンディンガーネット」という深紅色をしたもの「パイロープガーネット」という血赤色のものが、よく知られています。 その他にも、オレンジ色や緑色を含む「グロッシュラーガーネット」や、バラ色の「ロードライトガーネット」など、さまざまな色があります。   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 赤紫の上品な輝きが魅力の天然ロードライトガーネット（薔薇柘榴石）。1.735ctの程よいサイズは、ピアスやリングなどアクセサリー制作にぴったりです。1月の誕生石として「愛」や「情熱」を象徴し、贈り物や記念日のプレゼントとしてもおすすめ。パワーストーンとしても人気の高い、高品質な天然石ルースです。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b45cf3e970fc610cbb6803e9ebd298f2.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/57961102",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ワインレッド"
+      }
+    ]
+  },
+  "/items/57142066": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/57142066#product",
+    "name": "スターガーネット 4×4mm 10個セット 天然石 裸石 ルース 柘榴石 パワーストーン 1月誕生石 アクセサリー素材 ",
+    "description": "スターガーネット ラウンド カボション4×4mm 10個  【スターガーネット　10個セット】  1粒あたり･･･平均約0.41カラット程度 1粒サイズ･･･約3.5〜4×3.5〜4×2〜3mm程度（±0.5mm） 穴なし（ルース・裸石） 色合い･･･レッド 産地・・・インド 管理番号：lg010004  美しいインド産スターガーネットのカボションです。 程度差はありますが、ほとんどの粒から光のラインが確認できます。   ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  ワインレッドの輝きの中に吸い込まれる魅力を感じるストーンです。 果物のざくろに似ていることから「柘榴石（ざくろいし）」と呼ばれています。  自然な結晶が12面体や24面体などで整った形状になることから、誕生石の1番目に選ばれたと言われています。 加工をしなくても十分に美しいので「天然のカット宝石」と呼ばれ、古くから装飾品などに用いられていたようです。   [情熱を高めてくれる石]  ガーネット独特の赤い色は「情熱」をもたらすとされています。 何らかの目標に向かい頑張っている人の「情熱、熱意」を高めることで目標を達成する力になると言われています。もちろん愛する人との絆を永遠にしたいときは、肌身離さず身につけると効果を発揮するでしょう。   [ガーネットは1月の誕生石]  「情熱」「友愛」「繁栄」「真実」など。  ガーネットの語源はラテン語で「種子」を意味する「granatum」です。 和名と同じくザクロの実の中にある粒に似ていることから、この名前が付けられました。  古くは、旧約聖書の中の物語「ノアの方舟」にも登場したと言われています。 正しい人であったノアは神より生き延びるように「方舟」を作るよう命ぜられました。 ノアは家族と全ての動物のつがいを方舟に乗せて、40日40夜続いた大洪水を乗り越え、生き延びることができました。その際に暗闇を照らし、船の行く先を示したのが「ガーネット」だったと言われています。  「アルマンディンガーネット」という深紅色をしたもの「パイロープガーネット」という血赤色のものが、よく知られています。 その他にも、オレンジ色や緑色を含む「グロッシュラーガーネット」や、バラ色の「ロードライトガーネット」など、さまざまな色があります。  ★ルースストーン 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   *-*-*-*-*-*-* 深い赤色に星状の輝きを浮かべるスターガーネット。4×4mmの小粒サイズ10個セットで、アクセサリー制作やハンドメイドパーツに最適です。1月の誕生石として人気が高く、「情熱」「実り」を象徴するパワーストーン。高品質な天然石ルースは、贈り物やコレクションにもおすすめです。送料無料でお届けします。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  lg010004",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/4c08cb1f7f886d2081ebcb1802f4e589.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1510",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/57142066",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ワインレッド"
+      }
+    ]
+  },
+  "/items/77253229": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/77253229#product",
+    "name": "スターガーネット 5×5mm 10個セット 天然石 ルース 裸石 紅榴石 柘榴石 1月誕生石 パワーストーン アクセサリーパーツ ",
+    "description": "スターガーネット ラウンド カボション5×5mm 10個  【スターガーネット　10個セット】  1個あたり･･･平均約0.97カラット程度 1粒サイズ･･･約4.8〜5.2×4.8〜5.2×2.9〜3.5mm程度が中心です。 穴なし（ルース・裸石） 色合い･･･レッド 管理番号：lg010042  美しいインド産スターガーネットのカボションです。ライトを当てるとスター効果が見られます。 程度差はありますが、ほとんどの粒から光のラインが確認できます。  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※天然石特有のインクルージョン（内包物）はご了承ください。　 ※天然石の形状に若干の個体差があります。 ※なるべく色・サイズは揃えてご用意いたしますが、多少の違いはご理解ください。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  -*-*-*-*-*-*-*-*-*-*-  愛のパワーストーンは1月の誕生石♪ 古くから世界各地で『神聖な石』として崇められたガーネット  華やかな輝きと美しさを持つガーネットの天然石ルース、のお得な10個セットです。穏やかな赤色が魅力的で、1月の誕生石でもあります。パワーストーンとしても人気のあるガーネットは、身につけることで情熱や活力を与え、エネルギーのバランスを整えると言われています。  このセットは、パワーストーンアクセサリーの制作や、石コレクションの拡充に最適です。手作りアクセサリーのオーナーさんや、石の美しさを楽しむ方にもおすすめです。 ガーネットは、古くから愛されてきた石であり、その起源や歴史には多くのストーリーがあります。その魅力的な石に憧れを抱きながら、自身のパワーを感じられるようなアクセサリー作りをお楽しみください。  ※商品は自然素材のため、色や形状に多少の個体差があることがあります。また、実物と画像では色味が異なって見えることがございますので、予めご了承ください。 ※お取扱いには十分ご注意ください。石同士がぶつかったり、衝撃を与えると石が傷つく可能性がありますので、大切に扱ってください。  ★ルースストーン 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   *-*-*-* 光を受けて星のように輝く天然スターガーネットのルースストーン10個セット。5×5mmサイズで、深みのある紅色が魅力の柘榴石（がーねっと）は、1月の誕生石としても人気。パワーストーンとしては情熱・生命力・愛を象徴し、お守りや贈り物にも最適です。裸石としてコレクションやアクセサリー制作、誕生日や結婚記念日のプレゼントにもおすすめです。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  lg010042",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/572bdcc0e3aa6e884f82a3e34410812a.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/77253229",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ワインレッド"
+      }
+    ]
+  },
+  "/items/72893162": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/72893162#product",
+    "name": "ローズクォーツ 4×4mm 10個セット 天然石 ルース 裸石 カラーストーン パワーストーン 10月誕生石 アクセサリーパーツ ",
+    "description": "天然石 ローズクォーツ 10個セット  ・サイズ：縦4×横4×厚み2（mm）　 　※ほぼ同じ大きさの10個セットですが、大きさに若干の個体差があります。 ・合計の重さ：約4.0ct ・生産地：インド ・管理番号：rq010002  カボションのぷっくりとしたデザインで、底面が平らになっているので、オリジナルのアクセサリー作りなどにご使用頂けます。  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*  クリスタルクォーツは水晶のことを指しますが、ローズクォーツはピンク系の色合いをした水晶となります。  和名は「紅水晶、紅石英、バラ石英」と呼ばれています。  この綺麗なローズピンクは、内部に含有されたアルミニウムの他に酸化チタンの結晶を含むことで発色します。 日本では透明度の高いものを'水晶'、低いものを'石英'と区別しているため、透明度の高いローズクォーツを'紅水晶'と呼びます。  ★ルースストーン 一覧はこちら https://www.goodtimeschool.jp/categories/2509475  *-*-*-*-*-*-* 優しいピンクが魅力のローズクォーツ。4×4mmの天然石ルース10個セットは、ピアスやネックレスなどアクセサリーパーツに最適です。「愛と癒しの石」として人気があり、10月の誕生石としてもおすすめ。パワーストーンとしてのお守りや、ハンドメイドギフトにもぴったり。送料無料でお届けいたします。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  rq010002",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/8026fac6cd8e29202fde7f6994ac2109.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1190",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/72893162",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ピンク"
+      }
+    ]
+  },
+  "/items/112347103": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/112347103#product",
+    "name": "宝石質アメジスト AAA ルース オーバルファセットカット （12×10mm） 2月誕生石・天然石ルースストーン",
+    "description": "天然石ルースストーン 宝石質アメジストAAA ルース オーバルファセットカット12×10mm  1粒あたり重さ･･･平均約4.16カラット程度 1粒サイズ･･･約12×10×5〜6mm程度（±0.5mm） 穴なし（ルース・裸石） 色合い･･･パープル　  ■美しさが際立つ宝石質アメジストのルースストーンです。ブラジル産のアメジストを使用した、穴なしのファセットカット。透明度と発色は非常に優れており、ジュエリー作りにピッタリのアイテムです。  ■アメジストは2月の誕生石として知られており、大切な方へのプレゼントにも最適です。美しい紫色が印象的で、さまざまなデザインにマッチします。  ■カットの仕上がりはオーバル形状で、ファセットが施されていますので、光を反射し、見る角度によって異なる表情をお楽しみいただけます。  ※端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-  アメジスト（アメシスト）は、紫色の水晶で、和名は紫水晶と呼ばれます。 amethyst の名は、ギリシア語のamethustos（酔わせない）に由来し、酔いを防ぐ効果があるとされています。西洋では、アメシストのグラスでワインを飲むと悪酔いしないと信じられています。  アメジストは魅惑的な紫色水晶と知られ、宝石名はギリシャ神話に登場する少女の名前に由来します。日本では紫色は一番高貴な色とされていたため、アメジストを所有することが出来たのは位の高い人だけでした。現在では２月の誕生石に指定され、比較的安値で購入できる宝石となっています。  2月誕生石 アメジストは当店にて販売しています。  【産出地】 ブラジルのリオ・グランデ・ド・スール州は世界最大の紫水晶の産地です。スリランカ、マダガスカル、中央アフリカ、ウルグアイ、ザンビアでは質の良いものが産出します。 日本では、宮城県白石市の雨塚山や鳥取県で産出されます。  【アメジストの種類】 深い色合いのものはディープシベリアン（Deep Siberian）、淡い色合いをローズ・ド・フランス（Rose de France）といいます。  アメジストを熱などで処理し、黄色くなったものがシトリン（黄水晶）です。  一部がシトリンとなったものをアメトリンというそうです。  採掘時に緑色透明であるプラシオライトは、アメリカ合衆国のカリフォルニア州とネバダ州の境界付近や、ブラジルのパラー州のマラバ、ポーランドのドルヌィ・シロンスク県、カナダのオンタリオ州のサンダーベイ地区などのごく一部の地域から産出されます。  【アメジストのパワー】 アメジスト石言葉は、「調和」「調整」「統合」などです。 安定した精神状態へ導き、不安やストレスなどを緩和してくれる力を持っています。精神的な不安を取り除き、他人と調和することで、良い人間関係を構築するためのサポートをしていただけます。 誰からも愛される代表的な天然石のひとつです。  また、深い愛、幸福、誠実、勇気、判断力、夢を与えてくれる石とも云われています。キリスト教では、神聖さの象徴とされ、「司教の石」と呼ばれています。日本や中国でも、高貴な色（紫）の石とされ、人気があります。  アメジストは2月の誕生石です。  -*-*-*-*-*-*-*-*-*- アメジストは2月の誕生石として知られ、紫色の輝きが魅力の天然石です。 本商品は宝石質のアメジストAAAグレード、オーバルファセットカット（12×10mm）で、美しいカット面が上品に光を反射します。 裸石（ルース）としてコレクションするだけでなく、リングやネックレスなどのアクセサリーパーツとしてもおすすめです。 ハンドメイドジュエリーやパワーストーン作品に使用でき、贈り物や誕生日プレゼントにもぴったり。 天然石ルース、宝石ルース、裸石、パワーストーン、ハンドメイド素材、アクセサリーパーツ、Jewelry素材をお探しの方におすすめです。 *-*-*-*-*-*-*-*-*-  ◆素敵な天然石ルースストーンはこちらから 　→　https://www.goodtimeschool.jp/categories/2509475   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  07022025　la001094",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ac3036fa827db6c3649e9970152b9bde.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c63d10995e3e468afd016a6c991dd8b7.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1760",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/112347103",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "パープル"
+      }
+    ]
+  },
+  "/items/65272545": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/65272545#product",
+    "name": "アメジスト 5×5mm 10個セット 天然石 ルース 裸石 アメシスト AAA 2月誕生石 パワーストーン アクセサリーパーツ ",
+    "description": "宝石質アメジストAA++ ラウンド カボション5×5mm 天然アメジスト 10個セット  1粒あたり･･･平均約0.60カラット程度 1粒サイズ･･･約5×5×2.5〜3mm程度（±0.5mm） 穴なし（ルース・裸石） 色合い･･･パープル アメジスト　｜　カボション Cut 生産地：ザンビア 管理番号：la010082  ザンビア産アメジストのラウンドカボションです。透明度が高く、発色も良いお品です。使い勝手の良い定形サイズのカボション、様々な用途にご利用いただける素材です。サイズ・色合いを混ぜてお送りします。  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*  アメシストは、紫色の水晶で、紫水晶とも呼ばれます。 amethyst の名は、ギリシア語のamethustos（酔わせない）に由来し、酔いを防ぐ効果があると信じられています。  [アメジストの意味・効果]  アメジストが持っているパワーストーンとしての効果は、「調和」「調整」「統合」。安定した精神状態へ導き、不安やストレスなどを緩和してくれる力を持っています。精神的な不安を取り除くことで、他人との人間関係を調和に導き、より良い人間関係を構築するための手助けとなります。 誰からも好かれる代表的な天然石のひとつです。  アメジストは２月の誕生石です。  ★ルースストーン 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/2509475  *-*-*-*-*-*-* 深い紫が魅力の天然アメジスト（アメシスト）ルース。2月の誕生石として人気があり、アクセサリー加工やパワーストーンとしてもおすすめ。透明感のある美しい輝きが魅力で、結婚記念日や大切な方への贈り物にも最適。天然石ならではの一点ものです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/85c39071e2f24bd273e0852f833b91c8.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ffeb96f61f700d83cf97371ac196532a.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/65272545",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "パープル"
+      }
+    ]
+  },
+  "/items/60286889": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/60286889#product",
+    "name": "アメジスト 6×4mm 10個セット 天然石 ルース 裸石 アメシスト AAA 2月誕生石 パワーストーン アクセサリーパーツ ",
+    "description": "宝石質アメジストAA++ オーバル カボション6×4mm 10個  【アメジスト　10個セット】  天然アメジスト　｜　カボション オーバルCut 1粒あたり･･･平均約0.62カラット程度 1粒サイズ･･･約6×4×2〜3.5mm程度（±0.5mm） 穴なし（ルース・裸石） 色合い･･･パープル 生産地：ザンビア産 管理番号：la010081  ザンビア産アメジストのラウンドカボションです。透明度が高く、発色も良いお品です。使い勝手の良い定形サイズのカボション、様々な用途にご利用いただける素材です。サイズ・色合いを混ぜてお送りします。  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*  アメシストは、紫色の水晶で、紫水晶とも呼ばれます。 amethyst の名は、ギリシア語のamethustos（酔わせない）に由来し、酔いを防ぐ効果があると信じられています。  アメジストの意味・効果  アメジストが持っているパワーストーンとしての効果は、「調和」「調整」「統合」。安定した精神状態へ導き、不安やストレスなどを緩和してくれる力を持っています。精神的な不安を取り除くことで、他人との人間関係を調和に導き、より良い人間関係を構築するための手助けとなります。 誰からも好かれる代表的な天然石のひとつです。  アメジストは２月の誕生石です。   ★ルースストーン 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/2509475  *-*-*-*-*-*-* 深い紫が魅力の天然アメジスト（アメシスト）ルース。2月の誕生石として人気があり、アクセサリー加工やパワーストーンとしてもおすすめ。透明感のある美しい輝きが魅力で、結婚記念日や大切な方への贈り物にも最適。天然石ならではの一点ものです。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  la010081",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a958a0296908f5e13ffa421b6c486136.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e91b8db5a4b34a59207641a3046a28f5.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/60286889",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "パープル"
+      }
+    ]
+  },
+  "/items/58548561": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/58548561#product",
+    "name": "天然石 アメジスト 15.660ct 宝石ルース 裸石 アメシスト パワーストーン 2月誕生石 天然石 アクセサリー用 贈り物にも",
+    "description": "サイズ： 縦17.5 × 横14 × 厚さ11（mm） 重さ：15.660ct  天然アメジスト オーバルMixdカット 管理番号：la001075  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*  アメシストは、紫色の水晶で、紫水晶とも呼ばれます。 amethyst の名は、ギリシア語のamethustos（酔わせない）に由来し、酔いを防ぐ効果があると信じられています。   アメジストの意味・効果  アメジストが持っているパワーストーンとしての効果は、「調和」「調整」「統合」。安定した精神状態へ導き、不安やストレスなどを緩和してくれる力を持っています。精神的な不安を取り除くことで、他人との人間関係を調和に導き、より良い人間関係を構築するための手助けとなります。 誰からも好かれる代表的な天然石のひとつです。  アメジストは２月の誕生石です。   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 透明感ある高品質の天然アメジスト。15.660ctの大粒ルースは存在感があり、オリジナルジュエリーやコレクションに最適です。2月の誕生石として「誠実・平和」を象徴し、パワーストーンとしても人気。アクセサリー制作や大切な人への贈り物、結婚記念日のプレゼントにもおすすめです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/857957319fc8768eccdd45e2c838cf1b.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4740",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/58548561",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "パープル"
+      }
+    ]
+  },
+  "/items/59711074": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/59711074#product",
+    "name": "ダイヤモンド＆アコヤ真珠 K18ホワイトゴールド 天然石ジュエリー 金剛石 パール 上品な輝き 結婚記念日 ギフト アクセサリーにも",
+    "description": "ダイヤモンド　0.3ct パール　15φ K18WG　6.2ｇ  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  ※開封後の返品、交換は初期不良を除き不可となります。ご了承ください。  *-*-*-*-*-*-*-*-*-*-*-*  ダイヤモンドはその特徴的な化学組成や結晶構造から、鉱物界の中でも独特な存在となっています。  ダイヤモンドは単一の元素からなる唯一の宝石で、通常約99.95％の炭素からできています。 残りの0.05パーセントは、ダイヤモンドの本質的な化学組成ではない原子から成る1つ以上の微量元素を含んでいることがあります。 微量元素によっては、ダイヤモンドの色や結晶形状に影響を与える場合があります。  鉱物の形成方法は、その固有の性質に影響します。 ダイヤモンドは、地球の表面の下、特定の深さの範囲（約100マイル付近）にのみ存在する高温高圧の条件下で形成されます。 ダイヤモンドの結晶構造は等軸晶系で、炭素原子が基本的に全ての方向に同じ方法で結合しています。 もうひとつの鉱物、グラファイトも炭素のみでできていますが、その形成過程と結晶構造は非常に異なっています。 その結果として、グラファイトはそれを使って文字を書けるほど柔らかいですが、ダイヤモンドは非常に硬いために、ダイヤモンドに傷をつけることができるのは別のダイヤモンドだけです。  近代におけるほとんどの誕生石リストで、ダイヤモンドは4月の誕生石として今日認識されています。 ダイヤモンドはまた、結婚60周年と75周年（日本では60周年）を記念する宝石です。  日本語で金剛石とも言います。石言葉は「永遠の絆・純潔・不屈」など。 現在、天然の中で一番硬い物質です。（モース硬度「10」）  美しさの評価はきわめて主観的なものですので、すべての人を納得させる評価方法はまだ見つかっていません。 現在使われている4C評価は希少性の評価であるということを念頭において、4Cプラス“ご自身が実際に見た美しさ”でダイヤモンドを判断してください。   ☆★☆　信頼のユーズドジュエリー　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 天然ダイヤモンド（金剛石）とアコヤ真珠をあしらった、K18ホワイトゴールドの上質ジュエリー。ダイヤの繊細な煌めきと真珠の上品な艶が絶妙に調和し、日常から特別な日まで幅広く活躍します。結婚記念日や誕生日など、大切な人への贈り物にも最適。天然石ならではの輝きが、永く愛される一品です。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9a40966926163fe008fe21cef71f64db.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "24000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/59711074",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/72892588": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/72892588#product",
+    "name": "ホワイトムーンストーン 3×3mm 10個セット 天然石 裸石 ルースストーン パワーストーン 6月誕生石 アクセサリー用 ",
+    "description": "ホワイトムーンストーンAAA ラウンド カボション3×3mm  【ホワイトムーンストーン　10個セット】  11粒あたり･･･平均約0.13カラット程度 1粒サイズ･･･約2.7〜3×2.7〜3×1.5〜1.7mm程度 穴なし（ルース・裸石） 色合い･･･ホワイト　 管理番号：ms010004  インド産ホワイトムーンストーン（フェルスパー）です。 透明度が高く美しいシラーが輝いています。多くの粒からシラーが見られる上質なお品です。  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*  日本名を「月長石（げっちょうせき）」というムーンストーンは、名前の通り月光のような柔らかい光が魅力の石で、光の反射や散乱で青白い光が見られるシラー効果が特長です。  ムーンストーンは、古くから「月の力を宿す石」や「幸運の石」として大切にされてきました。 パール、アレキサンドライトと同じく6月の誕生石で、愛を伝える、癒し、円満などの意味をもっています。また、大きな幸運をもたらしてくれる石と考えらえています。  やさしい光で相手を思いやる心を育み、円満な関係を築くお守りとしても人気があります。   【ムーンストーンのパワー】  ムーンストーンは、その名の通り月の光のような優しい光を持ったパワーストーンで、女性の願いを叶えると云われています。 幸福、希望、愛、永遠の若さを象徴する石、予知力を授ける宝石と信じられており、球形の研磨石を占い師がよく使用しています。   女性を高める働きも強く、ひらめきと共に生きられるようになったり、受容性が育まれ、幸せを受け取れる体質へと成長させてくれるはずです。 また、永遠の若さ、永遠の愛を示すとされています。   ★ルースストーン 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/2509475  *-*-*-*-*-*-* 神秘的な光を放つ天然ムーンストーン（月長石）のルース。優しい輝きが魅力で、アクセサリー加工やパワーストーンとして人気。裸石ならではの透明感と表情があり、結婚記念日や贈り物にもおすすめの天然石です。一点ものの美しさをぜひお楽しみください。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  ms010004",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b5f876e4720c8cd52a23040e6dff0a41.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e6166d270305689c4547a488e94925e6.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "970",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/72892588",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/54069716": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/54069716#product",
+    "name": "ホワイトムーンストーン 5×5mm 10個セット 天然石 裸石 ルースストーン パワーストーン 6月誕生石 アクセサリー用 ",
+    "description": "ホワイトムーンストーン 天然石 裸石 5*5mm 10個セット   【10個セット】  1粒あたり･･･平均約0.53カラット程度（10個合計 約5.3ct） 1粒サイズ･･･約4.8〜5 × 2.3〜3.3mm程度 穴なし（ルース・裸石） 色合い･･･ホワイト　 原産地：インド 管理番号：ms010001  インド産ホワイトムーンストーン（フェルスパー）です。 透明度が高く美しいシラーが輝いています。多くの粒からシラーが見られる上質なお品です。  カボションのぷっくりとしたデザインで、底面が平らになっているので、オリジナルのアクセサリー作りなどにご使用頂けます。  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*  日本名を「月長石（げっちょうせき）」というムーンストーンは、名前の通り月光のような柔らかい光が魅力の石で、光の反射や散乱で青白い光が見られるシラー効果が特長です。  ムーンストーンは、古くから「月の力を宿す石」や「幸運の石」として大切にされてきました。 パール、アレキサンドライトと同じく6月の誕生石で、愛を伝える、癒し、円満などの意味をもっています。また、大きな幸運をもたらしてくれる石と考えらえています。  やさしい光で相手を思いやる心を育み、円満な関係を築くお守りとしても人気があります。  【ムーンストーンのパワー】  ムーンストーンは、その名の通り月の光のような優しい光を持ったパワーストーンで、女性の願いを叶えると云われています。 幸福、希望、愛、永遠の若さを象徴する石、予知力を授ける宝石と信じられており、球形の研磨石を占い師がよく使用しています。   女性を高める働きも強く、ひらめきと共に生きられるようになったり、受容性が育まれ、幸せを受け取れる体質へと成長させてくれるはずです。 また、永遠の若さ、永遠の愛を示すとされています。  *-*-*-*-*-*-* 神秘的な光を放つホワイトムーンストーン。5×5mmの天然ルース10個セットは、イヤリングやブレスレットなどハンドメイドアクセサリーに最適です。6月の誕生石として「癒し・直感・女性性」を象徴し、パワーストーンとしても人気。結婚記念日の贈り物やお守りとしてもおすすめ。送料無料でお届けします。 *-*-*-*-*-*-*  ★ ルースストーンはこちらから ⇒　https://www.goodtimeschool.jp/categories/2509475   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  ms010001",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d517836dcfa86315817380279c68ee2e.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/8d8e95d86cac1bda41afaec8ef0d37fb.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/54069716",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/54361853": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/54361853#product",
+    "name": "ホワイトムーンストーン 6×4mm 10個セット 天然石 裸石 ルースストーン パワーストーン 6月誕生石 アクセサリー用 ",
+    "description": "ホワイトムーンストーンAAA オーバル カボション6×4mm  【ホワイトムーンストーン　10個セット】  1粒あたり･･･平均約0.55カラット程度 1粒サイズ･･･約5.5〜6×3.5〜4×2.5〜3mm程度が中心です。 穴なし（ルース・裸石） 色合い･･･ホワイト 産地・・・タンザニア　 管理番号：ms010002  タンザニア産ホワイトムーンストーン（フェルスパー）のカボション形状です。画像の通りうっすらと透明感のあるホワイトのベースに、きめ細やかなシラーが浮かび上がります。 様々なアイテムに加工しやすいサイズです。  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*  日本名を「月長石（げっちょうせき）」というムーンストーンは、名前の通り月光のような柔らかい光が魅力の石で、光の反射や散乱で青白い光が見られるシラー効果が特長です。  ムーンストーンは、古くから「月の力を宿す石」や「幸運の石」として大切にされてきました。 パール、アレキサンドライトと同じく6月の誕生石で、愛を伝える、癒し、円満などの意味をもっています。また、大きな幸運をもたらしてくれる石と考えらえています。  やさしい光で相手を思いやる心を育み、円満な関係を築くお守りとしても人気があります。  【ムーンストーンのパワー】  ムーンストーンは、その名の通り月の光のような優しい光を持ったパワーストーンで、女性の願いを叶えると云われています。 幸福、希望、愛、永遠の若さを象徴する石、予知力を授ける宝石と信じられており、球形の研磨石を占い師がよく使用しています。   女性を高める働きも強く、ひらめきと共に生きられるようになったり、受容性が育まれ、幸せを受け取れる体質へと成長させてくれるはずです。 また、永遠の若さ、永遠の愛を示すとされています。  ★ルースストーン 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/2509475  *-*-*-*-*-*-* やわらかな光を放つホワイトムーンストーン。6×4mmの天然ルース10個セットで、ピアスやペンダントなど繊細なアクセサリー作りに最適です。6月の誕生石として「癒し・女性性・直感」を象徴し、パワーストーンとしても人気。お守りや記念日の贈り物にもおすすめ。送料無料でお届けします。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  ms010002",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/16582cf5d1b4e5bdab7a61424fcbfca7.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d2342fef7689ed7bd836aa0fe9b2cd6b.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "1270",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/54361853",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/62251019": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/62251019#product",
+    "name": "天然石 クリソプレーズ 19.135ct ルース 裸石 アップルグリーン 緑玉髄 パワーストーン 宝石 アクセサリーパーツ ギフト 結婚記念日 癒し 希少石",
+    "description": "サイズ：縦23×横12×厚み10.5（mm） 重さ：19.135ct  天然石クリソプレーズ　｜　フラットカボション Cut  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※天然石特有のインクルージョン（内包物）はご了承ください。　 ※天然石の形状に若干の個体差があります。 ※なるべく色・サイズは揃えてご用意いたしますが、多少の違いはご理解ください。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 ヤマト宅急便コンパクトにて翌日発送いたします。  ★ルースストーン 一覧はこちら ⇒ https://www.goodtimeschool.jp/categories/2509475  *-*-*-*-*-*-*-*-*-*-  クリソプレーズはカルセドニー（玉髄）の一種でアップルグリーン色のものを指します。 名前はギリシャ語のchrysos（金色の）とprason（西洋ねぎ（ニラ））に由来しています。  カルセドニーというと割と安価な天然石というイメージですが、クリソプレーズはこの種類の中では比較的産出量が少なく、良質な物は価格が高騰している天然石のひとつです。  クリソプレーズは「希望」を与え、負のパターンを希望へと変換することを助けてくれるといわれています。 また自己実現や成功願望へ前向きなパワーをも与えてくれます。 そして自分自身に対しあらゆる可能性と許しを与えられることで、周囲の人々に対しても同じように寛容になり、全ての人にとっての「希望を感じる人」と人間力がついてきます。  健康面においても、精神的なマイナス状態を緩和することによってもたらされるプラスの影響は大きく、効果的なストーンといえます。  ［クリソプレーズの効果］  希望、勇気、才能開花、癒し、寛容、前向き、自己実現   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-* 鮮やかなアップルグリーンが魅力の天然クリソプレーズのルース。優しい色合いで心を癒やすパワーストーンとして人気があり、アクセサリー加工や贈り物にも最適です。裸石ならではの美しさが際立ち、結婚記念日など大切な日のプレゼントにもおすすめ。天然石の風合いをお楽しみください。 *-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9e122ad3dd402207a31d6a4c0e1313df.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "13200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/62251019",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/64311135": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/64311135#product",
+    "name": "天然石ルビー 2.440ct ルース 裸石 紅玉 宝石 パワーストーン 7月誕生石 深紅色 アクセサリーパーツ ギフト向け コレクション用",
+    "description": "サイズ：縦8×横7.5×厚み3.5（mm） 重さ：2.440ct カボションカット 管理番号：lr001080  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  -*-*-*-*-*-*-*-*-*-*-*-*  ルビー（紅玉）は、コランダム（鋼玉、Al2O3）の変種です。ダイヤモンドに次ぐ硬度の、赤色が特徴的な宝石です。  天然ルビーは産地がアジアに偏っていて欧米では採れないうえに、産地においても宝石にできる美しい石が採れる場所は極めて限定されています。 また、3カラットを超える大きな石は産出量も少なく、それゆえ、かつては全宝石中で最も貴重とされ、ダイヤモンドの研磨法が発見されてからも、火炎溶融法による人工合成ができるまでは、ダイヤモンドに次ぐ宝石として扱われました。  宝石の女王とも称されるルビーは、７月の誕生石としても有名な石です。   この石は、ダイヤモンドの次に硬いコランダムグループに属する石で、赤いものをルビー、それ以外のカラーをサファイアと呼びます。 美しい赤の発色原因はクロムで、理想的な色のルビーをピジョンブラッドと呼びます。 語源はラテン語で「赤」を意味する「ルベウス」 (rubeus) に由来します。  石言葉は「熱情・情熱・純愛・仁愛・勇気・仁徳」など。    [ルビーの持つパワー]  ルビーは情熱的な性質を持つ石です。 古くから勝利を呼ぶ石、カリスマ性を高める石、権力の象徴として愛されてきました。  この石は非常にエネルギーが強く、アクティブなエネルギーを高めてくれるとされています。 恋愛や仕事だけではなく、性的な高揚感や魅力を高める力も持ちます。  ダイヤの次に硬いコランダムグループに属するルビー。 その硬度は、身に着ける人の意志を強めたり、組織の基盤、人の絆などを強くしてくれます。  ルビーはエネルギーそのものの活性にもとても有効ですが、実際に体に対しては筋肉繊維に最も力を与えるようです。  ガーネット等、血液を強くする石などと組み合わせると体力的に辛い時期を乗り切る為のお守りとしてとても有効に持ち主を助けてくれるでしょう。  女性が活力を持ってアクティブに生きていく為に、これほど頼りになる石はあまりありません。  ルビーは7月の誕生石です。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 情熱的な赤が魅力の天然ルビー（紅玉）ルース。中でも希少なピジョンブラッドカラーは特別感があり、アクセサリー加工やパワーストーンに最適。誕生日や結婚記念日、大切な方への贈り物にもおすすめの高品質天然石です。一点ものの輝きをお楽しみください。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/544dd5ea355ecd82d7d952da43170d43.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "18600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/64311135",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ルビーレッド"
+      }
+    ]
+  },
+  "/items/60707118": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/60707118#product",
+    "name": "天然石 ルビー 0.315ct ルース 裸石 紅玉 ピジョンブラッド系 宝石 パワーストーン 7月誕生石 アクセサリー素材 結婚記念日 ギフト",
+    "description": "サイズ：縦5×横3.5×厚み2（mm） 重さ：0.315ct Pear-Shaped Brilliant Cut 管理番号：lr001052  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-  ルビー（紅玉）は、コランダム（鋼玉、Al2O3）の変種です。ダイヤモンドに次ぐ硬度の、赤色が特徴的な宝石です。  天然ルビーは産地がアジアに偏っていて欧米では採れないうえに、産地においても宝石にできる美しい石が採れる場所は極めて限定されています。 また、3カラットを超える大きな石は産出量も少なく、それゆえ、かつては全宝石中で最も貴重とされ、ダイヤモンドの研磨法が発見されてからも、火炎溶融法による人工合成ができるまでは、ダイヤモンドに次ぐ宝石として扱われました。  宝石の女王とも称されるルビーは、７月の誕生石としても有名な石です。   この石は、ダイヤモンドの次に硬いコランダムグループに属する石で、赤いものをルビー、それ以外のカラーをサファイアと呼びます。 美しい赤の発色原因はクロムで、理想的な色のルビーをピジョンブラッドと呼びます。 語源はラテン語で「赤」を意味する「ルベウス」 (rubeus) に由来します。  石言葉は「熱情・情熱・純愛・仁愛・勇気・仁徳」など。  [ルビーの持つパワー]  ルビーは情熱的な性質を持つ石です。 古くから勝利を呼ぶ石、カリスマ性を高める石、権力の象徴として愛されてきました。  この石は非常にエネルギーが強く、アクティブなエネルギーを高めてくれるとされています。 恋愛や仕事だけではなく、性的な高揚感や魅力を高める力も持ちます。  ダイヤの次に硬いコランダムグループに属するルビー。 その硬度は、身に着ける人の意志を強めたり、組織の基盤、人の絆などを強くしてくれます。  ルビーはエネルギーそのものの活性にもとても有効ですが、実際に体に対しては筋肉繊維に最も力を与えるようです。  ガーネット等、血液を強くする石などと組み合わせると体力的に辛い時期を乗り切る為のお守りとしてとても有効に持ち主を助けてくれるでしょう。  女性が活力を持ってアクティブに生きていく為に、これほど頼りになる石はあまりありません。  ルビーは7月の誕生石です。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-* 鮮やかな赤が魅力の天然ルビー（紅玉）0.315ct。ピジョンブラッドを思わせる深い色味が特徴で、7月の誕生石として人気の高い宝石です。愛・情熱・成功を象徴するパワーストーンとしても知られ、アクセサリー加工や結婚記念日の贈り物、ルースコレクションにも最適。小粒ながら存在感ある輝きで、大切な方へのギフトにもおすすめです。 *-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ae967e8d38c760743d30280f29d14d53.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "18900",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/60707118",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ルビーレッド"
+      }
+    ]
+  },
+  "/items/60707087": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/60707087#product",
+    "name": "天然石 ルビー 0.430ct ルース 裸石 紅玉 ピジョンブラッド系 宝石 パワーストーン 7月誕生石 アクセサリーパーツ 記念日 ギフト用",
+    "description": "サイズ：縦4.5×横3.5×厚み2.5（mm） 重さ：0.430ct Oval Brilliant Cut 管理番号：lr001051  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  -*-*-*-*-*-*-*-*-*-*-*-*-*  ルビー（紅玉）は、コランダム（鋼玉、Al2O3）の変種です。ダイヤモンドに次ぐ硬度の、赤色が特徴的な宝石です。  天然ルビーは産地がアジアに偏っていて欧米では採れないうえに、産地においても宝石にできる美しい石が採れる場所は極めて限定されています。 また、3カラットを超える大きな石は産出量も少なく、それゆえ、かつては全宝石中で最も貴重とされ、ダイヤモンドの研磨法が発見されてからも、火炎溶融法による人工合成ができるまでは、ダイヤモンドに次ぐ宝石として扱われました。  宝石の女王とも称されるルビーは、７月の誕生石としても有名な石です。   この石は、ダイヤモンドの次に硬いコランダムグループに属する石で、赤いものをルビー、それ以外のカラーをサファイアと呼びます。 美しい赤の発色原因はクロムで、理想的な色のルビーをピジョンブラッドと呼びます。 語源はラテン語で「赤」を意味する「ルベウス」 (rubeus) に由来します。  石言葉は「熱情・情熱・純愛・仁愛・勇気・仁徳」など。    [ルビーの持つパワー]  ルビーは情熱的な性質を持つ石です。 古くから勝利を呼ぶ石、カリスマ性を高める石、権力の象徴として愛されてきました。  この石は非常にエネルギーが強く、アクティブなエネルギーを高めてくれるとされています。 恋愛や仕事だけではなく、性的な高揚感や魅力を高める力も持ちます。  ダイヤの次に硬いコランダムグループに属するルビー。 その硬度は、身に着ける人の意志を強めたり、組織の基盤、人の絆などを強くしてくれます。  ルビーはエネルギーそのものの活性にもとても有効ですが、実際に体に対しては筋肉繊維に最も力を与えるようです。  ガーネット等、血液を強くする石などと組み合わせると体力的に辛い時期を乗り切る為のお守りとしてとても有効に持ち主を助けてくれるでしょう。  女性が活力を持ってアクティブに生きていく為に、これほど頼りになる石はあまりありません。  ルビーは7月の誕生石です。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-* 深く鮮やかな赤が美しい天然ルビー（紅玉）0.430ctのルースストーン。ピジョンブラッドを思わせる情熱的な色合いは、7月誕生石として人気が高く、愛・情熱・勝利を象徴するパワーストーンとしても親しまれています。アクセサリー制作やコレクション、誕生日や結婚記念日のプレゼントにも最適。輝きと気品を兼ね備えた一石です。 *-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/167dae5658309fa2d0859b293f6a7809.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "25800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/60707087",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ルビーレッド"
+      }
+    ]
+  },
+  "/items/64309363": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/64309363#product",
+    "name": "天然石 ルビー 1.730ct ルース 裸石 紅玉 宝石 パワーストーン 7月誕生石 深紅色 アクセサリーパーツ ギフト向け コレクション用",
+    "description": "サイズ：縦8×横6×厚み3（mm） 重さ：1.730ct カボションカット 管理番号：lr001069  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*  ルビー（紅玉）は、コランダム（鋼玉、Al2O3）の変種です。ダイヤモンドに次ぐ硬度の、赤色が特徴的な宝石です。  天然ルビーは産地がアジアに偏っていて欧米では採れないうえに、産地においても宝石にできる美しい石が採れる場所は極めて限定されています。 また、3カラットを超える大きな石は産出量も少なく、それゆえ、かつては全宝石中で最も貴重とされ、ダイヤモンドの研磨法が発見されてからも、火炎溶融法による人工合成ができるまでは、ダイヤモンドに次ぐ宝石として扱われました。  宝石の女王とも称されるルビーは、７月の誕生石としても有名な石です。   この石は、ダイヤモンドの次に硬いコランダムグループに属する石で、赤いものをルビー、それ以外のカラーをサファイアと呼びます。 美しい赤の発色原因はクロムで、理想的な色のルビーをピジョンブラッドと呼びます。 語源はラテン語で「赤」を意味する「ルベウス」 (rubeus) に由来します。  石言葉は「熱情・情熱・純愛・仁愛・勇気・仁徳」など。    [ルビーの持つパワー]  ルビーは情熱的な性質を持つ石です。 古くから勝利を呼ぶ石、カリスマ性を高める石、権力の象徴として愛されてきました。  この石は非常にエネルギーが強く、アクティブなエネルギーを高めてくれるとされています。 恋愛や仕事だけではなく、性的な高揚感や魅力を高める力も持ちます。  ダイヤの次に硬いコランダムグループに属するルビー。 その硬度は、身に着ける人の意志を強めたり、組織の基盤、人の絆などを強くしてくれます。  ルビーはエネルギーそのものの活性にもとても有効ですが、実際に体に対しては筋肉繊維に最も力を与えるようです。  ガーネット等、血液を強くする石などと組み合わせると体力的に辛い時期を乗り切る為のお守りとしてとても有効に持ち主を助けてくれるでしょう。  女性が活力を持ってアクティブに生きていく為に、これほど頼りになる石はあまりありません。  ルビーは7月の誕生石です。   ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 情熱的な赤が魅力の天然ルビー（紅玉）ルース。中でも希少なピジョンブラッドカラーは特別感があり、アクセサリー加工やパワーストーンに最適。誕生日や結婚記念日、大切な方への贈り物にもおすすめの高品質天然石です。一点ものの輝きをお楽しみください。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/24b36d6b7e4f9275d1fbdedb4881cf1c.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "10680",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/64309363",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ルビーレッド"
+      }
+    ]
+  },
+  "/items/60707051": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/60707051#product",
+    "name": "天然石 ルビー 0.330ct ルース 裸石 紅玉 ピジョンブラッド系 宝石 パワーストーン 7月誕生石 アクセサリー用 結婚記念日 ギフトに最適",
+    "description": "サイズ：縦5×横4×厚み2（mm） 重さ：0.330ct Pear-Shaped Brilliant Cut 管理番号：lr001050  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  -*-*-*-*-*-*-*-*-*-*-*-*  ルビー（紅玉）は、コランダム（鋼玉、Al2O3）の変種です。ダイヤモンドに次ぐ硬度の、赤色が特徴的な宝石です。  天然ルビーは産地がアジアに偏っていて欧米では採れないうえに、産地においても宝石にできる美しい石が採れる場所は極めて限定されています。 また、3カラットを超える大きな石は産出量も少なく、それゆえ、かつては全宝石中で最も貴重とされ、ダイヤモンドの研磨法が発見されてからも、火炎溶融法による人工合成ができるまでは、ダイヤモンドに次ぐ宝石として扱われました。  宝石の女王とも称されるルビーは、７月の誕生石としても有名な石です。   この石は、ダイヤモンドの次に硬いコランダムグループに属する石で、赤いものをルビー、それ以外のカラーをサファイアと呼びます。 美しい赤の発色原因はクロムで、理想的な色のルビーをピジョンブラッドと呼びます。 語源はラテン語で「赤」を意味する「ルベウス」 (rubeus) に由来します。  石言葉は「熱情・情熱・純愛・仁愛・勇気・仁徳」など。    [ルビーの持つパワー]  ルビーは情熱的な性質を持つ石です。 古くから勝利を呼ぶ石、カリスマ性を高める石、権力の象徴として愛されてきました。  この石は非常にエネルギーが強く、アクティブなエネルギーを高めてくれるとされています。 恋愛や仕事だけではなく、性的な高揚感や魅力を高める力も持ちます。  ダイヤの次に硬いコランダムグループに属するルビー。 その硬度は、身に着ける人の意志を強めたり、組織の基盤、人の絆などを強くしてくれます。  ルビーはエネルギーそのものの活性にもとても有効ですが、実際に体に対しては筋肉繊維に最も力を与えるようです。  ガーネット等、血液を強くする石などと組み合わせると体力的に辛い時期を乗り切る為のお守りとしてとても有効に持ち主を助けてくれるでしょう。  女性が活力を持ってアクティブに生きていく為に、これほど頼りになる石はあまりありません。  ルビーは7月の誕生石です。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-* ピジョンブラッドを思わせる深紅の輝きが魅力の天然ルビー（紅玉）0.330ct。7月の誕生石として知られ、情熱・愛・成功を象徴するパワーストーンとしても人気です。ルース（裸石）としてアクセサリー制作やコレクションに適しており、誕生日や結婚記念日のプレゼントにもおすすめ。小粒ながらも上品な存在感があり、大切な方への贈り物にぴったりの一石です。 *-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a29b07482f285eb1a739eb9e6ecd02d0.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "22500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/60707051",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ルビーレッド"
+      }
+    ]
+  },
+  "/items/60706994": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/60706994#product",
+    "name": "天然石 ルビー 0.3ct ルース 裸石 紅玉 ピジョンブラッド系 宝石 パワーストーン 7月誕生石 アクセサリー素材 ギフト 結婚記念日",
+    "description": "サイズ：縦5×横3.5×厚み1.5（mm） 重さ：0.3ct Pear-Shaped Brilliant Cut 管理番号：lr001048  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*  ルビー（紅玉）は、コランダム（鋼玉、Al2O3）の変種です。ダイヤモンドに次ぐ硬度の、赤色が特徴的な宝石です。  天然ルビーは産地がアジアに偏っていて欧米では採れないうえに、産地においても宝石にできる美しい石が採れる場所は極めて限定されています。 また、3カラットを超える大きな石は産出量も少なく、それゆえ、かつては全宝石中で最も貴重とされ、ダイヤモンドの研磨法が発見されてからも、火炎溶融法による人工合成ができるまでは、ダイヤモンドに次ぐ宝石として扱われました。  宝石の女王とも称されるルビーは、７月の誕生石としても有名な石です。   この石は、ダイヤモンドの次に硬いコランダムグループに属する石で、赤いものをルビー、それ以外のカラーをサファイアと呼びます。 美しい赤の発色原因はクロムで、理想的な色のルビーをピジョンブラッドと呼びます。 語源はラテン語で「赤」を意味する「ルベウス」 (rubeus) に由来します。  石言葉は「熱情・情熱・純愛・仁愛・勇気・仁徳」など。  [ルビーの持つパワー]  ルビーは情熱的な性質を持つ石です。 古くから勝利を呼ぶ石、カリスマ性を高める石、権力の象徴として愛されてきました。  この石は非常にエネルギーが強く、アクティブなエネルギーを高めてくれるとされています。 恋愛や仕事だけではなく、性的な高揚感や魅力を高める力も持ちます。  ダイヤの次に硬いコランダムグループに属するルビー。 その硬度は、身に着ける人の意志を強めたり、組織の基盤、人の絆などを強くしてくれます。  ルビーはエネルギーそのものの活性にもとても有効ですが、実際に体に対しては筋肉繊維に最も力を与えるようです。  ガーネット等、血液を強くする石などと組み合わせると体力的に辛い時期を乗り切る為のお守りとしてとても有効に持ち主を助けてくれるでしょう。  女性が活力を持ってアクティブに生きていく為に、これほど頼りになる石はあまりありません。  ルビーは7月の誕生石です。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-* 情熱的な赤が美しい天然ルビー（紅玉）0.3ct。ピジョンブラッドを思わせる深い色合いで、7月の誕生石として人気のある宝石です。愛と情熱、成功を象徴するパワーストーンとしても知られ、アクセサリー加工やコレクションにも最適。小粒ながらも輝きが際立ち、結婚記念日や誕生日のプレゼントとして、大切な方への贈り物にもおすすめです。 *-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/90c9e5b81d19aaf7ac6d4978485ce809.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "19500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/60706994",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ルビーレッド"
+      }
+    ]
+  },
+  "/items/60669626": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/60669626#product",
+    "name": "天然石 ルビー 0.475ct ルース 裸石 紅玉 ピジョンブラッド系 宝石 天然石 パワーストーン 7月誕生石 アクセサリー用 ギフト・記念日にも",
+    "description": "サイズ：縦5×横3.5.厚み2（mm） 重さ：0.475ct Oval Brilliant Cut 管理番号：lr001046  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-  ルビー（紅玉）は、コランダム（鋼玉、Al2O3）の変種です。ダイヤモンドに次ぐ硬度の、赤色が特徴的な宝石です。  天然ルビーは産地がアジアに偏っていて欧米では採れないうえに、産地においても宝石にできる美しい石が採れる場所は極めて限定されています。 また、3カラットを超える大きな石は産出量も少なく、それゆえ、かつては全宝石中で最も貴重とされ、ダイヤモンドの研磨法が発見されてからも、火炎溶融法による人工合成ができるまでは、ダイヤモンドに次ぐ宝石として扱われました。  宝石の女王とも称されるルビーは、７月の誕生石としても有名な石です。   この石は、ダイヤモンドの次に硬いコランダムグループに属する石で、赤いものをルビー、それ以外のカラーをサファイアと呼びます。 美しい赤の発色原因はクロムで、理想的な色のルビーをピジョンブラッドと呼びます。 語源はラテン語で「赤」を意味する「ルベウス」 (rubeus) に由来します。  石言葉は「熱情・情熱・純愛・仁愛・勇気・仁徳」など。  [ルビーの持つパワー]  ルビーは情熱的な性質を持つ石です。 古くから勝利を呼ぶ石、カリスマ性を高める石、権力の象徴として愛されてきました。  この石は非常にエネルギーが強く、アクティブなエネルギーを高めてくれるとされています。 恋愛や仕事だけではなく、性的な高揚感や魅力を高める力も持ちます。  ダイヤの次に硬いコランダムグループに属するルビー。 その硬度は、身に着ける人の意志を強めたり、組織の基盤、人の絆などを強くしてくれます。  ルビーはエネルギーそのものの活性にもとても有効ですが、実際に体に対しては筋肉繊維に最も力を与えるようです。  ガーネット等、血液を強くする石などと組み合わせると体力的に辛い時期を乗り切る為のお守りとしてとても有効に持ち主を助けてくれるでしょう。  女性が活力を持ってアクティブに生きていく為に、これほど頼りになる石はあまりありません。  ルビーは7月の誕生石です。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-* 鮮やかな赤が印象的な天然ルビー（紅玉）0.475ctのルースストーン。ピジョンブラッドを彷彿とさせる深い輝きが魅力で、7月の誕生石としても人気。愛・情熱・勝利を象徴するパワーストーンとして、アクセサリー加工やルースコレクションに最適です。結婚記念日や誕生日など、大切な方への贈り物にもふさわしい上質な天然石です。 *-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2b5d5b2000b1f02c9fc4048da47680d5.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "28500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/60669626",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ルビーレッド"
+      }
+    ]
+  },
+  "/items/60669496": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/60669496#product",
+    "name": "天然石 ルビー 0.445ct ルース 裸石 紅玉 ピジョンブラッド系 宝石 天然石 パワーストーン 7月誕生石 アクセサリーパーツ ギフト用",
+    "description": "サイズ：縦5×横4.厚み2（mm） 重さ：0.445ct Oval Brilliant Cut 管理番号：lr001044  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*  ルビー（紅玉）は、コランダム（鋼玉、Al2O3）の変種です。ダイヤモンドに次ぐ硬度の、赤色が特徴的な宝石です。  天然ルビーは産地がアジアに偏っていて欧米では採れないうえに、産地においても宝石にできる美しい石が採れる場所は極めて限定されています。 また、3カラットを超える大きな石は産出量も少なく、それゆえ、かつては全宝石中で最も貴重とされ、ダイヤモンドの研磨法が発見されてからも、火炎溶融法による人工合成ができるまでは、ダイヤモンドに次ぐ宝石として扱われました。  宝石の女王とも称されるルビーは、７月の誕生石としても有名な石です。   この石は、ダイヤモンドの次に硬いコランダムグループに属する石で、赤いものをルビー、それ以外のカラーをサファイアと呼びます。 美しい赤の発色原因はクロムで、理想的な色のルビーをピジョンブラッドと呼びます。 語源はラテン語で「赤」を意味する「ルベウス」 (rubeus) に由来します。  石言葉は「熱情・情熱・純愛・仁愛・勇気・仁徳」など。  [ルビーの持つパワー]  ルビーは情熱的な性質を持つ石です。 古くから勝利を呼ぶ石、カリスマ性を高める石、権力の象徴として愛されてきました。  この石は非常にエネルギーが強く、アクティブなエネルギーを高めてくれるとされています。 恋愛や仕事だけではなく、性的な高揚感や魅力を高める力も持ちます。  ダイヤの次に硬いコランダムグループに属するルビー。 その硬度は、身に着ける人の意志を強めたり、組織の基盤、人の絆などを強くしてくれます。  ルビーはエネルギーそのものの活性にもとても有効ですが、実際に体に対しては筋肉繊維に最も力を与えるようです。  ガーネット等、血液を強くする石などと組み合わせると体力的に辛い時期を乗り切る為のお守りとしてとても有効に持ち主を助けてくれるでしょう。  女性が活力を持ってアクティブに生きていく為に、これほど頼りになる石はあまりありません。  ルビーは7月の誕生石です。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-* 深みのある赤色が美しい天然ルビー（紅玉）0.445ct。ピジョンブラッドを思わせる艶やかな輝きが魅力で、7月の誕生石として人気を誇る宝石です。愛や情熱を象徴するパワーストーンとしても知られ、アクセサリー制作やコレクション用としておすすめ。結婚記念日や誕生日など、大切な人への贈り物にもふさわしい、高品質なルースストーンです。 *-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/bc849490b4ab147bb07bb6b4c196bb77.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "26700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/60669496",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ルビーレッド"
+      }
+    ]
+  },
+  "/items/60669453": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/60669453#product",
+    "name": "天然石 ルビー 0.785ct ルース 裸石 紅玉 ピジョンブラッド系 宝石 天然石 パワーストーン 7月誕生石 アクセサリー用 ギフト・記念日に",
+    "description": "サイズ：縦5×横4.5×厚み3（mm） 重さ：0.785ct Oval Brilliant Cut 管理番号：lr001043  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  ルビー（紅玉）は、コランダム（鋼玉、Al2O3）の変種です。ダイヤモンドに次ぐ硬度の、赤色が特徴的な宝石です。  天然ルビーは産地がアジアに偏っていて欧米では採れないうえに、産地においても宝石にできる美しい石が採れる場所は極めて限定されています。 また、3カラットを超える大きな石は産出量も少なく、それゆえ、かつては全宝石中で最も貴重とされ、ダイヤモンドの研磨法が発見されてからも、火炎溶融法による人工合成ができるまでは、ダイヤモンドに次ぐ宝石として扱われました。  宝石の女王とも称されるルビーは、７月の誕生石としても有名な石です。   この石は、ダイヤモンドの次に硬いコランダムグループに属する石で、赤いものをルビー、それ以外のカラーをサファイアと呼びます。 美しい赤の発色原因はクロムで、理想的な色のルビーをピジョンブラッドと呼びます。 語源はラテン語で「赤」を意味する「ルベウス」 (rubeus) に由来します。  石言葉は「熱情・情熱・純愛・仁愛・勇気・仁徳」など。   [ルビーの持つパワー]  ルビーは情熱的な性質を持つ石です。 古くから勝利を呼ぶ石、カリスマ性を高める石、権力の象徴として愛されてきました。  この石は非常にエネルギーが強く、アクティブなエネルギーを高めてくれるとされています。 恋愛や仕事だけではなく、性的な高揚感や魅力を高める力も持ちます。  ダイヤの次に硬いコランダムグループに属するルビー。 その硬度は、身に着ける人の意志を強めたり、組織の基盤、人の絆などを強くしてくれます。  ルビーはエネルギーそのものの活性にもとても有効ですが、実際に体に対しては筋肉繊維に最も力を与えるようです。  ガーネット等、血液を強くする石などと組み合わせると体力的に辛い時期を乗り切る為のお守りとしてとても有効に持ち主を助けてくれるでしょう。  女性が活力を持ってアクティブに生きていく為に、これほど頼りになる石はあまりありません。  ルビーは7月の誕生石です。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-* 深紅の輝きが美しい天然ルビー（紅玉）0.785ct。ピジョンブラッドを思わせる濃密な赤色が魅力で、7月の誕生石としても高い人気を誇ります。愛と情熱、勝利を象徴するパワーストーンとして、アクセサリー制作やジュエリーコレクションに最適。存在感あるサイズ感で、誕生日や結婚記念日の贈り物にもおすすめの高品質ルースです。 *-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c08c0a54424dd3e037e4ee2d453bf64f.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "47700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/60669453",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ルビーレッド"
+      }
+    ]
+  },
+  "/items/40006441": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/40006441#product",
+    "name": "天然石 ルビー 0.720ct 宝石ルース 裸石 パワーストーン 7月誕生石 天然石 アクセサリーパーツ 贈り物 結婚記念日にも",
+    "description": "サイズ：縦6×横4.5×厚み2.5（mm） 重さ：0.720ct Oval Brilliant Cut 管理番号：lr001035  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  ルビー（紅玉）は、コランダム（鋼玉、Al2O3）の変種です。ダイヤモンドに次ぐ硬度の、赤色が特徴的な宝石です。  天然ルビーは産地がアジアに偏っていて欧米では採れないうえに、産地においても宝石にできる美しい石が採れる場所は極めて限定されています。 また、3カラットを超える大きな石は産出量も少なく、それゆえ、かつては全宝石中で最も貴重とされ、ダイヤモンドの研磨法が発見されてからも、火炎溶融法による人工合成ができるまでは、ダイヤモンドに次ぐ宝石として扱われました。  宝石の女王とも称されるルビーは、７月の誕生石としても有名な石です。   この石は、ダイヤモンドの次に硬いコランダムグループに属する石で、赤いものをルビー、それ以外のカラーをサファイアと呼びます。 美しい赤の発色原因はクロムで、理想的な色のルビーをピジョンブラッドと呼びます。 語源はラテン語で「赤」を意味する「ルベウス」 (rubeus) に由来します。  石言葉は「熱情・情熱・純愛・仁愛・勇気・仁徳」など。    [ルビーの持つパワー]  ルビーは情熱的な性質を持つ石です。 古くから勝利を呼ぶ石、カリスマ性を高める石、権力の象徴として愛されてきました。  この石は非常にエネルギーが強く、アクティブなエネルギーを高めてくれるとされています。 恋愛や仕事だけではなく、性的な高揚感や魅力を高める力も持ちます。  ダイヤの次に硬いコランダムグループに属するルビー。 その硬度は、身に着ける人の意志を強めたり、組織の基盤、人の絆などを強くしてくれます。  ルビーはエネルギーそのものの活性にもとても有効ですが、実際に体に対しては筋肉繊維に最も力を与えるようです。  ガーネット等、血液を強くする石などと組み合わせると体力的に辛い時期を乗り切る為のお守りとしてとても有効に持ち主を助けてくれるでしょう。  女性が活力を持ってアクティブに生きていく為に、これほど頼りになる石はあまりありません。  ルビーは7月の誕生石です。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 鮮やかな赤色が魅力の天然ルビー。0.720ctのルースはジュエリー制作やコレクション、7月の誕生石ギフトに最適です。「情熱・愛・勝利」を象徴するパワーストーンとして人気があり、結婚記念日の贈り物やお守りにもおすすめ。アクセサリーパーツとしても使いやすいサイズです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7e7b52db2ce0a95807304399bc220582.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "27000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/40006441",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ルビーレッド"
+      }
+    ]
+  },
+  "/items/40006290": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/40006290#product",
+    "name": "天然石 ルビー 0.510ct 裸石 宝石ルースストーン パワーストーン 7月誕生石 アクセサリー用 ギフト 天然石 結婚記念日にも",
+    "description": "サイズ：縦6×横4×厚み2（mm） 重さ：0.510ct Oval Brilliant Cut 管理番号：lr001034  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  ルビー（紅玉）は、コランダム（鋼玉、Al2O3）の変種です。ダイヤモンドに次ぐ硬度の、赤色が特徴的な宝石です。  天然ルビーは産地がアジアに偏っていて欧米では採れないうえに、産地においても宝石にできる美しい石が採れる場所は極めて限定されています。 また、3カラットを超える大きな石は産出量も少なく、それゆえ、かつては全宝石中で最も貴重とされ、ダイヤモンドの研磨法が発見されてからも、火炎溶融法による人工合成ができるまでは、ダイヤモンドに次ぐ宝石として扱われました。  宝石の女王とも称されるルビーは、７月の誕生石としても有名な石です。   この石は、ダイヤモンドの次に硬いコランダムグループに属する石で、赤いものをルビー、それ以外のカラーをサファイアと呼びます。 美しい赤の発色原因はクロムで、理想的な色のルビーをピジョンブラッドと呼びます。 語源はラテン語で「赤」を意味する「ルベウス」 (rubeus) に由来します。  石言葉は「熱情・情熱・純愛・仁愛・勇気・仁徳」など。    [ルビーの持つパワー]  ルビーは情熱的な性質を持つ石です。 古くから勝利を呼ぶ石、カリスマ性を高める石、権力の象徴として愛されてきました。  この石は非常にエネルギーが強く、アクティブなエネルギーを高めてくれるとされています。 恋愛や仕事だけではなく、性的な高揚感や魅力を高める力も持ちます。  ダイヤの次に硬いコランダムグループに属するルビー。 その硬度は、身に着ける人の意志を強めたり、組織の基盤、人の絆などを強くしてくれます。  ルビーはエネルギーそのものの活性にもとても有効ですが、実際に体に対しては筋肉繊維に最も力を与えるようです。  ガーネット等、血液を強くする石などと組み合わせると体力的に辛い時期を乗り切る為のお守りとしてとても有効に持ち主を助けてくれるでしょう。  女性が活力を持ってアクティブに生きていく為に、これほど頼りになる石はあまりありません。  ルビーは7月の誕生石です。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 深く美しい赤色が魅力の天然ルビー。0.510ctのルースは、指輪やネックレスなどのアクセサリー制作にぴったりのサイズです。7月の誕生石として「情熱・愛・勝利」を象徴し、パワーストーンとしても人気。結婚記念日のプレゼントや自分へのご褒美、お守りにもおすすめです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/8042bd6960ab0efe9ef81309a8785774.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "24000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/40006290",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ルビーレッド"
+      }
+    ]
+  },
+  "/items/40006212": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/40006212#product",
+    "name": "天然石 ルビー 0.675ct 裸石 宝石ルース パワーストーン 7月誕生石 天然石 アクセサリーパーツ ギフト 結婚記念日にもおすすめ",
+    "description": "サイズ：縦6×横4.5×厚み3（mm） 重さ：0.675ct Oval Brilliant Cut 管理番号：lr001032  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  ルビー（紅玉）は、コランダム（鋼玉、Al2O3）の変種です。ダイヤモンドに次ぐ硬度の、赤色が特徴的な宝石です。  天然ルビーは産地がアジアに偏っていて欧米では採れないうえに、産地においても宝石にできる美しい石が採れる場所は極めて限定されています。 また、3カラットを超える大きな石は産出量も少なく、それゆえ、かつては全宝石中で最も貴重とされ、ダイヤモンドの研磨法が発見されてからも、火炎溶融法による人工合成ができるまでは、ダイヤモンドに次ぐ宝石として扱われました。  宝石の女王とも称されるルビーは、７月の誕生石としても有名な石です。   この石は、ダイヤモンドの次に硬いコランダムグループに属する石で、赤いものをルビー、それ以外のカラーをサファイアと呼びます。 美しい赤の発色原因はクロムで、理想的な色のルビーをピジョンブラッドと呼びます。 語源はラテン語で「赤」を意味する「ルベウス」 (rubeus) に由来します。  石言葉は「熱情・情熱・純愛・仁愛・勇気・仁徳」など。  [ルビーの持つパワー]  ルビーは情熱的な性質を持つ石です。 古くから勝利を呼ぶ石、カリスマ性を高める石、権力の象徴として愛されてきました。  この石は非常にエネルギーが強く、アクティブなエネルギーを高めてくれるとされています。 恋愛や仕事だけではなく、性的な高揚感や魅力を高める力も持ちます。  ダイヤの次に硬いコランダムグループに属するルビー。 その硬度は、身に着ける人の意志を強めたり、組織の基盤、人の絆などを強くしてくれます。  ルビーはエネルギーそのものの活性にもとても有効ですが、実際に体に対しては筋肉繊維に最も力を与えるようです。  ガーネット等、血液を強くする石などと組み合わせると体力的に辛い時期を乗り切る為のお守りとしてとても有効に持ち主を助けてくれるでしょう。  女性が活力を持ってアクティブに生きていく為に、これほど頼りになる石はあまりありません。  ルビーは7月の誕生石です。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 情熱の赤を湛える天然ルビー。0.675ctのルースは、ジュエリー制作に最適なサイズで、特別なアクセサリーに仕上がります。7月の誕生石として「愛・情熱・勝利」を象徴し、お守りやパワーストーンとしても人気。結婚記念日や誕生日の贈り物にもおすすめの宝石です。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/31d6190d9ed1f29af805d894d7285ac1.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "27000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/40006212",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ルビーレッド"
+      }
+    ]
+  },
+  "/items/40006082": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/40006082#product",
+    "name": "天然石 ルビー 1.020ct 宝石ルース 裸石 パワーストーン 天然石 7月誕生石 アクセサリー用 贈り物 結婚記念日にもおすすめ",
+    "description": "サイズ：縦7×横5×厚み3.5（mm） 重さ：1.020ct Oval Brilliant Cut 管理番号：lr001030  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  ルビー（紅玉）は、コランダム（鋼玉、Al2O3）の変種です。ダイヤモンドに次ぐ硬度の、赤色が特徴的な宝石です。  天然ルビーは産地がアジアに偏っていて欧米では採れないうえに、産地においても宝石にできる美しい石が採れる場所は極めて限定されています。 また、3カラットを超える大きな石は産出量も少なく、それゆえ、かつては全宝石中で最も貴重とされ、ダイヤモンドの研磨法が発見されてからも、火炎溶融法による人工合成ができるまでは、ダイヤモンドに次ぐ宝石として扱われました。  宝石の女王とも称されるルビーは、７月の誕生石としても有名な石です。   この石は、ダイヤモンドの次に硬いコランダムグループに属する石で、赤いものをルビー、それ以外のカラーをサファイアと呼びます。 美しい赤の発色原因はクロムで、理想的な色のルビーをピジョンブラッドと呼びます。 語源はラテン語で「赤」を意味する「ルベウス」 (rubeus) に由来します。  石言葉は「熱情・情熱・純愛・仁愛・勇気・仁徳」など。    [ルビーの持つパワー]  ルビーは情熱的な性質を持つ石です。 古くから勝利を呼ぶ石、カリスマ性を高める石、権力の象徴として愛されてきました。  この石は非常にエネルギーが強く、アクティブなエネルギーを高めてくれるとされています。 恋愛や仕事だけではなく、性的な高揚感や魅力を高める力も持ちます。  ダイヤの次に硬いコランダムグループに属するルビー。 その硬度は、身に着ける人の意志を強めたり、組織の基盤、人の絆などを強くしてくれます。  ルビーはエネルギーそのものの活性にもとても有効ですが、実際に体に対しては筋肉繊維に最も力を与えるようです。  ガーネット等、血液を強くする石などと組み合わせると体力的に辛い時期を乗り切る為のお守りとしてとても有効に持ち主を助けてくれるでしょう。  女性が活力を持ってアクティブに生きていく為に、これほど頼りになる石はあまりありません。  ルビーは7月の誕生石です。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 存在感ある1.020ctの天然ルビー。鮮やかな赤色が印象的な宝石ルースで、指輪やペンダントなど高級感あるジュエリー制作に最適です。7月の誕生石として「愛・情熱・勝利」を象徴し、パワーストーンやお守り、結婚記念日の贈り物としてもおすすめです。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3610589dfc57b427afb50247a22f3258.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "36000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/40006082",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ルビーレッド"
+      }
+    ]
+  },
+  "/items/40006029": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/40006029#product",
+    "name": "天然石 ルビー 1.210ct 宝石ルース 裸石 パワーストーン 天然石 7月誕生石 アクセサリー用 高品質 贈り物 結婚記念日にも",
+    "description": "サイズ：縦6.5×横5.5×厚み4（mm） 重さ：1.210ct Oval Brilliant Cut 管理番号：lr001029  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  ルビー（紅玉）は、コランダム（鋼玉、Al2O3）の変種です。ダイヤモンドに次ぐ硬度の、赤色が特徴的な宝石です。  天然ルビーは産地がアジアに偏っていて欧米では採れないうえに、産地においても宝石にできる美しい石が採れる場所は極めて限定されています。 また、3カラットを超える大きな石は産出量も少なく、それゆえ、かつては全宝石中で最も貴重とされ、ダイヤモンドの研磨法が発見されてからも、火炎溶融法による人工合成ができるまでは、ダイヤモンドに次ぐ宝石として扱われました。  宝石の女王とも称されるルビーは、７月の誕生石としても有名な石です。   この石は、ダイヤモンドの次に硬いコランダムグループに属する石で、赤いものをルビー、それ以外のカラーをサファイアと呼びます。 美しい赤の発色原因はクロムで、理想的な色のルビーをピジョンブラッドと呼びます。 語源はラテン語で「赤」を意味する「ルベウス」 (rubeus) に由来します。  石言葉は「熱情・情熱・純愛・仁愛・勇気・仁徳」など。   [ルビーの持つパワー]  ルビーは情熱的な性質を持つ石です。 古くから勝利を呼ぶ石、カリスマ性を高める石、権力の象徴として愛されてきました。  この石は非常にエネルギーが強く、アクティブなエネルギーを高めてくれるとされています。 恋愛や仕事だけではなく、性的な高揚感や魅力を高める力も持ちます。  ダイヤの次に硬いコランダムグループに属するルビー。 その硬度は、身に着ける人の意志を強めたり、組織の基盤、人の絆などを強くしてくれます。  ルビーはエネルギーそのものの活性にもとても有効ですが、実際に体に対しては筋肉繊維に最も力を与えるようです。  ガーネット等、血液を強くする石などと組み合わせると体力的に辛い時期を乗り切る為のお守りとしてとても有効に持ち主を助けてくれるでしょう。  女性が活力を持ってアクティブに生きていく為に、これほど頼りになる石はあまりありません。  ルビーは7月の誕生石です。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 情熱の赤が魅力の天然ルビー1.210ct。ジュエリー用の大粒サイズで、ペンダントや指輪に最適です。7月の誕生石として「愛・情熱・勝利」を象徴し、お守りやパワーストーンとしても人気。結婚記念日や誕生日プレゼントにもおすすめの高品質ルースです。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/20387610264c060e4f77666d88049d9b.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "45000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/40006029",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ルビーレッド"
+      }
+    ]
+  },
+  "/items/40005993": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/40005993#product",
+    "name": "天然石 ルビー 0.625ct 宝石ルース 裸石 パワーストーン 天然石 7月誕生石 アクセサリーパーツ 結婚記念日 誕生日プレゼントにも",
+    "description": "サイズ：縦6×横5×厚み2（mm） 重さ：0.625ct Oval Brilliant Cut 管理番号：lr001028  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  ルビー（紅玉）は、コランダム（鋼玉、Al2O3）の変種です。ダイヤモンドに次ぐ硬度の、赤色が特徴的な宝石です。  天然ルビーは産地がアジアに偏っていて欧米では採れないうえに、産地においても宝石にできる美しい石が採れる場所は極めて限定されています。 また、3カラットを超える大きな石は産出量も少なく、それゆえ、かつては全宝石中で最も貴重とされ、ダイヤモンドの研磨法が発見されてからも、火炎溶融法による人工合成ができるまでは、ダイヤモンドに次ぐ宝石として扱われました。  宝石の女王とも称されるルビーは、７月の誕生石としても有名な石です。   この石は、ダイヤモンドの次に硬いコランダムグループに属する石で、赤いものをルビー、それ以外のカラーをサファイアと呼びます。 美しい赤の発色原因はクロムで、理想的な色のルビーをピジョンブラッドと呼びます。 語源はラテン語で「赤」を意味する「ルベウス」 (rubeus) に由来します。  石言葉は「熱情・情熱・純愛・仁愛・勇気・仁徳」など。   [ルビーの持つパワー]  ルビーは情熱的な性質を持つ石です。 古くから勝利を呼ぶ石、カリスマ性を高める石、権力の象徴として愛されてきました。  この石は非常にエネルギーが強く、アクティブなエネルギーを高めてくれるとされています。 恋愛や仕事だけではなく、性的な高揚感や魅力を高める力も持ちます。  ダイヤの次に硬いコランダムグループに属するルビー。 その硬度は、身に着ける人の意志を強めたり、組織の基盤、人の絆などを強くしてくれます。  ルビーはエネルギーそのものの活性にもとても有効ですが、実際に体に対しては筋肉繊維に最も力を与えるようです。  ガーネット等、血液を強くする石などと組み合わせると体力的に辛い時期を乗り切る為のお守りとしてとても有効に持ち主を助けてくれるでしょう。  女性が活力を持ってアクティブに生きていく為に、これほど頼りになる石はあまりありません。  ルビーは7月の誕生石です。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 0.625ctの天然ルビーは、深い赤が美しい上質な宝石ルース。7月の誕生石として「愛・情熱・勝利」を象徴し、アクセサリーパーツやパワーストーンとして人気です。リングやネックレスの制作はもちろん、結婚記念日や誕生日の贈り物にもおすすめの天然石です。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7d45abacf005b4f34b50b08eb0d29525.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "36000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/40005993",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ルビーレッド"
+      }
+    ]
+  },
+  "/items/113953592": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/113953592#product",
+    "name": "宝石質ペリドットAAA ルース マーキスファセットカット10×5mm （３粒セット） パワーストーン 8月誕生石",
+    "description": "宝石質ペリドットAAA ルース マーキスファセットカット10×5mm （３粒セット）  ☆彡　ほぼ同じ大きさ、色合いの３粒のセットです。  ・1粒あたりの重さ：平均約1.02カラット程度 ・サイズ：約10×5×2.5〜3.5mm程度（±0.5mm） ・ カット：マーキスファセットカット ・ 産地：アリゾナ ・ ジュエリー用のルース（裸石）ですので透明度・発色ともに申し分ありません。 穴があいていないタイプですので、石留め等にお使いください。   ※端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*  ペリドットは、地中深くのマントルや隕石中に発見されることもある神秘的な宝石です。オリーブグリーンに輝き「太陽の石」とも呼ばれています。  含有する鉄分の作用によって緑色を示します。 ペリドットは、夜間照明の下でも昼間と変わらない鮮やかな緑色を維持したため、ローマ人からは「夜会のエメラルド」と呼ばれていました。後に、十字軍によって紅海に浮かぶセントジョンズ島（現在のザバルガッド島）から持ち帰られ、中世の教会の装飾に使われました。 200カラット以上ある大きなペリドットが、ケルン大聖堂にある東方の三博士の3つの聖堂を飾っています。  モース硬度：6.5-7.0。 8月の誕生石と知られています。  古い産地としては前述のセントジョンズ島がありますが、鉱脈は枯渇していないものの、採掘が禁じられているようです。 宝石として流通できる品質のものの産地は、アメリカ合衆国のハワイやアリゾナ州、中国、ミャンマーなどがあります。    [地球外からも見つかった神秘的な宝石]  イブニングエメラルドという異名を持つペリドットですが、和名は橄攬（カンラン）石と言います。橄攬とは、オリーブのことで、鉱物名もそれに由来する「オリビン（Olivine）」です。ややブラウン味がかった輝きは、とても華やかで目を惹きます。  ペリドットは地中深くのマントル付近や溶岩で発見されますが、隕石の中で発見されたこともある神秘的な宝石でもあります。2005年には、スターダストロボットが宇宙から持ち帰った彗星塵の中からもペリドットが発見されました。  この他、石鉄隕石の一種であるパラサイトの中に、まれに宝石質のカンラン石が混じっていることがあり、原石のまま、あるいは特に大きいものはカットされ流通することがあります。隕石自体が珍しいものであり、その中でもまれにしか見られず、さらに生成の由来が所有者の夢をかきたてることもあって、たいへん高価となっています。  ペリドットは、マグネシウムを含む苦土橄欖石（くどかんらんせき）と、鉄を含む鉄橄欖石が混ざりあっています。苦土橄欖石が多いと黄緑色、鉄橄欖石が多いと褐色や黒色になります。宝石として使用される黄緑色のものは、苦土橄欖石が90%近くを占めています。    [ペリドットの歴史]  ペリドットは、歴史の古い宝石とされ、古代エジプトではペリドットは暗闇を照らす「太陽の石」と呼ばれ崇められていました。  さらに、ペリドットは太陽のように輝きが強い宝石であることから、身に着けている人の邪気を退けて災いを取り払ってくれると言われ、古代ヨーロッパでは兵士が敵から身を守るためにお守り代わりに身に着けていたそうです。    [ペリドットの石言葉]  ペリドットの石言葉には、夫婦の愛、幸福、和合、希望などがあります。ペリドットのオリーブグリーンの輝きは、見る人の心を癒させてくれます。自然と前向きな気持ちにしてくれ、勇気と希望が湧き、朗らかな気持ちで人と接することができるため、良好な人間関係を構築できます。 人の心を平静にして色欲を抑えるパワーがあるペリドットは、夫婦の愛という石言葉を持っています。一途な愛の象徴として、夫婦円満をもたらす力とされており、幸せな家庭には欠かせない宝石です。    [ペリドットの効果]  ペリドットには太陽の石と称されるように明るいエネルギーが満ちあふれています。怒りや悲しみなどマイナスの感情を取り除き、平穏で前向きな気持ちになるパワーがあるそうです。  またペリドットは、夜に輝きを放つ宝石でもあることから、暗闇に対する恐怖も打ち消してくれ、ネガティブな感情から身を守ってくれるパワーも持っています。  -*-*-*-*-*-*-*-*-  ◆素敵な天然石ルースストーンはこちらから 　→　https://www.goodtimeschool.jp/categories/2509475   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  07212025　pd003004",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2846a0352fc68717c5a8c63fa50be1c0.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/991228a6002909e478ca3d8b5d20b25f.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/113953592",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "イエロー"
+      }
+    ]
+  },
+  "/items/72893050": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/72893050#product",
+    "name": "ペリドット 4×4mm 10個セット 天然石ルース AAA 宝石質 裸石 8月誕生石 パワーストーン アクセサリーパーツ ハンドメイド素材に",
+    "description": "宝石質ペリドットAAA ラウンド カボション4×4mm  【ペリドット　10個セット】  1個あたり･･･平均約0.37カラット程度 1粒サイズ･･･約3.7〜4.3×3.7〜4.3×1.7〜2.7mm程度が中心です。 穴なし（ルース・裸石） 色合い･･･グリーン 産地・・・アリゾナ 管理番号：pd010003  アリゾナ産、宝石質ペリドットのカボションです。4mmという小さいサイズで様々な用途にご利用いただけます。こちらは穴があいていないタイプですので、石留め等にお使いください。  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  ペリドットは、地中深くのマントルや隕石中に発見されることもある神秘的な宝石です。オリーブグリーンに輝き「太陽の石」とも呼ばれています。  【地球外からも見つかった神秘的な宝石】  イブニングエメラルドという異名を持つペリドットですが、和名は橄攬（カンラン）石と言います。橄攬とは、オリーブのことで、鉱物名もそれに由来する「オリビン（Olivine）」です。ややブラウン味がかった輝きは、とても華やかで目を惹きます。  ペリドットは地中深くのマントル付近や溶岩で発見されますが、隕石の中で発見されたこともある神秘的な宝石でもあります。2005年には、スターダストロボットが宇宙から持ち帰った彗星塵の中からもペリドットが発見されました。  この他、石鉄隕石の一種であるパラサイトの中に、まれに宝石質のカンラン石が混じっていることがあり、原石のまま、あるいは特に大きいものはカットされ流通することがあります。隕石自体が珍しいものであり、その中でもまれにしか見られず、さらに生成の由来が所有者の夢をかきたてることもあって、たいへん高価となっています。  ペリドットは、マグネシウムを含む苦土橄欖石（くどかんらんせき）と、鉄を含む鉄橄欖石が混ざりあっています。苦土橄欖石が多いと黄緑色、鉄橄欖石が多いと褐色や黒色になります。宝石として使用される黄緑色のものは、苦土橄欖石が90%近くを占めています。  【ペリドットの石言葉】  ペリドットの石言葉には、夫婦の愛、幸福、和合、希望などがあります。ペリドットのオリーブグリーンの輝きは、見る人の心を癒させてくれます。自然と前向きな気持ちにしてくれ、勇気と希望が湧き、朗らかな気持ちで人と接することができるため、良好な人間関係を構築できます。  人の心を平静にして色欲を抑えるパワーがあるペリドットは、夫婦の愛という石言葉を持っています。一途な愛の象徴として、夫婦円満をもたらす力とされており、幸せな家庭には欠かせない宝石です。  【ペリドットの効果】  ペリドットには太陽の石と称されるように明るいエネルギーが満ちあふれています。怒りや悲しみなどマイナスの感情を取り除き、平穏で前向きな気持ちになるパワーがあるそうです。  またペリドットは、夜に輝きを放つ宝石でもあることから、暗闇に対する恐怖も打ち消してくれ、ネガティブな感情から身を守ってくれるパワーも持っています。   ★ルースストーン 一覧はこちら ⇒ https://www.goodtimeschool.jp/categories/2509475  *-*-*-*-*-*-*- 明るく爽やかな輝きを放つ天然ペリドット（太陽の石）のルース。8月の誕生石として人気があり、アクセサリー加工やパワーストーンにも最適です。裸石ならではの透明感と輝きが特徴で、結婚記念日や大切な方への贈り物にもおすすめ。 *-*-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  pd001003",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/778da3ff13bab457a36bc8bc7d5587b6.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/72893050",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "イエロー"
+      }
+    ]
+  },
+  "/items/56515251": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/56515251#product",
+    "name": "ペリドット 5×5mm 10個セット 天然石ルース AAA 宝石質 裸石 8月誕生石 パワーストーン アクセサリーパーツ ハンドメイド素材",
+    "description": "宝石質ペリドットAAA- ラウンド カボション5×5mm  【ペリドット　10個セット】  1粒あたり･･･平均約0.72カラット程度 1粒サイズ･･･約4.5〜5×4.5〜5×2.5〜3.5mm程度が中心です。 穴なし（ルース・裸石） 色合い･･･グリーン　 産地・・・アリゾナ 管理番号：pd010002  アリゾナ産、宝石質ペリドットのラウンドカボションです。細かい内傷・インクルージョンが僅かにありますが、透明度、発色ともに申し分なく、表面からは美しい艶感が見られます。使い勝手の良いサイズで、様々な用途にご利用いただける素材です。色合いを混ぜてお送りします。  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  ペリドットは、地中深くのマントルや隕石中に発見されることもある神秘的な宝石です。オリーブグリーンに輝き「太陽の石」とも呼ばれています。   【地球外からも見つかった神秘的な宝石】  イブニングエメラルドという異名を持つペリドットですが、和名は橄攬（カンラン）石と言います。橄攬とは、オリーブのことで、鉱物名もそれに由来する「オリビン（Olivine）」です。ややブラウン味がかった輝きは、とても華やかで目を惹きます。  ペリドットは地中深くのマントル付近や溶岩で発見されますが、隕石の中で発見されたこともある神秘的な宝石でもあります。2005年には、スターダストロボットが宇宙から持ち帰った彗星塵の中からもペリドットが発見されました。  この他、石鉄隕石の一種であるパラサイトの中に、まれに宝石質のカンラン石が混じっていることがあり、原石のまま、あるいは特に大きいものはカットされ流通することがあります。隕石自体が珍しいものであり、その中でもまれにしか見られず、さらに生成の由来が所有者の夢をかきたてることもあって、たいへん高価となっています。  ペリドットは、マグネシウムを含む苦土橄欖石（くどかんらんせき）と、鉄を含む鉄橄欖石が混ざりあっています。苦土橄欖石が多いと黄緑色、鉄橄欖石が多いと褐色や黒色になります。宝石として使用される黄緑色のものは、苦土橄欖石が90%近くを占めています。   【ペリドットの石言葉】  ペリドットの石言葉には、夫婦の愛、幸福、和合、希望などがあります。ペリドットのオリーブグリーンの輝きは、見る人の心を癒させてくれます。自然と前向きな気持ちにしてくれ、勇気と希望が湧き、朗らかな気持ちで人と接することができるため、良好な人間関係を構築できます。  人の心を平静にして色欲を抑えるパワーがあるペリドットは、夫婦の愛という石言葉を持っています。一途な愛の象徴として、夫婦円満をもたらす力とされており、幸せな家庭には欠かせない宝石です。  【ペリドットの効果】  ペリドットには太陽の石と称されるように明るいエネルギーが満ちあふれています。怒りや悲しみなどマイナスの感情を取り除き、平穏で前向きな気持ちになるパワーがあるそうです。  またペリドットは、夜に輝きを放つ宝石でもあることから、暗闇に対する恐怖も打ち消してくれ、ネガティブな感情から身を守ってくれるパワーも持っています。   ★ルースストーン 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/2509475  *-*-*-*-*-*-*- 明るく爽やかな輝きを放つ天然ペリドット（太陽の石）のルース。8月の誕生石として人気があり、アクセサリー加工やパワーストーンにも最適です。裸石ならではの透明感と輝きが特徴で、結婚記念日や大切な方への贈り物にもおすすめ。 *-*-*-*-*-*-*-   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  pd010002",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/929cb06c6e9677338441efd14d24db2a.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/56515251",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "イエロー"
+      }
+    ]
+  },
+  "/items/54069867": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/54069867#product",
+    "name": "ペリドット 6*4mm 10個セット 天然石ルース AAA 宝石質 裸石 8月誕生石 パワーストーン アクセサリーパーツ ハンドメイド素材",
+    "description": "宝石質ペリドットAAA- オーバル カボション6×4mm  【ペリドット　10個セット】  1粒あたり･･･平均約0.61カラット程度 1粒サイズ･･･約6×4×2〜3mm程度（±0.5mm） 穴なし（ルース・裸石） 色合い･･･グリーン　 産地・・・アリゾナ 管理番号：pd010001  アリゾナ産、宝石質ペリドットのカボションです。 透明度、発色ともに申し分なく、小さいサイズでありながらその美しさを十分ご覧いただけます。 色合いを混ぜてお送りします。  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  ペリドットは、地中深くのマントルや隕石中に発見されることもある神秘的な宝石です。オリーブグリーンに輝き「太陽の石」とも呼ばれています。  含有する鉄分の作用によって緑色を示します。 ペリドットは、夜間照明の下でも昼間と変わらない鮮やかな緑色を維持したため、ローマ人からは「夜会のエメラルド」と呼ばれていました。後に、十字軍によって紅海に浮かぶセントジョンズ島（現在のザバルガッド島）から持ち帰られ、中世の教会の装飾に使われました。 200カラット以上ある大きなペリドットが、ケルン大聖堂にある東方の三博士の3つの聖堂を飾っています。  モース硬度：6.5-7.0。 8月の誕生石と知られています。   古い産地としては前述のセントジョンズ島がありますが、鉱脈は枯渇していないものの、採掘が禁じられているようです。 宝石として流通できる品質のものの産地は、アメリカ合衆国のハワイやアリゾナ州、中国、ミャンマーなどがあります。   【地球外からも見つかった神秘的な宝石】  イブニングエメラルドという異名を持つペリドットですが、和名は橄攬（カンラン）石と言います。橄攬とは、オリーブのことで、鉱物名もそれに由来する「オリビン（Olivine）」です。ややブラウン味がかった輝きは、とても華やかで目を惹きます。  ペリドットは地中深くのマントル付近や溶岩で発見されますが、隕石の中で発見されたこともある神秘的な宝石でもあります。2005年には、スターダストロボットが宇宙から持ち帰った彗星塵の中からもペリドットが発見されました。  この他、石鉄隕石の一種であるパラサイトの中に、まれに宝石質のカンラン石が混じっていることがあり、原石のまま、あるいは特に大きいものはカットされ流通することがあります。隕石自体が珍しいものであり、その中でもまれにしか見られず、さらに生成の由来が所有者の夢をかきたてることもあって、たいへん高価となっています。  ペリドットは、マグネシウムを含む苦土橄欖石（くどかんらんせき）と、鉄を含む鉄橄欖石が混ざりあっています。苦土橄欖石が多いと黄緑色、鉄橄欖石が多いと褐色や黒色になります。宝石として使用される黄緑色のものは、苦土橄欖石が90%近くを占めています。   【ペリドットの石言葉】  ペリドットの石言葉には、夫婦の愛、幸福、和合、希望などがあります。ペリドットのオリーブグリーンの輝きは、見る人の心を癒させてくれます。自然と前向きな気持ちにしてくれ、勇気と希望が湧き、朗らかな気持ちで人と接することができるため、良好な人間関係を構築できます。  人の心を平静にして色欲を抑えるパワーがあるペリドットは、夫婦の愛という石言葉を持っています。一途な愛の象徴として、夫婦円満をもたらす力とされており、幸せな家庭には欠かせない宝石です。   【ペリドットの効果】  ペリドットには太陽の石と称されるように明るいエネルギーが満ちあふれています。怒りや悲しみなどマイナスの感情を取り除き、平穏で前向きな気持ちになるパワーがあるそうです。  またペリドットは、夜に輝きを放つ宝石でもあることから、暗闇に対する恐怖も打ち消してくれ、ネガティブな感情から身を守ってくれるパワーも持っています。   ★ルースストーン 一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/2509475  *-*-*-*-*-*-* 8月の誕生石ペリドットの天然石ルース、6×4mmサイズ10個セット。宝石質AAAの高品質で、明るいオリーブグリーンが魅力。パワーストーンとして前向きなエネルギーを引き出し、アクセサリーパーツやハンドメイド作品にも最適。誕生日ギフトやお守りにもおすすめ。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  pd010001",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/569c868aca821a08ad926f6ee27f9306.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/54069867",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "イエロー"
+      }
+    ]
+  },
+  "/items/58161603": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/58161603#product",
+    "name": "天然石 サファイア 6個セット 0.800ct 宝石質 ルースストーン 裸石 青玉 蒼玉 9月誕生石 パワーストーン アクセサリーパーツ",
+    "description": "サイズ：縦2×横2×厚み2（mm）　※ほぼ同じ大きさですが、若干違いがあります。　 合計の重さ：0.800ct 天然石サファイア　｜　Square Cut　　6個セット 管理番号：ls006048   ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  サファイアまたは蒼玉、青玉（せいぎょく）は、コランダムの変種で、ダイヤモンドに次ぐ硬度の、赤色以外の色の宝石を言います。   語源は「青色」を意味するラテン語の「sapphirus（サッピルス）」、ギリシャ語の「sappheiros（サピロス）」に由来します。  サファイアはコランダムのうち宝石としての価値があり、かつ色が赤でないものをいい、不純物の違いで濃赤色を呈するものはルビー（不純物：クロム）と言います。   サファイアは9月の誕生石  サファイアは人の意思や組織、経営の礎などをしっかり固め、基盤を作るのに有効な石とされています。  目標を貫徹する意志を持ち、惰性に流されない自分になれるように、手助けをしてくれると言われています。   また、集中力や直感力を高め、自分にとってその時必要なチャンスなどを掴む助けにもなってくれます。   カリスマ性、勝利運、金運などを高め、仕事に対して積極的な気持ちを持つのに有効な石でしょう。 まさに経営者、組織のリーダーにぴったりなストーンです。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません  *-*-*-*-*-*-* 9月誕生石の天然サファイア（青玉・蒼玉）6個セット、合計0.800ct。深く澄んだブルーが魅力で、コランダム系の宝石質ルース。パワーストーンとして知性と誠実を象徴し、アクセサリーパーツやプレゼントにも最適。ハンドメイド素材にもおすすめです。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/40bcd8188a9b83bdc7a566d5e4c3486b.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "15000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/58161603",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/62249929": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/62249929#product",
+    "name": "天然石 スターサファイア 1.030ct ルース 裸石 青玉 蒼玉 コランダム パワーストーン 9月誕生石 アクセサリー用 ギフトにも最適",
+    "description": "サイズ：縦6.2×横5.5×厚み2.5（mm） 重さ：1.030ct 天然スターサファイア　｜　カボションカット 管理番号：ls001057  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-  サファイアまたは蒼玉、青玉（せいぎょく）は、コランダムの変種で、ダイヤモンドに次ぐ硬度の、赤色以外の色の宝石を言います。   語源は「青色」を意味するラテン語の「sapphirus（サッピルス）」、ギリシャ語の「sappheiros（サピロス）」に由来します。  サファイアはコランダムのうち宝石としての価値があり、かつ色が赤でないものをいい、不純物の違いで濃赤色を呈するものはルビー（不純物：クロム）と言います。  [色・特殊効果]  ルビーの濃赤色や、サファイアのメインカラーである濃紺〜青紫色以外のものは、ファンシーカラーサファイアと呼ばれます。  ファンシーカラーサファイアのなかでも、ピンクがかったオレンジ色をしたものを特に｢パパラチア（Padparadscha蓮の花のつぼみの色の意）」と呼び希少性が高く、とても人気がある宝石です。   　[サファイアは9月の誕生石]  サファイアは人の意思や組織、経営の礎などをしっかり固め、基盤を作るのに有効な石とされています。  目標を貫徹する意志を持ち、惰性に流されない自分になれるように、手助けをしてくれると言われています。   また、集中力や直感力を高め、自分にとってその時必要なチャンスなどを掴む助けにもなってくれます。   カリスマ性、勝利運、金運などを高め、仕事に対して積極的な気持ちを持つのに有効な石でしょう。 まさに経営者、組織のリーダーにぴったりなストーンです。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません  *-*-*-* 幻想的な光のスター効果が美しい天然スターサファイア（1.030ct）。深く澄んだブルーが特徴の青玉（蒼玉）は、9月の誕生石として人気の高い天然石です。ルース（裸石）としてコレクションやオーダーアクセサリー、結婚記念日や特別な贈り物にもおすすめ。コランダム種の希少な一石は、パワーストーンとしても高い守護力を持つといわれています。 *-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ea5ae3f162d1fe64583b747ac32f9318.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "36000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/62249929",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/58161236": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/58161236#product",
+    "name": "天然石 スターサファイア 2.560ct 宝石ルース 裸石 蒼玉 青玉 9月誕生石 パワーストーン コランダム アクセサリーパーツ 高品質",
+    "description": "サイズ：縦7.5×横5×厚み5（mm） 重さ：2.560ct 天然石スターサファイア　｜　オーバルカボションカット 管理番号：ls001043  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-  サファイアまたは蒼玉、青玉（せいぎょく）は、コランダムの変種で、ダイヤモンドに次ぐ硬度の、赤色以外の色の宝石を言います。   語源は「青色」を意味するラテン語の「sapphirus（サッピルス）」、ギリシャ語の「sappheiros（サピロス）」に由来します。  サファイアはコランダムのうち宝石としての価値があり、かつ色が赤でないものをいい、不純物の違いで濃赤色を呈するものはルビー（不純物：クロム）と言います。  　[色・特殊効果]  ルビーの濃赤色や、サファイアのメインカラーである濃紺〜青紫色以外のものは、ファンシーカラーサファイアと呼ばれます。  ファンシーカラーサファイアのなかでも、ピンクがかったオレンジ色をしたものを特に｢パパラチア（Padparadscha蓮の花のつぼみの色の意）」と呼び希少性が高く、とても人気がある宝石です。   　[サファイアは9月の誕生石]  サファイアは人の意思や組織、経営の礎などをしっかり固め、基盤を作るのに有効な石とされています。  目標を貫徹する意志を持ち、惰性に流されない自分になれるように、手助けをしてくれると言われています。   また、集中力や直感力を高め、自分にとってその時必要なチャンスなどを掴む助けにもなってくれます。   カリスマ性、勝利運、金運などを高め、仕事に対して積極的な気持ちを持つのに有効な石でしょう。 まさに経営者、組織のリーダーにぴったりなストーンです。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません  *-*-*-*-*-*-* 9月誕生石として人気の天然スターサファイア。2.560ctの大粒ルースで、光に当たると星状の輝きを放つ美しい蒼玉（青玉）。コランダム系の高品質パワーストーンは、誠実さや知性を象徴します。アクセサリー制作やギフトにも最適です。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ec32ff1b8ab7b6b007fbee5bd80604d3.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/13b6ec1d59440333340a41c3a2cf5177.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "114000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/58161236",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/109147713": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/109147713#product",
+    "name": "スイスブルートパーズ AAA ルース （10×8mm） オーバルファセットカット 11月誕生石・天然石ルースストーン",
+    "description": "商品名：宝石質スイスブルートパーズAAA ルース オーバルファセットカット10×8mm  重さ・・・平均約3.13カラット程度 サイズ・・・約10×8×4〜5.5mm程度（±0.5mm） 穴なし（ルース・裸石） 色合い・・・ブルー　  ■ 美しい光を放つスイスブルートパーズのルースです！ ブラジル産の宝石質スイスブルートパーズを使用した、透明度の高い穴なしオーバルファセットカットです。 その美しいブルーは、まるで澄んだ空を映し込んだかのよう。どんなジュエリーにも映えること間違いなしです。  ・透明感があり、ジュエリー用のルースとして申し分ない品質です。あなたのクリエイティブなデザインにぴったりのアイテムとなります。 ・11月の誕生石としても人気の高いこの天然石は、大切な方へのギフトや、自分へのご褒美に最適です。 ・カラーストーンとしても個性的で、ファッションに合わせやすい絶妙な青色をお楽しみいただけます。  ※端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-  トパーズは、たくさんの色を持つ宝石です。和名は「黄玉（おうぎょく）」といい、黄色の他にもレッド、ピンク、オレンジ、ブルー、透明などのトパーズが存在します。  基本的に2種類に別れ、含まれる成分によって、OH（水酸基）タイプとFタイプ（フッ素）に分類されます。  OHタイプは屈折率が高く、光に長期間さらしても褪色しないとされます。ブラジル産のいわゆる「インペリアルトパーズ」がこれにあたり、橙や黄と言った色のトパーズや、ピンク系統色のトパーズが多いです。  一方、大半のトパーズはＦ-タイプとなります。ロシア、ナイジェリア、スリランカ、メキシコ、そして量は多くありませんが日本で産出するものは大抵このタイプです。色は無色、ブルー、ブラウンとあり、一般に出回っている「ブルートパーズ」のほとんどは、無色のものに放射線を照射したものです。  天然のブルートパーズは意外と少なく、色はライトブルーになります。また、ブラウンのF-タイプのものは、光に長時間さらしておくと褪色する傾向があるとされますので保存に要注意です。  宝石の硬さを示す硬度（最も硬いダイヤモンドの硬度は10）は8で、ルビーやサファイアに次いで硬い宝石です。また、透明度の高いトパーズを研磨すればダイヤモンドにも引けを取らない輝きを放ちます。  ポルトガル王家の王冠に輝く1 680カラットもある巨大なブラガンザの石は、ダイヤだと思われていましたが、実はトパーズだったという話があるほどです。  また硬いと言いつつも、ダイヤと同じように「劈開性」という、一方方向に割れやすい性質があるため慎重な取り扱いが必要となります。   　[11月の誕生石]  ブルートパーズは11月の誕生石で、「友情」「知性」「希望」といった宝石言葉を持ち、学問や教養をつかさどるといいます。  集中力を高めて頭の働きをよくする効果があることから、専門知識や技術を習得したい人におすすめです。そして、困難に遭遇してもあきらめずに目標達成できるよう導いてくれます。 また、幸運、喜び、豊かさというエネルギーをもつとされるパワーストーンとしても知られ、目標の達成に向け、成功へと導いてくれるでしょう。  *-*-*-*-*-*-* このスイスブルートパーズは、宝石質の天然石ルースです。 ジュエリー制作やハンドメイドアクセサリー、パワーストーンコレクションにもおすすめ。 裸石としての美しさを楽しめるほか、カラーストーンとしてリングやペンダントの制作にも最適です。 「天然石」「ルース」「ジュエリー素材」「ストーン」「カラーストーン」などをお探しの方にぴったりの商品です。 *-*-*-*-*-*-*  ★ その他の天然石ルースストーンはこちらから →　https://www.goodtimeschool.jp/categories/2509475   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  06012025 topaz001074",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/49826c676cfea3a66e949ca7ad845e47.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3bbee965ad4d0bc43c1e07c35bd08a46.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6740",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/109147713",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブルー"
+      }
+    ]
+  },
+  "/items/109147970": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/109147970#product",
+    "name": "宝石質シトリン AAA ルース （18×13mm） オーバルファセットカット 11月誕生石・天然石ルースストーン",
+    "description": "商品名：宝石質シトリンAAA ルース オーバルファセットカット18×13mm  重さ・・・平均約10.88カラット程度 サイズ・・・約17.5〜18×13×7〜10mm程度（±0.5mm） 穴なし（ルース・裸石） 色合い・・・イエロー 管理番号：la001094  ■ 鮮やかな色合いと透明感を兼ね備えた宝石質シトリンのルースストーンです。ブラジル産の天然石を使用し、質の高いオーバルファセットカットが施されています。  ・ほのかにあたたかみのあるイエローが魅力的で、様々なジュエリーにぴったりフィット。 ・透明度が高く、明るい発色に仕上げられており、特別な日のアクセサリーにも最適です。 ・11月の誕生石であり、誕生日プレゼントにもふさわしいアイテムです。 ・ファセットカットにより、光の反射が美しく、繊細な輝きを放ちます。 ・自分だけのオリジナルジュエリーを作成するための素材として、クリエイティブな楽しみを提供します。  ※端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 クリックポストにて翌日発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-  鉱物名は水晶（石英）と呼ばれ、和名を黄水晶(きずいしょう)と呼ばれるシトリン。 クォーツ、あるいは水晶というと無色透明のイメージがありますが、このシトリンは柑橘類の果実のように爽やかに、美しいイエローに色づいた、イエロー・クォーツです。  ヘレニズム時代(紀元前323年〜紀元前30年頃)、様々な文化が花開き、ヨーロッパ文明の基礎を築いたと名高いギリシャの地において、初めて宝飾品として重宝されていたようです。 また、幸運をもたらす石として信じていた民族もあります。  古代、人々は鉱物に今よりも特別な意味を定義していましたが、シトリンはその力強さ・珍しい色味から(実際、天然のシトリンの稀少性はきわめて高い)、魔除け、病気治癒、繁栄などの効果が求められました。  なお、シトリンの語源はインド原産の柑橘種「シトロン」です。 シトロンはジャムや飲料の果汁などに重宝されますが、レモンのように鮮やかなイエローをしていることが特徴で、シトリン鶯やシトリンセキレイなど、宝石のシトリン以外にも動植物の名前で用いられていることがあります。  実は、天然のシトリンはなかなか採掘されません。現在市場に出回るシトリンの多くが、アメジスト（紫水晶）やスモーキークォーツ(煙水晶)を熱処理したものです。  シトリンは11月の誕生石です。11月の誕生石にもう一つトパーズが挙げられますが、実はシトリンとトパーズは混同されていました。 確かにトパーズも石英と似たケイ酸塩鉱物にあたり、原石はなかなか区別がつきづらいでしょう。 実際はトパーズとは別物ですが、イギリスを始めとしたヨーロッパでシトリンを「シトリン・トパーズ」として販売していた歴史から、今なおこのように名づけられた商品も市場に出回っています。   [シトリンの意味・効果]  シトリンは、太陽の象徴と言われている非常に明るい力を持ったパワーストーンです。 特に、体内のエネルギー循環を手助けする力が強く、物質的・精神的に不必要なものを放出し、その結果求めるものを集める力を得るよう、サポートしてくれます。 古代から商人の間で「商売繁盛のお守り」「金運を呼ぶ石」として重宝されてきたパワーストーンです。  *-*-*-*-*-*-*-*-*- 黄水晶としても知られる「シトリン」は、11月の誕生石として人気の高い天然石です。 本商品は、透明感のある宝石質のシトリンルースで、オーバルファセットカットが美しく輝きます。 裸石としてそのまま飾るのはもちろん、アクセサリーパーツとしてもおすすめ。 ハンドメイドジュエリーや、ピアス・リング・ネックレスなどの手作り作品に取り入れやすいサイズ感です。 パワーストーンとしてのお守り効果を期待される方や、誕生日プレゼント・結婚記念日の贈り物としても人気です。 天然シトリン、宝石ルース、ジュエリー素材、ハンドメイド素材をお探しの方に最適な一点です。 *-*-*-*-*-*-*-*-*-  ★他の天然石ルースストーンはこちらから →　https://www.goodtimeschool.jp/categories/2509475   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。  citrine001089 06012025",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9617adb56ec513030293db4906fa070f.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b93aa02122b485ebd691bc169edfb61d.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3440",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/109147970",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "イエロー"
+      }
+    ]
+  },
+  "/items/60421873": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/60421873#product",
+    "name": "天然石 オパール 6.655ct プレシャスオパール 裸石 ルース 蛋白石 天然石 パワーストーン 10月誕生石 アクセサリー用 ギフト・記念日にも",
+    "description": "サイズ：縦17×横12.5×厚み5（mm） 重さ：6.655ct 天然オパール ｜ カボションカット 管理番号：lo001172  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  オパールとは、真珠のような光沢をもつ半透明の酸化鉱物の一種で、和名を蛋白石と言います。  　10月の誕生石の一つでもあるオパールは、「色の変化を見る」という意味のギリシャ語から由来するものと言われています。この色の変化、「プレイ・オブ・カラー（遊色効果）」は世界で愛される宝石の所以です。 　そして、いろいろな角度に傾けるたび、浮かび上がる多彩な色が独特の模様を表します。   　オパールという宝石は、七色の游色効果が有るか無いかで「プレシャス・オパール」と「コモン・オパール」に大別されます。  　七色の游色効果をもつ「プレシャス・オパール」の価値は、遊色効果がどのように見られるかと、その色であるといっても過言ではありません。また、オパールの種類によっても価値が異なります。 　基本的には、オパールの価値は遊色効果の見え方に尽きます。 　バランス良く遊色が見られ、そこに見られる色に暖色（赤やオレンジ等）が多いほど高く評価されます。  ローマ時代から「幸運を招く宝石」として女王や貴族に愛されてきたオパールは、「純真無垢」「忍耐」「歓喜」「希望」などの象徴石とされています。また身に着ける人のまだ見ぬ才能を開花させるパワーがあると信じられてきました。  オパールは10月の誕生石のひとつです。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*- 遊色効果が美しい天然プレシャスオパール（蛋白石）6.655ctのルースストーン。10月の誕生石として人気があり、希望・創造・癒しを象徴するパワーストーンとしても知られます。光の角度によって表情を変える虹色の輝きが魅力で、アクセサリー制作やルースコレクションに最適。結婚記念日や特別な贈り物にもふさわしい、高品質な天然石です。 *-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/0025c6de7ee64d502cb0b2b5ee8989d6.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "40500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/60421873",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/60421717": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/60421717#product",
+    "name": "天然石 オパール 5.790ct プレシャスオパール 裸石 ルース 蛋白石 天然石 10月誕生石 パワーストーン アクセサリーパーツ ギフト・記念日に",
+    "description": "サイズ：縦16×横12×厚み5（mm） 重さ：5.790ct 天然オパール ｜ カボションカット 管理番号：lo001168  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-  オパールとは、真珠のような光沢をもつ半透明の酸化鉱物の一種で、和名を蛋白石と言います。  　10月の誕生石の一つでもあるオパールは、「色の変化を見る」という意味のギリシャ語から由来するものと言われています。この色の変化、「プレイ・オブ・カラー（遊色効果）」は世界で愛される宝石の所以です。 　そして、いろいろな角度に傾けるたび、浮かび上がる多彩な色が独特の模様を表します。   　オパールという宝石は、七色の游色効果が有るか無いかで「プレシャス・オパール」と「コモン・オパール」に大別されます。  　七色の游色効果をもつ「プレシャス・オパール」の価値は、遊色効果がどのように見られるかと、その色であるといっても過言ではありません。また、オパールの種類によっても価値が異なります。 　基本的には、オパールの価値は遊色効果の見え方に尽きます。 　バランス良く遊色が見られ、そこに見られる色に暖色（赤やオレンジ等）が多いほど高く評価されます。  ローマ時代から「幸運を招く宝石」として女王や貴族に愛されてきたオパールは、「純真無垢」「忍耐」「歓喜」「希望」などの象徴石とされています。また身に着ける人のまだ見ぬ才能を開花させるパワーがあると信じられてきました。  オパールは10月の誕生石のひとつです。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*- 美しい遊色効果が魅力の天然プレシャスオパール（蛋白石）5.790ct。光の角度によって虹色の輝きを放ち、10月の誕生石としても人気の高いパワーストーンです。希望や創造性を象徴する石として、アクセサリー加工やジュエリーコレクションにも最適。結婚記念日や誕生日など、大切な人への贈り物にもふさわしい、高品質な天然ルースです。 *-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/268be48d9118d97947409c73f717dee1.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "31500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/60421717",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/60421363": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/60421363#product",
+    "name": "天然石 オパール 3.960ct プレシャスオパール 裸石 宝石 ルース 蛋白石 パワーストーン 10月誕生石 アクセサリー素材 ギフト・記念日にも",
+    "description": "サイズ：縦12.5×横9.5×厚み5（mm） 重さ：3.960ct 天然オパール ｜ カボションカット 管理番号：lo001164  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  オパールとは、真珠のような光沢をもつ半透明の酸化鉱物の一種で、和名を蛋白石と言います。  　10月の誕生石の一つでもあるオパールは、「色の変化を見る」という意味のギリシャ語から由来するものと言われています。この色の変化、「プレイ・オブ・カラー（遊色効果）」は世界で愛される宝石の所以です。 　そして、いろいろな角度に傾けるたび、浮かび上がる多彩な色が独特の模様を表します。   　オパールという宝石は、七色の游色効果が有るか無いかで「プレシャス・オパール」と「コモン・オパール」に大別されます。  　七色の游色効果をもつ「プレシャス・オパール」の価値は、遊色効果がどのように見られるかと、その色であるといっても過言ではありません。また、オパールの種類によっても価値が異なります。 　基本的には、オパールの価値は遊色効果の見え方に尽きます。 　バランス良く遊色が見られ、そこに見られる色に暖色（赤やオレンジ等）が多いほど高く評価されます。  ローマ時代から「幸運を招く宝石」として女王や貴族に愛されてきたオパールは、「純真無垢」「忍耐」「歓喜」「希望」などの象徴石とされています。また身に着ける人のまだ見ぬ才能を開花させるパワーがあると信じられてきました。  オパールは10月の誕生石のひとつです。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*- 幻想的な遊色効果が魅力の天然プレシャスオパール（蛋白石）3.960ct。10月の誕生石として人気があり、創造性や癒しを象徴するパワーストーンとしても注目されています。見る角度で変化する虹色の輝きが美しく、アクセサリー加工やルースコレクションにも最適。結婚記念日や誕生日など、特別な贈り物にもふさわしい高品質な天然石です。 *-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e4f4a586498265a0bc069ca22d753c1d.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "21600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/60421363",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/60421115": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/60421115#product",
+    "name": "天然石 オパール 7.500ct プレシャスオパール 裸石 ルース 蛋白石 天然石 パワーストーン 10月誕生石 アクセサリー用 ギフト・記念日に",
+    "description": "サイズ：縦19×横12.5×厚み4.5（mm） 重さ：7.500ct 天然オパール ｜ カボションカット 管理番号：lo001161  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*  オパールとは、真珠のような光沢をもつ半透明の酸化鉱物の一種で、和名を蛋白石と言います。  　10月の誕生石の一つでもあるオパールは、「色の変化を見る」という意味のギリシャ語から由来するものと言われています。この色の変化、「プレイ・オブ・カラー（遊色効果）」は世界で愛される宝石の所以です。 　そして、いろいろな角度に傾けるたび、浮かび上がる多彩な色が独特の模様を表します。   　オパールという宝石は、七色の游色効果が有るか無いかで「プレシャス・オパール」と「コモン・オパール」に大別されます。  　七色の游色効果をもつ「プレシャス・オパール」の価値は、遊色効果がどのように見られるかと、その色であるといっても過言ではありません。また、オパールの種類によっても価値が異なります。 　基本的には、オパールの価値は遊色効果の見え方に尽きます。 　バランス良く遊色が見られ、そこに見られる色に暖色（赤やオレンジ等）が多いほど高く評価されます。  ローマ時代から「幸運を招く宝石」として女王や貴族に愛されてきたオパールは、「純真無垢」「忍耐」「歓喜」「希望」などの象徴石とされています。また身に着ける人のまだ見ぬ才能を開花させるパワーがあると信じられてきました。  オパールは10月の誕生石のひとつです。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 存在感のある7.500ctの天然プレシャスオパール（蛋白石）は、見る角度で幻想的な遊色効果を楽しめる希少なルースです。10月の誕生石として知られ、癒しやインスピレーションをもたらすパワーストーンとしても人気。アクセサリー制作やコレクションに最適で、結婚記念日や誕生日など、大切な方への贈り物としてもおすすめの一石です。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e837e8fac2716072e79d83a42d0cd678.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "24900",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/60421115",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/60421064": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/60421064#product",
+    "name": "天然石 オパール 5.180ct プレシャスオパール 裸石 ルース 蛋白石 天然石 パワーストーン 10月誕生石 アクセサリー ギフト 記念日にも",
+    "description": "サイズ：縦17×横11.5×厚み4（mm） 重さ：5.180ct 天然オパール ｜ カボションカット 管理番号：lo001159  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  オパールとは、真珠のような光沢をもつ半透明の酸化鉱物の一種で、和名を蛋白石と言います。  　10月の誕生石の一つでもあるオパールは、「色の変化を見る」という意味のギリシャ語から由来するものと言われています。この色の変化、「プレイ・オブ・カラー（遊色効果）」は世界で愛される宝石の所以です。 　そして、いろいろな角度に傾けるたび、浮かび上がる多彩な色が独特の模様を表します。   　オパールという宝石は、七色の游色効果が有るか無いかで「プレシャス・オパール」と「コモン・オパール」に大別されます。  　七色の游色効果をもつ「プレシャス・オパール」の価値は、遊色効果がどのように見られるかと、その色であるといっても過言ではありません。また、オパールの種類によっても価値が異なります。 　基本的には、オパールの価値は遊色効果の見え方に尽きます。 　バランス良く遊色が見られ、そこに見られる色に暖色（赤やオレンジ等）が多いほど高く評価されます。  ローマ時代から「幸運を招く宝石」として女王や貴族に愛されてきたオパールは、「純真無垢」「忍耐」「歓喜」「希望」などの象徴石とされています。また身に着ける人のまだ見ぬ才能を開花させるパワーがあると信じられてきました。  オパールは10月の誕生石のひとつです。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 鮮やかな遊色が美しい天然プレシャスオパール（蛋白石）5.180ctのルース。光の角度で変化する虹色の輝きが魅力で、10月の誕生石として人気のパワーストーンです。癒しや希望を象徴し、アクセサリー制作やルースコレクションにも最適。存在感のあるサイズで、結婚記念日や誕生日など、大切な方への特別な贈り物にもおすすめです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b8c0883d710962f419b25d295f1a19ea.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "17100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/60421064",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/31328842": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/31328842#product",
+    "name": "天然石 オパール 8.570ct 宝石ルース 裸石 プレシャスオパール 10月誕生石 パワーストーン 蛋白石 天然石 アクセサリー用 高品質",
+    "description": "サイズ：縦19×横12×厚み6（mm） 重さ：8.570ct ライトオパール カボションカット 管理番号：lo001033  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  オパールとは、真珠のような光沢をもつ半透明の酸化鉱物の一種で、和名を蛋白石と言います。  　10月の誕生石の一つでもあるオパールは、「色の変化を見る」という意味のギリシャ語から由来するものと言われています。この色の変化、「プレイ・オブ・カラー（遊色効果）」は世界で愛される宝石の所以です。 　そして、いろいろな角度に傾けるたび、浮かび上がる多彩な色が独特の模様を表します。  　オパールという宝石は、七色の游色効果が有るか無いかで「プレシャス・オパール」と「コモン・オパール」に大別されます。  　七色の游色効果をもつ「プレシャス・オパール」の価値は、遊色効果がどのように見られるかと、その色であるといっても過言ではありません。また、オパールの種類によっても価値が異なります。 　基本的には、オパールの価値は遊色効果の見え方に尽きます。 　バランス良く遊色が見られ、そこに見られる色に暖色（赤やオレンジ等）が多いほど高く評価されます。  　プレシャスオパールは、地色がブラックからグレー色のブラックオパール、地色がホワイトから透明に近い色のホワイトオパール（ライトオパール、クリスタルオパール）、堆積岩や鉄鉱石などの母岩がついているボルダーオパール、オレンジ色の炎のような色のメキシコオパール（ウォーターオパール）、と色や形状で種類が分けられます。  　ローマ時代から「幸運を招く宝石」として女王や貴族に愛されてきたオパールは、「純真無垢」「忍耐」「歓喜」「希望」などの象徴石とされています。また身に着ける人のまだ見ぬ才能を開花させるパワーがあると信じられてきました。  オパールは10月の誕生石のひとつです。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 10月誕生石として人気の天然オパール。8.570ctの存在感ある大粒サイズで、美しい遊色効果が魅力のプレシャスオパールです。乳白色の蛋白石系で、感性を高めるパワーストーンとしても注目。アクセサリー制作やギフトに最適です。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/788cee36576d7dcd9faa934e2765fcb3.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "15000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/31328842",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/40585231": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/40585231#product",
+    "name": "レッドトルマリン 0.605ct 2個ペアセット 天然石ルース 裸石 パワーストーン トルマリン アクセサリーパーツ 赤色 結婚記念日 ギフト",
+    "description": "サイズ：縦4×横4×厚み3（mm） 2個ペアセット 重さ：0.605ct（2個合計の重さ）　 Round Brilliant Cut 管理番号：lt002002  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  豊富なカラーと電気性質を持つトルマリン  豊富なカラーバリエーションを持つトルマリンは、ブラック、ピンク、グリーン、ブルーなど多色に富み、それぞれ別々の鉱物名称があるほどです（例えば赤いトルマリンは「ルベライト」、濃い青色のものは「インディゴライト」など）。 トルマリンが持つ豊富なカラーは、パワーストーンの中でも最も多いと言われ、トルマリンには全ての色がある、と言われています。  もう一点、電気的な性質を持つ石として知られています。トルマリンは和名を「電気石」と言われ、摩擦や過熱により帯電するという特徴を持っています。  この石の結晶は柱状の形をし、両端がプラスとマイナスの電極を持ち、帯電します。これは水晶にも見られる性質ですが、トルマリンの方がより強い性質を持つ為に「電気石」と呼ばれるようになりました。   パワーストーンにおいて色の持つ影響力はとても大きく、トルマリンは基本的には、持ち主が本来持っている能力や人間的魅力を開花させ、ポジティブなエネルギーを増幅して、自分らしく輝けるようサポートしてくれるといわれています。  トルマリンは10月の誕生石です。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 希少な赤色が美しいレッドトルマリンのペアセット。合計0.605ctで、ピアスやペンダントに最適なサイズです。パワーストーンとしても人気があり、感情のバランスを整えると言われています。贈り物や記念日のギフトにもおすすめ。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/0ee79501a3bc9ea0acf2ab04b8aef54a.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/40585231",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "レッド"
+      }
+    ]
+  },
+  "/items/58548935": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/58548935#product",
+    "name": "天然石 翡翠 3.235ct ジェイダイト 裸石 宝石ルース 硬玉 ヒスイ輝石 ジェダイド 天然石 パワーストーン アクセサリー プレゼント",
+    "description": "サイズ：縦11×横8.5×厚み3.5（mm） 重さ：3.235ct 天然翡翠（ジェイダイト） カボションカット 管理番号：ja001019  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  翡翠（ジェイダイト）  ヒスイ（翡翠）は、深緑の半透明な宝石の一つで、東洋の宝石と呼ばれ、東洋（中国）や中南米（アステカ文明）では古くから人気が高い宝石で、金以上に珍重されました。古くは玉（ぎょく）と呼ばれていました。  鉱物学的には「翡翠」と呼ばれる石は化学組成の違いから硬玉（ヒスイ輝石）をジェイダイト (Jadeite)、軟玉（角閃石）をネフライト (Nephrite) と呼び、全く別の鉱物、ストーンとして扱っています。 但し、見た目ではなかなか区別がつかないため、以前では両方とも翡翠（ジェード）と呼ばれていましたが、今では価値があるとされている「硬玉（ジェイダイト）」を、「軟玉（ネフライト）」と区別するために本翡翠と呼ばれることもあります。  翡翠の産出地は世界的にも限られています。なお、中国のホータンで産出される翡翠（和田玉）は軟玉であり、よく誤解されていますが、中国に硬玉の産地は存在しません。  翡翠は5月の誕生石  翡翠は、安定・知恵・長寿・平穏・忍耐・飛躍・調和などと、この世の最も高みにある真理を追い求め、日々何かを学びとりその智慧を深めています。 さらに精神の安定をはかり、自分がさらなる高みにいけるように導いてくれるともいわれます。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 美しい透明感と深い緑が魅力の天然翡翠（ジェイダイト）3.235ct。硬玉としての希少性も高く、アクセサリーパーツやコレクション、プレゼントに最適です。古来より魔除けや癒しの石として親しまれたパワーストーンです。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/239b660dfec1f1f508e8498e08bf5b2d.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "35400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/58548935",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/53712986": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/53712986#product",
+    "name": "天然石 翡翠 11.541ct ジェイダイト 裸石 宝石ルース 硬玉 ヒスイ輝石 ソーティングメモ付き パワーストーン アクセサリー 贈り物",
+    "description": "サイズ：縦16×横12×厚み7（mm） 重さ：11.541ct 天然翡翠（ジェイダイト） カボション Cut ※ソーティングメモ付き 管理番号：ja001014  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  翡翠（ジェイダイト）  ヒスイ（翡翠）は、深緑の半透明な宝石の一つで、東洋の宝石と呼ばれ、東洋（中国）や中南米（アステカ文明）では古くから人気が高い宝石で、金以上に珍重されました。古くは玉（ぎょく）と呼ばれていました。  鉱物学的には「翡翠」と呼ばれる石は化学組成の違いから硬玉（ヒスイ輝石）をジェイダイト (Jadeite)、軟玉（角閃石）をネフライト (Nephrite) と呼び、全く別の鉱物、ストーンとして扱っています。 但し、見た目ではなかなか区別がつかないため、以前では両方とも翡翠（ジェード）と呼ばれていましたが、今では価値があるとされている「硬玉（ジェイダイト）」を、「軟玉（ネフライト）」と区別するために本翡翠と呼ばれることもあります。  翡翠の産出地は世界的にも限られています。なお、中国のホータンで産出される翡翠（和田玉）は軟玉であり、よく誤解されていますが、中国に硬玉の産地は存在しません。  　[翡翠は5月の誕生石]  翡翠は、安定・知恵・長寿・平穏・忍耐・飛躍・調和などと、この世の最も高みにある真理を追い求め、日々何かを学びとりその智慧を深めています。 さらに精神の安定をはかり、自分がさらなる高みにいけるように導いてくれるともいわれます。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 存在感ある11.541ctの天然翡翠（ジェイダイト）。硬玉特有の透明感と深みのある緑色が魅力です。信頼のソーティングメモ付きで、コレクションや高級アクセサリーの素材に最適。お守りや記念品、贈り物としてもおすすめの一品です。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/48c7bc9c397478a50c42e9c3c73b3cbc.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "144000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/53712986",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/53712922": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/53712922#product",
+    "name": "天然石 翡翠 8.720ct ジェイダイト 裸石 宝石ルース 硬玉 ヒスイ輝石 ソーティングメモ付き パワーストーン 天然石 アクセサリー 贈り物",
+    "description": "サイズ：縦17×横11.5×厚み5（mm） 重さ：8.720ct 天然翡翠（ジェイダイト） カボション Cut ※ソーティングメモ付き 管理番号：ja001013  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  翡翠（ジェイダイト）  ヒスイ（翡翠）は、深緑の半透明な宝石の一つで、東洋の宝石と呼ばれ、東洋（中国）や中南米（アステカ文明）では古くから人気が高い宝石で、金以上に珍重されました。古くは玉（ぎょく）と呼ばれていました。  鉱物学的には「翡翠」と呼ばれる石は化学組成の違いから硬玉（ヒスイ輝石）をジェイダイト (Jadeite)、軟玉（角閃石）をネフライト (Nephrite) と呼び、全く別の鉱物、ストーンとして扱っています。 但し、見た目ではなかなか区別がつかないため、以前では両方とも翡翠（ジェード）と呼ばれていましたが、今では価値があるとされている「硬玉（ジェイダイト）」を、「軟玉（ネフライト）」と区別するために本翡翠と呼ばれることもあります。  翡翠の産出地は世界的にも限られています。なお、中国のホータンで産出される翡翠（和田玉）は軟玉であり、よく誤解されていますが、中国に硬玉の産地は存在しません。  　[翡翠は5月の誕生石]  翡翠は、安定・知恵・長寿・平穏・忍耐・飛躍・調和などと、この世の最も高みにある真理を追い求め、日々何かを学びとりその智慧を深めています。 さらに精神の安定をはかり、自分がさらなる高みにいけるように導いてくれるともいわれます。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 8.720ctの上質な天然翡翠（ジェイダイト）です。深みある緑色と艶やかな光沢が魅力。硬玉ならではのしっかりとした質感で、アクセサリー加工やコレクションに最適です。安心のソーティングメモ付き。お守りや記念日の贈り物にもおすすめ。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9a835c7a28e40fd68c69b1626a9839dc.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "105000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/53712922",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/53712796": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/53712796#product",
+    "name": "天然石 翡翠 4.971ct ジェイダイト 裸石 宝石ルース 硬玉 ヒスイ輝石 ソーティングメモ付き 天然石 パワーストーン 贈り物 アクセサリー用",
+    "description": "サイズ：縦12.5×横9×厚み4.5（mm） 重さ：4.971ct 天然翡翠（ジェイダイト） カボション Cut ソーティングメモ付き 管理番号：ja001012  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  翡翠（ジェイダイト）  ヒスイ（翡翠）は、深緑の半透明な宝石の一つで、東洋の宝石と呼ばれ、東洋（中国）や中南米（アステカ文明）では古くから人気が高い宝石で、金以上に珍重されました。古くは玉（ぎょく）と呼ばれていました。  鉱物学的には「翡翠」と呼ばれる石は化学組成の違いから硬玉（ヒスイ輝石）をジェイダイト (Jadeite)、軟玉（角閃石）をネフライト (Nephrite) と呼び、全く別の鉱物、ストーンとして扱っています。 但し、見た目ではなかなか区別がつかないため、以前では両方とも翡翠（ジェード）と呼ばれていましたが、今では価値があるとされている「硬玉（ジェイダイト）」を、「軟玉（ネフライト）」と区別するために本翡翠と呼ばれることもあります。  翡翠の産出地は世界的にも限られています。なお、中国のホータンで産出される翡翠（和田玉）は軟玉であり、よく誤解されていますが、中国に硬玉の産地は存在しません。  　[翡翠は5月の誕生石]  翡翠は、安定・知恵・長寿・平穏・忍耐・飛躍・調和などと、この世の最も高みにある真理を追い求め、日々何かを学びとりその智慧を深めています。 さらに精神の安定をはかり、自分がさらなる高みにいけるように導いてくれるともいわれます。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 4.971ctの天然翡翠（ジェイダイト）ルース。上質な光沢と淡いグリーンが美しく、硬玉のしっかりとした質感が魅力です。ソーティングメモ付きで品質も安心。アクセサリー加工やパワーストーンのお守り、記念日のギフトにもおすすめです。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/8e721166242823e1d54dcc08e7a45183.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "60000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/53712796",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/53712753": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/53712753#product",
+    "name": "天然石 翡翠 9.420ct ジェイダイト 裸石 宝石ルース 硬玉 ヒスイ輝石 ソーティングメモ付き 天然石 パワーストーン アクセサリー用 贈り物にも",
+    "description": "サイズ：縦16×横12.5×厚み5.5（mm） 重さ：9.420ct 天然翡翠（ジェイダイト） カボション Cut ※表面にキズあり ※ソーティングメモ付き 管理番号：ja001011  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  翡翠（ジェイダイト）  ヒスイ（翡翠）は、深緑の半透明な宝石の一つで、東洋の宝石と呼ばれ、東洋（中国）や中南米（アステカ文明）では古くから人気が高い宝石で、金以上に珍重されました。古くは玉（ぎょく）と呼ばれていました。  鉱物学的には「翡翠」と呼ばれる石は化学組成の違いから硬玉（ヒスイ輝石）をジェイダイト (Jadeite)、軟玉（角閃石）をネフライト (Nephrite) と呼び、全く別の鉱物、ストーンとして扱っています。 但し、見た目ではなかなか区別がつかないため、以前では両方とも翡翠（ジェード）と呼ばれていましたが、今では価値があるとされている「硬玉（ジェイダイト）」を、「軟玉（ネフライト）」と区別するために本翡翠と呼ばれることもあります。  翡翠の産出地は世界的にも限られています。なお、中国のホータンで産出される翡翠（和田玉）は軟玉であり、よく誤解されていますが、中国に硬玉の産地は存在しません。  　[翡翠は5月の誕生石]  翡翠は、安定・知恵・長寿・平穏・忍耐・飛躍・調和などと、この世の最も高みにある真理を追い求め、日々何かを学びとりその智慧を深めています。 さらに精神の安定をはかり、自分がさらなる高みにいけるように導いてくれるともいわれます。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 9.420ctの存在感ある天然翡翠（ジェイダイト）ルース。高品質な硬玉で、深みのある美しいグリーンが魅力。ソーティングメモ付きで信頼性も抜群。アクセサリー加工や記念日のプレゼント、開運パワーストーンとしてもおすすめの一品です。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5a6134ef269ca0ba89741b4c810089ba.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "68700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/53712753",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/53712711": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/53712711#product",
+    "name": "天然石 翡翠 8.863ct ジェイダイト 裸石 ヒスイ 宝石ルース 硬玉 ヒスイ輝石 ソーティングメモ付き パワーストーン アクセサリー素材に",
+    "description": "サイズ：縦15×横12×厚み6（mm） 重さ：8.863ct 天然翡翠（ジェイダイト） カボション Cut ソーティングメモ付き 管理番号：ja001010  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  翡翠（ジェイダイト）  ヒスイ（翡翠）は、深緑の半透明な宝石の一つで、東洋の宝石と呼ばれ、東洋（中国）や中南米（アステカ文明）では古くから人気が高い宝石で、金以上に珍重されました。古くは玉（ぎょく）と呼ばれていました。  鉱物学的には「翡翠」と呼ばれる石は化学組成の違いから硬玉（ヒスイ輝石）をジェイダイト (Jadeite)、軟玉（角閃石）をネフライト (Nephrite) と呼び、全く別の鉱物、ストーンとして扱っています。 但し、見た目ではなかなか区別がつかないため、以前では両方とも翡翠（ジェード）と呼ばれていましたが、今では価値があるとされている「硬玉（ジェイダイト）」を、「軟玉（ネフライト）」と区別するために本翡翠と呼ばれることもあります。  翡翠の産出地は世界的にも限られています。なお、中国のホータンで産出される翡翠（和田玉）は軟玉であり、よく誤解されていますが、中国に硬玉の産地は存在しません。  　[翡翠は5月の誕生石]  翡翠は、安定・知恵・長寿・平穏・忍耐・飛躍・調和などと、この世の最も高みにある真理を追い求め、日々何かを学びとりその智慧を深めています。 さらに精神の安定をはかり、自分がさらなる高みにいけるように導いてくれるともいわれます。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 8.863ctの高品質な天然翡翠（ジェイダイト）ルース。鮮やかな色味と透明感のある硬玉で、存在感も抜群。ソーティングメモ付きで信頼性が高く、アクセサリー加工や記念日の贈り物、パワーストーンとしても人気の天然石です。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/34b5ac928091d53b09f0034bb80d154c.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "84000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/53712711",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/53712671": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/53712671#product",
+    "name": "天然石 翡翠 13.740ct ジェイダイト 裸石 ヒスイ 宝石ルース 硬玉 ヒスイ輝石 ソーティングメモ付き パワーストーン ギフトに最適",
+    "description": "サイズ：縦16.5×横13×厚み7.5（mm） 重さ：13.740ct 天然翡翠（ジェイダイト） カボション Cut ソーティングメモ付き 管理番号：ja001009  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  翡翠（ジェイダイト）  ヒスイ（翡翠）は、深緑の半透明な宝石の一つで、東洋の宝石と呼ばれ、東洋（中国）や中南米（アステカ文明）では古くから人気が高い宝石で、金以上に珍重されました。古くは玉（ぎょく）と呼ばれていました。  鉱物学的には「翡翠」と呼ばれる石は化学組成の違いから硬玉（ヒスイ輝石）をジェイダイト (Jadeite)、軟玉（角閃石）をネフライト (Nephrite) と呼び、全く別の鉱物、ストーンとして扱っています。 但し、見た目ではなかなか区別がつかないため、以前では両方とも翡翠（ジェード）と呼ばれていましたが、今では価値があるとされている「硬玉（ジェイダイト）」を、「軟玉（ネフライト）」と区別するために本翡翠と呼ばれることもあります。  翡翠の産出地は世界的にも限られています。なお、中国のホータンで産出される翡翠（和田玉）は軟玉であり、よく誤解されていますが、中国に硬玉の産地は存在しません。  　[翡翠は5月の誕生石]  翡翠は、安定・知恵・長寿・平穏・忍耐・飛躍・調和などと、この世の最も高みにある真理を追い求め、日々何かを学びとりその智慧を深めています。 さらに精神の安定をはかり、自分がさらなる高みにいけるように導いてくれるともいわれます。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 13.740ctの迫力ある天然翡翠（ジェイダイト）ルース。滑らかな光沢と深みのあるグリーンが魅力の希少な硬玉です。信頼のソーティングメモ付きで、アクセサリー加工・コレクション・贈り物・開運アイテムとしてもおすすめのパワーストーンです。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6ebf8ef839011c65538acca664baba85.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "129000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/53712671",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/53712638": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/53712638#product",
+    "name": "天然石 翡翠 10.550ct ジェイダイト 裸石 ヒスイ 宝石ルース 硬玉 ヒスイ輝石 ソーティングメモ付き パワーストーン 贈り物にも",
+    "description": "サイズ：縦16.5×横13×厚み5（mm） 重さ：10.550ct 天然翡翠（ジェイダイト） カボション Cut ソーティングメモ付き 管理番号：ja001008  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  翡翠（ジェイダイト）  ヒスイ（翡翠）は、深緑の半透明な宝石の一つで、東洋の宝石と呼ばれ、東洋（中国）や中南米（アステカ文明）では古くから人気が高い宝石で、金以上に珍重されました。古くは玉（ぎょく）と呼ばれていました。  鉱物学的には「翡翠」と呼ばれる石は化学組成の違いから硬玉（ヒスイ輝石）をジェイダイト (Jadeite)、軟玉（角閃石）をネフライト (Nephrite) と呼び、全く別の鉱物、ストーンとして扱っています。 但し、見た目ではなかなか区別がつかないため、以前では両方とも翡翠（ジェード）と呼ばれていましたが、今では価値があるとされている「硬玉（ジェイダイト）」を、「軟玉（ネフライト）」と区別するために本翡翠と呼ばれることもあります。  翡翠の産出地は世界的にも限られています。なお、中国のホータンで産出される翡翠（和田玉）は軟玉であり、よく誤解されていますが、中国に硬玉の産地は存在しません。  　[翡翠は5月の誕生石]  翡翠は、安定・知恵・長寿・平穏・忍耐・飛躍・調和などと、この世の最も高みにある真理を追い求め、日々何かを学びとりその智慧を深めています。 さらに精神の安定をはかり、自分がさらなる高みにいけるように導いてくれるともいわれます。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 艶やかな光沢と上質なグリーンが美しい、天然翡翠（ジェイダイト）10.550ctの宝石ルース。硬玉ならではの高い希少性と落ち着いた存在感が魅力。ソーティングメモ付きで安心。コレクションやアクセサリー加工、贈り物にもおすすめのパワーストーンです。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/aa2b5137b625899a80a77e29615a914a.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "80400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/53712638",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/50579298": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/50579298#product",
+    "name": "天然石 ラベンダー翡翠 8.703ct ジェイダイト 裸石 ヒスイ 宝石ルース 硬玉 ソーティングメモ付き パワーストーン 希少カラー",
+    "description": "サイズ：縦15.1×横11.1×厚み5.4（mm）　 重さ：8.703ct 天然ラベンダー翡翠（ジェイダイト） カボション Cut ※ソーティングメモ付き 管理番号：ja001002  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  翡翠（ジェイダイト）  ヒスイ（翡翠）は、深緑の半透明な宝石の一つで、東洋の宝石と呼ばれ、東洋（中国）や中南米（アステカ文明）では古くから人気が高い宝石で、金以上に珍重されました。古くは玉（ぎょく）と呼ばれていました。  鉱物学的には「翡翠」と呼ばれる石は化学組成の違いから硬玉（ヒスイ輝石）をジェイダイト (Jadeite)、軟玉（角閃石）をネフライト (Nephrite) と呼び、全く別の鉱物、ストーンとして扱っています。 但し、見た目ではなかなか区別がつかないため、以前では両方とも翡翠（ジェード）と呼ばれていましたが、今では価値があるとされている「硬玉（ジェイダイト）」を、「軟玉（ネフライト）」と区別するために本翡翠と呼ばれることもあります。  翡翠の産出地は世界的にも限られています。なお、中国のホータンで産出される翡翠（和田玉）は軟玉であり、よく誤解されていますが、中国に硬玉の産地は存在しません。   ラベンダー・ヒスイ（ラベンダー翡翠）  ラベンダーの花のような紫色の本ヒスイ（硬玉（ジェイダイト））をラベンダーヒスイと言います。 本ヒスイの本来の色彩は白色ですが、クロムの混入などが原因で緑色を呈するようになり、宝石に利用されるようになりました。本ヒスイは白色と緑色のものが大部分であり、他の色彩のものはカラーダイヤモンドのように例外的な存在として扱われます。 特殊な色彩の中で、産出量が比較的多いのが紫色です。西洋では、ヒスイは宝石として取り扱われていませんが、ラベンダー・ヒスイはアメリカ人に人気があるストーンです。  　[翡翠は5月の誕生石]  翡翠は、安定・知恵・長寿・平穏・忍耐・飛躍・調和などと、この世の最も高みにある真理を追い求め、日々何かを学びとりその智慧を深めています。 さらに精神の安定をはかり、自分がさらなる高みにいけるように導いてくれるともいわれます。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 希少なラベンダーカラーが魅力の天然翡翠（ジェイダイト）8.703ct。柔らかな色合いと透明感が特徴で、硬玉ならではの高品質。ソーティングメモ付きで安心の一点。アクセサリー制作はもちろん、大切な方への贈り物やコレクションにもおすすめです。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a9f2e023bf74f58adaa86d1ca78b78f3.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "14400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/50579298",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ラベンダー"
+      }
+    ]
+  },
+  "/items/50576829": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/50576829#product",
+    "name": "天然石 クォーツァイト 11.176ct 珪岩 宝石ルース 裸石 パワーストーン ソーティングメモ付き アクセサリー用 天然石",
+    "description": "サイズ：縦18×横13×厚み6.5（mm） 重さ：11.176ct 天然クォーツァイト カボション Cut ※ソーティングメモ付き 管理番号：lq001004  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  クォーツァイトは和名で珪岩（けいがん）と呼ばれ、チャートや珪質砂岩が熱による変成（接触変成作用）を受けた変成岩です。 元の岩石に含まれていた石英（SiO2）が再結晶して大きくなったものです。  変成作用とは、岩石が熱や圧力の影響でその構造を変えたり、鉱物の組成が変化することをいいます。 その結果、細かい結晶がたくさん集まった状態になるので、できた隙間を生かして様々な色に染色することができ、模造ひすい等として重宝されてきました。  天然でも、内包する不純物によって、緑、青、黄色などさまざまな色のものがありますが、不純物をほとんど含まないクォーツァイトは、半透明の灰色っぽい白となります。  クロム雲母等の金属の結晶が平行に並んで内包され、きらきらと光る効果のことをアベンチュレッセンスといいますが、天然の緑色のクォーツァイトでアベンチュレッセンスが見られるものはアベンチュリンと呼ばれます。  インドで産出されるグリーンのアベンチュリンはインド翡翠とも呼ばれ、仏像の眼にも使われています。 一方、天然でアベンチュレッセンスのないものをグリーンクォーツァイトといい、独特の緑色が人気です。  クォーツァイトの主な産地は、インド、ブラジル、アメリカ等です。   [クォーツァイトのパワー]  クォーツァイトは、流れに抗うことがありません。 抵抗したり、反対したり、強く主張することなく流れに身を任せながら、合意出来るものには賛成し肯定していくことで、スムーズに事を運んでいきます。 クォーツァイトには、心を満たし尽くす本質的な豊かさや、安らぎがあります。 そして、川のせせらぎのように心を穏やかにし、安らぎを与えてくれます。  さらさらと流れる川に手を入れ、その清らかさや、手に当たる川の流れのリズムが、あなたの心を優しく調律するように、安らぎと安心感をもたらしてくれるでしょう。  そして、時の運を味方につけ、成功を導いてくれるパワーを持っています。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*- 天然クォーツァイト（珪岩）11.176ctの宝石ルース。落ち着いた色合いと高い透明感が魅力で、パワーストーンとしても人気。ソーティングメモ付きで安心の品質。アクセサリー制作やコレクション、贈り物としてもおすすめの一品です。 *-*-*-*-*-*-  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/39e27cdd490876fb43f900da5f0e7ac2.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/50576829",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/50576562": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/50576562#product",
+    "name": "天然石 クォーツァイト 10.990ct 珪岩 宝石ルース 裸石 パワーストーン アクセサリー用 天然石 ソーティングメモ付き",
+    "description": "サイズ：縦20×横14.9×厚み4.8（mm）　 重さ：10.990ct 天然クォーツァイト カボション Cut ※ソーティングメモ付き 管理番号：lq001002  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  クォーツァイトは和名で珪岩（けいがん）と呼ばれ、チャートや珪質砂岩が熱による変成（接触変成作用）を受けた変成岩です。 元の岩石に含まれていた石英（SiO2）が再結晶して大きくなったものです。  変成作用とは、岩石が熱や圧力の影響でその構造を変えたり、鉱物の組成が変化することをいいます。 その結果、細かい結晶がたくさん集まった状態になるので、できた隙間を生かして様々な色に染色することができ、模造ひすい等として重宝されてきました。  天然でも、内包する不純物によって、緑、青、黄色などさまざまな色のものがありますが、不純物をほとんど含まないクォーツァイトは、半透明の灰色っぽい白となります。  クロム雲母等の金属の結晶が平行に並んで内包され、きらきらと光る効果のことをアベンチュレッセンスといいますが、天然の緑色のクォーツァイトでアベンチュレッセンスが見られるものはアベンチュリンと呼ばれます。  インドで産出されるグリーンのアベンチュリンはインド翡翠とも呼ばれ、仏像の眼にも使われています。 一方、天然でアベンチュレッセンスのないものをグリーンクォーツァイトといい、独特の緑色が人気です。  クォーツァイトの主な産地は、インド、ブラジル、アメリカ等です。   [クォーツァイトのパワー]  クォーツァイトは、流れに抗うことがありません。 抵抗したり、反対したり、強く主張することなく流れに身を任せながら、合意出来るものには賛成し肯定していくことで、スムーズに事を運んでいきます。 クォーツァイトには、心を満たし尽くす本質的な豊かさや、安らぎがあります。 そして、川のせせらぎのように心を穏やかにし、安らぎを与えてくれます。  さらさらと流れる川に手を入れ、その清らかさや、手に当たる川の流れのリズムが、あなたの心を優しく調律するように、安らぎと安心感をもたらしてくれるでしょう。  そして、時の運を味方につけ、成功を導いてくれるパワーを持っています。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  端末の種類、モニターの環境により実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*- 天然クォーツァイト（珪岩）10.990ctの宝石ルース。優しい輝きとナチュラルな質感が魅力。ソーティングメモ付きで品質も安心。アクセサリー制作やお守り、コレクションに最適。パワーストーンとしても人気の高い天然石です。 *-*-*-*-*-*-   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1d089589cdd1e784ccd891faafab1799.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/50576562",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/50576481": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/50576481#product",
+    "name": "天然石 クォーツァイト 7.578ct 珪岩 宝石ルース 裸石 パワーストーン アクセサリーパーツ 天然石 ソーティングメモ付き",
+    "description": "サイズ：縦18×横13×厚み4.6（mm） 重さ：7.578ct 天然クォーツァイト カボション Cut ※ソーティングメモ付き 管理番号：lq001001  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  クォーツァイトは和名で珪岩（けいがん）と呼ばれ、チャートや珪質砂岩が熱による変成（接触変成作用）を受けた変成岩です。 元の岩石に含まれていた石英（SiO2）が再結晶して大きくなったものです。  変成作用とは、岩石が熱や圧力の影響でその構造を変えたり、鉱物の組成が変化することをいいます。 その結果、細かい結晶がたくさん集まった状態になるので、できた隙間を生かして様々な色に染色することができ、模造ひすい等として重宝されてきました。  天然でも、内包する不純物によって、緑、青、黄色などさまざまな色のものがありますが、不純物をほとんど含まないクォーツァイトは、半透明の灰色っぽい白となります。  クロム雲母等の金属の結晶が平行に並んで内包され、きらきらと光る効果のことをアベンチュレッセンスといいますが、天然の緑色のクォーツァイトでアベンチュレッセンスが見られるものはアベンチュリンと呼ばれます。  インドで産出されるグリーンのアベンチュリンはインド翡翠とも呼ばれ、仏像の眼にも使われています。 一方、天然でアベンチュレッセンスのないものをグリーンクォーツァイトといい、独特の緑色が人気です。  クォーツァイトの主な産地は、インド、ブラジル、アメリカ等です。   [クォーツァイトのパワー]  クォーツァイトは、流れに抗うことがありません。 抵抗したり、反対したり、強く主張することなく流れに身を任せながら、合意出来るものには賛成し肯定していくことで、スムーズに事を運んでいきます。 クォーツァイトには、心を満たし尽くす本質的な豊かさや、安らぎがあります。 そして、川のせせらぎのように心を穏やかにし、安らぎを与えてくれます。  さらさらと流れる川に手を入れ、その清らかさや、手に当たる川の流れのリズムが、あなたの心を優しく調律するように、安らぎと安心感をもたらしてくれるでしょう。  そして、時の運を味方につけ、成功を導いてくれるパワーを持っています。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*- 天然クォーツァイト（珪岩）7.578ctのルースストーン。透明感と落ち着いた風合いが魅力で、パワーストーンやアクセサリーパーツとしても人気です。信頼のソーティングメモ付き。コレクションや贈り物にもおすすめの天然石です。 *-*-*-*-*-*-   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9b21ca70981f8c889b9ebf40ffe9d7dd.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "2400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/50576481",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/36414777": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/36414777#product",
+    "name": "ルース 天然石 ラピスラズリ 5.670ct 裸石 パワーストーン 12月誕生石 瑠璃 ジュエリー ハンドメイド アクセサリーパーツ 宝石",
+    "description": "サイズ：縦14×横9×厚み5（mm） 重さ：5.670ct ラピスラズリ（瑠璃） カボションカット　　　※かすかなヒビがあります。 管理番号：ll001011  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  ラピスラズリ (lapis lazuli) は、和名では瑠璃（るり）といい、深い青色から藍色の宝石で、しばしば黄鉄鉱の粒を含んで夜空の様な輝きを持ちます。  人類に認知され、利用された鉱物として最古のものとされています。 エジプト、シュメール、バビロニアなどの古代から、宝石として、また顔料ウルトラマリンの原料として珍重されてきました。 日本ではトルコ石と共に12月のほかに9月の誕生石とされています。  ラピスはラテン語で「石」 (Lapis)、ラズリはトルキスタンにあるペルシア語地名 （lazhward）が起源で、それがアラビア語に入って 'lazward'（天・空・青などの意でアジュールの語源）で「群青の空の色」を意味します。 ラピスラズリ (lapis lazuli) は、ラテン語で「lazhwardの石 (lapis)」という意味だそうです。  日本では、ラピスラズリは瑠璃と呼ばれ、仏教の七宝のひとつとされ、仏典『無量寿経』や『法華経』に瑠璃の記述があります。 奈良の正倉院の宝物庫には、紺玉帯と呼ばれるラピスラズリで飾られた黒漆塗の牛革製ベルトが収められています。 女性の名前でも「瑠璃」さんっていますよね。宝のように大事なお子様として名付けられたのでしょう。   [最強の聖石]  12月の誕生石としても有名なラピスラズリは、世界でパワーを最初に認識された石、「最強の聖石」とされています。 地面の属性で第6チャクラ(額)、第7チャクラ(頭部)を活性化させるとされ、効能として人間関係の改善、頭脳を明晰化させる、強運を導く、頭痛の軽減、喉の痛みの軽減などが信じられています。  「幸運を招く石」といわれ、邪気を退け、正しい判断力を高め、最高の幸運を呼び寄せてくれるとされる最古のパワーストーンは、運が落ちていると感じたとき、進むべき道に迷いが生じたときなどに身につけるとよいでしょう。  かつてラピスラズリがパワーストーンとしてブームと言えるほどの盛り上がりがあったことがありました。その要因の一つにエドガーケイシーのラピスラズリについてのリーディングが引用されたことも大きかったと思われますが、後の研究によってエドガーケイシーの言ったラピスラズリとは、実はアズライトのことであったようです。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 夜空のような深い青に金色のパイライトが輝く天然ラピスラズリのルースストーンです。5.670ctの存在感があり、リングやネックレスなどのハンドメイドジュエリーに最適。古くから幸運と知恵をもたらす12月の誕生石として愛され、お守りや贈り物にもおすすめです。スピリチュアルな意味を持つ神秘的な石をぜひ手に取ってご体感ください。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1f6a1d31092509995a0f2f03f9854f46.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3600",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/36414777",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "紺"
+      }
+    ]
+  },
+  "/items/36414734": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/36414734#product",
+    "name": "ルース 天然石 ラピスラズリ 6.020ct 裸石 2ピースセット パワーストーン 12月誕生石 瑠璃 ハンドメイド ジュエリー用",
+    "description": "サイズ：縦11×横9×厚み5（mm） 重さ：6.020ct　※２pc合計の重さ ラピスラズリ（瑠璃） 変形（前歯のような形です）　　2pcセットです 管理番号：ll001009  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  ラピスラズリ (lapis lazuli) は、和名では瑠璃（るり）といい、深い青色から藍色の宝石で、しばしば黄鉄鉱の粒を含んで夜空の様な輝きを持ちます。  人類に認知され、利用された鉱物として最古のものとされています。 エジプト、シュメール、バビロニアなどの古代から、宝石として、また顔料ウルトラマリンの原料として珍重されてきました。 日本ではトルコ石と共に12月のほかに9月の誕生石とされています。  ラピスはラテン語で「石」 (Lapis)、ラズリはトルキスタンにあるペルシア語地名 （lazhward）が起源で、それがアラビア語に入って 'lazward'（天・空・青などの意でアジュールの語源）で「群青の空の色」を意味します。 ラピスラズリ (lapis lazuli) は、ラテン語で「lazhwardの石 (lapis)」という意味だそうです。  日本では、ラピスラズリは瑠璃と呼ばれ、仏教の七宝のひとつとされ、仏典『無量寿経』や『法華経』に瑠璃の記述があります。 奈良の正倉院の宝物庫には、紺玉帯と呼ばれるラピスラズリで飾られた黒漆塗の牛革製ベルトが収められています。 女性の名前でも「瑠璃」さんっていますよね。宝のように大事なお子様として名付けられたのでしょう。   [最強の聖石]  12月の誕生石としても有名なラピスラズリは、世界でパワーを最初に認識された石、「最強の聖石」とされています。 地面の属性で第6チャクラ(額)、第7チャクラ(頭部)を活性化させるとされ、効能として人間関係の改善、頭脳を明晰化させる、強運を導く、頭痛の軽減、喉の痛みの軽減などが信じられています。  「幸運を招く石」といわれ、邪気を退け、正しい判断力を高め、最高の幸運を呼び寄せてくれるとされる最古のパワーストーンは、運が落ちていると感じたとき、進むべき道に迷いが生じたときなどに身につけるとよいでしょう。  かつてラピスラズリがパワーストーンとしてブームと言えるほどの盛り上がりがあったことがありました。その要因の一つにエドガーケイシーのラピスラズリについてのリーディングが引用されたことも大きかったと思われますが、後の研究によってエドガーケイシーの言ったラピスラズリとは、実はアズライトのことであったようです。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 深い青に金の輝きを宿すラピスラズリのルース2ピースセット。総重量6.020ctで、リングやピアスなどハンドメイドジュエリーに最適です。古来より「真実と英知」を象徴する12月の誕生石として愛され、パワーストーンとしての意味合いも人気です。幻想的な瑠璃色と星のような煌めきを楽しむ、お守りやギフトにもふさわしい天然石です。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1279536e9f0c3dba44aa27025f115adf.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/36414734",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "紺"
+      }
+    ]
+  },
+  "/items/36402778": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/36402778#product",
+    "name": "ルース 天然石 ラピスラズリ 31.615ct 裸石 パワーストーン 12月誕生石 瑠璃 ジュエリー素材 アクセサリーパーツ",
+    "description": "サイズ：直径16（mm）　　 重さ：31.615ct ラピスラズリ（瑠璃） ラウンドボール ビーズ（球形）　片穴　 管理番号：ll001007  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  ラピスラズリ (lapis lazuli) は、和名では瑠璃（るり）といい、深い青色から藍色の宝石で、しばしば黄鉄鉱の粒を含んで夜空の様な輝きを持ちます。  人類に認知され、利用された鉱物として最古のものとされています。 エジプト、シュメール、バビロニアなどの古代から、宝石として、また顔料ウルトラマリンの原料として珍重されてきました。 日本ではトルコ石と共に12月のほかに9月の誕生石とされています。  ラピスはラテン語で「石」 (Lapis)、ラズリはトルキスタンにあるペルシア語地名 （lazhward）が起源で、それがアラビア語に入って 'lazward'（天・空・青などの意でアジュールの語源）で「群青の空の色」を意味します。 ラピスラズリ (lapis lazuli) は、ラテン語で「lazhwardの石 (lapis)」という意味だそうです。  日本では、ラピスラズリは瑠璃と呼ばれ、仏教の七宝のひとつとされ、仏典『無量寿経』や『法華経』に瑠璃の記述があります。 奈良の正倉院の宝物庫には、紺玉帯と呼ばれるラピスラズリで飾られた黒漆塗の牛革製ベルトが収められています。 女性の名前でも「瑠璃」さんっていますよね。宝のように大事なお子様として名付けられたのでしょう。   [最強の聖石]  12月の誕生石としても有名なラピスラズリは、世界でパワーを最初に認識された石、「最強の聖石」とされています。 地面の属性で第6チャクラ(額)、第7チャクラ(頭部)を活性化させるとされ、効能として人間関係の改善、頭脳を明晰化させる、強運を導く、頭痛の軽減、喉の痛みの軽減などが信じられています。  「幸運を招く石」といわれ、邪気を退け、正しい判断力を高め、最高の幸運を呼び寄せてくれるとされる最古のパワーストーンは、運が落ちていると感じたとき、進むべき道に迷いが生じたときなどに身につけるとよいでしょう。  かつてラピスラズリがパワーストーンとしてブームと言えるほどの盛り上がりがあったことがありました。その要因の一つにエドガーケイシーのラピスラズリについてのリーディングが引用されたことも大きかったと思われますが、後の研究によってエドガーケイシーの言ったラピスラズリとは、実はアズライトのことであったようです。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 鮮やかな深青色に金色の斑点が浮かぶラピスラズリ31.615ctの大粒ルースストーンです。大ぶりサイズながら天然石ならではの重厚感があり、ネックレスやブローチなどの高級ジュエリー制作に最適。12月の誕生石として真実と知恵を象徴し、スピリチュアルな開運パワーストーンとしても人気です。存在感ある一石は贈り物やコレクションにもおすすめ。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d8725e6ad9998c8b6a93519c716154ad.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "28200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/36402778",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "紺"
+      }
+    ]
+  },
+  "/items/36402698": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/36402698#product",
+    "name": "ルース 天然石 ラピスラズリ 20.450ct 裸石 パワーストーン 12月誕生石 瑠璃 ジュエリー用 アクセサリーパーツ",
+    "description": "サイズ：縦25×横18×厚み5.5（mm）　　 重さ：20.450ct ラピスラズリ（瑠璃） カボションカット　 管理番号：ll001002  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  ラピスラズリ (lapis lazuli) は、和名では瑠璃（るり）といい、深い青色から藍色の宝石で、しばしば黄鉄鉱の粒を含んで夜空の様な輝きを持ちます。  人類に認知され、利用された鉱物として最古のものとされています。 エジプト、シュメール、バビロニアなどの古代から、宝石として、また顔料ウルトラマリンの原料として珍重されてきました。 日本ではトルコ石と共に12月のほかに9月の誕生石とされています。  ラピスはラテン語で「石」 (Lapis)、ラズリはトルキスタンにあるペルシア語地名 （lazhward）が起源で、それがアラビア語に入って 'lazward'（天・空・青などの意でアジュールの語源）で「群青の空の色」を意味します。 ラピスラズリ (lapis lazuli) は、ラテン語で「lazhwardの石 (lapis)」という意味だそうです。  日本では、ラピスラズリは瑠璃と呼ばれ、仏教の七宝のひとつとされ、仏典『無量寿経』や『法華経』に瑠璃の記述があります。 奈良の正倉院の宝物庫には、紺玉帯と呼ばれるラピスラズリで飾られた黒漆塗の牛革製ベルトが収められています。 女性の名前でも「瑠璃」さんっていますよね。宝のように大事なお子様として名付けられたのでしょう。   [最強の聖石]  12月の誕生石としても有名なラピスラズリは、世界でパワーを最初に認識された石、「最強の聖石」とされています。 地面の属性で第6チャクラ(額)、第7チャクラ(頭部)を活性化させるとされ、効能として人間関係の改善、頭脳を明晰化させる、強運を導く、頭痛の軽減、喉の痛みの軽減などが信じられています。  「幸運を招く石」といわれ、邪気を退け、正しい判断力を高め、最高の幸運を呼び寄せてくれるとされる最古のパワーストーンは、運が落ちていると感じたとき、進むべき道に迷いが生じたときなどに身につけるとよいでしょう。  かつてラピスラズリがパワーストーンとしてブームと言えるほどの盛り上がりがあったことがありました。その要因の一つにエドガーケイシーのラピスラズリについてのリーディングが引用されたことも大きかったと思われますが、後の研究によってエドガーケイシーの言ったラピスラズリとは、実はアズライトのことであったようです。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 深い青地にパイライトの金色がきらめく、大粒20.450ctのラピスラズリルースストーンです。存在感あるサイズで、ネックレスやペンダント、ブローチなど高級ジュエリー制作に最適。12月の誕生石として「真実・直感・知恵」を象徴し、スピリチュアルなパワーストーンとしても人気です。誕生日や特別な日の贈り物にもおすすめの天然石です。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/21b310a8eaf6010f59c7e480ad06e8e0.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "26700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/36402698",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "紺"
+      }
+    ]
+  },
+  "/items/55417619": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/55417619#product",
+    "name": "ルース 天然石 ラピスラズリ 8.545ct 2個セット 裸石 パワーストーン 12月誕生石 瑠璃 ジュエリー素材",
+    "description": "サイズ：直径8、10（mm） 重さ：8.545ct（2個合計の重さ） 天然ラピスラズリ　[2個セット] ラウンドボール　片穴（K18芯入り）※貫通していません。 管理番号：ll002019  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  ラピスラズリ (lapis lazuli) は、和名では瑠璃（るり）といい、深い青色から藍色の宝石で、しばしば黄鉄鉱の粒を含んで夜空の様な輝きを持ちます。  人類に認知され、利用された鉱物として最古のものとされています。 エジプト、シュメール、バビロニアなどの古代から、宝石として、また顔料ウルトラマリンの原料として珍重されてきました。 日本ではトルコ石と共に12月のほかに9月の誕生石とされています。  ラピスはラテン語で「石」 (Lapis)、ラズリはトルキスタンにあるペルシア語地名 （lazhward）が起源で、それがアラビア語に入って 'lazward'（天・空・青などの意でアジュールの語源）で「群青の空の色」を意味します。 ラピスラズリ (lapis lazuli) は、ラテン語で「lazhwardの石 (lapis)」という意味だそうです。  日本では、ラピスラズリは瑠璃と呼ばれ、仏教の七宝のひとつとされ、仏典『無量寿経』や『法華経』に瑠璃の記述があります。 奈良の正倉院の宝物庫には、紺玉帯と呼ばれるラピスラズリで飾られた黒漆塗の牛革製ベルトが収められています。 女性の名前でも「瑠璃」さんっていますよね。宝のように大事なお子様として名付けられたのでしょう。   [最強の聖石]  12月の誕生石としても有名なラピスラズリは、世界でパワーを最初に認識された石、「最強の聖石」とされています。 地面の属性で第6チャクラ(額)、第7チャクラ(頭部)を活性化させるとされ、効能として人間関係の改善、頭脳を明晰化させる、強運を導く、頭痛の軽減、喉の痛みの軽減などが信じられています。  「幸運を招く石」といわれ、邪気を退け、正しい判断力を高め、最高の幸運を呼び寄せてくれるとされる最古のパワーストーンは、運が落ちていると感じたとき、進むべき道に迷いが生じたときなどに身につけるとよいでしょう。  かつてラピスラズリがパワーストーンとしてブームと言えるほどの盛り上がりがあったことがありました。その要因の一つにエドガーケイシーのラピスラズリについてのリーディングが引用されたことも大きかったと思われますが、後の研究によってエドガーケイシーの言ったラピスラズリとは、実はアズライトのことであったようです。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 深く濃密な青に金色のパイライトがちらつく、8.545ctのラピスラズリ裸石2個セット。天然の瑠璃ならではの神秘的な輝きが魅力で、ペンダントやピアスなどのハンドメイドジュエリーに最適です。12月の誕生石として真実・直感・叡智を象徴し、パワーストーンとしても人気。お守りや大切な方へのギフトにもおすすめの高品質ルースです。 *-*-*-*-*-*-*  ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/552b5c196d201ade22aae326d7798bda.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/55417619",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "紺"
+      }
+    ]
+  },
+  "/items/55417510": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/55417510#product",
+    "name": "ルース 天然石 ラピスラズリ 16.285ct 裸石 パワーストーン 12月誕生石 瑠璃 ジュエリー用 アクセサリーパーツ",
+    "description": "サイズ：直径12.8（mm） 重さ：16.285ct 天然ラピスラズリ ラウンドボール　片穴（K18芯入り）　※穴は貫通していません。 管理番号：ll001016  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  ラピスラズリ (lapis lazuli) は、和名では瑠璃（るり）といい、深い青色から藍色の宝石で、しばしば黄鉄鉱の粒を含んで夜空の様な輝きを持ちます。  人類に認知され、利用された鉱物として最古のものとされています。 エジプト、シュメール、バビロニアなどの古代から、宝石として、また顔料ウルトラマリンの原料として珍重されてきました。 日本ではトルコ石と共に12月のほかに9月の誕生石とされています。  ラピスはラテン語で「石」 (Lapis)、ラズリはトルキスタンにあるペルシア語地名 （lazhward）が起源で、それがアラビア語に入って 'lazward'（天・空・青などの意でアジュールの語源）で「群青の空の色」を意味します。 ラピスラズリ (lapis lazuli) は、ラテン語で「lazhwardの石 (lapis)」という意味だそうです。  日本では、ラピスラズリは瑠璃と呼ばれ、仏教の七宝のひとつとされ、仏典『無量寿経』や『法華経』に瑠璃の記述があります。 奈良の正倉院の宝物庫には、紺玉帯と呼ばれるラピスラズリで飾られた黒漆塗の牛革製ベルトが収められています。 女性の名前でも「瑠璃」さんっていますよね。宝のように大事なお子様として名付けられたのでしょう。   [最強の聖石]  12月の誕生石としても有名なラピスラズリは、世界でパワーを最初に認識された石、「最強の聖石」とされています。 地面の属性で第6チャクラ(額)、第7チャクラ(頭部)を活性化させるとされ、効能として人間関係の改善、頭脳を明晰化させる、強運を導く、頭痛の軽減、喉の痛みの軽減などが信じられています。  「幸運を招く石」といわれ、邪気を退け、正しい判断力を高め、最高の幸運を呼び寄せてくれるとされる最古のパワーストーンは、運が落ちていると感じたとき、進むべき道に迷いが生じたときなどに身につけるとよいでしょう。  かつてラピスラズリがパワーストーンとしてブームと言えるほどの盛り上がりがあったことがありました。その要因の一つにエドガーケイシーのラピスラズリについてのリーディングが引用されたことも大きかったと思われますが、後の研究によってエドガーケイシーの言ったラピスラズリとは、実はアズライトのことであったようです。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 深藍に金色のパイライトが散りばめられた16.285ctの天然ラピスラズリのルースストーン。存在感あるサイズはペンダントやリング、ブローチなど高級ハンドメイドジュエリーに最適です。12月の誕生石として「真実と叡智」を象徴し、パワーストーンとしても人気。古来より護符やお守りとされる瑠璃の輝きをぜひお楽しみください。ギフトにもおすすめです。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/09695e8562d9fa640aafe24c1f182a84.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "7500",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/55417510",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "紺"
+      }
+    ]
+  },
+  "/items/55417475": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/55417475#product",
+    "name": "ルース 天然石 ラピスラズリ 13.465ct 裸石 パワーストーン 12月誕生石 瑠璃 アクセサリー素材",
+    "description": "サイズ：縦20×横15×厚み5（mm） 重さ：13.465ct ラピスラズリ（瑠璃） カボションカット　 管理番号：ll001015  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  ラピスラズリ (lapis lazuli) は、和名では瑠璃（るり）といい、深い青色から藍色の宝石で、しばしば黄鉄鉱の粒を含んで夜空の様な輝きを持ちます。  人類に認知され、利用された鉱物として最古のものとされています。 エジプト、シュメール、バビロニアなどの古代から、宝石として、また顔料ウルトラマリンの原料として珍重されてきました。 日本ではトルコ石と共に12月のほかに9月の誕生石とされています。  ラピスはラテン語で「石」 (Lapis)、ラズリはトルキスタンにあるペルシア語地名 （lazhward）が起源で、それがアラビア語に入って 'lazward'（天・空・青などの意でアジュールの語源）で「群青の空の色」を意味します。 ラピスラズリ (lapis lazuli) は、ラテン語で「lazhwardの石 (lapis)」という意味だそうです。  日本では、ラピスラズリは瑠璃と呼ばれ、仏教の七宝のひとつとされ、仏典『無量寿経』や『法華経』に瑠璃の記述があります。 奈良の正倉院の宝物庫には、紺玉帯と呼ばれるラピスラズリで飾られた黒漆塗の牛革製ベルトが収められています。 女性の名前でも「瑠璃」さんっていますよね。宝のように大事なお子様として名付けられたのでしょう。   [最強の聖石]  12月の誕生石としても有名なラピスラズリは、世界でパワーを最初に認識された石、「最強の聖石」とされています。 地面の属性で第6チャクラ(額)、第7チャクラ(頭部)を活性化させるとされ、効能として人間関係の改善、頭脳を明晰化させる、強運を導く、頭痛の軽減、喉の痛みの軽減などが信じられています。  「幸運を招く石」といわれ、邪気を退け、正しい判断力を高め、最高の幸運を呼び寄せてくれるとされる最古のパワーストーンは、運が落ちていると感じたとき、進むべき道に迷いが生じたときなどに身につけるとよいでしょう。  かつてラピスラズリがパワーストーンとしてブームと言えるほどの盛り上がりがあったことがありました。その要因の一つにエドガーケイシーのラピスラズリについてのリーディングが引用されたことも大きかったと思われますが、後の研究によってエドガーケイシーの言ったラピスラズリとは、実はアズライトのことであったようです。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 13.465?ctの大粒ラピスラズリルースは、深い青に浮かぶ金色パイライトが印象的な高品質天然石です。真実や知恵を象徴する12月の誕生石として長く愛され、ペンダントやリングなどのジュエリー制作に最適。またスピリチュアルな意味を持つパワーストーンとしても人気。存在感ある瑠璃色の輝きは、贈り物やお守りにもふさわしい一品です。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9fb9d8195db05c72f28717e47b8e37a9.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "12300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/55417475",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "紺"
+      }
+    ]
+  },
+  "/items/67248912": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/67248912#product",
+    "name": "ルース 天然石 シェルカメオ 5個セット 裸石 彫刻 宝石 アクセサリー パーツ ハンドメイド アンティーク風",
+    "description": "シェルカメオ（5個セット）  縦14×横10×厚さ2（mm）　※ほぼ同じサイズ （※厚さは湾曲しているためおおよその寸法です） 重さ：3.18ｇ（合計の重さ） ※1個カケあり ※本商品はジュエリーカメオの「本体天然素材のみ」となります。台座、金具等のパーツは含まれませんので、ご注意ください。 管理番号：ca005046  ・端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。  ※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。  ※気になる点がございましたらお気軽に事前にご質問をお願い致します。色石でございますので、色合いが若干違ったという理由での返品は原則できかねますので、ご心配な場合は必ずご質問されてからご納得いただいたうえでのご購入をお願い致します。  ◆送料無料 カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。  ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。  *-*-*-*-*-*-*-*-*-*-*-*-*-*-*  カメオ（cameo）とは、瑪瑙（メノウ）、大理石、貝殻などに浮き彫りを施した装飾品・工芸品のことです。  日本では主にマンボウガイ、トウカムリ、ホシダカラ等の厚い貝殻に浮き彫りを施したシェルカメオを指し、瑪瑙などの石に浮き彫りを施した物はストーンカメオ、アクリル樹脂をカメオ風に成形した物はアクリルカメオ、金属をカメオ風に成形した物はメタルカメオと素材ごとに呼び分けています。  正確には表面に浮き彫りを施したものをカメオ、沈め彫りを施したものをインタリオといいますが、カメオとインタリオをまとめて「カメオ」と呼ぶ場合が多く、また、カボッションカットの石の表面に女性の肖像画を印刷をしたものも「カメオ」として販売されていることがあります。  古代ギリシャで発達した技法で、カメオもしくはインタリオを施した宝石を指輪にはめ、印章代わりに使用していたと考えられています。  古代より装飾品として愛され、古くはローマ時代のものも発掘されています。近年ではイタリアなどの国で工芸品として貝殻に彫り出したシェルカメオが装飾品として珍重されています。溶岩に掘り出したラーヴァカメオより、ストーンカメオに高価なものが多いです。カメオに彫られた人物像をさらにダイヤモンド、ルビーなどで装飾したものは、カメオ・アビレと呼ばれます。  彫りの高さや、石の層の色の出方なども重要視されますが、ポイントとなるのは、やはり彫りの出来となります。また、シェルカメオで一般的に言われる巻き貝の左右の向きはあまり重要ではありません。  現在のシェルカメオは、南イタリアのナポリ近郊の港町、トーレ・デル・グレコで製作されており、多くのカメオ彫刻家がそれぞれの特性などを生かし、現代アートカメオを製作しています。   【パワーストーンの効果】  古くから人々に愛されてきたカメオは、健康・長寿・富、結婚の幸せを運んでくれるパワーストーンです。 カメオを身に着けると愛に包まれ、他人や物事に対しておおらかな心で接する事ができるようになる愛されるパワーストーンです。  ★天然石ルースストーンはこちら ⇒　https://www.goodtimeschool.jp/categories/2509475   ☆★☆　信頼の天然石ルースストーン　☆★☆  ☆当商品はユーズドジュエリーです。 ユーズドジュエリーとは、オーナーが一度手放したジュエリーを新品同様に仕上げたリサイクルジュエリーです。 ☆本商品は新品簡易仕上げを施し、リーズナブルな価格に設定しました。 ☆繊細なキズ、カケ、接着剤や台座の跡がある場合がございますのでご了承ください。 　（詳細は商品ごとの説明文にてご確認くださいませ） ☆天然石は独特のインクルージョンやクラックやカケがございます。これは天然石の証ですのでご安心ください。 ☆ユーズドジュエリーの性質上、原産地はわかりません。 ☆鑑別書はございません。  *-*-*-*-*-*-* 5つのシェルカメオルースセット。古代より伝統的に用いられる貝素材に職人が細密な浮き彫りを施した美しい装飾ルースです。アンティークジュエリーやハンドメイドアクセサリーに最適で、母の日や誕生日、結婚記念日などの贈り物にもおすすめ。パイライトのようなコントラストで描かれる人物や自然モチーフがクラシックな魅力を放ちます。 *-*-*-*-*-*-*   ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/bedb406c7af5f6a9834d84465eca475a.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "エクセレントジェム"
+    },
+    "category": "ルースストーン",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "4800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/67248912",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      }
+    ]
+  },
+  "/items/123947694": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/123947694#product",
+    "name": "【ろくろ脚】こたつテーブル 2WAY 長方形 天然木風 北欧 おしゃれ ユニークデザイン リビングテーブル",
+    "description": "商品名：【ろくろ脚】こたつテーブル 2way 長方形 天然木風 北欧 おしゃれ ユニークデザイン リビングテーブル\n\n商品サイズ：W105×D60×H40/70\n\nシーズン問わず使えるデザインにこだわりました。座椅子やソファと合わせるロータイプ、チェアと合わせるハイタイプの2WAY仕様\n\n【材質】合成樹脂化粧繊維板 天然木(ラバーウッド) ウレタン塗装 石英管ヒーター300W(MS-303H) 中間スイッチ\n【機能】継脚式\n【静的耐荷重】20kg\n【組立】組立式\n【原産地】ベトナム\n【梱包A重量】20.0kg\n\n正規メーカー品：東谷（AZUMAYA）\n\n※本製品はメーカー工場より直送いたします。\n　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）\n\n[送料無料]\nカートに「送料別」と表示されますが、送料は無料ですのでご安心ください。\n※北海道は別途送料が2,750円加算されます。\n※沖縄県は別途送料が7,700円加算されます。\n※離島地域は都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。\n\n※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。\n\n※ヒーター部分のみメーカー1年保証となります。\n\n\n◆ テーブル一覧はこちらから\n⇒　https://www.goodtimeschool.jp/categories/4966318\n\n◆ 家具・インテリア 一覧はこちら\n⇒　https://www.goodtimeschool.jp/categories/4966313\n\n*-*-*-*-*-*-*-*-*-\nロータイプとハイタイプ、シーンに合わせて2通りの使い方が出来る2WAYこたつ。\n\nカントリーデザインの代名詞ともいえる「ろくろ脚」を採用し、ユニークで華やかな印象のこたつ脚に仕上がっています。\nまた、脚の直径をやや細身に設計しているため、ろくろ脚の装飾が主張しすぎない軽やかな印象です。\nリアルな木目調の天板は、ナチュラル・ブラウン・グレーともに表面を合成樹脂でコーティングしており傷や汚れにも強いのが特徴です。\n天板は凹凸のないノンテクスチャ仕様のため、下敷きを引かなくとも紙を直接乗せて文字を書くことができるほどつるりとした手触りになっています。\nまた、天板のエッジは面取り加工を施しており、手触りも良くお子様がいるご家庭でも安心してお使いいただけます。\n*-*-*-*-*-*-*-*-*-\n\nご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。\n\n\nKT-118BR\tkt003006\nKT-118GYB\tkt003007\nKT-118NA\tkt003008\ngoodtime  11012025\nNEW　冬",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9ad875052999bb5827037e2654d174c9.jpg?gtsp=202511031452",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b7d82e97f248a69ce836d663028af64c.jpg?gtsp=202511031452",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/855a0a11deb74674dd09cd0d3722d934.jpg?gtsp=202511031452",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a7e76aff89be8e6e8d7d0d1a1599322a.jpg?gtsp=202511031452",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/980e5078efdb239737c785aa950dbb8f.jpg?gtsp=202511031452",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b235df7037678175eafda24e9348ea19.jpg?gtsp=202511031452",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/50077e84033e7f6aac4dea0ec45d2a4e.jpg?gtsp=202511031452",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1ea4384a3718b7f4303c39949e16cc71.jpg?gtsp=202511031452",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a6085ad41473f944cc47653506342914.jpg?gtsp=202511031452",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/874d95b53187bb877114430058c0ef09.jpg?gtsp=202511031452",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3855b1701f99576463baf0b94eb42a04.jpg?gtsp=202511031452"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": ""
+    },
+    "category": "",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "27400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/123947694",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "27400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/123947694",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレーベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "27400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/123947694",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ナチュラル"
+      }
+    ]
+  },
+  "/items/124290370": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/124290370#product",
+    "name": "こたつ敷き布団 ラグ 撥水 あったか仕様6層タイプ 撥水6層フラン 正方形 （約190×260cm） 敷物 炬燵 おしゃれ かわいい",
+    "description": "11月末までセール実施中！\n\n商品名：こたつ敷き布団 ラグ 撥水 あったか仕様6層タイプ 「撥水6層フラン」正方形 冬\n\n空気を汚さず暖かく過ごせる「エコ暖ライフ」を応援します。\n表生地は撥水加工がされているので,汚れてもお手入れが簡単です。\n表地にはなめらかなタッチ感のフランネルを使用しています。\n\nサイズ：約190×260cm\n\n■生産地：中国\n■素材：\n　表地=ポリエステル100％（フランネル）\n　裏地=ポリエステル100％（不織布滑り止め）\n　中材=アルミシート、ポリエステル100％わた＋ポリエステル100％固わた、ポリエチレンシート2mm\n\n\n正規メーカー品：イケヒコ（IKEHIKO）\n\n※本製品はメーカー工場より直送いたします。\n　ご注文後、3営業日以内の発送となります。（土日、祝日は出荷しておりません）\n\n※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。\n\n[送料無料]\nカートに「送料別」と表示されますが、送料は無料ですのでご安心ください。\n\n※ 画面上のカラーはご使用ブラウザやモニターの設定により、実物とは若干異なる場合がございます。あらかじめご了承ください。\n\n※ 本商品はサイズ加工を承っておりません。予めご了承頂きますようお願い致します。\n※ 画面上のカラーはご使用ブラウザやモニターの設定により、実物とは若干異なる場合がございます。あらかじめご了承ください。\n\n*-*-*-*-*-*-*-*-\n\nラグ こたつ敷き布団 撥水 あったか仕様6層タイプ [撥水6層フラン]\n\n空気を汚さず暖かく過ごせる「エコ暖ライフ」を応援します。\n\n・表生地は撥水加工がされているので,汚れてもお手入れが簡単です。\n・6層の中にはアルミシート・ポリエチレンシートを使用しています。蓄熱・断熱機能があるため、冬の寒い日でも床からの底冷えを軽減してくれます。\n・ボリュームがあるので、ふっくらとした座り心地です。\n・表地にはなめらかなタッチ感のフランネルを使用しています。\n\n【サイズは3種類】\n\n・190×190cm\n⇒　https://www.goodtimeschool.jp/items/124289707\n\n・190×240cm\n⇒　https://www.goodtimeschool.jp/items/124290257\n\n・190×260cm\n⇒　https://www.goodtimeschool.jp/items/124290370\n\n\n\n★ 他のこたつ・ふとん・マットを見る\n⇒　https://www.goodtimeschool.jp/categories/7004343\n\n\nご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。\n\n\n4550317083914\ti1021013\n4550317083921\ti1061013\n4550317083907\ti1121013\n\nグッドタイム goodtime 冬\n11042025",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5f268c2b64d043afb702f10108c6eba1.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7d90c4e025a0e6e72921216c5c2b8c99.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/28b2ee4026f4c1d1812abde3bb8eb17e.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f32d179cff101771b515ba2e77c961e4.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/4be67a2be79d078be24bdbb0ed6244e2.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/aae0e16d7cdb0a515bc3b19bb3fd6286.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/39965f96446bf83aa7a025bd56a0a342.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3e9107a5888fcc513db7d4c55e2e41d5.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/56c78d2c069208873c8497178548a42a.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ff4ade89393bd8fbae270a5fc52be02a.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2449500827ce9e376e0bebeeafce3161.jpg?gtsp=202511041835"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": ""
+    },
+    "category": "",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "14352",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124290370",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "14352",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124290370",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "14352",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124290370",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/124290257": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/124290257#product",
+    "name": "こたつ敷き布団 ラグ 撥水 あったか仕様6層タイプ 撥水6層フラン 正方形 （約190×240cm） 敷物 炬燵 おしゃれ かわいい",
+    "description": "11月末までセール実施中！\n\n商品名：こたつ敷き布団 ラグ 撥水 あったか仕様6層タイプ 「撥水6層フラン」正方形 冬\n\n空気を汚さず暖かく過ごせる「エコ暖ライフ」を応援します。\n表生地は撥水加工がされているので,汚れてもお手入れが簡単です。\n表地にはなめらかなタッチ感のフランネルを使用しています。\n\nサイズ：約190×240cm\n\n■生産地：中国\n■素材：\n　表地=ポリエステル100％（フランネル）\n　裏地=ポリエステル100％（不織布滑り止め）\n　中材=アルミシート、ポリエステル100％わた＋ポリエステル100％固わた、ポリエチレンシート2mm\n\n\n正規メーカー品：イケヒコ（IKEHIKO）\n\n※本製品はメーカー工場より直送いたします。\n　ご注文後、3営業日以内の発送となります。（土日、祝日は出荷しておりません）\n\n※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。\n\n[送料無料]\nカートに「送料別」と表示されますが、送料は無料ですのでご安心ください。\n\n※ 画面上のカラーはご使用ブラウザやモニターの設定により、実物とは若干異なる場合がございます。あらかじめご了承ください。\n\n※ 本商品はサイズ加工を承っておりません。予めご了承頂きますようお願い致します。\n※ 画面上のカラーはご使用ブラウザやモニターの設定により、実物とは若干異なる場合がございます。あらかじめご了承ください。\n\n*-*-*-*-*-*-*-*-\n\nラグ こたつ敷き布団 撥水 あったか仕様6層タイプ [撥水6層フラン]\n\n空気を汚さず暖かく過ごせる「エコ暖ライフ」を応援します。\n\n・表生地は撥水加工がされているので,汚れてもお手入れが簡単です。\n・6層の中にはアルミシート・ポリエチレンシートを使用しています。蓄熱・断熱機能があるため、冬の寒い日でも床からの底冷えを軽減してくれます。\n・ボリュームがあるので、ふっくらとした座り心地です。\n・表地にはなめらかなタッチ感のフランネルを使用しています。\n\n【サイズは3種類】\n\n・190×190cm\n⇒　https://www.goodtimeschool.jp/items/124289707\n\n・190×240cm\n⇒　https://www.goodtimeschool.jp/items/124290257\n\n・190×260cm\n⇒　https://www.goodtimeschool.jp/items/124290370\n\n\n\n★ 他のこたつ・ふとん・マットを見る\n⇒　https://www.goodtimeschool.jp/categories/7004343\n\n\nご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。\n\n\n4550317070006\ti6029939\n4550317070020\ti6030039\n4550317083891\ti1120913\n\nグッドタイム goodtime 冬\n11042025",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/4a409a5121f162fb76db97c08e69c864.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/04a39e0a839e51592b98593a5e394646.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/66b5f834c292b45b72d211365d49d816.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c2ca684ea9bbd70a31ba53cf8e05e5e5.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b88518fe5c7b3e1b7cc3bcdaafbca683.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/dd703b70d11a5e06d6a79df70096c7e4.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f7fb7df569235c25af9623ba379dd3b8.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e0299dc5112885834ad7bf0c678c51ce.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/200d1f191b2ab18014deb7ca38857e83.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/158e07c57ba226a73b8f837caba307c4.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/70348e40daaf8eb986732e53cb0b81d7.jpg?gtsp=202511041835"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": ""
+    },
+    "category": "",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "13064",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124290257",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "13064",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124290257",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "13064",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124290257",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/124289707": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/124289707#product",
+    "name": "こたつ敷き布団 ラグ 撥水 あったか仕様6層タイプ 撥水6層フラン 正方形 （約190×190cm） 敷物 炬燵 おしゃれ かわいい",
+    "description": "11月末までセール実施中！\n\n商品名：こたつ敷き布団 ラグ 撥水 あったか仕様6層タイプ 「撥水6層フラン」正方形 冬\n\n空気を汚さず暖かく過ごせる「エコ暖ライフ」を応援します。\n表生地は撥水加工がされているので,汚れてもお手入れが簡単です。\n表地にはなめらかなタッチ感のフランネルを使用しています。\n\nサイズ：約190×190cm\n\n■生産地：中国\n■素材：\n　表地=ポリエステル100％（フランネル）\n　裏地=ポリエステル100％（不織布滑り止め）\n　中材=アルミシート、ポリエステル100％わた＋ポリエステル100％固わた、ポリエチレンシート2mm\n\n\n正規メーカー品：イケヒコ（IKEHIKO）\n\n※本製品はメーカー工場より直送いたします。\n　ご注文後、3営業日以内の発送となります。（土日、祝日は出荷しておりません）\n\n※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。\n\n[送料無料]\nカートに「送料別」と表示されますが、送料は無料ですのでご安心ください。\n\n※ 画面上のカラーはご使用ブラウザやモニターの設定により、実物とは若干異なる場合がございます。あらかじめご了承ください。\n\n※ 本商品はサイズ加工を承っておりません。予めご了承頂きますようお願い致します。\n※ 画面上のカラーはご使用ブラウザやモニターの設定により、実物とは若干異なる場合がございます。あらかじめご了承ください。\n\n*-*-*-*-*-*-*-*-\n\nラグ こたつ敷き布団 撥水 あったか仕様6層タイプ [撥水6層フラン]\n\n空気を汚さず暖かく過ごせる「エコ暖ライフ」を応援します。\n\n・表生地は撥水加工がされているので,汚れてもお手入れが簡単です。\n・6層の中にはアルミシート・ポリエチレンシートを使用しています。蓄熱・断熱機能があるため、冬の寒い日でも床からの底冷えを軽減してくれます。\n・ボリュームがあるので、ふっくらとした座り心地です。\n・表地にはなめらかなタッチ感のフランネルを使用しています。\n\n【サイズは3種類】\n\n・190×190cm\n⇒　https://www.goodtimeschool.jp/items/124289707\n\n・190×240cm\n⇒　https://www.goodtimeschool.jp/items/124290257\n\n・190×260cm\n⇒　https://www.goodtimeschool.jp/items/124290370\n\n\n\n★ 他のこたつ・ふとん・マットを見る\n⇒　https://www.goodtimeschool.jp/categories/7004343\n\nご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。\n\n\n4550317069994\ti6029909\n4550317070013\ti6030009\n4550317083884\ti1120813\n\n\nグッドタイム goodtime 冬\n11042025",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f244a59c96afd20bf063c7b784034ff6.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ff52057b36d971a9493b831135bae672.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e40dc40c6934b0b0078c23f1048ef41a.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/354e2ca4edba295a4117f59f51d6f994.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/cc9f975329abc2390dfc6d9a3440ee76.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/def84adda47566d1ff1e468f66570023.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e0523f51e1885ad8debe94531a681b46.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c23b2be93cbbb6cd80fedf00b5eb4258.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2e2e7e91eb145b172611b782b12c939b.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9a3225ff32dd12823d8ff43460a484e6.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/02b165384f9474e58a8037d14ace1d17.jpg?gtsp=202511041835"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": ""
+    },
+    "category": "",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "11132",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124289707",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "11132",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124289707",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "11132",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124289707",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グリーン"
+      }
+    ]
+  },
+  "/items/124285964": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/124285964#product",
+    "name": "省スペース こたつ布団 長方形 【ニット調 2WAY】 ハイタイプ ロータイプ 105×60用 おしゃれ 北欧 シンプル 洗える コタツ布団",
+    "description": "商品名：省スペース こたつ布団 長方形 【ニット調 2WAY】 ハイタイプ ロータイプ 105×60用 おしゃれ 北欧 シンプル 洗える コタツ布団\n\n商品サイズ：W247×D202\n\n※こたつ布団のみの販売ページです。\n\n・柔らかいニット調デザインの起毛生地に癒される、ダイニングこたつ用の掛け布団です。\n・長方形247×202cm。天板サイズ105×60cmのこたつテーブルに対応しています。\n・ハイタイプで椅子に座って使えるダイニングこたつにぴったりな設計です。\n　もちろんロータイプのこたつにも合わせることができます！\n\n【材質】ポリエステル\n【組立】完成品\n【原産地】中国\n【商品重量】1.9kg\n\n正規メーカー品：東谷（AZUMAYA）\n\n※本製品はメーカー工場より直送いたします。\n　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）\n\n[送料無料]\nカートに「送料別」と表示されますが、送料は無料ですのでご安心ください。\n※北海道は別途送料が880円加算されます。\n※沖縄県は別途送料が4,400円加算されます。\n※離島地域は5,500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。\n\n※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。\n\n★この布団とペアなこたつはこちら\n⇒　https://www.goodtimeschool.jp/items/123947694\n\n\n◆ テーブル一覧はこちらから\n⇒　https://www.goodtimeschool.jp/categories/4966318\n\n◆ 家具・インテリア 一覧はこちら\n⇒　https://www.goodtimeschool.jp/categories/4966313\n\n*-*-*-*-*-*-*-*-*-\nニット調のおしゃれな省スペースこたつ布団（長方形）です。\n裏表2WAYで使えるデザインで、お部屋のインテリアに合わせて楽しめます。\n暖かくふかふかな素材で快適な冬を。洗濯可能でお手入れ簡単。北欧風やシンプルなお部屋にぴったりのコタツ布団です。\n\n・ロータイプとハイタイプの両方に対応可能なこたつ布団。\n・薄手の生地と、角の折り込み仕様で広がりにくくスッキリと使用。\n・天板固定ねじ用の穴が空いているので、布団を挟んでもしっかりと固定。\n・ふわふわと軽い薄手の生地で、オフシーズン中もコンパクトに収納。\n・表面はずっと触っていたくなる手触りのよいニット風デザイン。\n・裏面は暖かく熱を逃がしにくいシープボア。\n・四隅は折り込み仕様なので、広がりを抑え省スペースに使用可能。四隅の生地にも共生地を使用したこだわりデザイン。\n*-*-*-*-*-*-*-*-*-\n\nご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。\n\n\nKK-601BE\tkt004009\nKK-601BR\tkt004010\nKK-601GY\tkt004011\nKK-601IV\tkt004012\ngoodtime  11042025\nNEW　冬",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/61dd97044ab49ebf9e30a57ead248cbe.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7c4432c0e549169d4f8eebc5ff545ae9.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/4990737451615498dbf0a21c758975b2.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5e84bdaedfbaff8a42cdbd769ec6d0f9.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/fa7c0c007b8882931da69b0ae9f539de.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/cfad85801369978fbc30410ae8e43d5c.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ac52c8953e8561b0828494926edfe49f.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/09007f485829cfebf0367f1166638e65.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/bfdb54626dec49b46ddebade7a144623.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/fdaa8a703ddd57db312bb51db446111d.jpg?gtsp=202511041835",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/42a39bc96df38dbf464f80a5ffa33117.jpg?gtsp=202511041835"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": ""
+    },
+    "category": "",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124285964",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124285964",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ブラウン"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124285964",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9700",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124285964",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "アイボリー"
+      }
+    ]
+  },
+  "/items/124513352": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/124513352#product",
+    "name": "フラットヒーターこたつ センターテーブル 北欧風 インテリア 大理石調 木製 天然木 オールシーズン シンプル 継脚 高さ変更可 手元コントローラー コタツ",
+    "description": "大理石調のストーン柄の天板とナチュラルな木目の組み合わせたフラットヒーターコタツ。\n\n従来の石英管ヒーターに比べ、薄型のフラットヒーターは内部を広々と使え、のびのびくつろぐことが出来ます。\nヒーター面積が広いので温度のムラがなく、均一に暖めることができるフラットヒーター。隅々まで均一な暖かさをつくってくれます。\n\n天板の形や脚はシンプルさにこだわり、テーブルとしてインテリアになじむようデザイン。\n圧迫感のない、広々と使いやすいサイズ感のセンターテーブルとしてオールシーズン活躍。\n\nサイズ：W105×D75×H36/40\n　　※4cmの継脚を取り付けることで、高さが調整できます。\n\n【材質】メラミン樹脂化粧繊維板 天然木(ラバーウッド) ウレタン塗装 カーボンフラットヒーター300W(MCR-301E) 手元コントローラー\n【機能】継脚式\n【静的耐荷重】20kg\n【組立】ねじこみ式\n【原産地】インドネシア\n【商品重量】18.5kg\n\n正規メーカー品：東谷（AZUMAYA）\n\n※本製品はメーカー工場より直送いたします。\n　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）\n\n[送料無料]\nカートに「送料別」と表示されますが、送料は無料ですのでご安心ください。\n※北海道は別途送料が2,750円加算されます。\n※沖縄県は別途送料が7,700円加算されます。\n※離島地域は都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。\n\n※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。\n\n※ヒーター部分のみメーカー1年保証となります。\n\n★このこたつにピッタリなこたつ布団はこちら\n⇒　https://www.goodtimeschool.jp/items/124517672\n\n\n◆ テーブル一覧はこちらから\n⇒　https://www.goodtimeschool.jp/categories/4966318\n\n◆ 家具・インテリア 一覧はこちら\n⇒　https://www.goodtimeschool.jp/categories/4966313\n\n*-*-*-*-*-*-*-*-*-\n天板の形や脚はシンプルさにこだわり、テーブルとしてインテリアになじむようデザイン。圧迫感のない、広々と使いやすいサイズ感のセンターテーブルとしてオールシーズン活躍。も良くお子様がいるご家庭でも安心してお使いいただけます。\n*-*-*-*-*-*-*-*-*-\n\nご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。\n\n\nKT-304NA\tkt001002\ngoodtime  11062025\nNEW　冬",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c95aaaa0ca16709dab86101beb144b5b.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2cf4ea8a734dc0eb84eaacdd2e2fdc75.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/4da6bfe9d24e0fd9769a57d73c29f5f4.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/0968c5b78c0b2b6374711634b710c8cb.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/486b55e5a5cd6dae532df83be6710f54.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e5fd5079bd0319ef976a500dd409f6a5.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/0e2ca1a78f7572a031b03a9365f94029.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/8a09003309490d48731ea48a55ae0215.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/85e6902c70920d84ea195aa93c3ef68c.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5560613ea7b820cb886a20bd71fb5cb4.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7a5e04caded2e993bccd0fd38671a0dc.jpg?gtsp=202511061926"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": ""
+    },
+    "category": "",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "42900",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124513352",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": ""
+      }
+    ]
+  },
+  "/items/124517672": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/124517672#product",
+    "name": "こたつ布団 長方形 190×230 5色から選べる おしゃれ こたつ掛け布団 薄掛け こたつ用品 省スペース 天板120×80対応 シンプル かわいい",
+    "description": "暖かみがありインテリア性の高い、大人の雰囲気漂う「コーデュロイ」のコタツ布団。\n\n●布団のフチには「シープボア」を使用したこだわり仕立て。\n●内側はフリース素材を使用しているので、暖かく肌触りも心地良い仕上げ。\n●薄掛けタイプのこたつ布団は適度に体にフィットし隙間ができないので、暖かい空気をしっかりキープ。\n●更にシープボアの重みでこたつ布団の端が体にフィットしてくれるので、より一層中の暖かさをキープ。\n●コーデュロイ生地は起毛生地素材の為、保温性に優れており手触りも暖か。\n●オフシーズンの時の収納に便利な収納ケース付き。\n\nサイズ：W190×D230\n\n【材質】ポリエステル\n【注意事項】※天板サイズ:長方形120×80cm以下\n【原産地】中国\n【商品重量】3.0kg\n\n正規メーカー品：東谷（AZUMAYA）\n\n※本製品はメーカー工場より直送いたします。\n　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）\n\n[送料無料]\nカートに「送料別」と表示されますが、送料は無料ですのでご安心ください。\n※北海道は別途送料が880円加算されます。\n※沖縄県は別途送料が4,400円加算されます。\n※離島地域は5,500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。\n\n※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。\n\n★この布団とペアなこたつはこちら\n⇒　https://www.goodtimeschool.jp/items/124513352\n\n\n◆ テーブル一覧はこちらから\n⇒　https://www.goodtimeschool.jp/categories/4966318\n\n◆ 家具・インテリア 一覧はこちら\n⇒　https://www.goodtimeschool.jp/categories/4966313\n\n*-*-*-*-*-*-*-*-*-\n暖かみがありファッション性の高い、大人の雰囲気漂う「コーデュロイ」のコタツ布団。\nどんなお部屋にもしっくり馴染んでくれる、飽きのこないデザイン＆カラーが人気。\n布団のフチには「シープボア」を使用したこだわり仕立て。\n内側はフリース素材を使用しているので、暖かく肌触りも心地良い仕上げになっています。\nコーデュロイ生地は起毛生地素材の為、保温性に優れており手触りも暖か。\n*-*-*-*-*-*-*-*-*-\n\nご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。\n\n\nKK-142BE\tkk001005\nKK-142GY\tkk001006\nKK-142KH\tkk001007\nKK-142NV\tkk001008\nKK-142WH\tkk001009\ngoodtime  11062025\nNEW　冬",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/73f9323abd9124bcb97e2b30e4debdfb.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d25e70e52f75ee0e41ba565b62c99d9a.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/96e0da04d06fa86d132c4e9a2eda0475.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1dc93581d865806d0ad698727377885b.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f883f0aeca5dea54c1e04f5dc0f4095f.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2aac12837ca7e45dcb4673f6af9be285.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/abad649aa76d0aff46419369c3652ccd.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/37247c4ed5cd8fe1e089a825c4f991b4.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1b38e9ce6665d995d31ade43b53417c1.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1352fec3b3bba0323e99af06165c98da.jpg?gtsp=202511061926",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/627d85a41f52cdc4a414dc0dde340877.jpg?gtsp=202511061926"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": ""
+    },
+    "category": "",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "11000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124517672",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "11000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124517672",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "11000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124517672",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "カーキ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "11000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124517672",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ネイビー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "11000",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124517672",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/124879601": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/124879601#product",
+    "name": "こたつ布団 ニット風 裏ボア 暖かい 薄手 軽量 円形 正方形 省スペース おしゃれ ハイタイプ ロータイプ 2WAYテーブル対応 リビング 座椅子 コタツ",
+    "description": "表面にニット風デザイン、裏面にボア生地を使用した「ニット風裏ボアこたつ布団」。\n\n軽量で薄手の構造ながら優れた保温性を誇り、ハイタイプ・ロータイプどちらのこたつテーブルにも対応する2WAY仕様です。\n円形・正方形のどちらの形状にもフィットし、省スペースながら冬のリビングを暖かく演出。\n\n座椅子やソファに合わせた使い方も可能で、フロアスタイルの暮らしにマッチ。さらに収納時もコンパクトに畳めるため、春夏のオフシーズンも便利です。\n\nおしゃれなカラー展開でインテリアに自然に溶け込み、毎日の快適なコタツ時間をサポートします。\n\n商品サイズ：約幅209×奥行209cm\n\n※こたつ布団の販売ページです。コタツテーブルは別売りです。\n\n商品重量：約1.7kg\n材質：ポリエステル\n生産国：中国\n備考：完成品\n\n正規メーカー品：東谷（AZUMAYA）\n\n※本製品はメーカー工場より直送いたします。\n　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）\n\n[送料無料]\nカートに「送料別」と表示されますが、送料は無料ですのでご安心ください。\n※北海道は別途送料が880円加算されます。\n※沖縄県は別途送料が4,400円加算されます。\n※離島地域は5,500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。\n\n※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。\n\n★この布団とペアなこたつはこちら\n⇒　https://www.goodtimeschool.jp/items/124875138\n\n\n◆ テーブル一覧はこちらから\n⇒　https://www.goodtimeschool.jp/categories/4966318\n\n◆ 家具・インテリア 一覧はこちら\n⇒　https://www.goodtimeschool.jp/categories/4966313\n\n*-*-*-*-*-*-*-*-*-\nニット風表地×ボア裏地の薄手軽量こたつ布団。円形・正方形どちらにも対応し、省スペース設計でハイタイプ・ロータイプの2WAYテーブルにぴったり。おしゃれなリビングの冬支度におすすめです。\n*-*-*-*-*-*-*-*-*-\n\nご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。\n\n\nKK-602BE\tkk003014\nKK-602GY\tkk003015\nKK-602IV\tkk003016\ngoodtime  11102025\nNEW　冬",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/8f38cd3f057949212505b31b347b297d.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/85ed956ce06bad6a540dc913ed645939.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/52085dc4f77acd5e69a12967bb3336a9.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/42e3f724acb70aaaea5518f6e88773cf.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7bf355573ebcdf1ee0f2c4c3f5cfb551.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/8d935f63fc3398f2ec1af24f932a63a6.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/233472d90f19c29a9afdb2da120e7031.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/49f2b1a13daca24169e60dc7661d6cf1.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/41e87f1cd0c5eed1d1d354e5887457ed.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ecf2ffd87d885f819e398040b613b357.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6dc018d19ddbee1ab52fd4d13523f465.jpg?gtsp=202511101935"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": ""
+    },
+    "category": "",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124879601",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124879601",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "9100",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124879601",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "アイボリー"
+      }
+    ]
+  },
+  "/items/124875138": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/124875138#product",
+    "name": "こたつ テーブル ラウンドコタツ リバーシブル 石英管ヒーター 炬燵 幅80cm 高さ2段階 ハイタイプ ロータイプ 円形 丸型 北欧 こたつテーブル こたつ机 継ぎ脚",
+    "description": "円形80?cm幅のハイ＆ロー2段階対応こたつテーブルです。\n\n天板はリバーシブル仕様で、片面は木目のナチュラルデザイン、逆面はライトグレーのシンプルモダンスタイル。脚の継ぎ脚で高さを40?cmと70?cmの2段階に調節可能なので、座椅子・ソファ・チェアなど様々なスタイルにフィットします。\nさらに、石英管ヒーターを採用しており、芯までしっかりと暖めながら省エネで快適なぬくもりを実現。\n\n冬のリビングに上質な時間と空間を提供する、北欧テイストのおしゃれなラウンドこたつテーブルです。\n\n【商品サイズ】幅84.5×奥行84.5×高さ40/70cm\n\nシーンや雰囲気に合わせて、デザインも高さも変えられる万能こたつ。\n\n※こたつ布団は別売りとなります。\n\n【材質】合成樹脂化粧繊維板 天然木(ラバーウッド) ウレタン塗装 石英管ヒーター300W 中間スイッチ\n【機能】天板リバーシブル\n【組立】組立式\n【商品重量】14.0kg\n【原産地】ベトナム\n\n★ヒーター部分のみ1年間メーカー保証付きです。\n\n正規メーカー品：東谷（AZUMAYA）\n\n※本製品はメーカー工場より直送いたします。\n　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）\n\n[送料無料]\nカートに「送料別」と表示されますが、送料は無料ですのでご安心ください。\n※北海道は別途送料が2,750円加算されます。\n※沖縄県は別途送料が7,700円加算されます。\n※離島地域は都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。\n\n※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。\n\n\n★このこたつにピッタリなこたつ布団はこちら\n⇒　https://www.goodtimeschool.jp/items/124879601\n\n\n◆ テーブル一覧はこちらから\n⇒　https://www.goodtimeschool.jp/categories/4966318\n\n◆ 家具・インテリア 一覧はこちら\n⇒　https://www.goodtimeschool.jp/categories/4966313\n\n*-*-*-*-*-*-*-*-*-\nリバーシブル天板＆高さ調節可能な80?cm幅のラウンドこたつテーブル。石英管ヒーター搭載で速暖省エネ。木目×ライトグレーの上質な仕上がりが、座椅子・ソファ・チェアどちらにもなじむ北欧インテリアに最適です。\n*-*-*-*-*-*-*-*-*-\n\nご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。\n\n\nKT-119NA\tkt001005\ngoodtime  11102025\nNEW　冬",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2769e9ed926bba8292b1ebae988b5ee8.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2f72b4cf2af3f161ea92ef6a746d5a76.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7e0363e7c27df7d3894baba1c7ec83ab.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c6d5e78b87ebf018fdc87242684f9bb9.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/02c27cc85b9391bbe68f3e1f3075a71b.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3d9084d5bccf3f4445cfcf712a4eeb2c.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/972985cefa89e2778e82c50b04d5e3ca.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ff939d5f5aae68fdde95f9e70220af63.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5286c15e0c4e4378260080148dc43571.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/92023222f28ec68e1f3a45f789f29b35.jpg?gtsp=202511101935",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/626e4be063bad751d1c8e1e7c2abae30.jpg?gtsp=202511101935"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": ""
+    },
+    "category": "",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "31800",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/124875138",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": ""
+      }
+    ]
+  },
+  "/items/125172913": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/125172913#product",
+    "name": "アニマル サンドクッション 大判 90×120cm フランネル 裏ボア クッション おしゃれ かわいい ブランケット ひざ掛け お昼寝 ごろ寝 ラグ こたつ 座椅子",
+    "description": "アニマルサンドクッション 大判 90×120?cm フランネル裏ボア ブランケット おしゃれ こたつ ごろ寝 クッション\n\n商品サイズ：約幅90×奥行120cm\n\n●程よいクッション性があり床付き感が無いので、床でも快適使用。\n●柔らかく扱いやすいので、ソファの上でもブランケット感覚で。\n●中に入った状態でチェアに座って作業も。寒い時期のデスクワークに。\n●身体をすっぽりつつみ込むサイズ感なので、お昼寝タイムにも活躍。\n●表面は肌触りの良いフランネル、内側は暖かいボアを使用。\n●可愛く畳まれたパッケージなのでプレゼントにもおすすめ。\n\n商品重量：約1.4kg\n材質：ポリエステル\n生産国：中国\n備考：完成品\n\n\n正規メーカー品：東谷（AZUMAYA）\n\n※本製品はメーカー工場より直送いたします。\n　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）\n\n[送料無料]\nカートに「送料別」と表示されますが、送料は無料ですのでご安心ください。\n※北海道は別途送料が880円加算されます。\n※沖縄県は別途送料が4,400円加算されます。\n※離島地域は5,500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。\n\n※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。\n\n\n◆ こたつ・ふとん・マット 一覧はこちらから\n⇒　https://www.goodtimeschool.jp/categories/7004343\n\n◆ 家具・インテリア 一覧はこちら\n⇒　https://www.goodtimeschool.jp/categories/4966313\n\n*-*-*-*-*-*-*-*-*-\n90×120?cmの大判サイズで、フランネルの表地と裏ボアの暖かな仕上がり。アニマル柄が可愛らしく、クッションとしてもブランケットとしても使える多機能アイテムです。こたつやソファ、床座スタイルにぴったり。寒い季節や昼寝タイム、おしゃれなギフトにもおすすめです。\n*-*-*-*-*-*-*-*-*-\n\nご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。\n\n\nGLK-206BEA\tglk003013\nGLK-206CAT\tglk003014\nGLK-206FOX\tglk003015\ngoodtime  11132025\nNEW　冬",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3f824a5b9c026ef4f3db218589c2b3ca.jpg?gtsp=202511131616",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ef87e3389973085d157821e4225907ee.jpg?gtsp=202511131616",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b1548bd9c5078829c1427d77b593cfda.jpg?gtsp=202511131616",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/12ed49a0b5fb83e720e89fb4ebc25d9d.jpg?gtsp=202511131616",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/31c3b4296276350b896a374c26e89359.jpg?gtsp=202511131616",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7cdc449027221ffc5b30710d82bbd6f2.jpg?gtsp=202511131616",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3d3a6eac4e4b28bee328a11fc317f04a.jpg?gtsp=202511131616",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5f9fe4e4136d9f61daa8f74dc6b10718.jpg?gtsp=202511131616",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6bf0bedfde27b109178b03418c2e6f30.jpg?gtsp=202511131616",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/0cb5cf0290a79e1e794c980cfeaf792f.jpg?gtsp=202511131616",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d585c73f0aa98ce1fb67ada6473cf288.jpg?gtsp=202511131616"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": ""
+    },
+    "category": "",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/125172913",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "クマ（ブラック）"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/125172913",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ネコ（グレー）"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "6300",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/125172913",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "キツネ（オレンジ）"
+      }
+    ]
+  },
+  "/items/125281436": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/125281436#product",
+    "name": "デスクライト テーブルライト おしゃれ シェード 直径25cm 卓上 電球付き 陶器 照明器具 ジュート 北欧 ナイトライト ベッド やわらか光のモダンなテーブル灯",
+    "description": "商品名：デスクライト テーブルライト ナイトライト やわらか光のモダンなテーブル灯\n\n商品サイズ：φ25×H42.5(コード長:1.5m)\n\n陶器でできた滑らかなリング状のフォルムが印象的なテーブルライト\n白い陶器のボディとナチュラルな色合いのシェードが調和し、淡い光が温かみのある優しい空間を演出します。消灯時もアートオブジェのような佇まいで、空間に上品なアクセントを添える存在感のあるアイテムです。\n\n【材質】陶器 布 紙 アルミ\n【機能】電球付:LHB-90 LED電球対応可\n【静的耐荷重】設定なし\n【組立】組立式\n【原産地】中国\n【商品重量】1.5kg\n\n◆商品のお買い上げ日より１年間保証付き\n※電気系統の不具合以外（シェードや電球のキズ・破損など）については、保証の対象外となります。\n※お客様側の不手際によって発生した不具合や破損は保証の対象外となります。\n\n正規メーカー品：東谷（AZUMAYA）\n\n※本製品はメーカー工場より直送いたします。\n　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）\n\n[送料無料]\nカートに「送料別」と表示されますが、送料は無料ですのでご安心ください。\n※北海道は別途送料が880円加算されます。\n※沖縄県は別途送料が4,400円加算されます。\n※離島地域は5,500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。\n\n※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。\n\n\n◆ インテリア・雑貨 一覧はこちらから\n⇒　https://www.goodtimeschool.jp/categories/4966320\n\n◆ 家具・インテリア 一覧はこちら\n⇒　https://www.goodtimeschool.jp/categories/4966313\n\n*-*-*-*-*-*-*-*-*-\n日中はお部屋のアクセントになり、明かりを灯すとシェードから淡い光を放ちます。\n*-*-*-*-*-*-*-*-*-\n\nご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。\n\n\nLHT-759WH\tlht001001\ngoodtime  11142025\nNEW　冬",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3564e931c038a595fbf95da722baea2c.jpg?gtsp=202511141651",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ce78f85e50720f30da71aaab357b6fdc.jpg?gtsp=202511141651",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b65b93cd1b8286d1a3eecd085d52991d.jpg?gtsp=202511141651",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/631b9a179b0852c693c108a85d11df89.jpg?gtsp=202511141651",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/93c1f2991df7430611fe83ef633c61d2.jpg?gtsp=202511141651",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/99a44b6e2c15ba84fcf1b199a0b25e2e.jpg?gtsp=202511141651",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/66416cb25310c8cc151212a5a7ac9e2a.jpg?gtsp=202511141651",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f7870efeb614a9d43185c9dbbb9e9fa1.jpg?gtsp=202511141651",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7ab77320337588e2ae68b41496ff3e32.jpg?gtsp=202511141651",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9064ffe29d1c52ebb4f32bcdb5a3b4f2.jpg?gtsp=202511141651",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2db3a64fc2f2bd9531ea5bc1ab3801d4.jpg?gtsp=202511141651"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": ""
+    },
+    "category": "",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "12200",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/125281436",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": ""
+      }
+    ]
+  },
+  "/items/125565573": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/125565573#product",
+    "name": "湯たんぽ 充電式 蓄熱式 丸洗い可 お湯替え不要 冷え性対策 暖房グッズ 防寒 かわいい 動物 洗濯可 ギフト プレゼント ゆたんぽ アンカ エコな湯たんぽ",
+    "description": "商品名：湯たんぽ 充電式 蓄熱式 丸洗い可 お湯替え不要 冷え性対策 暖房グッズ 防寒 かわいい 動物 洗濯可 ギフト プレゼント ゆたんぽ アンカ 冬\n\n商品サイズ：W36×D26\n\n★最短約7分の充電だけでいつでもすぐポカポカ\nどこにでも持ち運べて、繰り返し使える蓄熱式エコ湯たんぽ。\n面倒なお湯の入れ替えは不要で、好きなときに好きな場所でお使いいただけます。\n\n★約7～15分の充電で、あたたかさ長持ち\n最長約15分の短い充電時間で、長時間の使用が可能です。\n手軽にサッと充電してすぐに身体をポカポカ温めてくれます。\n\n【商品重量】　1.4kg\n【原産地】　中国\n【材質】\n湯たんぽ(本体)：\nPVC/ポリエステル/ポリカーボネート/ポリプロピレン/エポキシ樹脂/銅/304ステンレス/ABS/水\n保温カバー：ポリエステル\n\n◆商品のお買い上げ日より１年間保証付き\n\n※電気系統の不具合以外（カバーの破損など）については、保証の対象外となります。\n※お客様側の不手際によって発生した不具合や破損は保証の対象外となります。\n\n正規メーカー品：東谷（AZUMAYA）\n\n※本製品はメーカー工場より直送いたします。\n　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）\n\n[送料無料]\nカートに「送料別」と表示されますが、送料は無料ですのでご安心ください。\n※北海道は別途送料が880円加算されます。\n※沖縄県は別途送料が4,400円加算されます。\n※離島地域は5,500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。\n\n※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。\n\n\n◆ インテリア・雑貨 一覧はこちらから\n⇒　https://www.goodtimeschool.jp/categories/4966320\n\n◆ 家具・インテリア 一覧はこちら\n⇒　https://www.goodtimeschool.jp/categories/4966313\n\n*-*-*-*-*-*-*-*-*-\nお湯入れ不要で手軽に使える充電式蓄熱湯たんぽ。約7分の充電で長時間ぽかぽか、カバーは丸洗いできて清潔。冷え性対策や就寝時の防寒、ギフトにも喜ばれるかわいい動物デザインのエコ暖房グッズです。\n*-*-*-*-*-*-*-*-*-\n\nご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。\n\n\nGLK-208BE\tglk003007\nGLK-208GY\tglk003008\nGLK-208WH\tglk003009\ngoodtime  11172025\nNEW　冬",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2b66de6571627f68a19709c5cac9d430.jpg?gtsp=202511171514",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2ee3b9f86d81965174b95b81bb05a5de.jpg?gtsp=202511171514",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/4f4cca4860a876c28b3e213b81b22d18.jpg?gtsp=202511171514",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5380c70f00bb292274b1833465a93a9e.jpg?gtsp=202511171514",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/394e2c5ce774d229efb53e599c05ce1d.jpg?gtsp=202511171514",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/545ae33a89254cbc05b736096c4dc3e8.jpg?gtsp=202511171514",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1ba323f79f138e02374fc0b9c02d62bc.jpg?gtsp=202511171514",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d20bce2c290ac22559fecc8e64f2a60e.jpg?gtsp=202511171514",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b1490f31f5d401927b1203757b241ec8.jpg?gtsp=202511171514",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7aa437cca8e78e0c3fdb0a18a452a183.jpg?gtsp=202511171514",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/287b959cdc0051fb17e8b30fb7b41848.jpg?gtsp=202511171514"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": ""
+    },
+    "category": "",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3900",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/125565573",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ベージュ"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3900",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/125565573",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "グレー"
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "3900",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/125565573",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": "ホワイト"
+      }
+    ]
+  },
+  "/items/123773124": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/123773124#product",
+    "name": "あったかグッズ ポケットこたつ ごろ寝 一人用 「カルド リーチェ ポケットこたつ布団」約90×120cm",
+    "description": "あったかグッズ ポケットこたつ ごろ寝 一人用『カルド リーチェ ポケットこたつ布団』 サイズ：約90×120cm 下半身をすっぽりと包み込む、ポケットのような袋状デザインが特徴のあったかアイテム。 足を入れるとつま先まで包み込んでくれるので、外部からの冷気が入りにくく、 また内部の暖かさを逃がしにくくなっています。 ■生産地：中国 ■素材・成分：表地=ポリエステル100％(フランネル) 中綿=ポリエステル100％ 裏地=ポリエステル100％(表：フランネル、裏：ピーチスキン) 洗濯 / お手入れ 30℃以下の水温で洗濯機が使用できます。（洗濯時は洗濯ネットをご使用ください。） 干し方＝日陰のつり干しがよい。 ※画面上のカラーはご使用ブラウザやモニターの設定により、実物とは若干異なる場合がございます。 あらかじめご了承の上、ご注文をお願いいたします。 正規メーカー品：イケヒコ（IKEHIKO） ※本製品はメーカー工場より直送いたします。 ご注文後、3営業日以内の発送となります。（土日、祝日は出荷しておりません） ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。 [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※ 画面上のカラーはご使用ブラウザやモニターの設定により、実物とは若干異なる場合がございます。あらかじめご了承ください。 *-*-*-*-*-*-*-*- あったかグッズ ポケットこたつ ごろ寝 一人用『カルド リーチェ ポケットこたつ布団』 下半身をすっぽりと包み込む、ポケットのような袋状デザインが特徴のあったかアイテム。 足を入れるとつま先まで包み込んでくれるので、外部からの冷気が入りにくく、また内部の暖かさを逃がしにくくなっています。 表側・内側には毛布にも使用される極細繊維のフランネル生地を採用し、心地よいなめらかタッチ。 上面・下面ともにポリエステルわたを挟み込み、ふっくらと仕上げました。 雪の結晶や千鳥格子などのノルディック柄をパッチワーク風にプリントしたデザインは、冬らしい雰囲気を演出。 軽量で、リビングやダイニング、書斎など、さまざまな場所へ気軽に持ち運べます。 使わない時は折りたたんでコンパクトに収納可能。 ご家庭の洗濯機で洗えるので清潔に使えます（ネット使用）。 寒い日のデスクワークや読書タイムなど、電気を使わずちょっとした寒さ対策をしたい時などに重宝しそう♪ ■おひとり様用ポケットこたつ布団です。 ■表地にはふんわりやわらかなフランネル素材を使用しています。 ■ソファに座る時や、デスクワークで足先、膝が冷たい時にさっと使えてあたたかく、電気代も節約できて便利です。 ■持ち運びも簡単なので、アウトドアなど外でもご使用できます。 ★ 他の生活雑貨を見る ⇒ https://www.goodtimeschool.jp/categories/4990894 ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。 4550317214356 i117198002 4550317214370 i117198013 4550317220203 i117140019 4550317220227 i117140024 グッドタイム goodtime 冬 10312025",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a9ceb058fb88d410b7a3973151c403f3.jpg",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e6587242def5732953c84805fa95a009.jpg"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "イケヒコ"
+    },
+    "category": "",
+    "offers": [
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/123773124",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": ""
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/123773124",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": ""
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/123773124",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": ""
+      },
+      {
+        "@type": "Offer",
+        "priceCurrency": "JPY",
+        "price": "5400",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.goodtimeschool.jp/items/123773124",
+        "itemCondition": "https://schema.org/NewCondition",
+        "color": ""
+      }
+    ]
+  }
+};
+</script>
