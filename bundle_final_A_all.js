@@ -8374,27 +8374,116 @@ window.__GT_JSONLD_MAP__ = {
       }
     ]
   },
-  "/items/999888777": {
+  "/items/126288458": {
     "@context": "https://schema.org",
     "@type": "Product",
-    "@id": "https://www.goodtimeschool.jp/items/999888777#product",
-    "name": "テスト追加商品",
-    "description": "これはテストで追加される商品です。",
+    "@id": "https://www.goodtimeschool.jp/items/126288458#product",
+    "name": "スツール 高さ40cm 円形 丸 椅子 オットマン 北欧 シンプル おしゃれ コンパクト 韓国インテリア ナチュラル",
+    "description": "高さ40cmの座りやすい円形スツール。丸みのある優しいデザインで、北欧や韓国インテリアに相性抜群。コンパクトで場所を取らず、オットマン・ダイニングチェア・玄関椅子としても万能に使えます。お部屋に馴染むシンプルでおしゃれなスツールです。\n\n商品サイズ：W37×D37×H40\n\n【材質】木フレーム ポリエステル\n【静的耐荷重】80kg\n【組立】完成品\n【原産地】中国\n【商品重量】2.0kg\n\n正規メーカー品：東谷（AZUMAYA）\n\n※本製品はメーカー工場より直送いたします。\n　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）\n\n[送料無料]\nカートに「送料別」と表示されますが、送料は無料ですのでご安心ください。\n※北海道は別途送料が880円加算されます。\n※沖縄県は別途送料が4,400円加算されます。\n※離島地域は5,500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。\n\n※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。\n\n? 冬のあったかグッズ一覧はこちら\n⇒　https://www.goodtimeschool.jp/?q=%E5%86%AC\n\n◆ チェア・スツール一覧はこちら\n⇒　https://www.goodtimeschool.jp/categories/4998684\n\n◆ インテリア・雑貨 一覧はこちらから\n⇒　https://www.goodtimeschool.jp/categories/4966320\n\n◆ 家具・インテリア 一覧はこちら\n⇒　https://www.goodtimeschool.jp/categories/4966313\n\n*-*-*-*-*-*-*-*-*-\nやさしい丸みデザインが魅力の円形スツール（高さ40cm）。\nコンパクトで置きやすく、ダイニング・玄関・リビング・寝室・ドレッサー横など幅広いシーンで活躍します。\n背もたれのないラウンド型は動線を邪魔せず、北欧・韓国インテリア・ナチュラル・モダンテイストのお部屋に自然に馴染む万能デザイン。\nサブチェアやオットマンとしても使え、来客用にも便利です。\n軽量で持ち運びやすく、スペースの限られた一人暮らしにも最適。\n*-*-*-*-*-*-*-*-*-\n\n\nご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。\n\n\nPC-151BL\tpc004057\nPC-151GB\tpc004058\nPC-151RBE\tpc004059\nPC-151WH\tpc004060\ngoodtime  11242025\nNEW　冬",
     "image": [
-      "https://example.com/test1.jpg",
-      "https://example.com/test2.jpg",
-      "https://example.com/test3.jpg"
+      "https://baseec-img-mng.akamaized.net/images/item/origin/8256483aa27f3766b09a3e89e01611ad.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a8af3dc3d2bb6bdfc5aa29d0b600622d.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a639077fdfb741fcbe90aa05ac71b8c5.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e8a4118a72caf24ff96eb0906536becd.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/32083538751b2e06db354b7cbaa156be.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/039cf54c6a8861d3af65c32883206523.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7afdcc158ffd1f137587f56843bbc994.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/973639cd5e51287df9ad71bc83ed81af.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2a45d9471fd7946749b2de8c0f133580.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/209f52b4851d1bbb3af1474078797955.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/acc02083354b8581aca5e3ba33d26590.jpg?gtsp=202511251907"
     ],
     "brand": {
       "@type": "Brand",
-      "name": "TEST_BRAND"
+      "name": NaN
     },
     "offers": {
       "@type": "Offer",
       "priceCurrency": "JPY",
-      "price": "4500",
+      "price": "7500",
       "availability": "https://schema.org/InStock",
-      "url": "https://www.goodtimeschool.jp/items/999888777"
+      "url": "https://www.goodtimeschool.jp/items/126288458"
+    }
+  },
+  "/items/126231754": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/126231754#product",
+    "name": "ボディピロー 抱き枕 もちもち コーデュロイ アニマルクッション かわいい 足枕 腰当て 肘置き おしゃれ",
+    "description": "もちもち触感が心地よい、コーデュロイ生地のアニマルボディピロー。しっぽ付きのかわいいデザインで、抱き枕・足枕・腰当て・肘置きとしてマルチに活躍。ベッドやソファに置くだけで癒しと可愛さをプラスする万能クッションです。\n\n商品サイズ：約W35×D18×H70\n\n【材質】ポリエステル ポリウレタン\n【組立】完成品\n【原産地】中国\n【商品重量】0.5kg\n\n正規メーカー品：東谷（AZUMAYA）\n\n※本製品はメーカー工場より直送いたします。\n　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）\n\n[送料無料]\nカートに「送料別」と表示されますが、送料は無料ですのでご安心ください。\n※北海道は別途送料が880円加算されます。\n※沖縄県は別途送料が4,400円加算されます。\n※離島地域は5,500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。\n\n※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。\n\n? 冬のあったかグッズ一覧はこちら\n⇒　https://www.goodtimeschool.jp/?q=%E5%86%AC\n\n◆ インテリア・雑貨 一覧はこちらから\n⇒　https://www.goodtimeschool.jp/categories/4966320\n\n◆ 家具・インテリア 一覧はこちら\n⇒　https://www.goodtimeschool.jp/categories/4966313\n\n*-*-*-*-*-*-*-*-*-\nもちもち触感がたまらないボディピロー（抱き枕）です。コーデュロイ生地のかわいいアニマル（動物）モチーフがおしゃれで、お部屋のインテリアにもぴったり。\nしっぽが付いたユニークなデザインで、抱き心地は抜群！ベッドやソファでのリラックスタイムに快適な抱き枕として活躍します。\n足枕や腰当て、肘置きとしても使える多機能クッションで、様々な姿勢をサポート。\n*-*-*-*-*-*-*-*-*-\n\n\nご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。\n\n\nGLK-200BE\tglk003001\nGLK-200DGY\tglk003002\nGLK-200GR\tglk003003\ngoodtime  11232025\nNEW　冬",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/32cddb4a7c73bdfc58855b0d13917b55.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3e367bc56df5e705ddbe5c6748b0a524.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/10d7e8ee6549de46b9b615257704612d.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/aed992853e50143674199c335a401add.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7541f4fac5b7a64ef2a56f1489f1927b.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/129cb095da92302e12a42e8b0ac459db.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7996c98fdc0fd1397f2622f301871ad1.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d0297d8ec5034762cf98ecfd2770fe61.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2d33b39cb1ffaebcc14c05553dc20d26.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/09aaacefcab04e885c2150d2e3283cf3.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/15591a781b0c362a36637a9354ae87b1.jpg?gtsp=202511251907"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": NaN
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "JPY",
+      "price": "3300",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.goodtimeschool.jp/items/126231754"
+    }
+  },
+  "/items/126227319": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/126227319#product",
+    "name": "キルトサンドクッション イブル／キルトパターン＋ボア仕様 あったかクッション 円形100cm お昼寝・ごろ寝ラグ プレゼント向け冬の温活に",
+    "description": "内側ふわふわボア＆表面キルトパターンが魅力の「キルトサンドクッション」。幅約100×奥行100cmの円形サイズで、クッションとブランケットが一体化した形状。冬のお昼寝・ごろ寝やこたつタイムにぴったりな、北欧テイストにマッチするおしゃれラグマットです。\n\n商品サイズ：約幅100×奥行100cm\n\nクッションとブランケットが一体化したような形のサンドクッション。\n内側はボアになっているので 中に入ってあたたかく過ごせます。\n表側は人気のキルトパターンを採用しています。\n\n商品重量：約1.2kg\n材質：コットン/ポリエステル\n生産国：中国\n備考：完成品\n\n正規メーカー品：東谷（AZUMAYA）\n\n※本製品はメーカー工場より直送いたします。\n　ご注文後、2営業日後の発送となります。（土日、祝日は出荷しておりません）\n\n[送料無料]\nカートに「送料別」と表示されますが、送料は無料ですのでご安心ください。\n※北海道は別途送料が880円加算されます。\n※沖縄県は別途送料が4,400円加算されます。\n※離島地域は5,500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。\n\n※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。\n\n? 冬のあったかグッズ一覧はこちら\n⇒　https://www.goodtimeschool.jp/?q=%E5%86%AC\n\n◆ インテリア・雑貨 一覧はこちらから\n⇒　https://www.goodtimeschool.jp/categories/4966320\n\n◆ 家具・インテリア 一覧はこちら\n⇒　https://www.goodtimeschool.jp/categories/4966313\n\n*-*-*-*-*-*-*-*-*-\nクッションとブランケットが一体化したような形のサンドクッション。\n内側はボアになっているので 中に入ってあたたかく過ごせます。\n表側は人気のキルトパターンを採用しています。\n*-*-*-*-*-*-*-*-*-\n\n\nご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。\n\n\nGLK-207BE\tglk003010\nGLK-207MO\tglk003011\nGLK-207WH\tglk003012\ngoodtime  11232025\nNEW　冬",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/51d59761a463d4532b93ccd87ce2fc82.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5ff6a1ee0dea50b9043aac1f0f8f1f0c.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5e555454bff22101eec2e7e38e0d07ff.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1ee43ff0d9fabc8155cec46833515971.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7b926767cc3b63a88a2611ec42b96f11.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c0c9d466bdff426a2508a505a30a37c1.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/fd37d9e34b58d8513897397eedf6ff0e.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6e9377e7cf2fb576bdb87fdd9b93d1a6.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d55279845a2602174c59154fa2a73e89.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/0955b59b1348f92489507bd5e08a1e37.jpg?gtsp=202511251907",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/fc13d472ee3ec44cf8dcba37b2038784.jpg?gtsp=202511251907"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": NaN
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "JPY",
+      "price": "5600",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.goodtimeschool.jp/items/126227319"
+    }
+  },
+  "": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp#product",
+    "name": NaN,
+    "description": NaN,
+    "image": [],
+    "brand": {
+      "@type": "Brand",
+      "name": NaN
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "JPY",
+      "price": "nan",
+      "availability": "https://schema.org/OutOfStock",
+      "url": NaN
     }
   }
 };
