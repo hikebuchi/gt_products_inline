@@ -8395,7 +8395,7 @@ window.__GT_JSONLD_MAP__ = {
     ],
     "brand": {
       "@type": "Brand",
-      "name": "nan"
+      "name": "東谷（AZUMAYA）"
     },
     "offers": {
       "@type": "Offer",
@@ -8426,7 +8426,7 @@ window.__GT_JSONLD_MAP__ = {
     ],
     "brand": {
       "@type": "Brand",
-      "name": "nan"
+      "name": "東谷（AZUMAYA）"
     },
     "offers": {
       "@type": "Offer",
@@ -8457,7 +8457,7 @@ window.__GT_JSONLD_MAP__ = {
     ],
     "brand": {
       "@type": "Brand",
-      "name": "nan"
+      "name": "東谷（AZUMAYA）"
     },
     "offers": {
       "@type": "Offer",
@@ -8476,7 +8476,7 @@ window.__GT_JSONLD_MAP__ = {
     "image": [],
     "brand": {
       "@type": "Brand",
-      "name": "nan"
+      "name": "GOOD TIME / ショッピング"
     },
     "offers": {
       "@type": "Offer",
