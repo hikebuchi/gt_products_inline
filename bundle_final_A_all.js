@@ -8485,5 +8485,67 @@ window.__GT_JSONLD_MAP__ = {
       "availability": "https://schema.org/OutOfStock",
       "url": NaN
     }
+  },
+  "/items/131752226": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/131752226#product",
+    "name": "梅結び×淡路玉 水引ピアス｜揺れる和アクセサリー 上品・華やか｜樹脂ポスト 金属アレルギー対応 軽量 レディース ギフト",
+    "description": "＜梅結び × 淡路玉 水引ピアス＞\n\n揺れる和アクセサリー｜上品・華やか｜樹脂ポスト／金属アレルギー対応・軽量\n\n耳元に、さりげない“和の華やぎ”を。\n\n日本の伝統美「梅結び」と、\nころんと愛らしい「淡路玉」を組み合わせた\n上品で華やかな和風ピアスです。\n\n動くたびにやさしく揺れ、\n装う人の表情まで明るく見せてくれるデザイン。\n普段使いから特別な日まで、幅広いシーンで活躍します。\n\n\n【こんな方に選ばれています】\n\n・和の雰囲気をさりげなく取り入れたい\n・軽くて長時間つけられるイヤリングを探している\n・金属アレルギーが心配\n・上品で派手すぎないアクセサリーが好き\n・ギフト用の和アクセサリーを探している\n\n\n【梅結びに込められた意味】\n\n梅結びは、\n**「固く結ばれ、ほどけにくい」**ことから\n古くより\n・良縁\n・幸運\n・魔除け\nの象徴として親しまれてきました。\n\n身につけることで、\n前向きな気持ちや大切なご縁を結ぶ想いを\nそっと日常に添えてくれます。\n\n\n【淡路玉の魅力】\n\n淡路玉は、\n丸みのあるフォルムが特徴の和装飾モチーフ。\n\n・優しい存在感\n・揺れたときの立体感\n・和にも洋にも合わせやすい表情\nを持ち、\n耳元に女性らしい柔らかさを演出します。\n\n\n【このピアスが選ばれる理由】\n\n■ ① とにかく軽い着け心地\n長時間つけても疲れにくい軽量設計。\nアクセサリーが苦手な方にもおすすめです。\n\n■ ② 金属アレルギー対応（樹脂ポスト）\n樹脂ポストを使用しているため、\n金属アレルギーの方にも安心してお使いいただけます。\n\n■ ③ 上品で華やかなデザイン\n派手すぎず、地味すぎない。\n大人の女性にちょうどいい華やかさです。\n\n\n【こんなシーンにおすすめ】\n\n・普段のお出かけに\n・和装・浴衣・着物スタイルに\n・お食事会・お祝いの席に\n・卒業式・入学式・式典に\n・デート・女子会に\n\n\n【ギフトとしても人気です】\n\n・誕生日プレゼント\n・母の日\n・敬老の日\n・和装好きな方への贈り物\n・自分へのご褒美にも\n\n年齢を問わず贈りやすいデザインで、\n「上品で使いやすい」と喜ばれています。\n\n\n【商品詳細】\n\n【商品】\n長さ：6cm\n\n【水引】\n 水引が水に濡れてしまったり、汚れがついてしまった場合は柔らかい布で優しく拭いてください。 水引はある程度であれば多少の濡れでも変化はありませんが、長い時間水につけると色落ちする可能性があります。ご注意ください。\n\n【その他】\n・樹脂製ポスト、キャッチ\n・パールはABS樹脂製\n・黒の専用ケース付き\n\n【黒箱サイズ】\n縦：9.5cm　横：6cm　高さ:2.5cm\n※名刺サイズと同等のサイズ感になります。\n\n※ 手作業仕上げのため、色味や形状に個体差があります。\n※ モニター環境により色の見え方が異なる場合があります。\n\n\n【よくあるご質問】\n\nQ. 長時間つけても痛くなりませんか？\nA. 軽量設計のため、長時間でも比較的負担が少ない仕様です。\n\nQ. 和装以外でも使えますか？\nA. はい。シンプルな洋服にも合わせやすく、普段使いにもおすすめです。\n\n\n【関連商品・おすすめ】\n\n? 他の和ピアスはこちら\nhttps://www.goodtimeschool.jp/categories/2509477\n\n20260113 NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/47d759f02b429dc25af8549e4a827ece.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/193f85c7e774e04ed618783bf7223a9f.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c529d88c53c400d4d1e4dfca76269143.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5646b3dfe8df412f0b322f46289eef86.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9f66e2cec200098ef8de4317fb7876df.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/20a5a05d6b5bfb9d6716eb0eed20d725.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7171be3c822dc6f19ac3eb6f88847fa5.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d8237f037cc386552f044fdd41d6d7da.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/bb9d6e946acc9d7038b43c3ca0713939.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f4751a97a3f34106c20c915b9ee76233.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1cef230aa36ea1e07b05023583379c10.jpg?gtsp=202601152032"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "JPY",
+      "price": "4430",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.goodtimeschool.jp/items/131752226"
+    }
+  },
+  "/items/131486671": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/131486671#product",
+    "name": "2月誕生石 宝石質 アメジスト ルース 約12×12mm ラウンド コンケーブカット 天然石 紫水晶 裸石 ジュエリー制作 ハンドメイド 素材",
+    "description": "2月誕生石 アメジスト ルース\n\n宝石質 天然石｜約12×12mm ラウンド コンケーブカット\n\nあなたの創造をカタチにする、上質な天然石ルース。\nジュエリー制作・ハンドメイド素材として長く愛される人気のアメジストです。\n\n\n【この天然石はこんな方におすすめ】\n\n・オリジナルアクセサリーを制作したいクリエイター\n・大切な人へのハンドメイドギフトを作りたい方\n・天然石アクセサリーの素材を探している方\n・2月誕生石の意味を作品に込めたい方\n・ジュエリー制作をこれから始める方\n\n\n【 アメジスト（紫水晶）について】\n\nアメジストは、\n**“安らぎ・直感・感性の高まり”**を象徴するとされ、\n世界中のクラフト制作で人気のある天然石です。\n\n2月の誕生石としても広く親しまれ、\nギフトや記念作品の素材としての価値も高く評価されています。\n\n\n【 作品制作への最適ポイント】\n\n■ 高品質ルース（宝石質）\n・透明感があり、光を受けて美しく輝く宝石質\n・ジュエリー・アクセサリー制作に最適\n\n■ 使いやすいサイズ\n・約 12×12mm（ラウンド）\n・標準的なサイズで、リング・ペンダント・ピアスなど幅広く活躍\n\n■ 美しいカット形状\n・コンケーブカットで立体感のある輝き\n・光の屈折が豊かで、作品の表情づくりに最適\n\n\n【こんな作品におすすめ】\n\n・天然石リング\n・ペンダントトップ\n・ピアス・イヤリング\n・ブレスレットデザインのメインパーツ\n・ワイヤーアートアクセサリー\n\nあなたの創造性を形にする、特別な1ピースになります。\n\n\n【贈り物としても最適】\n\n誕生石としてのエピソードを添えて贈れば、\n受け取る人の喜びがより深まります。\n\n大切な方へ、\n「あなたの輝きがいつまでも続きますように」\nという想いを込めて。\n\n\n【サイズ・素材詳細】\n\n・天然石名：アメジスト（紫水晶）\n・サイズ：約 12×12×8mm\n・重さ：5.83ct\n・カット：ラウンド / コンケーブ\n・用途：ジュエリー制作／ハンドメイド素材／コレクション／パワーストーン\n・状態：穴なし裸石（ルース）\n・産地：ブラジル\n\n※ 天然の素材のため、色味・内包物は1点ずつ異なります。\n※ 写真は自然光の下で撮影、実物に近い色味表示を心がけていますが、モニター表示により差異が出る場合があります。\n\n\n【よくある質問】\n\nQ. どんなアクセサリーに向いていますか？\nA. ペンダント、リング、ピアス、ブレスレットなど幅広い用途で使われています。\n特に、中心パーツとして存在感のあるデザインにおすすめです。\n\nQ. 同じサイズで複数購入しても大丈夫？\nA. はい。複数購入でペアジュエリーやセット制作にもご利用いただけます。\n\n\n【関連商品】\n\n? 他の天然石ルース一覧を見る\nhttps://www.goodtimeschool.jp/categories/2509475\n\n? 2月誕生石（アメジスト）アイテム一覧\nhttps://www.goodtimeschool.jp/categories/2770727\n\n\n【ご購入の前に】\n\n★端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。\n\n※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5）が生じることがございます。アクセサリーパーツの素材にご利用される場合など、正確なサイズを求められる場合は購入前にお問合せをいただき、必ずご確認ください。\n\n※開封後の返品、交換は初期不良を除き不可となります。\n\nla001095  NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/855bd0d99f81a6478020475f77e51bbb.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3337c3d24f7cc33306e4e45c47df17c9.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5f12a52a9c197d356854a20355033077.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c8e475d8b6ef5ad648738b5b883411a9.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ff2fa5f882e597a3e6cf1bf01ca70b0f.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/57b85e0520ec040b4c4b2918d5a41b67.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/22473194d584daa402cfec4f4c006651.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5c3021a507bbbf2cefa4da9d94957350.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6c14b5759e31b95db898de1ed75d3c80.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/58cd1b977d9e235888219a0d5b8a9be0.jpg?gtsp=202601152032",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9a9e2ba15b3751b4126ba9aade5fa4d1.jpg?gtsp=202601152032"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "JPY",
+      "price": "3790",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.goodtimeschool.jp/items/131486671"
+    }
   }
 };
