@@ -8547,5 +8547,98 @@ window.__GT_JSONLD_MAP__ = {
       "availability": "https://schema.org/InStock",
       "url": "https://www.goodtimeschool.jp/items/131486671"
     }
+  },
+  "/items/137587381": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/137587381#product",
+    "name": "宝石質アクアマリン AAA ルース 7×5mm 2粒セット｜3月誕生石・守護石｜ナイジェリア産 オーバルファセット 裸石",
+    "description": "アクセサリーとして加工するだけでなく、石そのものをポーチに入れて持ち歩いたり、デスクに置いて眺めたり。石本来の透明感と輝きをダイレクトに感じる『持ち歩く守護石』という新しい習慣をご提案します。\n\n3月の誕生石アクアマリンは、『穏やかさ』と『調和』を象徴する石として古くから親しまれてきました。GOOD TIME / ショッピングが厳選したこのナイジェリア産アクアマリンは、オーバルファセットカットによる繊細な輝きが特徴。光を受けるたびにきらめき、あなたの日常にそっと寄り添います。\n\nAmazon・Yahoo!で5年間、多くのお客様に選ばれてきた専門知識を活かし、この石専用の『守護石解説書』を同梱してお届けします。初めてルースを手に取る方もご安心ください。\n\n\n【この天然石はこんな方におすすめ】\n\n・3月誕生石を“持ち歩く守護石”として身近に置きたい方\n・透明感のある宝石質アクアマリンを探している方\n・ペアジュエリー制作をお考えの方\n・既製品ではなく、石そのものの美しさを楽しみたい方\n・想いを込めた特別な贈り物を探している方\n\n\n【 アクアマリンについて 】\n\nアクアマリンは、\n**“穏やかさ・前向きな気持ち・調和”**を象徴するとされ、\n世界中で愛されている天然石です。\n\n3月の誕生石としても広く知られ、\nギフトや記念日の素材としても人気があります。\n\n\n【この石が選ばれる理由（こだわり）】\n\n■ 宝石質AAAグレードの透明感\n高い透明度と澄んだブルーが魅力。\n小粒ながらも光を受けると美しく反射し、上品な輝きを放ちます。\n\n■ 約7×5mmの扱いやすいサイズ\n日常使いのリングやピアスに最適なバランス。\n小さすぎず、主張しすぎない絶妙な存在感です。\n\n■ 2粒セット（ペア仕様）\n左右揃えて使える2粒セット。\nペアジュエリーやセット制作にもおすすめです。\n\n■ ファセットカットの繊細な輝き\n裏面まで丁寧に研磨されたカットが、光を細やかに反射します。\n\n\n【おすすめの楽しみ方（お守りスタイル）】\n\n・「持ち歩く守護石」として\n小さなポーチに入れてバッグに。外出時の安心感に。\n\n・「デスクのお守り」として\n仕事や勉強の合間に、透明感ある輝きを眺めてリフレッシュ。\n\n・「オリジナルジュエリー」の素材として\nリング、ピアス、ペンダントなど、あなただけの作品制作に。\n\n“ただの素材”ではなく、\nあなたの毎日に寄り添う「光のペアストーン」としてお迎えください。\n\n\n【贈り物としても最適】\n\n誕生石のストーリーを添えて贈れば、\nより特別な意味を持つギフトに。\n\n「穏やかな日々が続きますように」\nそんな想いを込めて。\n\n\n【サイズ・素材詳細】\n\n・天然石名：アクアマリン\n・サイズ：約 7×5×2.5～3.5mm（±0.5mm）\n・重さ：1粒 約0.61ct前後\n・カット：オーバル / ファセット\n・数量：2粒セット\n・用途：ジュエリー制作／ハンドメイド素材／守護石\n・状態：穴なし裸石（ルース）\n・産地：ナイジェリア\n\n※ 天然石のため、色味や内包物には個体差があります。\n※ 写真は自然光で撮影していますが、モニター環境により見え方が異なる場合があります。\n\n\n【よくある質問】\n\nQ. ピアスに使えますか？\nA. はい。左右揃えて使える2粒セットのため、ペア制作に最適です。\n\nQ. 同じサイズ感で追加購入できますか？\nA. 複数セットご購入いただくことで、セット制作にもご利用いただけます。\n\n\n【関連商品】\n\n? 他の天然石ルース一覧を見る\nhttps://www.goodtimeschool.jp/categories/2509475\n\n? 3月誕生石（アクアマリン）一覧\nhttps://www.goodtimeschool.jp/categories/7227800\n\n\n【ご購入の前に】\n\n★端末の種類、モニター環境により実物と色味が異なる場合がございます。\n※サイズは実測のため±0.5mm程度の誤差が生じる場合があります。\n※開封後の返品・交換は初期不良を除き不可となります。\n\n\n【お届け内容】\n\n・宝石質 アクアマリン ルース 1石\n・GOOD TIME 専門解説書\n（石の持つ意味や、お守りとしての持ち歩き方などを詳しく解説した、当店オリジナルの冊子を同梱いたします。初めての方も安心してお迎えください）\n\n◆ 安心の送料無料（カート表記について）\n当商品は【全国送料無料】でお届けします。\n※システムの都合上、カート画面で一瞬「送料別」と表示される場合がございますが、そのまま進んでいただければ「送料￥0」が自動適用されますのでご安心ください。\n\n\nam002002  NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d5b239b157ee6564cf18e73c7ba0a792.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/16ed2e07fd2369beb46d778ad128345c.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/42d08adc71421ee578ab6ae15a6423b3.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/27172ceb638a77ea0aee712a94148371.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e4bb5297ee04d39590eb1ec23bea17dc.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/80e8ca20aeb4d0fbe5f50778b306cc36.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c024f3081adbca76e3fad8ba30aa0d7f.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b8071f3a119940278661ab8321dae690.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/8f583b63af8b6000f3b747f7f7f4b975.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/72468d2364b24ea080bef54e6b03d964.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7fe09dd94a7e6111ee6e91eca8054811.jpg?gtsp=202603151638"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "JPY",
+      "price": "3240",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.goodtimeschool.jp/items/137587381"
+    }
+  },
+  "/items/137586622": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/137586622#product",
+    "name": "宝石質アクアマリン AAA ルース 14×10mm｜ナミビア産 3月誕生石・守護石｜大粒カボション 裸石",
+    "description": "アクセサリーとして加工するだけでなく、石そのものをポーチに入れて持ち歩いたり、デスクに置いて眺めたり。石本来の魅力をダイレクトに感じる『持ち歩く守護石』という新しい習慣をご提案します。\n\n3月の誕生石アクアマリンは、『穏やかさ』と『調和』を象徴する石として古くから親しまれてきました。GOOD TIME / ショッピングが厳選したこのナミビア産アクアマリンは、カボションカットによるみずみずしい艶と、海を思わせる発色の良いブルーが特徴。迷いがあるとき、静かな輝きであなたの心にそっと寄り添います。\n\nAmazon・Yahoo!で5年間、多くのお客様に選ばれてきた専門知識を活かし、この石専用の『守護石解説書』を同梱してお届けします。初めてルースを手に取る方もご安心ください。\n\n\n【この天然石はこんな方におすすめ】\n\n・「自分だけのお守り」として、存在感ある天然石を身近に置きたい方\n・誕生石や守護石を、加工せずにそのまま「持ち歩くお守り」にしたい方\n・日々の忙しさの中で、石を眺めて心を整える時間が欲しい方\n・大切な人の幸せを願い、特別な意味を持つ「縁起物」を贈りたい方\n・小粒では物足りず、しっかりとした存在感を求める方\n\n\n【 アクアマリンについて 】\n\nアクアマリンは、\n**“穏やかさ・調和・前向きな気持ち”**を象徴するとされ、\n世界中で愛されている天然石です。\n\n3月の誕生石としても広く親しまれ、\nギフトや記念作品の素材としての価値も高く評価されています。\n\n\n【この石が選ばれる理由（こだわり）】\n\n■ 厳選された「宝石質」の艶\nみずみずしい光沢と、内側から透き通るような透明感。\nカボションならではのやわらかな輝きが、石本来の魅力を引き立てます。\n\n■ 存在感のあるサイズ（約14×10mm／約5.5ct）\n手のひらに乗せた時に心地よい重みと存在感を感じられるサイズ。\nデスクに置いたりポーチに入れて持ち歩く「お守り石」に最適です。\n\n■ ナミビア産ならではの発色\n海水を思わせる発色の良いブルー。\n粒によってはシラーが見られ、角度によって異なる表情を楽しめます。\n\n\n【おすすめの楽しみ方（お守りスタイル）】\n\n・「持ち歩く守護石」として\n付属のポーチやお手持ちの小袋に入れて、バッグの中に。外出時の安心感に。\n\n・「デスクのお守り」として\n仕事や勉強中のデスクに。静かな輝きを眺めることで、心を整える時間に。\n\n・「リラックスタイム」のアイテムとして\n一日の終わりに石を手に取り、深呼吸とともに気持ちを整える習慣に。\n\n・「オリジナルジュエリー」の素材として\nもちろん、あなただけの特別なリングやペンダントへ加工する素材としても高品質です。\n\n「ただの石」ではなく、あなたの毎日を彩る「海色のパートナー」としてお迎えください。\n\n\n【贈り物としても最適】\n\n誕生石としてのエピソードを添えて贈れば、\n受け取る人の喜びがより深まります。\n\n大切な方へ、\n「穏やかな毎日が続きますように」\nという想いを込めて。\n\n\n【サイズ・素材詳細】\n\n・天然石名：アクアマリン\n・サイズ：約 14×10×5mm\n・重さ：約5.5ct前後\n・カット：オーバル / カボション\n・用途：ジュエリー制作／ハンドメイド素材／コレクション／守護石\n・状態：穴なし裸石（ルース）\n・産地：ナミビア\n\n※ 天然の素材のため、色味・内包物は1点ずつ異なります。\n※ 写真は自然光の下で撮影、実物に近い色味表示を心がけていますが、モニター表示により差異が出る場合があります。\n\n\n【よくある質問】\n\nQ. どんなアクセサリーに向いていますか？\nA. リング、ペンダント、ブローチなど主役デザインにおすすめです。存在感のあるサイズです。\n\nQ. シラーは必ず入っていますか？\nA. 個体差がございます。天然石ならではの表情としてお楽しみください。\n\n\n【関連商品】\n\n? 他の天然石ルース一覧を見る\nhttps://www.goodtimeschool.jp/categories/2509475\n\n? 3月誕生石（アクアマリン）一覧\nhttps://www.goodtimeschool.jp/categories/7227800\n\n\n【ご購入の前に】\n\n★端末の種類、モニターの環境により、実際の商品と色の見え方が異なる場合があります。あらかじめご了承ください。\n\n※サイズは実測で表記しています。一つずつ手作業で測っているため、多少の誤差（±0.5mm）が生じることがございます。\n\n※開封後の返品、交換は初期不良を除き不可となります。\n\n\n【お届け内容】\n\n・宝石質 アクアマリン ルース 1石\n・GOOD TIME 専門解説書\n（石の持つ意味や、お守りとしての持ち歩き方などを詳しく解説した、当店オリジナルの冊子を同梱いたします。初めての方も安心してお迎えください）\n\n◆ 安心の送料無料（カート表記について）\n当商品は【全国送料無料】でお届けします。\n※システムの都合上、カート画面で一瞬「送料別」と表示される場合がございますが、そのまま進んでいただければ「送料￥0」が自動適用されますのでご安心ください。\n\n\n\nam001001  NEW",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3ead439290c7a7c02601bc182cb232b9.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/60b97840b35a9b2675d0cab01e6af677.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/935714fbedd2de0114ed175c98907b42.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/173a56fdb4f1e132e961e1d63605ff38.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/78bfc1a43fa626cbb3ee83ddb8a9d2ca.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/0c76176a0b33ae5348628c77fa153ce4.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/052244d8b5d21d06059361f09582c600.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e99eea5b7e24982a4d4fc4738413bd4d.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3b0b43bad119bc7cd67f6ffc82e2b997.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a9d969f1150f92535f1bb8a58adcfb27.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1e6ec9bdb811dfc731ca3a8d9f6c1519.jpg?gtsp=202603151638"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "JPY",
+      "price": "3240",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.goodtimeschool.jp/items/137586622"
+    }
+  },
+  "/items/135571658": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/135571658#product",
+    "name": "四つ葉のクローバー守 2個セット｜スワロフスキー×キャッツアイ 幸運のお守りストラップ｜恋愛運・健康運・財運・希望成就 【送料無料】",
+    "description": "★ 新しい春のスタートに★\n\n入学・進級・新生活など、\n新しい環境が始まるこの季節。\n\n四つ葉のクローバーは\n「幸運」「希望」「前向きな気持ち」の象徴です。\n\n学業成就・交通安全・目標達成など、\n大切な毎日をそっと応援するお守りとして、\n春の贈り物にも選ばれています。\n\n兄弟やお友達とおそろいで持てる\n人気の2個セットです。\n\n*-*-*-*-*-*-*\n\n四つ葉のクローバー守 2個セット　【全国送料無料】\n\nひとつは、あなたへ。\nひとつは、大切な人へ。\n\n「幸運を分け合う」ための、2個セットです。\n\n自分用と、誰か用。\nお揃いでも、色違いでも。\n\n想いを込めて持てる四つ葉のクローバー守を、\n少しお得なセットにしました。\n\n◆人気の組み合わせは「ピンク×グリーン」。\n春の贈り物や、おそろい守りとして特に選ばれています。\n\n\n【四つ葉に込められた意味】\n\n四つ葉のクローバーは\n\n・希望\n・信頼\n・愛情\n・幸福\n\nを象徴すると言われています。\n\n持つ人のそばで、\n静かに願いを支える存在です。\n\n\n【この2個セットが選ばれる理由】\n\n? 小さくて上品\n派手すぎず、日常に自然に溶け込みます。\n\n? 軽くて持ちやすい\n全体約10cm／6.5g\nバッグやスマートフォンにも。\n\n? 2個で少しお得\n単品購入より効率的。\n送料も1回分でお届けします。\n\n\n【こんな方に選ばれています】\n\n・カップルやご夫婦で\n・親子で\n・友人同士で\n・自分用＋予備に\n\n「1人じゃなく、2人で持てるお守り」として人気です。\n\n\n【商品仕様】\n\n■ストラップタイプ\n■2個セット販売\n\n■クローバーサイズ\n縦23mm／横16mm／厚さ4mm\n\n■全体長さ：約10cm\n■重さ：6.5g\n\n■材質\nキャッツアイストーン（合成石）\n中央：スワロフスキー\n\n台紙付き・簡易ラッピングにてお届け。\nそのままプレゼントにもお使いいただけます。\n\n\n【安心の送料無料】\n\n◆ 安心の送料無料（カート表記について）\n当商品は**【全国送料無料】**でお届けします。\n※システムの都合上、カート画面で一瞬「送料別」と表示される場合がございますが、そのまま進んでいただければ「送料￥0」が自動適用されますのでご安心ください。\n\n◆翌日スピード発送\nクリックポストにて翌日発送いたします。\n\n※モニター環境により色味が若干異なる場合があります。\n※手作業仕上げのため、わずかな個体差が生じる場合がございます。\n\n\n⑦ 関連商品\n\n? 単品の四つ葉のクローバー守はこちら\n　https://www.goodtimeschool.jp/?q=クローバー\n\n? 他のお守りストラップを見る\n　https://www.goodtimeschool.jp/categories/3027242\n\n\nこの2個セットは、\n「自分と誰かのために持つ四つ葉のクローバー守」として人気の商品です。\n\n大切な想いを、そっと身近に。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f923befc18b01b347d1fc8e7ebbfbb31.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a261e0dc3059373c59269704b9aacd3e.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/cd219a00d752b5a85f88d2d89bac6f87.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f5d22dcb4f9e80e6c459dcad88088242.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/13d2da0758e23418434ffa7c2ca431e1.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/af89306b5fe0b05efe52c8f815120023.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/4e00d22acd259b46ba3a531ec1c1bdb5.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5ade910304297229de60d0d0e9c6d5e8.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/601ac8370b6994fe551128b0347c5aa6.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/66e4fbfc02ae20a0f4e519509dea2298.jpg?gtsp=202603151638",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/8d4ba27e2f6a767f18df8cdacb4e208e.jpg?gtsp=202603151638"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "JPY",
+      "price": "1980",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.goodtimeschool.jp/items/135571658"
+    }
   }
 };
