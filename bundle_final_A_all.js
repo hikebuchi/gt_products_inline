@@ -8857,5 +8857,283 @@ window.__GT_JSONLD_MAP__ = {
       "availability": "https://schema.org/InStock",
       "url": "https://www.goodtimeschool.jp/items/63893821"
     }
+  },
+  "/items/79288706": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/79288706#product",
+    "name": "干支 辰 お守り （アクリルタイプ） 辰の御守り 開運 根付 ストラップ 招福 龍 竜 ドラゴン 十二支",
+    "description": "「開運招福」の願いを込めて、職人が一つひとつ辰さんを丁寧に手作りで製作しました。 アクリル製辰のお守りは、 　★赤、ブルー、クリア、白、ベージュ の5色からお選びください。 開運干支のお守り 重さ：4.5ｇ 開運干支のお守り 辰の大きさ：3.2×2×0.8（cm） 根付け紐の長さ：7ｃｍ 全体の長さ：10.5cm ・宝来鈴付き ・根付け紐は縁起のいい5色紐 ・アクリル製 ・願いが叶う如意宝珠を持っています。 ◆送料200円（10個以上お買い上げで送料無料） ◆翌日スピード発送 クリックポストにて翌日発送いたします。 ※キャストバージョン（2種類）はこちら https://www.goodtimeschool.jp/items/79288668 パワフルな龍（竜）のデザインが施された開運干支のお守り。千年以上の伝統を持つ十二支には、それぞれの年に縁起の良い動物が存在します。今年の干支は辰（たつ）。立体感あふれるデザインのお守りは、辰年に生まれた方々のみならず愛用いただきたい逸品です。 龍（竜）は中国、日本など東アジアの文化で、神聖・神秘な存在として信仰されています。強靭な力と知恵を持ち、開運や成功に導いてくれると言われています。このドラゴンのお守りは、持ち主が困難に立ち向かい、未来に向かって力強く進むことを象徴しています。 ストラップや根付けとして使えるので、バックや携帯電話など、身の回りに身につけることができます。日常のお守りとしてご使用いただくことで、幸運が舞い込むかもしれません。是非、開運干支のお守りを手に取り、あなたの人生に幸運をもたらしてください。 *-*-*-*-*-*-*-*-*- 【令和6年（2024年）は甲辰（きのえたつ）】 六十干支41番目の「甲辰（きのえたつ）」辰は、皆さんご存知の十二支の中で第5番目に数えられます。（子、丑、寅、卯、辰、巳・・・）この十二支は季節を表す象徴で、自然界にあるものを象徴する「十干」と組み合わせて60種類の「干支」となります。甲辰（きのえたつ）は、四柱推命の六十干支41番目にあたる干支です。 この甲辰（きのえたつ）は、 ・十干の「甲(きのえ)」　　自然界にある「大樹」を象徴 ・十二支の「辰(たつ)」　　季節の「春の終わり」を表す の組み合わせから成り立つ干支。 【六十干支41番目の「甲辰（きのえたつ）」】 甲辰は春の終わり、新緑を茂らせる大樹のように、実直な力強さがあり、前向きでおおらかな特徴を持ちます。 空を目指す木のようなまっすぐさの中で、人の信用をとても大切にすることで、周囲に安心感を与える干支だと言えます。ただ、自分自身の考えやこだわりに執着するという傾向が弱いため、優柔不断になることもあるかもしれません。 しかし、本来は堂々とした性質を持つ甲辰ですので、迷ったときには自分を信じましょう。 また、たつ（竜、龍）は十二支の中で唯一空想上の生き物で、権力や隆盛の象徴であることから、出世や権力に大きく関わる年といわれています。 金融市場では、相場格言に「辰巳天井、午尻下がり、未辛抱、申酉騒ぐ。戌は笑い、亥固まる、子は繁栄、丑はつまずき、寅千里を走り、卯は跳ねる」があり、辰年の相場は俗に上昇相場と言われています。 【願いが叶う如意宝珠】 龍が手に持っている玉は、「意のままに」という意味を持つ「如意」と、宝物を意味する「宝珠」を組み合わせて「如意宝珠」の玉と言います。 どんな願いもかなえるといわれる龍の玉は、世界的に有名な日本の漫画作品「ドラゴンボール」のモチーフになったといわれています。 この縁起のよい如意宝珠を持った辰をいつも身に付けて持ってください。よいことが叶えられますようにと。 https://www.goodtimeschool.jp/blog/2023/10/19/145355 *-*-*-*-*- 干支・辰のお守り アクリルタイプ根付ストラップ。龍・竜モチーフで開運・招福、交通安全や金運祈願に最適。十二支ギフト・縁起物として人気！ *-*-*-*-*- ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/fcdfcb1873eb76d77aa60a6b208d4f55.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f6d1258cd90350f4a09abd59bd811819.png?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d16d4dcb3f84a135c309e44669d536eb.png?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/37e30675261ba418bba390bcc0171657.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/42a92d568e092e42938943d045e9b2b1.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/5d4f2d24e76decdfbc7f2f82667bfa99.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a3229f2cb271817c8d6a29574122fc0f.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/08a6c683d6b404250813f85a4d38dc05.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2a8e22c4155b4cb78fe737d519c9e53d.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/c7ebadc8214b955aea5bd92f0134e5b1.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/74293c2708a288bc40131a69a8ed5b89.jpg?gtsp=202606301757"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "JPY",
+      "price": "500",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.goodtimeschool.jp/items/79288706"
+    }
+  },
+  "/items/79288668": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/79288668#product",
+    "name": "辰 お守り （キャストタイプ 金メッキ） 辰の御守り 開運 根付 ストラップ 招福 龍 竜 ドラゴン 十二支",
+    "description": "「開運招福」の願いを込めて、職人が一つひとつ辰さんを丁寧に手作りで製作しました。 金メッキ、合金製の辰のお守りは、 　★リアリティ溢れる「辰さん」 　★愛くるしい表情の「たっちゃん」 の2種類からお選びください。 開運干支のお守り 重さ：6ｇ 開運干支のお守り 辰さんの大きさ：2×2.2×0.3（cm） 開運干支のお守り たっちゃんの大きさ：2×1.5×0.5（cm） 根付け紐の長さ：7ｃｍ 全体の長さ：10cm ・宝来鈴付き ・根付け紐は縁起のいい5色紐 ・金メッキ、合金製 ・願いが叶う如意宝珠を持っています。 ※アクリルバージョン（5カラー）はこちら https://www.goodtimeschool.jp/items/79288706 ◆送料200円（10個以上お買い上げで送料無料） ◆翌日スピード発送 クリックポストにて翌日発送いたします。 パワフルな龍（竜）のデザインが施された開運干支のお守り。千年以上の伝統を持つ十二支には、それぞれの年に縁起の良い動物が存在します。今年の干支は辰（たつ）。立体感あふれるデザインのお守りは、辰年に生まれた方々のみならず愛用いただきたい逸品です。 龍（竜）は中国、日本など東アジアの文化で、神聖・神秘な存在として信仰されています。強靭な力と知恵を持ち、開運や成功に導いてくれると言われています。このドラゴンのお守りは、持ち主が困難に立ち向かい、未来に向かって力強く進むことを象徴しています。 ストラップや根付けとして使えるので、バックや携帯電話など、身の回りに身につけることができます。日常のお守りとしてご使用いただくことで、幸運が舞い込むかもしれません。是非、開運干支のお守りを手に取り、あなたの人生に幸運をもたらしてください。 *-*-*-*-*-*-*-*-*- 【令和6年（2024年）は甲辰（きのえたつ）】 六十干支41番目の「甲辰（きのえたつ）」辰は、皆さんご存知の十二支の中で第5番目に数えられます。（子、丑、寅、卯、辰、巳・・・）この十二支は季節を表す象徴で、自然界にあるものを象徴する「十干」と組み合わせて60種類の「干支」となります。甲辰（きのえたつ）は、四柱推命の六十干支41番目にあたる干支です。 この甲辰（きのえたつ）は、 ・十干の「甲(きのえ)」　　自然界にある「大樹」を象徴 ・十二支の「辰(たつ)」　　季節の「春の終わり」を表す の組み合わせから成り立つ干支。 【六十干支41番目の「甲辰（きのえたつ）」】 甲辰は春の終わり、夏に向けて新緑を茂らせる大樹のように、実直な力強さがあり、前向きでおおらかな特徴を持ちます。 空を目指す木のようなまっすぐさの中で、人の信用をとても大切にすることで、周囲に安心感を与える干支だと言えます。ただ、自分自身の考えやこだわりに執着するという傾向が弱いため、優柔不断になることもあるかもしれません。 しかし、本来は堂々とした性質を持つ甲辰ですので、迷ったときには自分を信じましょう。 また、たつ（竜、龍）は十二支の中で唯一空想上の生き物で、権力や隆盛の象徴であることから、出世や権力に大きく関わる年といわれています。 金融市場では、相場格言に「辰巳天井、午尻下がり、未辛抱、申酉騒ぐ。戌は笑い、亥固まる、子は繁栄、丑はつまずき、寅千里を走り、卯は跳ねる」があり、辰年の相場は俗に上昇相場と言われています。 【願いが叶う如意宝珠】 龍が手に持っている玉は、「意のままに」という意味を持つ「如意」と、宝物を意味する「宝珠」を組み合わせて「如意宝珠」の玉と言います。 どんな願いもかなえるといわれる龍の玉は、世界的に有名な日本の漫画作品「ドラゴンボール」のモチーフになったといわれています。 この縁起のよい如意宝珠を持った辰をいつも身に付けて持ってください。よいことが叶えられますようにと。 https://www.goodtimeschool.jp/blog/2023/10/19/145355 *-*-*-*-*- 干支・辰のお守り アクリルタイプ根付ストラップ。龍・竜モチーフで開運・招福、交通安全や金運祈願に最適。十二支ギフト・縁起物として人気！ *-*-*-*-*- ご覧いただきありがとうございます。 天然石ルースやピアス、ペット用品、お守り、インテリア雑貨を取り揃える専門店「GOOD TIME / ショッピング」より心を込めてお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/df77bf4219cb41495d8e88b69939f049.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1c52b6c9e3c76fc124a0f7564b3730cb.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/acd287f691f95583c31ee37b2e7fbed4.png?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1e662f88696098f6fcb0c5e774b072c0.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/4aa3ffc0cd50ed6a6741cf32c675cabd.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3e92d9ecc9cabae1800093cea981368c.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ee52ae75d5331bee99502424bb3c5cd2.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/120b9c5143e489c6986a43064762c5bd.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f7f6c9da9c7ae218966205895f6b6d44.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/93c883f4a1bf78ef9bf1cf1f7ffc6c38.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b92c7f762b6764679c4a7617f72d524a.png?gtsp=202606301757"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "JPY",
+      "price": "500",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.goodtimeschool.jp/items/79288668"
+    }
+  },
+  "/items/69496490": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/69496490#product",
+    "name": "アメジスト ルース AAA- 4×4mm 10個セット｜2月誕生石 ザンビア産 ラウンドカボション 小粒 ピアス ブレスレット ハンドメイド 裸石 守護石",
+    "description": "━━━━━━━━━━━━━━━━━━━━━━ 小粒だからこそ、使い方は無限大。 アクセントに、並べて、重ねて??。 10個まとめて手に入る天然アメジストの 小粒カボションルースです。 ━━━━━━━━━━━━━━━━━━━━━━ 【こんな方に選ばれています】 ? ピアス・ブレスレット・ヘアアクセのアクセントストーンを揃えたい ? 複数石を使ったデザインにまとめて使える小粒を探している ? 2月誕生石のアメジストをお手頃にまとめ仕入れしたい ? カボションカットのなめらかな質感を活かしたい ? ハンドメイド作品のカラーポイントに天然石を取り入れたい 【この石はこんな場面で活躍します】 ? ピアスのアクセントストーン・サイドストーンとして ? ブレスレット・ネックレスの連石として ? ヘアピン・ヘアアクセサリーのカラーポイントに ? 複数作品を制作するまとめ仕入れ素材として ? 2月生まれへの誕生石ジュエリー制作に ━━━━━━━━━━━━━━━━━━━━━━ 【この石が選ばれる4つの理由】 ━━━━━━━━━━━━━━━━━━━━━━ 1. 4×4mmの小粒で幅広いデザインに使いやすい 主張しすぎないコンパクトサイズだからこそ、 メインストーンのアクセントに、連石に、複数石使いに?? デザインの幅が広がります。 小粒ならではの繊細な存在感が魅力です。 2. カボションカットのなめらかな輝き ファセットカットとは異なり、 表面が滑らかなドーム状に磨き上げられたカボションカット。 光をやわらかく反射し、上品で落ち着いた紫の発色を楽しめます。 3. 10個セットでまとめてお得に揃う 1粒ずつ購入するより効率的。 ピアス5ペア分、または複数作品の素材として まとめてストックしておけます。 4. ザンビア産天然アメジストの深みある紫 ブラジル産とともにアメジストの主要産地として知られるザンビア産。 深みのある紫の発色が特徴の天然石です。 【アメジスト（紫水晶）という守護石】 古代から王族・聖職者に愛されてきたアメジスト。 石言葉は「調和・統合・精神的安定」。 気持ちを落ち着かせたいとき、 大切な決断の前に、 新しい環境に踏み出すとき??。 穏やかに心を整える力があるとされ、 世代・性別を超えて選ばれ続けています。 ※特定の効果を保証するものではありません。 【他のアメジスト商品との違い・選び方】 当店のアメジストルースには4つのラインがあります。 ? 本商品（4×4mm カボション 10個セット）   小粒アクセントストーン・連石・まとめ仕入れに。入門ライン。 ? 5×5mm ラウンド 10個セット（items/65272545）   少し大きめの小粒。ピアスのメインストーンや複数石使いに。 ? 12×10mm オーバルファセット 1粒（items/112347103）   リング・ペンダントのセンターストーン制作に。 ? 12mm ラウンド コンケーブカット 1粒（items/131486671）   持ち歩く守護石・瞑想・特別なギフトに。 【おすすめのタイミング】 ★ 2月生まれへのバレンタイン・誕生日ジュエリー制作に ★ ハンドメイド作品の素材まとめ仕入れに ★ 複数作品を同時制作したいときに ★ 天然石アクセサリー制作を始めたい方の入門素材に ━━━━━━━━━━━━━━━━━━━━━━ 【よくあるご質問】 ━━━━━━━━━━━━━━━━━━━━━━ Q. カボションとファセットの違いは何ですか？ A. カボションは表面が滑らかなドーム状に磨き上げられたカット。    ファセットは多面体に角度をつけて光を反射させるカットです。    カボションはやわらかく落ち着いた輝き、    ファセットはキラキラと輝く印象が特徴です。 Q. 10個の色合いは揃っていますか？ A. 天然石のため個体差があり、明るめ・濃いめなど    色合いが混在してお届けとなります。    色合いの違いを理由とした返品は原則お受けできません。    ご不安な場合は事前にお問い合わせください。 Q. 色が写真と違った場合、返品できますか？ A. 色石のため、色合いの違いを理由とした返品は原則お受けできません。    ご不安な場合はご購入前にお気軽にお問い合わせください。 Q. カートに「送料別」と表示されますが？ A. 当商品は全国送料無料です。そのまま進んでいただければ送料0円が自動適用されますのでご安心ください。 【関連商品】 ? アメジスト 5×5mm 10個セット（ひと回り大きいサイズ）はこちら https://www.goodtimeschool.jp/items/65272545 ? アメジスト 12×10mm オーバルファセット（リング・ペンダント向け）はこちら https://www.goodtimeschool.jp/items/112347103 ? アメジスト 12mm ラウンド コンケーブカット（守護石・特別ギフト向け）はこちら https://www.goodtimeschool.jp/items/131486671 ? 2月誕生石 アメジスト一覧はこちら https://www.goodtimeschool.jp/categories/2770727 ? 天然石ルース一覧はこちら https://www.goodtimeschool.jp/categories/2509475 ━━━━━━━━━━━━━━━━━━━━━━ 【仕様】 ━━━━━━━━━━━━━━━━━━━━━━ ◆ 天然石名    ：アメジスト（紫水晶） ◆ 産地        ：ザンビア ◆ グレード    ：AAA- ◆ サイズ      ：約4×4×1.5～3mm（±0.5mm） ◆ 重さ        ：平均約0.34ct前後（1粒あたり） ◆ カット      ：ラウンドカボション ◆ 数量        ：10個セット ◆ 状態        ：穴なし裸石（ルース） ◆ 用途        ：ピアス・ブレスレット・アクセントストーン・ハンドメイド素材 ※ 天然石のため、色味・内包物には個体差があります。    明るめ・濃いめなど色合いが混在してのお届けとなります。 ※ サイズは実測のため±0.5mm程度の誤差が生じる場合があります。 ※ 色合いの違いを理由とした返品は原則お受けできません。 ※ モニター環境により見え方が異なる場合があります。 ◆ 送料無料（カート表記について） 当商品は全国送料無料でお届けします。 システムの都合上、カート画面で一瞬「送料別」と表示される場合がございますが、 そのまま進んでいただければ「送料0円」が自動適用されますのでご安心ください。 ◆ 翌日スピード発送 クリックポストにて翌日発送いたします。 ━━━━━━━━━━━━━━━━━━━━━━ 10粒の深い紫が、あなたの作品に やわらかな彩りを添えます。 Amazon・Yahoo!で5年間選ばれ続けた専門店が 丁寧にお届けします。　la010093 ━━━━━━━━━━━━━━━━━━━━━━",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/71a83bc67166eab18a8d13f6a5794748.png?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/9591b24913d5ab969da7c79fa84f6091.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b52435b0b00b6612b76043b9e3221e57.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/11c0f1bae5f59c25bf3e426d7f180608.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3b9e38ba6f4cdbec6ec1bdf709b53cfb.png?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/be5e871467f5a3926d71509894ae1794.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/256a6c037da77510b2fd679f3292e370.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6c196d6cd959adf8df25a094f64d20a3.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1a8d96bba7df4b5c407d5f1c78d7e56a.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/aca171873a0c82bea0b1a0441f98db73.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/14cfaccb9a03c68edbeb263182eba70c.jpg?gtsp=202606301757"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "JPY",
+      "price": "1280",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.goodtimeschool.jp/items/69496490"
+    }
+  },
+  "/items/30005335": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/30005335#product",
+    "name": "ルビー ルース 0.625ct｜紅玉 7月誕生石 天然石 オーバルブリリアントカット 6.5×4.5mm 縦長 薄型 ペンダント リング 守護石 裸石 （2-20）",
+    "description": "【値下げしました】この商品は世界にひとつの1点限り品です。 ━━━━━━━━━━━━━━━━━━━━━━ 縦6.5mm・薄さ2mm??。 すっきりとした縦長シェイプに 情熱の赤が宿ります。 ━━━━━━━━━━━━━━━━━━━━━━ 【こんな方に選ばれています】 ? 縦長で薄型のオーバルルビーをフラットなジュエリーに使いたい ? 縦6.5mmという細長いシェイプが好み ? 薄型・低プロフィールのリングやペンダントの素材を探している ? 7月誕生石の天然ルビーをジュエリー素材として使いたい ? 守護石として情熱と勝利の力を身に着けたい 【この石はこんな場面で活躍します】 ? リング・ペンダントのセンターストーンとして ? 薄型・低プロフィールのフラットジュエリーに ? 縦長のシャープなデザインのアクセサリーに ? 7月生まれへの誕生日・記念日のジュエリー制作に ? 持ち歩く守護石・パワーストーンとして ━━━━━━━━━━━━━━━━━━━━━━ 【ルビー（紅玉）とは】 ━━━━━━━━━━━━━━━━━━━━━━ ダイヤモンド・サファイア・エメラルドと並ぶ 世界四大宝石のひとつ。 コランダム（鋼玉）にクロムが含まれることで あの深く情熱的な赤が生まれます。 理想的な色のルビーは「ピジョンブラッド（鳩の血）」と呼ばれ、 宝石の中でも最高峰の評価を受けます。 産地はアジアに偏り、宝石質になる石が採れる場所は 世界的に極めて限られています。 石言葉は「熱情・情熱・純愛・勇気・仁徳」。 古くから勝利を呼ぶ石・カリスマ性を高める石として 王族・武人に愛されてきた守護石です。 ※特定の効果を保証するものではありません。 ━━━━━━━━━━━━━━━━━━━━━━ 【この石の4つの特長】 ━━━━━━━━━━━━━━━━━━━━━━ 1. 縦6.5mmの縦長シェイプと厚み2mmの薄型フラット 縦6.5mm×横4.5mmの縦長オーバルに 厚みわずか2mmという薄型フラットの組み合わせ。 低プロフィールのリングや薄型ペンダントに 自然に収まるプロポーションです。 2. すっきりとした縦ラインが生む上品な印象 横に広がらず縦に伸びる細身のシェイプが、 ジュエリーに凛としたシャープな縦ラインを添えます。 3. オーバルブリリアントカットが赤を美しく輝かせる 光を多方向に反射するブリリアントカットが、 ルビーの情熱的な赤をあらゆる角度から引き出します。 4. 新品簡易仕上げ済みの一点物ルース ユーズドルースに新品簡易仕上げを施した一点物。 同じ石は二度と手に入らない 天然ルビーの一点物です。 ━━━━━━━━━━━━━━━━━━━━━━ 【ご購入前に必ずご確認ください】 ━━━━━━━━━━━━━━━━━━━━━━ 本商品はユーズドジュエリー（リサイクルルース）です。 以下の点をご了承のうえご購入ください。 ? 繊細なキズ・カケ・接着剤や台座の跡がある場合があります ? 原産地は不明です（ユーズドの性質上、確認できません） ? 鑑別書はございません ? 天然石特有のインクルージョン・クラック・カケがあります    （これは天然石の証であり、品質を否定するものではありません） 【おすすめのタイミング】 ★ 7月生まれへの誕生日・記念日ジュエリー制作に ★ 縦長薄型の天然ルビーを探しているときに ★ 結婚記念日・記念日の贈り物に ★ 守護石・パワーストーンとして身に着けたいときに ━━━━━━━━━━━━━━━━━━━━━━ 【よくあるご質問】 ━━━━━━━━━━━━━━━━━━━━━━ Q. 同じ0.625ctの別商品（items/40005993）との違いは何ですか？ A. シェイプが異なります。    40005993（6×5mm）は横幅5mmの横広フラット型。    本商品（6.5×4.5mm）は縦6.5mmの縦長細身型です。    縦ラインを重視する場合は本商品、横の面積感を重視する場合は40005993をお選びください。 Q. 加熱処理はされていますか？ A. 市場に流通するルビーの多くは    色調安定・透明度向上のために加熱処理が施されています。    本商品も例外ではない場合があります。    天然石であることに変わりはありません。 Q. 色が写真と違った場合、返品できますか？ A. 色石のため、色合いの違いを理由とした返品は原則お受けできません。    ご不安な場合はご購入前にお気軽にお問い合わせください。 Q. カートに「送料別」と表示されますが？ A. 当商品は全国送料無料です。そのまま進んでいただければ送料0円が自動適用されますのでご安心ください。 【関連商品】 ? ルビー 0.625ct オーバル（6×5mm・横広薄型）はこちら https://www.goodtimeschool.jp/items/40005993 ? ルビー 0.510ct オーバル（6×4mm・細身薄型）はこちら https://www.goodtimeschool.jp/items/40006290 ? ルビー 0.675ct オーバル（6×4.5mm・重厚型）はこちら https://www.goodtimeschool.jp/items/40006212 ? 7月誕生石 ルビー一覧はこちら https://www.goodtimeschool.jp/categories/2509481 ? 天然石ルース一覧はこちら https://www.goodtimeschool.jp/categories/2509475 ━━━━━━━━━━━━━━━━━━━━━━ 【仕様】 ━━━━━━━━━━━━━━━━━━━━━━ ◆ 天然石名    ：ルビー（紅玉） ◆ 産地        ：不明（ユーズドルースのため確認不可） ◆ サイズ      ：縦6.5×横4.5×厚さ2mm（±0.5mm） ◆ 重さ        ：0.625ct ◆ カット      ：オーバルブリリアントカット（縦長楕円形） ◆ 数量        ：1粒 ◆ 状態        ：穴なし裸石（ルース）／ユーズド・新品簡易仕上げ済み ◆ 鑑別書      ：なし ◆ 用途        ：リング・ペンダント・守護石・コレクション ※ ユーズドルースのため、繊細なキズ・カケ・接着剤や台座の跡がある場合があります。 ※ 天然石特有のインクルージョン・クラックがあります。 ※ 原産地は不明です。 ※ サイズは実測のため±0.5mm程度の誤差が生じる場合があります。 ※ 色合いの違いを理由とした返品は原則お受けできません。 ※ モニター環境により見え方が異なる場合があります。 ◆ 送料無料（カート表記について） 当商品は全国送料無料でお届けします。 システムの都合上、カート画面で一瞬「送料別」と表示される場合がございますが、 そのまま進んでいただければ「送料0円」が自動適用されますのでご安心ください。 ◆ 翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。 ━━━━━━━━━━━━━━━━━━━━━━ 縦長の細身に、情熱の赤が凛と宿る。 大切な人の手元に、宝石の女王を。 Amazon・Yahoo!で5年間選ばれ続けた専門店が 丁寧にお届けします。　lr001020 ━━━━━━━━━━━━━━━━━━━━━━",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/276febd80528aa5dee9ce8051be9af34.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/574355fed2c40344271daeb67b5a460d.png?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/7b10bdf20bafd491d1861df096c4797a.png?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/202d9b588187ce4ec18776730d292a7c.png?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/63c7c61c96598d599c7bc8a3a2adbfef.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1fdf6e837634688d85bab8c9dd36f90f.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/223da4437c24939b5e471ac912da5526.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f63c8500a18de67208084634573477ac.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b1ae1ccbfa9042e34ad8270cc79a3fbf.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a82db05df1a4405474ab51da4d7a0cce.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3bb7aaa4318386fa171e63290a24af4a.jpg?gtsp=202606301757"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "JPY",
+      "price": "16450",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.goodtimeschool.jp/items/30005335"
+    }
+  },
+  "/items/91427698": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/91427698#product",
+    "name": "いびき軽減低反発枕 35×64cm 枕 ピロー 快眠 いびき解消 5WAY枕 頚椎サポート 低反発素材 仰向け寝 横向け寝 うつ伏せ寝 腰当て",
+    "description": "理想の寝姿勢をつくり、いびきなどの睡眠時の悩みを解消する枕です。頚椎をサポートすることで理想の寝姿勢をつくります。 ・低反発素材で、身体に合わせて使用できます。 ・仰向け寝以外にも、横向け寝、うつ伏せ寝、などいろいろな用途で使えます。 サイズ （約）幅64×奥行35×高さ3～8cm 素材 カバー：ポリエステル６５％、レーヨン３５％ 中材：低反発ウレタンフォーム（モールド製法） 生産国 中国 ※効果には個人差があります。効果を保証するものではありません。 ・正規メーカー品「IKEHIKO　イケヒコ」 ※本製品はメーカー工場より直送いたします。 　ご注文後、3営業日以内の発送となります。（土日、祝日は休業のため出荷しておりません） ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。 [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※ 画面上のカラーはご使用ブラウザやモニターの設定により、実物とは若干異なる場合がございます。あらかじめご了承ください。 ★ 生活雑貨・キッチンはこちらから ⇒　https://www.goodtimeschool.jp/categories/4990894 *-*-*-*-* 特別設計の低反発素材を用いた「5WAY枕」は、仰向け・横向き・うつ伏せ・腰当てなど5通りの使い方が可能。頚椎をしっかり支えて気道を確保することで、いびきの軽減や快眠姿勢をサポートします。カバーは洗濯可能でいつも清潔に使えるのも嬉しいポイント。柔らかく体にフィットしながらも、適度な反発力で寝返りも自然に。睡眠時の鼻づまりや肩こりに悩む方におすすめです。 *-*-*-*-* ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。 2024/9/12 グッドタイム goodtime",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/43f08d39acd2541ebfc699f627e0501f.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b51dfe079314c6af49546bcdc7c261cd.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/0930604ac6bed1644cdd8f8c37975674.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/55872567bf87602b4840231ba20b8170.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/45e95d7723e112c69571fd85e3ff92b4.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/86f20484b4e22ae2b42303bc319e7187.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/bbdd3d84c97f338259552a3705b44de0.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/de6aff8d40b1ebbb82fc9ab457929012.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6714b4d19ba4d85b07df04b44595d83c.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/71d1de04423710cdde8897d875cc0c6c.jpg?gtsp=202606301757"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "GOOD TIME / ショッピング"
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "JPY",
+      "price": "9680",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.goodtimeschool.jp/items/91427698"
+    }
+  },
+  "/items/107483841": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/107483841#product",
+    "name": "接触冷感 ラグマット 190×130cm ポップコーン生地 ひんやり 長方形 夏用 滑り止め付き かわいい おしゃれ 北欧風 ニュアンスカラー",
+    "description": "接触冷感 ポップコーン生地  ラグマット 商品サイズ：約W190×D130 ●ポップコーン生地を全面に使用した冷感ポップコーンラグ。暑い季節を快適に過ごせる優れものです。 ●触れるとひんやりとした感覚が楽しめる接触冷感なので、暑い日でも快適に過ごすことができ、リラックスタイムに最適です。 ●生地には人気のポップコーン生地が採用されています。軽やかな質感で夏でも肌ざわりが心地よく、ぽこぽことした見た目も魅力的な生地です。 ●ウレタン使用でほどよいクッション性があります。 【材質】ナイロン ポリウレタン ポリエステル 【組立】完成品 【原産地】中国 【商品重量】2.2kg 正規メーカー品：東谷（AZUMAYA） ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません） ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。 [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4,400円加算されます。 ※離島地域は5,500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。 【接触冷感は２種類】 ・ラウンドクッション https://www.goodtimeschool.jp/items/107482550 ・ラウンドサンドクッション  https://www.goodtimeschool.jp/items/107483473 ・ポップコーン生地 ラグマット https://www.goodtimeschool.jp/items/107483841 *-*-*-*-*-*-*-*-*- 触れるとひんやり気持ちいい接触冷感のラグマット。ふんわりとしたポップコーン生地で、優しい肌触りと快適な使い心地が特徴です。190×130cmの長方形サイズでリビングや寝室にぴったり。滑り止め付きで安心。おしゃれなニュアンスカラーと北欧風デザインが、夏のインテリアに映えます。 -*-*-*-*-*-*-*-*-* ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。 GLK-204GY glk003025 GLK-204IV glk003026 GLK-204PK glk003027 5/12/2025",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/4c4061c69dd5572aa587dc4a5db44bd8.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/817a5cded1735e4f0e80b787dd99c338.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/564bdc70cb90e0ffc3d1b714ef2a05c7.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6bda668e0f70b7f3c8ecf9c3f8a96e4c.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ca7b76e249e1b392066735f0e401c534.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/a292fa3e845aa7e17beea95aefcf9943.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/88b13c66751c10e85d34cc96211efc51.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/8e1ac65d4964a22fd02d9fb91ad1ee57.png?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f81d098808e7257b6821b0308c9149aa.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f0c22b026a5550bb531505c679baad5d.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/3889a9115ae41735b6218d499a9793cc.jpg?gtsp=202606301757"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷（AZUMAYA）※本製品はメーカー工場より直送いたします。ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。[送料無料]カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。※北海道は別途送料が880円加算されます。※沖縄県は別途送料が4,400円加算されます。※離島地域は5,500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。【接触冷感は２種類】・ラウンドクッションhttps://www.goodtimeschool.jp/items/107482550・ラウンドサンドクッションhttps://www.goodtimeschool.jp/items/107483473・ポップコーン生地ラグマットhttps://www.goodtimeschool.jp/items/107483841*-*-*-*-*-*-*-*-*-触れるとひんやり気持ちいい接触冷感のラグマット。ふんわりとしたポップコーン生地で、優しい肌触りと快適な使い心地が特徴です。190×130cmの長方形サイズでリビングや寝室にぴったり。滑り止め付きで安心。おしゃれなニュアンスカラーと北欧風デザインが、夏のインテリアに映えます。-*-*-*-*-*-*-*-*-*ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOODTIME/ショッピング」よりお届けします。GLK-204GYglk003025GLK-204IVglk003026GLK-204PKglk0030275/12/2025"
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "JPY",
+      "price": "7800",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.goodtimeschool.jp/items/107483841"
+    }
+  },
+  "/items/107483473": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/107483473#product",
+    "name": "接触冷感 クッション 円形100cm ポップコーン生地 夏用 ひんやり もちもち ラウンド型 北欧風 かわいい おしゃれ ポコポコワッフル生地",
+    "description": "接触冷感 ラウンドサンドクッション ポップコーン生地 商品サイズ：約W100×D100 ●おしゃれなインテリアに溶け込む、丸くてかわいい冷感ラウンドクッション。暑い季節を快適に過ごせる優れものです。 ●触れるとひんやりとした感覚が楽しめる接触冷感クッションなので、暑い日でも快適に過ごすことができ、リラックスタイムに最適です。 ●生地には人気のポップコーン生地が採用されています。軽やかな質感で夏でも肌ざわりが心地よく、ぽこぽことした見た目も魅力的な生地です。 ●もちもちした質感です。 【材質】ナイロン ポリウレタン ポリエステル 【組立】完成品 【原産地】中国 【商品重量】1.1kg 正規メーカー品：東谷（AZUMAYA） ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません） ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。 [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4,400円加算されます。 ※離島地域は5,500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。 　　【接触冷感は２種類】 ・ラウンドクッション →　https://www.goodtimeschool.jp/items/107482550 ・ラウンドサンドクッション  →　https://www.goodtimeschool.jp/items/107483473 ・ポップコーン生地 ラグマット →　https://www.goodtimeschool.jp/items/107483841 *-*-*-*-*-*-*-* 直径100cmの大きめ円形ラウンドクッション。ポップコーンのようなポコポコ感とワッフル調の立体感がかわいく、接触冷感仕様で夏も快適。もちもちとした柔らかな触感が心地よく、床座りやごろ寝にもぴったり。北欧風デザインで、おしゃれなインテリアのアクセントにもおすすめのひんやりクッションです。 -*-*-*-*-*-*-*- ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。 GLK-203GY glk003022 GLK-203IV glk003023 GLK-203PK glk003024 5/12/2025",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/44ebad5988fa3e71a50c8dc4cf6261b7.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d59ca90f715a726e2b3c5d5a01c932de.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b3f1c7a4e9e6bafafdfba83a140f3066.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/326b5bc9d018fa5303ab3f17e935a341.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/bd7d4fc07848321ab716cd56f9a79a8e.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e19fc6c9f22a0e5fead150a3ec19352c.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e3eb7a5e553780614f148447f47014e6.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f91137b7f48d861488016d66e161991b.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d0edd6a7af5119042780cefdec5c3716.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1593a182380befd224a321c7a2ed7dc1.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b3819988e697e508a0a30c756e15cf97.jpg?gtsp=202606301757"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "東谷（AZUMAYA）※本製品はメーカー工場より直送いたします。ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません）※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。[送料無料]カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。※北海道は別途送料が880円加算されます。※沖縄県は別途送料が4,400円加算されます。※離島地域は5,500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。【接触冷感は２種類】・ラウンドクッション→https://www.goodtimeschool.jp/items/107482550・ラウンドサンドクッション→https://www.goodtimeschool.jp/items/107483473・ポップコーン生地ラグマット→https://www.goodtimeschool.jp/items/107483841*-*-*-*-*-*-*-*直径100cmの大きめ円形ラウンドクッション。ポップコーンのようなポコポコ感とワッフル調の立体感がかわいく、接触冷感仕様で夏も快適。もちもちとした柔らかな触感が心地よく、床座りやごろ寝にもぴったり。北欧風デザインで、おしゃれなインテリアのアクセントにもおすすめのひんやりクッションです。-*-*-*-*-*-*-*-ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOODTIME/ショッピング」よりお届けします。GLK-203GYglk003022GLK-203IVglk003023GLK-203PKglk0030245/12/2025"
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "JPY",
+      "price": "6100",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.goodtimeschool.jp/items/107483473"
+    }
+  },
+  "/items/86050229": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/86050229#product",
+    "name": "アイリスオーヤマ サーキュレーター マカロン型 固定 8畳対応 PCF?MKM15N-W 軽量 360°調整 搭載 ホワイト 静音 スタイリッシュ",
+    "description": "【セール・割引対象品】 コンパクトなのにパワフルで大風量のコンパクトサーキュレーターです。サーキュレーター部分が丸いフォルムで、圧迫感のないコンパクトサイズになりました。 手動で縦に360°風向き調節が可能です。ガードのすきまが小さくなったので、指がはいりにくく、より安全に使用できます。 エアコンと併用して夏は冷気を部屋全体へ、冬は暖かい空気を足元へ循環し一年中使えます。 室内の空気の循環以外に、洗濯物の乾燥、部屋の換気、隣室への空気の送り込みなどに使うこともできます。 ※サーキュレーターは、室内の温度差のある空気を循環させる『空気循環機』です。空気を循環させることで温度差が小さくなり、冷暖房の効率を高め電気代の節約にもつながります。扇風機の風が幅広く拡散し遠くまで届きにくいのに対し、サーキュレーターのスパイラルグリルより発生させた直進性の高い風は遠くまで届くので、より効果的な循環が可能です。 【商品サイズ（cm）】(電源コード含まず)　　幅約25.2×奥行約18.4×高さ約25.6 【製品重量】　約1.1kg 【電源】　AC100V（50/60Hz共用） 【消費電力】　50Hz：28W　　60Hz：27W 【風量調整】　3段階 【角度調整】　縦方向：手動　約360° 【適応床面積】　8畳 【コードの長さ】　約1.4m 【材質】　ポリプロピレン 【カラー】　ホワイト、ブラック 【保証期間】　お買い上げ日より1年間 *-*-*-*-*-*-* メーカー：アイリスオーヤマ ※本製品はメーカー工場より直送いたします。 　ご注文後、2営業日後の発送となります。（土日、祝日は休業のため出荷しておりません） ※出荷後は初期不良を除きお客様都合での返品はお受け出来かねますのでご了承ください。 [送料無料] カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ※北海道は別途送料が880円加算されます。 ※沖縄県は別途送料が4,400円加算されます。 ※離島地域は5,500円となっていますが、都度確認させていただき、送料を計算いたします。ご注文前に送料確認のため、事前にご連絡をお願いします。 ★ 生活家電はこちらから ⇒　https://www.goodtimeschool.jp/categories/6756759 *-*-*-* アイリスオーヤマのマカロン型サーキュレーター（PCF?MKM15N?W）。8畳対応のコンパクト設計ながら、静音＆パワフル送風（3段階風量）。縦方向360°手動調整、軽量約1.1kg、コード長1.4mで使い勝手◎。ホワイト・ブラック・グレーのカラー展開。省スペース・省エネ設計で夏は冷気循環、冬は暖房効率アップに最適なインテリア家電です。 *-*-*-* ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。 GOOD TIME 冬",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/addd03d24569f4bc023c838c2bc58939.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d07a6647d9e84be4d8cb49add4753771.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/2aed9b7f2d5c916f1392a6fb88e5d603.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/85b97d362013d6d4713482baae983699.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/1d034c10145fc8954cf3e624d35f4767.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/0f061ae5ac764646395df1b185c02963.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e73f6e7642b7be34f06da626b7f318fe.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/82fcdddb8ece97ddc46e5c9e28c1f954.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/f7fb11a6891de3b0699d1d3baa39dffe.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6fe784a78577c8f3d009e7d33384d9c7.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/ae048cae6e7ee9c7f5a64ca7091a0a31.jpg?gtsp=202606301757"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "アイリスオーヤマ"
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "JPY",
+      "price": "3434",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.goodtimeschool.jp/items/86050229"
+    }
+  },
+  "/items/77256004": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "@id": "https://www.goodtimeschool.jp/items/77256004#product",
+    "name": "晴雨兼用傘 完全遮光 UVカット 猫柄 トランスフォーム傘 親骨45→60cm ストライプ柄 手開き式 日本政府推奨 遮熱 軽量 折りたたみ傘",
+    "description": "【セール実施中！】 傘を開くと中から、裾生地の延長部分がグイっと出てきてトランスフォーム！ この仕様はなんと世界初！ 閉じた状態では親骨45cm（子供サイズ）→　開くと親骨60cmの大きい傘に変身しちゃうんです。 正規メーカー品：スギタ [ストライプ＆猫柄] 【商品サイズ】 ・畳んだ時の長さ:63.5cm 横幅:11cm 平置き時の高さ:5.5cm ・親骨：45cm→60cm 直径：約108cm 【規格】 ・生産地：中国 ・素材　生地:ポリエステル100% ・仕様　手開き式　晴雨兼用傘　UVカット&完全遮光 遮熱約25℃ 耐水度10000mm(百貨店基準の40倍) ◆送料無料 ※北海道、四国、九州、沖縄、離島の方は別途送料が発生いたします。 ※本州地域の方は、カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。 ◆翌日スピード発送 15:00までのご注文で翌営業日に発送いたします。 （土日の発送はお休みとなりますので、翌営業日の発送となります） ※開封後の返品、交換は初期不良を除き不可となります。ご了承ください。 【注意事項】 ●傘を開くときに押す部分「はじき」を押しながら傘を閉じると、 カチッと止まらず傘が開いてくる場合がございます。 「はじきの横部分」をもって傘を閉じると、カチッと止まります。 ●雨でご使用直後にたたむと、本体と裾生地の切れ目から水が内側に伝う場合がございます。 開いたまま軽くふるって水滴を落とし、雨のあとは傘を開いてしっかり乾燥をお願いいたします。 ●ご覧の閲覧環境により、画面上の商品の色と実物が異なって見える場合がございます。ご注文の際はあらかじめご了承の程お願い申し上げます。 ●全面プリントの為、使い始めはインクの匂いがする場合がございます。一晩おくと匂いは薄れていきます ★レースねこ柄はこちら ⇒　https://www.goodtimeschool.jp/items/77255617 ★　ペット用品一覧はこちら ⇒　https://www.goodtimeschool.jp/categories/3468070 紹介動画はこちら↓ ⇒　https://www.youtube.com/watch?v=2fkEKXW_rJI *-*-*-* UVカット・完全遮光・遮熱機能を備えた晴雨兼用の猫柄日傘。世界初のトランスフォーム構造で、親骨が45cmから60cmに拡張し、裾がふんわり広がる新発想の設計。ストライプ×ねこ柄のかわいらしさと、軽量かつコンパクトな使いやすさが魅力。日本政府推奨商品として、紫外線対策にも安心。猫好きの方へのギフトや夏の外出にぴったりな高機能日傘です。 *-*-*-* ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOOD TIME / ショッピング」よりお届けします。",
+    "image": [
+      "https://baseec-img-mng.akamaized.net/images/item/origin/fd1d99a58b793afe3b25c45dacbe8a7b.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/d6e8f4cac60aa0a37ba6eb50ae61ea7a.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/6e72783972828530114777c21ca8dba1.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/01971692ac02a506baba08eae488617c.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/b39ed74d0d88e1084bab9a07b1a726bc.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/92f3530ddb00027a00c8cbde90ebecd3.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/221777c9ddf43dabb10c448489221231.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/732d0790f01e941306b9c57773247b8c.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/09175349e77d580629832fdfdb78db9e.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/32c952011c2b7d2581a627e9be06735c.jpg?gtsp=202606301757",
+      "https://baseec-img-mng.akamaized.net/images/item/origin/e128fe1a26191a41d41580f4b05f6f3f.jpg?gtsp=202606301757"
+    ],
+    "brand": {
+      "@type": "Brand",
+      "name": "スギタ[ストライプ＆猫柄]【商品サイズ】・畳んだ時の長さ:63.5cm横幅:11cm平置き時の高さ:5.5cm・親骨：45cm→60cm直径：約108cm【規格】・生産地：中国・素材生地:ポリエステル100%・仕様手開き式晴雨兼用傘UVカット&完全遮光遮熱約25℃耐水度10000mm(百貨店基準の40倍)◆送料無料※北海道、四国、九州、沖縄、離島の方は別途送料が発生いたします。※本州地域の方は、カートに「送料別」と表示されますが、送料は無料ですのでご安心ください。◆翌日スピード発送15:00までのご注文で翌営業日に発送いたします。（土日の発送はお休みとなりますので、翌営業日の発送となります）※開封後の返品、交換は初期不良を除き不可となります。ご了承ください。【注意事項】●傘を開くときに押す部分「はじき」を押しながら傘を閉じると、カチッと止まらず傘が開いてくる場合がございます。「はじきの横部分」をもって傘を閉じると、カチッと止まります。●雨でご使用直後にたたむと、本体と裾生地の切れ目から水が内側に伝う場合がございます。開いたまま軽くふるって水滴を落とし、雨のあとは傘を開いてしっかり乾燥をお願いいたします。●ご覧の閲覧環境により、画面上の商品の色と実物が異なって見える場合がございます。ご注文の際はあらかじめご了承の程お願い申し上げます。●全面プリントの為、使い始めはインクの匂いがする場合がございます。一晩おくと匂いは薄れていきます★レースねこ柄はこちら⇒https://www.goodtimeschool.jp/items/77255617★ペット用品一覧はこちら⇒https://www.goodtimeschool.jp/categories/3468070紹介動画はこちら↓⇒https://www.youtube.com/watch?v=2fkEKXW_rJI*-*-*-*UVカット・完全遮光・遮熱機能を備えた晴雨兼用の猫柄日傘。世界初のトランスフォーム構造で、親骨が45cmから60cmに拡張し、裾がふんわり広がる新発想の設計。ストライプ×ねこ柄のかわいらしさと、軽量かつコンパクトな使いやすさが魅力。日本政府推奨商品として、紫外線対策にも安心。猫好きの方へのギフトや夏の外出にぴったりな高機能日傘です。*-*-*-*ご覧いただきありがとうございます。インテリア雑貨とお守りの専門店「GOODTIME/ショッピング」よりお届けします。"
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "JPY",
+      "price": "5738",
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.goodtimeschool.jp/items/77256004"
+    }
   }
 };
